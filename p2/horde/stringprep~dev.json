@@ -1,0 +1,220 @@
+{
+    "packages": {
+        "horde/stringprep": [
+            {
+                "name": "horde/stringprep",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Stringprep.git",
+                    "reference": "3fe62e6db87a7fb11f15b4f95f2b83abc5488121"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Stringprep/zipball/3fe62e6db87a7fb11f15b4f95f2b83abc5488121",
+                    "reference": "3fe62e6db87a7fb11f15b4f95f2b83abc5488121",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-08-25T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Stringprep": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Internationalized strings preparation library",
+                "homepage": "https://www.horde.org"
+            },
+            {
+                "name": "horde/stringprep",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Stringprep.git",
+                    "reference": "1f6a0fe7469f12b057c6490fb7afb80fc8ab4631"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Stringprep/zipball/1f6a0fe7469f12b057c6490fb7afb80fc8ab4631",
+                    "reference": "1f6a0fe7469f12b057c6490fb7afb80fc8ab4631",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_stringprep": "1.*",
+                    "pear-pear.horde.org/horde_stringprep": "1.*"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Stringprep": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Internationalized strings preparation library",
+                "homepage": "https://www.horde.org"
+            },
+            {
+                "name": "horde/stringprep",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Stringprep.git",
+                    "reference": "e39f7c8c811a094d85d66d0b09c31c7bf6201b01"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Stringprep/zipball/e39f7c8c811a094d85d66d0b09c31c7bf6201b01",
+                    "reference": "e39f7c8c811a094d85d66d0b09c31c7bf6201b01",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_stringprep": "1.*",
+                    "pear-pear.horde.org/horde_stringprep": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Stringprep": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Internationalized strings preparation library",
+                "homepage": "https://www.horde.org"
+            },
+            {
+                "name": "horde/stringprep",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Stringprep.git",
+                    "reference": "e39f7c8c811a094d85d66d0b09c31c7bf6201b01"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Stringprep/zipball/e39f7c8c811a094d85d66d0b09c31c7bf6201b01",
+                    "reference": "e39f7c8c811a094d85d66d0b09c31c7bf6201b01",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_stringprep": "1.*",
+                    "pear-pear.horde.org/horde_stringprep": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Stringprep": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Internationalized strings preparation library",
+                "homepage": "https://www.horde.org"
+            },
+            {
+                "name": "horde/stringprep",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Stringprep.git",
+                    "reference": "ab046780432ccf8b4cae0201686f82f4409a434b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Stringprep/zipball/ab046780432ccf8b4cae0201686f82f4409a434b",
+                    "reference": "ab046780432ccf8b4cae0201686f82f4409a434b",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-08-25T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Stringprep": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Internationalized strings preparation library",
+                "homepage": "https://www.horde.org"
+            }
+        ]
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "packages": {
+        "horde/url": [
+            {
+                "name": "horde/url",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Url.git",
+                    "reference": "4fdc333654ed581988125b034345b73a8bd33b9e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Url/zipball/4fdc333654ed581988125b034345b73a8bd33b9e",
+                    "reference": "4fdc333654ed581988125b034345b73a8bd33b9e",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-08-20T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Url": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "URL library",
+                "homepage": "https://www.horde.org/libraries/Horde_Url"
+            },
+            {
+                "name": "horde/url",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Url.git",
+                    "reference": "1ecf5fdd72fda140645ebfedae41cef67b477403"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Url/zipball/1ecf5fdd72fda140645ebfedae41cef67b477403",
+                    "reference": "1ecf5fdd72fda140645ebfedae41cef67b477403",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_url": "2.*",
+                    "pear-pear.horde.org/horde_url": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Url": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "URL library",
+                "homepage": "https://www.horde.org/libraries/Horde_Url"
+            },
+            {
+                "name": "horde/url",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Url.git",
+                    "reference": "242af8953cd7bfa4b3f685e7c42463b7cbe2483c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Url/zipball/242af8953cd7bfa4b3f685e7c42463b7cbe2483c",
+                    "reference": "242af8953cd7bfa4b3f685e7c42463b7cbe2483c",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_url": "2.*",
+                    "pear-pear.horde.org/horde_url": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Url": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "URL library",
+                "homepage": "https://www.horde.org/libraries/Horde_Url"
+            },
+            {
+                "name": "horde/url",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Url.git",
+                    "reference": "242af8953cd7bfa4b3f685e7c42463b7cbe2483c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Url/zipball/242af8953cd7bfa4b3f685e7c42463b7cbe2483c",
+                    "reference": "242af8953cd7bfa4b3f685e7c42463b7cbe2483c",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_url": "2.*",
+                    "pear-pear.horde.org/horde_url": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Url": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "URL library",
+                "homepage": "https://www.horde.org/libraries/Horde_Url"
+            },
+            {
+                "name": "horde/url",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Url.git",
+                    "reference": "1abde62632db4a1a5814afd4ced9da5f2200d2d7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Url/zipball/1abde62632db4a1a5814afd4ced9da5f2200d2d7",
+                    "reference": "1abde62632db4a1a5814afd4ced9da5f2200d2d7",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-08-20T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Url": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "URL library",
+                "homepage": "https://www.horde.org/libraries/Horde_Url"
+            }
+        ]
+    }
+}

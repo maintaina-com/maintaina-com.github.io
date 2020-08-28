@@ -1,0 +1,265 @@
+{
+    "packages": {
+        "horde/autoloader": [
+            {
+                "name": "horde/autoloader",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Autoloader.git",
+                    "reference": "b59d559f9860cc6e7d3e52f9b53e7ed0eb31d2ab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Autoloader/zipball/b59d559f9860cc6e7d3e52f9b53e7ed0eb31d2ab",
+                    "reference": "b59d559f9860cc6e7d3e52f9b53e7ed0eb31d2ab",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-08-25T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Autoloader": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Autoloader library",
+                "homepage": "https://www.horde.org/libraries/Horde_Autoloader",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Autoloader/tree/master"
+                }
+            },
+            {
+                "name": "horde/autoloader",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Autoloader.git",
+                    "reference": "d3c1a1fb964b185fbd3e1259b16c066d95d4c4bc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Autoloader/zipball/d3c1a1fb964b185fbd3e1259b16c066d95d4c4bc",
+                    "reference": "d3c1a1fb964b185fbd3e1259b16c066d95d4c4bc",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_autoloader": "2.*",
+                    "pear-pear.horde.org/horde_autoloader": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Autoloader": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Autoloader library",
+                "homepage": "https://www.horde.org/libraries/Horde_Autoloader",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Autoloader/tree/FRAMEWORK_5_2"
+                }
+            },
+            {
+                "name": "horde/autoloader",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Autoloader.git",
+                    "reference": "2a2ce1f45494871c16f1bb2bf1182a4f122e7615"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Autoloader/zipball/2a2ce1f45494871c16f1bb2bf1182a4f122e7615",
+                    "reference": "2a2ce1f45494871c16f1bb2bf1182a4f122e7615",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_autoloader": "2.*",
+                    "pear-pear.horde.org/horde_autoloader": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Autoloader": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Autoloader library",
+                "homepage": "https://www.horde.org/libraries/Horde_Autoloader",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Autoloader/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/autoloader",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Autoloader.git",
+                    "reference": "2a2ce1f45494871c16f1bb2bf1182a4f122e7615"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Autoloader/zipball/2a2ce1f45494871c16f1bb2bf1182a4f122e7615",
+                    "reference": "2a2ce1f45494871c16f1bb2bf1182a4f122e7615",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_autoloader": "2.*",
+                    "pear-pear.horde.org/horde_autoloader": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Autoloader": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Autoloader library",
+                "homepage": "https://www.horde.org/libraries/Horde_Autoloader",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Autoloader/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/autoloader",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Autoloader.git",
+                    "reference": "2e57e52530e0ed7892af3f2b585907e4a04835ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Autoloader/zipball/2e57e52530e0ed7892af3f2b585907e4a04835ca",
+                    "reference": "2e57e52530e0ed7892af3f2b585907e4a04835ca",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-08-25T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Autoloader": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Autoloader library",
+                "homepage": "https://www.horde.org/libraries/Horde_Autoloader",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Autoloader/tree/maintaina-composerfixed"
+                }
+            }
+        ]
+    }
+}

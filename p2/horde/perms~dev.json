@@ -1,0 +1,280 @@
+{
+    "packages": {
+        "horde/perms": [
+            {
+                "name": "horde/perms",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Perms.git",
+                    "reference": "d65d165099dd6a9ac4b13902faede93a398a771e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Perms/zipball/d65d165099dd6a9ac4b13902faede93a398a771e",
+                    "reference": "d65d165099dd6a9ac4b13902faede93a398a771e",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/db": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/group": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/test": "^2.1",
+                    "horde/tree": "^2"
+                },
+                "time": "2020-08-25T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Perms": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Permissions library",
+                "homepage": "https://www.horde.org/libraries/Horde_Perms"
+            },
+            {
+                "name": "horde/perms",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Perms.git",
+                    "reference": "2c754bbc2528b82ab711fa106cf2ce4723606e1b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Perms/zipball/2c754bbc2528b82ab711fa106cf2ce4723606e1b",
+                    "reference": "2c754bbc2528b82ab711fa106cf2ce4723606e1b",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_db": "^2",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_group": "^2",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_perms": "2.*",
+                    "pear-pear.horde.org/horde_perms": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.1",
+                    "pear-pear.horde.org/Horde_Tree": "^2"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Perms": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Permissions library",
+                "homepage": "https://www.horde.org/libraries/Horde_Perms"
+            },
+            {
+                "name": "horde/perms",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Perms.git",
+                    "reference": "4d2e94c88f721e977b8dcf08afd4235cd1f894f6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Perms/zipball/4d2e94c88f721e977b8dcf08afd4235cd1f894f6",
+                    "reference": "4d2e94c88f721e977b8dcf08afd4235cd1f894f6",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_db": "^2",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_group": "^2",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_perms": "2.*",
+                    "pear-pear.horde.org/horde_perms": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.1",
+                    "pear-pear.horde.org/Horde_Tree": "^2"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Perms": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Permissions library",
+                "homepage": "https://www.horde.org/libraries/Horde_Perms"
+            },
+            {
+                "name": "horde/perms",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Perms.git",
+                    "reference": "4d2e94c88f721e977b8dcf08afd4235cd1f894f6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Perms/zipball/4d2e94c88f721e977b8dcf08afd4235cd1f894f6",
+                    "reference": "4d2e94c88f721e977b8dcf08afd4235cd1f894f6",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_db": "^2",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_group": "^2",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_perms": "2.*",
+                    "pear-pear.horde.org/horde_perms": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.1",
+                    "pear-pear.horde.org/Horde_Tree": "^2"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Perms": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Permissions library",
+                "homepage": "https://www.horde.org/libraries/Horde_Perms"
+            },
+            {
+                "name": "horde/perms",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Perms.git",
+                    "reference": "ffaf541c9e8d64076f510ce74e7a3006dfeda9df"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Perms/zipball/ffaf541c9e8d64076f510ce74e7a3006dfeda9df",
+                    "reference": "ffaf541c9e8d64076f510ce74e7a3006dfeda9df",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/db": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/group": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/test": "^2.1",
+                    "horde/tree": "^2"
+                },
+                "time": "2020-08-25T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Perms": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Permissions library",
+                "homepage": "https://www.horde.org/libraries/Horde_Perms"
+            }
+        ]
+    }
+}

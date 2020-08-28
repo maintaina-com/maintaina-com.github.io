@@ -1,0 +1,245 @@
+{
+    "packages": {
+        "horde/lock": [
+            {
+                "name": "horde/lock",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Lock.git",
+                    "reference": "e922ee46f1b60546ebe0121cd2d779c566fdcb33"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/e922ee46f1b60546ebe0121cd2d779c566fdcb33",
+                    "reference": "e922ee46f1b60546ebe0121cd2d779c566fdcb33",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/support": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/db": "^2",
+                    "horde/log": "^2",
+                    "horde/mongo": "^1"
+                },
+                "time": "2020-08-25T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Lock": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Ben Klang",
+                        "email": "ben@alkaloid.net",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Resource locking library",
+                "homepage": "https://www.horde.org/libraries/Horde_Lock"
+            },
+            {
+                "name": "horde/lock",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Lock.git",
+                    "reference": "3b0a2e43fab7ef1bf7f95e862828195a3313d99a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/3b0a2e43fab7ef1bf7f95e862828195a3313d99a",
+                    "reference": "3b0a2e43fab7ef1bf7f95e862828195a3313d99a",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_support": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_lock": "2.*",
+                    "pear-pear.horde.org/horde_lock": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Db": "^2",
+                    "pear-pear.horde.org/Horde_Log": "^2",
+                    "pear-pear.horde.org/Horde_Mongo": "^1"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Lock": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Ben Klang",
+                        "email": "ben@alkaloid.net",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Resource locking library",
+                "homepage": "https://www.horde.org/libraries/Horde_Lock"
+            },
+            {
+                "name": "horde/lock",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Lock.git",
+                    "reference": "511491af6ae3bac85f8a0dfb37108ed9bdab87e9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/511491af6ae3bac85f8a0dfb37108ed9bdab87e9",
+                    "reference": "511491af6ae3bac85f8a0dfb37108ed9bdab87e9",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_support": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_lock": "2.*",
+                    "pear-pear.horde.org/horde_lock": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Db": "^2",
+                    "pear-pear.horde.org/Horde_Log": "^2",
+                    "pear-pear.horde.org/Horde_Mongo": "^1"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Lock": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Ben Klang",
+                        "email": "ben@alkaloid.net",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Resource locking library",
+                "homepage": "https://www.horde.org/libraries/Horde_Lock"
+            },
+            {
+                "name": "horde/lock",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Lock.git",
+                    "reference": "511491af6ae3bac85f8a0dfb37108ed9bdab87e9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/511491af6ae3bac85f8a0dfb37108ed9bdab87e9",
+                    "reference": "511491af6ae3bac85f8a0dfb37108ed9bdab87e9",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_support": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_lock": "2.*",
+                    "pear-pear.horde.org/horde_lock": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Db": "^2",
+                    "pear-pear.horde.org/Horde_Log": "^2",
+                    "pear-pear.horde.org/Horde_Mongo": "^1"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Lock": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Ben Klang",
+                        "email": "ben@alkaloid.net",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Resource locking library",
+                "homepage": "https://www.horde.org/libraries/Horde_Lock"
+            },
+            {
+                "name": "horde/lock",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Lock.git",
+                    "reference": "737072f1eab7b5a8938616962e91ab8a81368e44"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/737072f1eab7b5a8938616962e91ab8a81368e44",
+                    "reference": "737072f1eab7b5a8938616962e91ab8a81368e44",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/support": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/db": "^2",
+                    "horde/log": "^2",
+                    "horde/mongo": "^1"
+                },
+                "time": "2020-08-25T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Lock": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Ben Klang",
+                        "email": "ben@alkaloid.net",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Resource locking library",
+                "homepage": "https://www.horde.org/libraries/Horde_Lock"
+            }
+        ]
+    }
+}

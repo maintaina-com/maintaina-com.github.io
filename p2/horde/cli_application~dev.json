@@ -1,0 +1,245 @@
+{
+    "packages": {
+        "horde/cli_application": [
+            {
+                "name": "horde/cli_application",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Cli_Application.git",
+                    "reference": "a0aa069ca9d68e9e6e5ed072a5a9afc069de5ab5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli_Application/zipball/a0aa069ca9d68e9e6e5ed072a5a9afc069de5ab5",
+                    "reference": "a0aa069ca9d68e9e6e5ed072a5a9afc069de5ab5",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/argv": "dev-master",
+                    "horde/cli": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-08-25T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "classmap": [
+                        "lib/"
+                    ]
+                },
+                "license": [
+                    "BSD"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Library for creating command line applications",
+                "homepage": "https://www.horde.org"
+            },
+            {
+                "name": "horde/cli_application",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Cli_Application.git",
+                    "reference": "8758248d773006f055a75fadf83c5cccf524ef48"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli_Application/zipball/8758248d773006f055a75fadf83c5cccf524ef48",
+                    "reference": "8758248d773006f055a75fadf83c5cccf524ef48",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_argv": "^2",
+                    "pear-pear.horde.org/horde_cli": "^2",
+                    "php": "^5.3"
+                },
+                "replace": {
+                    "pear-horde/horde_cli_application": "1.*",
+                    "pear-pear.horde.org/horde_cli_application": "1.*"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Cli_Application": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Library for creating command line applications",
+                "homepage": "https://www.horde.org"
+            },
+            {
+                "name": "horde/cli_application",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Cli_Application.git",
+                    "reference": "d75ac3447ca5059245d0c5622858f43db4384674"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli_Application/zipball/d75ac3447ca5059245d0c5622858f43db4384674",
+                    "reference": "d75ac3447ca5059245d0c5622858f43db4384674",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_argv": "^2",
+                    "pear-pear.horde.org/horde_cli": "^2",
+                    "php": "^5.3"
+                },
+                "replace": {
+                    "pear-horde/horde_cli_application": "1.*",
+                    "pear-pear.horde.org/horde_cli_application": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Cli_Application": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Library for creating command line applications",
+                "homepage": "https://www.horde.org"
+            },
+            {
+                "name": "horde/cli_application",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Cli_Application.git",
+                    "reference": "4b52c4c798740dd3f13e5c2dcbe7343ac376cb51"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli_Application/zipball/4b52c4c798740dd3f13e5c2dcbe7343ac376cb51",
+                    "reference": "4b52c4c798740dd3f13e5c2dcbe7343ac376cb51",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_argv": "^2",
+                    "pear-pear.horde.org/horde_cli": "^2",
+                    "php": "^5.3"
+                },
+                "replace": {
+                    "pear-horde/horde_cli_application": "1.*",
+                    "pear-pear.horde.org/horde_cli_application": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Cli_Application": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Library for creating command line applications",
+                "homepage": "https://www.horde.org"
+            },
+            {
+                "name": "horde/cli_application",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Cli_Application.git",
+                    "reference": "5942e4ffbb6107ca6edccd8d7adf7630db526591"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli_Application/zipball/5942e4ffbb6107ca6edccd8d7adf7630db526591",
+                    "reference": "5942e4ffbb6107ca6edccd8d7adf7630db526591",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/argv": "dev-master",
+                    "horde/cli": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-08-25T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "classmap": [
+                        "lib/"
+                    ]
+                },
+                "license": [
+                    "BSD"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Library for creating command line applications",
+                "homepage": "https://www.horde.org"
+            }
+        ]
+    }
+}

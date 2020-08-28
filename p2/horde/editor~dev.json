@@ -1,0 +1,250 @@
+{
+    "packages": {
+        "horde/editor": [
+            {
+                "name": "horde/editor",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Editor.git",
+                    "reference": "d17dbb18656b6bd4f2ffed792cf6eea4b52d754a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Editor/zipball/d17dbb18656b6bd4f2ffed792cf6eea4b52d754a",
+                    "reference": "d17dbb18656b6bd4f2ffed792cf6eea4b52d754a",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/browser": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/serialize": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-08-25T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Editor": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "WYSIWYG editor library",
+                "homepage": "https://www.horde.org/libraries/Horde_Editor"
+            },
+            {
+                "name": "horde/editor",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Editor.git",
+                    "reference": "fc7a0fa6ec2a83643a5c573e4e9d942b97768117"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Editor/zipball/fc7a0fa6ec2a83643a5c573e4e9d942b97768117",
+                    "reference": "fc7a0fa6ec2a83643a5c573e4e9d942b97768117",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_browser": "^2",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_serialize": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_editor": "2.*",
+                    "pear-pear.horde.org/horde_editor": "2.*"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Editor": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "WYSIWYG editor library",
+                "homepage": "https://www.horde.org/libraries/Horde_Editor"
+            },
+            {
+                "name": "horde/editor",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Editor.git",
+                    "reference": "00d8c4501b9d931da739b771ed93dea89ed4110b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Editor/zipball/00d8c4501b9d931da739b771ed93dea89ed4110b",
+                    "reference": "00d8c4501b9d931da739b771ed93dea89ed4110b",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_browser": "^2",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_serialize": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_editor": "2.*",
+                    "pear-pear.horde.org/horde_editor": "2.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Editor": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "WYSIWYG editor library",
+                "homepage": "https://www.horde.org/libraries/Horde_Editor"
+            },
+            {
+                "name": "horde/editor",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Editor.git",
+                    "reference": "00d8c4501b9d931da739b771ed93dea89ed4110b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Editor/zipball/00d8c4501b9d931da739b771ed93dea89ed4110b",
+                    "reference": "00d8c4501b9d931da739b771ed93dea89ed4110b",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_browser": "^2",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_serialize": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_editor": "2.*",
+                    "pear-pear.horde.org/horde_editor": "2.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Editor": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "WYSIWYG editor library",
+                "homepage": "https://www.horde.org/libraries/Horde_Editor"
+            },
+            {
+                "name": "horde/editor",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Editor.git",
+                    "reference": "dba66127608938924bb57cfc75fc7111fb17d0cc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Editor/zipball/dba66127608938924bb57cfc75fc7111fb17d0cc",
+                    "reference": "dba66127608938924bb57cfc75fc7111fb17d0cc",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/browser": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/serialize": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-08-25T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Editor": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "WYSIWYG editor library",
+                "homepage": "https://www.horde.org/libraries/Horde_Editor"
+            }
+        ]
+    }
+}

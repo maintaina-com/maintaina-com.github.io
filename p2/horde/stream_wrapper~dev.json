@@ -1,0 +1,235 @@
+{
+    "packages": {
+        "horde/stream_wrapper": [
+            {
+                "name": "horde/stream_wrapper",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Stream_Wrapper.git",
+                    "reference": "f388b83cc4e7c95f376641e2b0d149956603c7da"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Stream_Wrapper/zipball/f388b83cc4e7c95f376641e2b0d149956603c7da",
+                    "reference": "f388b83cc4e7c95f376641e2b0d149956603c7da",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-08-25T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Stream_Wrapper": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "PHP stream wrappers library",
+                "homepage": "https://www.horde.org/libraries/Horde_Stream_Wrapper"
+            },
+            {
+                "name": "horde/stream_wrapper",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Stream_Wrapper.git",
+                    "reference": "1b133ee07c80f3d01d9c10177d186c99d569acd2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Stream_Wrapper/zipball/1b133ee07c80f3d01d9c10177d186c99d569acd2",
+                    "reference": "1b133ee07c80f3d01d9c10177d186c99d569acd2",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_stream_wrapper": "2.*",
+                    "pear-pear.horde.org/horde_stream_wrapper": "2.*"
+                },
+                "time": "2018-01-25T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Stream_Wrapper": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "PHP stream wrappers library",
+                "homepage": "https://www.horde.org/libraries/Horde_Stream_Wrapper"
+            },
+            {
+                "name": "horde/stream_wrapper",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Stream_Wrapper.git",
+                    "reference": "b87fadd2bed62329b8d890270f8f1581e76eedc4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Stream_Wrapper/zipball/b87fadd2bed62329b8d890270f8f1581e76eedc4",
+                    "reference": "b87fadd2bed62329b8d890270f8f1581e76eedc4",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_stream_wrapper": "2.*",
+                    "pear-pear.horde.org/horde_stream_wrapper": "2.*"
+                },
+                "time": "2018-01-25T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Stream_Wrapper": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "PHP stream wrappers library",
+                "homepage": "https://www.horde.org/libraries/Horde_Stream_Wrapper"
+            },
+            {
+                "name": "horde/stream_wrapper",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Stream_Wrapper.git",
+                    "reference": "b87fadd2bed62329b8d890270f8f1581e76eedc4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Stream_Wrapper/zipball/b87fadd2bed62329b8d890270f8f1581e76eedc4",
+                    "reference": "b87fadd2bed62329b8d890270f8f1581e76eedc4",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_stream_wrapper": "2.*",
+                    "pear-pear.horde.org/horde_stream_wrapper": "2.*"
+                },
+                "time": "2018-01-25T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Stream_Wrapper": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "PHP stream wrappers library",
+                "homepage": "https://www.horde.org/libraries/Horde_Stream_Wrapper"
+            },
+            {
+                "name": "horde/stream_wrapper",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Stream_Wrapper.git",
+                    "reference": "bc82226a9ef6908b6d0e8abedd26cf665a11a166"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Stream_Wrapper/zipball/bc82226a9ef6908b6d0e8abedd26cf665a11a166",
+                    "reference": "bc82226a9ef6908b6d0e8abedd26cf665a11a166",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-08-25T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Stream_Wrapper": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "PHP stream wrappers library",
+                "homepage": "https://www.horde.org/libraries/Horde_Stream_Wrapper"
+            }
+        ]
+    }
+}
