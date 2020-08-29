@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/CssMinify.git",
+                    "url": "https://github.com/maintaina-com/CssMinify.git",
                     "reference": "250f52509ed0aa7ed271a957df8b31763bbed634"
                 },
                 "dist": {
@@ -42,7 +42,10 @@
                     }
                 ],
                 "description": "CSS minification library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/CssMinify/tree/master"
+                }
             },
             {
                 "name": "horde/cssminify",
@@ -50,7 +53,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/CssMinify.git",
+                    "url": "https://github.com/maintaina-com/CssMinify.git",
                     "reference": "13013d0569b90ca1108a120da3f7a38fa243eb13"
                 },
                 "dist": {
@@ -88,7 +91,10 @@
                     }
                 ],
                 "description": "CSS minification library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/CssMinify/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/cssminify",
@@ -96,7 +102,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/CssMinify.git",
+                    "url": "https://github.com/maintaina-com/CssMinify.git",
                     "reference": "5f453a2f579bbc1ed52db830ec7ac8e0b19b2b70"
                 },
                 "dist": {
@@ -134,7 +140,10 @@
                     }
                 ],
                 "description": "CSS minification library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/CssMinify/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/cssminify",
@@ -142,7 +151,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/CssMinify.git",
+                    "url": "https://github.com/maintaina-com/CssMinify.git",
                     "reference": "5f453a2f579bbc1ed52db830ec7ac8e0b19b2b70"
                 },
                 "dist": {
@@ -180,7 +189,10 @@
                     }
                 ],
                 "description": "CSS minification library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/CssMinify/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/cssminify",
@@ -188,7 +200,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/CssMinify.git",
+                    "url": "https://github.com/maintaina-com/CssMinify.git",
                     "reference": "3dc28d5bcd40d63a9f51f1a1fa083f3e27abfe81"
                 },
                 "dist": {
@@ -223,7 +235,10 @@
                     }
                 ],
                 "description": "CSS minification library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/CssMinify/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

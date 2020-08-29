@@ -7,7 +7,7 @@
                 "version_normalized": "1.0.10.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Css_Parser.git",
+                    "url": "https://github.com/maintaina-com/Css_Parser.git",
                     "reference": "93f0a168db1a29a7e28ac10abc9cb1c8efb61f34"
                 },
                 "dist": {
@@ -35,7 +35,10 @@
                     }
                 ],
                 "description": "Horde CSS Parser",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Css_Parser/tree/v1.0.10"
+                }
             },
             {
                 "name": "horde/css_parser",
@@ -43,7 +46,7 @@
                 "version_normalized": "1.0.11.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Css_Parser.git",
+                    "url": "https://github.com/maintaina-com/Css_Parser.git",
                     "reference": "3af6b89d9b29a8f52dcb5886fb2b6678053f4c7d"
                 },
                 "dist": {
@@ -71,7 +74,10 @@
                     }
                 ],
                 "description": "Horde CSS Parser",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Css_Parser/tree/v1.0.11"
+                }
             },
             {
                 "name": "horde/css_parser",
@@ -79,7 +85,7 @@
                 "version_normalized": "1.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Css_Parser.git",
+                    "url": "https://github.com/maintaina-com/Css_Parser.git",
                     "reference": "eca6b1c7bb47ab9170b92df76311f647729e6bed"
                 },
                 "dist": {
@@ -107,7 +113,10 @@
                     }
                 ],
                 "description": "Horde CSS Parser",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Css_Parser/tree/v1.0.3"
+                }
             },
             {
                 "name": "horde/css_parser",
@@ -115,7 +124,7 @@
                 "version_normalized": "1.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Css_Parser.git",
+                    "url": "https://github.com/maintaina-com/Css_Parser.git",
                     "reference": "3ac8b08b753486fd90b37abef7c693ea5448903f"
                 },
                 "dist": {
@@ -143,7 +152,10 @@
                     }
                 ],
                 "description": "Horde CSS Parser",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Css_Parser/tree/v1.0.4"
+                }
             },
             {
                 "name": "horde/css_parser",
@@ -151,7 +163,7 @@
                 "version_normalized": "1.0.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Css_Parser.git",
+                    "url": "https://github.com/maintaina-com/Css_Parser.git",
                     "reference": "70abbc33e1a7031fb12489b2fc448b20c57be8e9"
                 },
                 "dist": {
@@ -179,7 +191,10 @@
                     }
                 ],
                 "description": "Horde CSS Parser",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Css_Parser/tree/v1.0.5"
+                }
             },
             {
                 "name": "horde/css_parser",
@@ -187,7 +202,7 @@
                 "version_normalized": "1.0.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Css_Parser.git",
+                    "url": "https://github.com/maintaina-com/Css_Parser.git",
                     "reference": "b3c4d132e70278dc26ca95edb19c17b6da06256e"
                 },
                 "dist": {
@@ -215,7 +230,10 @@
                     }
                 ],
                 "description": "Horde CSS Parser",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Css_Parser/tree/v1.0.6"
+                }
             },
             {
                 "name": "horde/css_parser",
@@ -223,7 +241,7 @@
                 "version_normalized": "1.0.7.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Css_Parser.git",
+                    "url": "https://github.com/maintaina-com/Css_Parser.git",
                     "reference": "d39b8f530b36c6f3b307b6124ae8dd6402060cb5"
                 },
                 "dist": {
@@ -251,7 +269,10 @@
                     }
                 ],
                 "description": "Horde CSS Parser",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Css_Parser/tree/v1.0.7"
+                }
             },
             {
                 "name": "horde/css_parser",
@@ -259,7 +280,7 @@
                 "version_normalized": "1.0.8.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Css_Parser.git",
+                    "url": "https://github.com/maintaina-com/Css_Parser.git",
                     "reference": "4ad61f1b7c43dbd0a20f4f31a509e9dc3f8e6d54"
                 },
                 "dist": {
@@ -287,7 +308,10 @@
                     }
                 ],
                 "description": "Horde CSS Parser",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Css_Parser/tree/v1.0.8"
+                }
             },
             {
                 "name": "horde/css_parser",
@@ -295,7 +319,7 @@
                 "version_normalized": "1.0.9.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Css_Parser.git",
+                    "url": "https://github.com/maintaina-com/Css_Parser.git",
                     "reference": "f0d189b28263ecb76248eb11dbe8839af7550e00"
                 },
                 "dist": {
@@ -323,7 +347,10 @@
                     }
                 ],
                 "description": "Horde CSS Parser",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Css_Parser/tree/v1.0.9"
+                }
             }
         ]
     }

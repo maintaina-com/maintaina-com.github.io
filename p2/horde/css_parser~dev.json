@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Css_Parser.git",
+                    "url": "https://github.com/maintaina-com/Css_Parser.git",
                     "reference": "aa853e30fe2492c355c53b2867f386f3ee1915bd"
                 },
                 "dist": {
@@ -41,7 +41,10 @@
                     }
                 ],
                 "description": "CSS parser library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Css_Parser/tree/master"
+                }
             },
             {
                 "name": "horde/css_parser",
@@ -49,7 +52,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Css_Parser.git",
+                    "url": "https://github.com/maintaina-com/Css_Parser.git",
                     "reference": "212f665bb534f2b727c1bbb487357dafabbede2c"
                 },
                 "dist": {
@@ -86,7 +89,10 @@
                     }
                 ],
                 "description": "CSS parser library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Css_Parser/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/css_parser",
@@ -94,7 +100,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Css_Parser.git",
+                    "url": "https://github.com/maintaina-com/Css_Parser.git",
                     "reference": "07c4c65463f9011ef68493089e938640fff86bc8"
                 },
                 "dist": {
@@ -131,7 +137,10 @@
                     }
                 ],
                 "description": "CSS parser library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Css_Parser/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/css_parser",
@@ -139,7 +148,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Css_Parser.git",
+                    "url": "https://github.com/maintaina-com/Css_Parser.git",
                     "reference": "07c4c65463f9011ef68493089e938640fff86bc8"
                 },
                 "dist": {
@@ -176,7 +185,10 @@
                     }
                 ],
                 "description": "CSS parser library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Css_Parser/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/css_parser",
@@ -184,7 +196,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Css_Parser.git",
+                    "url": "https://github.com/maintaina-com/Css_Parser.git",
                     "reference": "e7f36556bbe1648f209b4b2f36d201d5411c647e"
                 },
                 "dist": {
@@ -218,7 +230,10 @@
                     }
                 ],
                 "description": "CSS parser library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Css_Parser/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

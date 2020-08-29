@@ -7,7 +7,7 @@
                 "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/CssMinify.git",
+                    "url": "https://github.com/maintaina-com/CssMinify.git",
                     "reference": "aa9ea2d47c5ec6fb4209dfbae5a952869972301c"
                 },
                 "dist": {
@@ -36,7 +36,10 @@
                     }
                 ],
                 "description": "CSS Minification",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/CssMinify/tree/v1.0.1"
+                }
             },
             {
                 "name": "horde/cssminify",
@@ -44,7 +47,7 @@
                 "version_normalized": "1.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/CssMinify.git",
+                    "url": "https://github.com/maintaina-com/CssMinify.git",
                     "reference": "f92fba57da00a50e790875258383fafd5d6ec1d8"
                 },
                 "dist": {
@@ -73,7 +76,10 @@
                     }
                 ],
                 "description": "CSS Minification",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/CssMinify/tree/v1.0.2"
+                }
             },
             {
                 "name": "horde/cssminify",
@@ -81,7 +87,7 @@
                 "version_normalized": "1.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/CssMinify.git",
+                    "url": "https://github.com/maintaina-com/CssMinify.git",
                     "reference": "cb1e8cee7944dbced0fff83f69ec794ca8f28ceb"
                 },
                 "dist": {
@@ -110,7 +116,10 @@
                     }
                 ],
                 "description": "CSS Minification",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/CssMinify/tree/v1.0.3"
+                }
             },
             {
                 "name": "horde/cssminify",
@@ -118,7 +127,7 @@
                 "version_normalized": "1.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/CssMinify.git",
+                    "url": "https://github.com/maintaina-com/CssMinify.git",
                     "reference": "64f7d0a4f4344ed74e6eda3d2d5908938a60d81b"
                 },
                 "dist": {
@@ -156,7 +165,10 @@
                     }
                 ],
                 "description": "CSS Minification",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/CssMinify/tree/v1.0.4"
+                }
             }
         ]
     }
