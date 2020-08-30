@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "bbf632e5a027df934742f45b1282641d31d02535"
                 },
                 "dist": {
@@ -51,7 +51,10 @@
                     }
                 ],
                 "description": "Date library",
-                "homepage": "https://www.horde.org/libraries/Horde_Date"
+                "homepage": "https://www.horde.org/libraries/Horde_Date",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/master"
+                }
             },
             {
                 "name": "horde/date",
@@ -59,7 +62,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "a0be73da6f681a77a9642ae9fb98db2395d177c8"
                 },
                 "dist": {
@@ -106,7 +109,10 @@
                     }
                 ],
                 "description": "Date library",
-                "homepage": "https://www.horde.org/libraries/Horde_Date"
+                "homepage": "https://www.horde.org/libraries/Horde_Date",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/date",
@@ -114,7 +120,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "047bdc98b81a46b65ff6fd845709ecf72e9c16e2"
                 },
                 "dist": {
@@ -161,7 +167,10 @@
                     }
                 ],
                 "description": "Date library",
-                "homepage": "https://www.horde.org/libraries/Horde_Date"
+                "homepage": "https://www.horde.org/libraries/Horde_Date",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/date",
@@ -169,7 +178,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "047bdc98b81a46b65ff6fd845709ecf72e9c16e2"
                 },
                 "dist": {
@@ -216,7 +225,10 @@
                     }
                 ],
                 "description": "Date library",
-                "homepage": "https://www.horde.org/libraries/Horde_Date"
+                "homepage": "https://www.horde.org/libraries/Horde_Date",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/date",
@@ -224,7 +236,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "e01a52afd6640b08ed08021081c5faba1e03fb10"
                 },
                 "dist": {
@@ -268,7 +280,10 @@
                     }
                 ],
                 "description": "Date library",
-                "homepage": "https://www.horde.org/libraries/Horde_Date"
+                "homepage": "https://www.horde.org/libraries/Horde_Date",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

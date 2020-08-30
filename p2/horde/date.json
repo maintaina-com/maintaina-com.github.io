@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.10.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "82acc5bd947741f8080f64dde75712bd2ecfff02"
                 },
                 "dist": {
@@ -45,7 +45,10 @@
                     }
                 ],
                 "description": "Horde Date package",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/v2.0.10"
+                }
             },
             {
                 "name": "horde/date",
@@ -53,7 +56,7 @@
                 "version_normalized": "2.0.11.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "1c864e23bf0a6c8d5e103bd6746eb4aedbe9c83b"
                 },
                 "dist": {
@@ -91,7 +94,10 @@
                     }
                 ],
                 "description": "Horde Date package",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/v2.0.11"
+                }
             },
             {
                 "name": "horde/date",
@@ -99,7 +105,7 @@
                 "version_normalized": "2.0.12.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "0361b2da6e2f45a2f412b12fea6a29d7897ef6ef"
                 },
                 "dist": {
@@ -137,7 +143,10 @@
                     }
                 ],
                 "description": "Horde Date package",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/v2.0.12"
+                }
             },
             {
                 "name": "horde/date",
@@ -145,7 +154,7 @@
                 "version_normalized": "2.0.13.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "87e6803a775197be154f1c5daab6ccc9843d3593"
                 },
                 "dist": {
@@ -183,7 +192,10 @@
                     }
                 ],
                 "description": "Horde Date package",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/v2.0.13"
+                }
             },
             {
                 "name": "horde/date",
@@ -191,7 +203,7 @@
                 "version_normalized": "2.0.8.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "27f1a5e8be0041308ad68bacdb8c5a87aa124491"
                 },
                 "dist": {
@@ -229,7 +241,10 @@
                     }
                 ],
                 "description": "Horde Date package",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/v2.0.8"
+                }
             },
             {
                 "name": "horde/date",
@@ -237,7 +252,7 @@
                 "version_normalized": "2.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "5b03a3cc11ce36d2678e7423d795e62a543f4a2b"
                 },
                 "dist": {
@@ -275,7 +290,10 @@
                     }
                 ],
                 "description": "Horde Date package",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/v2.1.0"
+                }
             },
             {
                 "name": "horde/date",
@@ -283,7 +301,7 @@
                 "version_normalized": "2.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "a0b938b7bf0afafbed992c93e431677b62142486"
                 },
                 "dist": {
@@ -321,7 +339,10 @@
                     }
                 ],
                 "description": "Horde Date package",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/v2.1.1"
+                }
             },
             {
                 "name": "horde/date",
@@ -329,7 +350,7 @@
                 "version_normalized": "2.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "a45532a930aad34da45302220b012d16afd94b48"
                 },
                 "dist": {
@@ -367,7 +388,10 @@
                     }
                 ],
                 "description": "Horde Date package",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/v2.2.0"
+                }
             },
             {
                 "name": "horde/date",
@@ -375,7 +399,7 @@
                 "version_normalized": "2.3.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "13bf8e7b46ea701db2533ad9863f7788c9b4db31"
                 },
                 "dist": {
@@ -413,7 +437,10 @@
                     }
                 ],
                 "description": "Horde Date package",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/v2.3.0"
+                }
             },
             {
                 "name": "horde/date",
@@ -421,7 +448,7 @@
                 "version_normalized": "2.3.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "335f4cc1d6993b8a9c4d27e871c9699afffd651b"
                 },
                 "dist": {
@@ -459,7 +486,10 @@
                     }
                 ],
                 "description": "Horde Date package",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/v2.3.1"
+                }
             },
             {
                 "name": "horde/date",
@@ -467,7 +497,7 @@
                 "version_normalized": "2.3.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "87f881baeb0343c31f03b9205ee79cb925a0cb92"
                 },
                 "dist": {
@@ -505,7 +535,10 @@
                     }
                 ],
                 "description": "Horde Date package",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/v2.3.2"
+                }
             },
             {
                 "name": "horde/date",
@@ -513,7 +546,7 @@
                 "version_normalized": "2.4.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "a2090da35da7459c6c582a5bb0af409b2117c3fb"
                 },
                 "dist": {
@@ -560,7 +593,10 @@
                     }
                 ],
                 "description": "Horde Date package",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/v2.4.0"
+                }
             },
             {
                 "name": "horde/date",
@@ -568,7 +604,7 @@
                 "version_normalized": "2.4.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date.git",
+                    "url": "https://github.com/maintaina-com/Date.git",
                     "reference": "872357223ad461a7452aa70edf2908265081633f"
                 },
                 "dist": {
@@ -615,7 +651,10 @@
                     }
                 ],
                 "description": "Horde Date package",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/v2.4.1"
+                }
             }
         ]
     }
