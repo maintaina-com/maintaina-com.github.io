@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Editor.git",
+                    "url": "git@github.com:maintaina-com/Editor.git",
                     "reference": "2fd5d2b793e1f9e94f4f3e97b220b8e4f4f0e2f4"
                 },
                 "dist": {
@@ -46,10 +46,7 @@
                     }
                 ],
                 "description": "WYSIWYG editor library",
-                "homepage": "https://www.horde.org/libraries/Horde_Editor",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Editor/tree/master"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_Editor"
             },
             {
                 "name": "horde/editor",
@@ -57,7 +54,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Editor.git",
+                    "url": "git@github.com:maintaina-com/Editor.git",
                     "reference": "fc7a0fa6ec2a83643a5c573e4e9d942b97768117"
                 },
                 "dist": {
@@ -99,10 +96,7 @@
                     }
                 ],
                 "description": "WYSIWYG editor library",
-                "homepage": "https://www.horde.org/libraries/Horde_Editor",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Editor/tree/FRAMEWORK_5_2"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_Editor"
             },
             {
                 "name": "horde/editor",
@@ -110,7 +104,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Editor.git",
+                    "url": "git@github.com:maintaina-com/Editor.git",
                     "reference": "00d8c4501b9d931da739b771ed93dea89ed4110b"
                 },
                 "dist": {
@@ -152,10 +146,7 @@
                     }
                 ],
                 "description": "WYSIWYG editor library",
-                "homepage": "https://www.horde.org/libraries/Horde_Editor",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Editor/tree/horde-upstream"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_Editor"
             },
             {
                 "name": "horde/editor",
@@ -163,7 +154,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Editor.git",
+                    "url": "git@github.com:maintaina-com/Editor.git",
                     "reference": "00d8c4501b9d931da739b771ed93dea89ed4110b"
                 },
                 "dist": {
@@ -205,10 +196,7 @@
                     }
                 ],
                 "description": "WYSIWYG editor library",
-                "homepage": "https://www.horde.org/libraries/Horde_Editor",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Editor/tree/horde-upstream"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_Editor"
             },
             {
                 "name": "horde/editor",
@@ -216,7 +204,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Editor.git",
+                    "url": "git@github.com:maintaina-com/Editor.git",
                     "reference": "9421665b24e5200ad9a8dcc708070dede35199b6"
                 },
                 "dist": {
@@ -255,10 +243,7 @@
                     }
                 ],
                 "description": "WYSIWYG editor library",
-                "homepage": "https://www.horde.org/libraries/Horde_Editor",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Editor/tree/maintaina-composerfixed"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_Editor"
             }
         ]
     }

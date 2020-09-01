@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.10.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Form.git",
+                    "url": "git@github.com:maintaina-com/Form.git",
                     "reference": "431ec76fb2641a91587bcdfe1751cfe3787eaeb1"
                 },
                 "dist": {
@@ -47,10 +47,7 @@
                     }
                 ],
                 "description": "Horde Form API",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Form/tree/v2.0.10"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/form",
@@ -58,7 +55,7 @@
                 "version_normalized": "2.0.11.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Form.git",
+                    "url": "git@github.com:maintaina-com/Form.git",
                     "reference": "dd47cd097ace21308b0819c9d3f2d23ccac02077"
                 },
                 "dist": {
@@ -98,10 +95,7 @@
                     }
                 ],
                 "description": "Horde Form API",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Form/tree/v2.0.11"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/form",
@@ -109,7 +103,7 @@
                 "version_normalized": "2.0.12.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Form.git",
+                    "url": "git@github.com:maintaina-com/Form.git",
                     "reference": "7aeaa2ae6ba128cc2dd0146cf4dbf8b1e49e4e28"
                 },
                 "dist": {
@@ -149,10 +143,7 @@
                     }
                 ],
                 "description": "Horde Form API",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Form/tree/v2.0.12"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/form",
@@ -160,7 +151,7 @@
                 "version_normalized": "2.0.13.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Form.git",
+                    "url": "git@github.com:maintaina-com/Form.git",
                     "reference": "a5df19b92bfc61615a7761a9ec44b31063f8b0a5"
                 },
                 "dist": {
@@ -200,10 +191,7 @@
                     }
                 ],
                 "description": "Horde Form API",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Form/tree/v2.0.13"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/form",
@@ -211,7 +199,7 @@
                 "version_normalized": "2.0.14.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Form.git",
+                    "url": "git@github.com:maintaina-com/Form.git",
                     "reference": "2b0f8bdd7a9c45d9f298b0d464cc52668b74b8f9"
                 },
                 "dist": {
@@ -251,10 +239,7 @@
                     }
                 ],
                 "description": "Horde Form API",
-                "homepage": "https://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Form/tree/v2.0.14"
-                }
+                "homepage": "https://pear.horde.org"
             },
             {
                 "name": "horde/form",
@@ -262,7 +247,7 @@
                 "version_normalized": "2.0.15.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Form.git",
+                    "url": "git@github.com:maintaina-com/Form.git",
                     "reference": "a753d318fec30f05a5cd10aa8fd7f9ca47e01ada"
                 },
                 "dist": {
@@ -302,10 +287,7 @@
                     }
                 ],
                 "description": "Horde Form API",
-                "homepage": "https://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Form/tree/v2.0.15"
-                }
+                "homepage": "https://pear.horde.org"
             },
             {
                 "name": "horde/form",
@@ -313,7 +295,7 @@
                 "version_normalized": "2.0.16.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Form.git",
+                    "url": "git@github.com:maintaina-com/Form.git",
                     "reference": "b9495faacccfe0c1bb75c90d154b7bee1eaf2eb3"
                 },
                 "dist": {
@@ -353,10 +335,7 @@
                     }
                 ],
                 "description": "Horde Form API",
-                "homepage": "https://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Form/tree/v2.0.16"
-                }
+                "homepage": "https://pear.horde.org"
             },
             {
                 "name": "horde/form",
@@ -364,7 +343,7 @@
                 "version_normalized": "2.0.17.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Form.git",
+                    "url": "git@github.com:maintaina-com/Form.git",
                     "reference": "b6b2632ff50753c588e16c57d88b117dc111f16c"
                 },
                 "dist": {
@@ -404,10 +383,7 @@
                     }
                 ],
                 "description": "Horde Form API",
-                "homepage": "https://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Form/tree/v2.0.17"
-                }
+                "homepage": "https://pear.horde.org"
             },
             {
                 "name": "horde/form",
@@ -415,7 +391,7 @@
                 "version_normalized": "2.0.18.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Form.git",
+                    "url": "git@github.com:maintaina-com/Form.git",
                     "reference": "fcb3e616751f78e9d7d8b1fe1e9015a4e56ed4b6"
                 },
                 "dist": {
@@ -464,10 +440,7 @@
                     }
                 ],
                 "description": "Horde Form API",
-                "homepage": "https://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Form/tree/v2.0.18"
-                }
+                "homepage": "https://pear.horde.org"
             },
             {
                 "name": "horde/form",
@@ -475,7 +448,7 @@
                 "version_normalized": "2.0.19.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Form.git",
+                    "url": "git@github.com:maintaina-com/Form.git",
                     "reference": "2e458d97ca6c927e5772a348c7fd1f66837e6cf7"
                 },
                 "dist": {
@@ -524,10 +497,7 @@
                     }
                 ],
                 "description": "Form library",
-                "homepage": "https://www.horde.org/libraries/Horde_Form",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Form/tree/v2.0.19"
-                }
+                "homepage": "https://www.horde.org/libraries/Horde_Form"
             },
             {
                 "name": "horde/form",
@@ -535,7 +505,7 @@
                 "version_normalized": "2.0.6.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Form.git",
+                    "url": "git@github.com:maintaina-com/Form.git",
                     "reference": "11bdcdb7f2629ecf26b5c4844e327ce0d51cb869"
                 },
                 "dist": {
@@ -575,10 +545,7 @@
                     }
                 ],
                 "description": "Horde Form API",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Form/tree/v2.0.6"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/form",
@@ -586,7 +553,7 @@
                 "version_normalized": "2.0.9.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Form.git",
+                    "url": "git@github.com:maintaina-com/Form.git",
                     "reference": "8078d91e5b87cda46be3fff7fb35979af645d1ad"
                 },
                 "dist": {
@@ -626,10 +593,7 @@
                     }
                 ],
                 "description": "Horde Form API",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Form/tree/v2.0.9"
-                }
+                "homepage": "http://pear.horde.org"
             }
         ]
     }
