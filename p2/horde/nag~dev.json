@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/nag.git",
-                    "reference": "972ae06fd5388ba185400f597ea706e72b75fa6f"
+                    "reference": "0325cec28bcc3fb0ad04adb4c47fbe012e762b38"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/972ae06fd5388ba185400f597ea706e72b75fa6f",
-                    "reference": "972ae06fd5388ba185400f597ea706e72b75fa6f",
+                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/0325cec28bcc3fb0ad04adb4c47fbe012e762b38",
+                    "reference": "0325cec28bcc3fb0ad04adb4c47fbe012e762b38",
                     "shasum": ""
                 },
                 "require": {
@@ -53,7 +53,7 @@
                     "horde/openxchange": "^1",
                     "horde/test": "^2"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "bin": [
                     "bin/nag-create-missing-add-histories-sql",
                     "bin/nag-import-vtodos",
@@ -439,12 +439,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/nag.git",
-                    "reference": "64dc0b42d90e6455d6314e88742d700109907696"
+                    "reference": "4d96aafd9431dc4971aab369fe07077fb64a5c71"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/64dc0b42d90e6455d6314e88742d700109907696",
-                    "reference": "64dc0b42d90e6455d6314e88742d700109907696",
+                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/4d96aafd9431dc4971aab369fe07077fb64a5c71",
+                    "reference": "4d96aafd9431dc4971aab369fe07077fb64a5c71",
                     "shasum": ""
                 },
                 "require": {
@@ -484,7 +484,7 @@
                     "horde/openxchange": "^1",
                     "horde/test": "^2"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "bin": [
                     "bin/nag-create-missing-add-histories-sql",
                     "bin/nag-import-vtodos",

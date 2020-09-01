@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/whups.git",
-                    "reference": "b19aa165ab78171ef3d17c929d4ebe5440e151ce"
+                    "reference": "17f2f765a43ba9c828d3aab783df41a063bc038c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/b19aa165ab78171ef3d17c929d4ebe5440e151ce",
-                    "reference": "b19aa165ab78171ef3d17c929d4ebe5440e151ce",
+                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/17f2f765a43ba9c828d3aab783df41a063bc038c",
+                    "reference": "17f2f765a43ba9c828d3aab783df41a063bc038c",
                     "shasum": ""
                 },
                 "require": {
@@ -45,7 +45,7 @@
                     "horde/view": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "bin": [
                     "bin/whups-bugzilla-import",
                     "bin/whups-svn-hook",
@@ -382,12 +382,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/whups.git",
-                    "reference": "f5c3fb5b2111be8e14f0dfe8fb367a3d5b863f42"
+                    "reference": "b781f2fd480f48fd43e1d081210e494b77160f37"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/f5c3fb5b2111be8e14f0dfe8fb367a3d5b863f42",
-                    "reference": "f5c3fb5b2111be8e14f0dfe8fb367a3d5b863f42",
+                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/b781f2fd480f48fd43e1d081210e494b77160f37",
+                    "reference": "b781f2fd480f48fd43e1d081210e494b77160f37",
                     "shasum": ""
                 },
                 "require": {
@@ -419,7 +419,7 @@
                     "horde/view": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "bin": [
                     "bin/whups-bugzilla-import",
                     "bin/whups-svn-hook",

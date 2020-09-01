@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/HashTable.git",
-                    "reference": "6f927176ab3a4ef9d0f7f01a2c6892c879eeb895"
+                    "reference": "40cc2f9e5560ac1b986cc2f6e5cef1275b00aeed"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/HashTable/zipball/6f927176ab3a4ef9d0f7f01a2c6892c879eeb895",
-                    "reference": "6f927176ab3a4ef9d0f7f01a2c6892c879eeb895",
+                    "url": "https://api.github.com/repos/maintaina-com/HashTable/zipball/40cc2f9e5560ac1b986cc2f6e5cef1275b00aeed",
+                    "reference": "40cc2f9e5560ac1b986cc2f6e5cef1275b00aeed",
                     "shasum": ""
                 },
                 "require": {
@@ -27,7 +27,7 @@
                     "horde/vfs": "^2",
                     "pear-pear.nrk.io/Predis": "^1"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -201,12 +201,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/HashTable.git",
-                    "reference": "b5403af533f38cb1961ef929f73f7eeba5144eb3"
+                    "reference": "0741d3a3979e05d902b48e6f2ae3e89b33c5e40e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/HashTable/zipball/b5403af533f38cb1961ef929f73f7eeba5144eb3",
-                    "reference": "b5403af533f38cb1961ef929f73f7eeba5144eb3",
+                    "url": "https://api.github.com/repos/maintaina-com/HashTable/zipball/0741d3a3979e05d902b48e6f2ae3e89b33c5e40e",
+                    "reference": "0741d3a3979e05d902b48e6f2ae3e89b33c5e40e",
                     "shasum": ""
                 },
                 "require": {
@@ -220,7 +220,7 @@
                     "horde/vfs": "^2",
                     "pear-pear.nrk.io/Predis": "^1"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

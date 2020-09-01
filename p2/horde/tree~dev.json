@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Tree.git",
-                    "reference": "879606f11380915b0cdb47ccb7c6cd6bd2413e8e"
+                    "reference": "5feb2b43eb67774f54e6e7f945c219547a158a48"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Tree/zipball/879606f11380915b0cdb47ccb7c6cd6bd2413e8e",
-                    "reference": "879606f11380915b0cdb47ccb7c6cd6bd2413e8e",
+                    "url": "https://api.github.com/repos/maintaina-com/Tree/zipball/5feb2b43eb67774f54e6e7f945c219547a158a48",
+                    "reference": "5feb2b43eb67774f54e6e7f945c219547a158a48",
                     "shasum": ""
                 },
                 "require": {
@@ -26,7 +26,7 @@
                 "suggest": {
                     "ext-gettext": "*"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -237,12 +237,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Tree.git",
-                    "reference": "bc7b0ea70e83cab4f703a36f68a119aff62250bb"
+                    "reference": "7a3cf278aabee611b331275a40851a4ef3feda8e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Tree/zipball/bc7b0ea70e83cab4f703a36f68a119aff62250bb",
-                    "reference": "bc7b0ea70e83cab4f703a36f68a119aff62250bb",
+                    "url": "https://api.github.com/repos/maintaina-com/Tree/zipball/7a3cf278aabee611b331275a40851a4ef3feda8e",
+                    "reference": "7a3cf278aabee611b331275a40851a4ef3feda8e",
                     "shasum": ""
                 },
                 "require": {
@@ -255,7 +255,7 @@
                 "suggest": {
                     "ext-gettext": "*"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/turba.git",
-                    "reference": "d3961c9d969bad4443af989759f2d9acbe3bf01b"
+                    "reference": "f5bada21475a9e3a47692c15df5626da27491d07"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/d3961c9d969bad4443af989759f2d9acbe3bf01b",
-                    "reference": "d3961c9d969bad4443af989759f2d9acbe3bf01b",
+                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/f5bada21475a9e3a47692c15df5626da27491d07",
+                    "reference": "f5bada21475a9e3a47692c15df5626da27491d07",
                     "shasum": ""
                 },
                 "require": {
@@ -57,7 +57,7 @@
                     "horde/ldap": "^2.1",
                     "horde/openxchange": "^1"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "bin": [
                     "bin/turba-import-squirrelmail-sql-abook",
                     "bin/turba-import-vcards",
@@ -403,12 +403,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/turba.git",
-                    "reference": "1de7f9e91381c712d1208abfa26b98129e9946f3"
+                    "reference": "9f101f69b26695354808e304a026c6f4f9ab048e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/1de7f9e91381c712d1208abfa26b98129e9946f3",
-                    "reference": "1de7f9e91381c712d1208abfa26b98129e9946f3",
+                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/9f101f69b26695354808e304a026c6f4f9ab048e",
+                    "reference": "9f101f69b26695354808e304a026c6f4f9ab048e",
                     "shasum": ""
                 },
                 "require": {
@@ -452,7 +452,7 @@
                     "horde/ldap": "^2.1",
                     "horde/openxchange": "^1"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "bin": [
                     "bin/turba-import-squirrelmail-sql-abook",
                     "bin/turba-import-vcards",

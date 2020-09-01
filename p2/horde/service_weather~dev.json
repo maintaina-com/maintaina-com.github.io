@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Service_Weather.git",
-                    "reference": "782b0a0cc115bf7a1871b04e8679792feace49d5"
+                    "reference": "d108e72e4ba4c5706b6cd8ccfdf2255dd50d20c8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Service_Weather/zipball/782b0a0cc115bf7a1871b04e8679792feace49d5",
-                    "reference": "782b0a0cc115bf7a1871b04e8679792feace49d5",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Weather/zipball/d108e72e4ba4c5706b6cd8ccfdf2255dd50d20c8",
+                    "reference": "d108e72e4ba4c5706b6cd8ccfdf2255dd50d20c8",
                     "shasum": ""
                 },
                 "require": {
@@ -28,7 +28,7 @@
                 "suggest": {
                     "horde/test": "^2.1"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -205,12 +205,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Service_Weather.git",
-                    "reference": "bb49aa2de9be4822332a7162fcdd8b811a6557a0"
+                    "reference": "641e1a34a9473079d5834a30aa9c18a03f93ddaa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Service_Weather/zipball/bb49aa2de9be4822332a7162fcdd8b811a6557a0",
-                    "reference": "bb49aa2de9be4822332a7162fcdd8b811a6557a0",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Weather/zipball/641e1a34a9473079d5834a30aa9c18a03f93ddaa",
+                    "reference": "641e1a34a9473079d5834a30aa9c18a03f93ddaa",
                     "shasum": ""
                 },
                 "require": {
@@ -225,7 +225,7 @@
                 "suggest": {
                     "horde/test": "^2.1"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

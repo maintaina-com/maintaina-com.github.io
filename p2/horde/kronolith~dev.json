@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/kronolith.git",
-                    "reference": "ea7fc67173c3874a67a0d65cedcf6d60f0c76f43"
+                    "reference": "6899f9dd89df4cb57518d91a55306e773278a265"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/ea7fc67173c3874a67a0d65cedcf6d60f0c76f43",
-                    "reference": "ea7fc67173c3874a67a0d65cedcf6d60f0c76f43",
+                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/6899f9dd89df4cb57518d91a55306e773278a265",
+                    "reference": "6899f9dd89df4cb57518d91a55306e773278a265",
                     "shasum": ""
                 },
                 "require": {
@@ -65,7 +65,7 @@
                     "horde/timeobjects": "^2",
                     "pear-pear.php.net/Date_Holidays": "^0.21"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "bin": [
                     "bin/kronolith-import-openxchange",
                     "bin/kronolith-import-squirrelmail-calendar",
@@ -595,12 +595,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/kronolith.git",
-                    "reference": "00f0e8566c0104e4e24102107d220acedf67e630"
+                    "reference": "7f62476e7cd68becea90d39719f2bab22a7f1a16"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/00f0e8566c0104e4e24102107d220acedf67e630",
-                    "reference": "00f0e8566c0104e4e24102107d220acedf67e630",
+                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/7f62476e7cd68becea90d39719f2bab22a7f1a16",
+                    "reference": "7f62476e7cd68becea90d39719f2bab22a7f1a16",
                     "shasum": ""
                 },
                 "require": {
@@ -652,7 +652,7 @@
                     "horde/timeobjects": "^2",
                     "pear-pear.php.net/Date_Holidays": "^0.21"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "bin": [
                     "bin/kronolith-import-openxchange",
                     "bin/kronolith-import-squirrelmail-calendar",

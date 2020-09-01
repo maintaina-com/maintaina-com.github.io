@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Group.git",
+                    "url": "git@github.com:maintaina-com/Group.git",
                     "reference": "dd8b6405be71de1900dd7d6c05343f7d504f4ca0"
                 },
                 "dist": {
@@ -44,10 +44,7 @@
                     }
                 ],
                 "description": "Horde User Groups System",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Group/tree/v2.0.3"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/group",
@@ -55,7 +52,7 @@
                 "version_normalized": "2.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Group.git",
+                    "url": "git@github.com:maintaina-com/Group.git",
                     "reference": "6e7b3c6abccb4617ac20d7d0466f08470132f649"
                 },
                 "dist": {
@@ -92,10 +89,7 @@
                     }
                 ],
                 "description": "Horde User Groups System",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Group/tree/v2.0.4"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/group",
@@ -103,7 +97,7 @@
                 "version_normalized": "2.0.5.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Group.git",
+                    "url": "git@github.com:maintaina-com/Group.git",
                     "reference": "a61e356b2226f856ab7993fcaf639448d38e516e"
                 },
                 "dist": {
@@ -140,10 +134,7 @@
                     }
                 ],
                 "description": "Horde User Groups System",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Group/tree/v2.0.5"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/group",
@@ -151,7 +142,7 @@
                 "version_normalized": "2.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Group.git",
+                    "url": "git@github.com:maintaina-com/Group.git",
                     "reference": "a329d6be818a0b50175cca12a063abd51b432b7a"
                 },
                 "dist": {
@@ -190,10 +181,7 @@
                     }
                 ],
                 "description": "Horde User Groups System",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Group/tree/v2.1.0"
-                }
+                "homepage": "http://pear.horde.org"
             },
             {
                 "name": "horde/group",
@@ -201,7 +189,7 @@
                 "version_normalized": "2.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/maintaina-com/Group.git",
+                    "url": "git@github.com:maintaina-com/Group.git",
                     "reference": "90f8842ba230b041d8bc36a6e1256d71a4b01510"
                 },
                 "dist": {
@@ -240,10 +228,7 @@
                     }
                 ],
                 "description": "Horde User Groups System",
-                "homepage": "http://pear.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Group/tree/v2.1.1"
-                }
+                "homepage": "http://pear.horde.org"
             }
         ]
     }

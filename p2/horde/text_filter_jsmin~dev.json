@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Text_Filter_Jsmin.git",
-                    "reference": "b9f5e63dafa7d4ed3bd0b8294e219565d9ecb9e6"
+                    "reference": "41f486fdbd50d85cfacd1401c00084fb4761ea76"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Filter_Jsmin/zipball/b9f5e63dafa7d4ed3bd0b8294e219565d9ecb9e6",
-                    "reference": "b9f5e63dafa7d4ed3bd0b8294e219565d9ecb9e6",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Filter_Jsmin/zipball/41f486fdbd50d85cfacd1401c00084fb4761ea76",
+                    "reference": "41f486fdbd50d85cfacd1401c00084fb4761ea76",
                     "shasum": ""
                 },
                 "require": {
@@ -21,7 +21,7 @@
                     "horde/text_filter": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -177,12 +177,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Text_Filter_Jsmin.git",
-                    "reference": "b92d563e40dc99bee84ea40960d7659329d6173e"
+                    "reference": "ba52f3c9c845b006205c10687b42945e25f062be"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Filter_Jsmin/zipball/b92d563e40dc99bee84ea40960d7659329d6173e",
-                    "reference": "b92d563e40dc99bee84ea40960d7659329d6173e",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Filter_Jsmin/zipball/ba52f3c9c845b006205c10687b42945e25f062be",
+                    "reference": "ba52f3c9c845b006205c10687b42945e25f062be",
                     "shasum": ""
                 },
                 "require": {
@@ -190,7 +190,7 @@
                     "horde/text_filter": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

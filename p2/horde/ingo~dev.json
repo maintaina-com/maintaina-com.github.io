@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/ingo.git",
-                    "reference": "84698d297796cd2b4bdd1eea2550366726d39818"
+                    "reference": "dac81e6648750fd07599bf3d911af4930e995ac3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/84698d297796cd2b4bdd1eea2550366726d39818",
-                    "reference": "84698d297796cd2b4bdd1eea2550366726d39818",
+                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/dac81e6648750fd07599bf3d911af4930e995ac3",
+                    "reference": "dac81e6648750fd07599bf3d911af4930e995ac3",
                     "shasum": ""
                 },
                 "require": {
@@ -40,7 +40,7 @@
                     "horde/mongo": "^1",
                     "horde/vfs": "^2"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "bin": [
                     "bin/ingo-convert-sql-shares-to-sqlng",
                     "bin/ingo-postfix-policyd",
@@ -360,12 +360,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/ingo.git",
-                    "reference": "da339f6a4d540bd1323dd1e164ac2958fa8e1a66"
+                    "reference": "cc46c1dffb7d08f625e07ac5ae8c260fb746c9ef"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/da339f6a4d540bd1323dd1e164ac2958fa8e1a66",
-                    "reference": "da339f6a4d540bd1323dd1e164ac2958fa8e1a66",
+                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/cc46c1dffb7d08f625e07ac5ae8c260fb746c9ef",
+                    "reference": "cc46c1dffb7d08f625e07ac5ae8c260fb746c9ef",
                     "shasum": ""
                 },
                 "require": {
@@ -392,7 +392,7 @@
                     "horde/mongo": "^1",
                     "horde/vfs": "^2"
                 },
-                "time": "2020-08-25T00:00:00+00:00",
+                "time": "2020-09-01T00:00:00+00:00",
                 "bin": [
                     "bin/ingo-convert-sql-shares-to-sqlng",
                     "bin/ingo-postfix-policyd",
