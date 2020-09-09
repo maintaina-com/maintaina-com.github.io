@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Role.git",
-                    "reference": "a7dcf061c26e09dfba326fad28694f5a16fde8a1"
+                    "reference": "1525f489378e50e86805bbb6c066dd8e75e36721"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Role/zipball/a7dcf061c26e09dfba326fad28694f5a16fde8a1",
-                    "reference": "a7dcf061c26e09dfba326fad28694f5a16fde8a1",
+                    "url": "https://api.github.com/repos/maintaina-com/Role/zipball/1525f489378e50e86805bbb6c066dd8e75e36721",
+                    "reference": "1525f489378e50e86805bbb6c066dd8e75e36721",
                     "shasum": ""
                 },
                 "require": {
                     "horde/horde-installer-plugin": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -193,19 +193,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Role.git",
-                    "reference": "786398156d3fb294f5efda40d5532790e436edd0"
+                    "reference": "d0641fc47ed277ac7069597143892ee33c8019e9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Role/zipball/786398156d3fb294f5efda40d5532790e436edd0",
-                    "reference": "786398156d3fb294f5efda40d5532790e436edd0",
+                    "url": "https://api.github.com/repos/maintaina-com/Role/zipball/d0641fc47ed277ac7069597143892ee33c8019e9",
+                    "reference": "d0641fc47ed277ac7069597143892ee33c8019e9",
                     "shasum": ""
                 },
                 "require": {
                     "horde/horde-installer-plugin": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

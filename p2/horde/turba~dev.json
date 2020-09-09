@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/turba.git",
-                    "reference": "f5bada21475a9e3a47692c15df5626da27491d07"
+                    "reference": "bb3a9c1ad94c2b6d7e0ea02b19b9af04ee450402"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/f5bada21475a9e3a47692c15df5626da27491d07",
-                    "reference": "f5bada21475a9e3a47692c15df5626da27491d07",
+                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/bb3a9c1ad94c2b6d7e0ea02b19b9af04ee450402",
+                    "reference": "bb3a9c1ad94c2b6d7e0ea02b19b9af04ee450402",
                     "shasum": ""
                 },
                 "require": {
@@ -57,16 +57,16 @@
                     "horde/ldap": "^2.1",
                     "horde/openxchange": "^1"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "bin": [
-                    "bin/turba-import-squirrelmail-sql-abook",
-                    "bin/turba-import-vcards",
-                    "bin/turba-public-to-horde-share",
-                    "bin/turba-convert-sql-shares-to-sqlng",
-                    "bin/turba-validate-email",
                     "bin/turba-import-openxchange",
+                    "bin/turba-convert-sql-shares-to-sqlng",
+                    "bin/turba-import-squirrelmail-file-abook",
+                    "bin/turba-validate-email",
                     "bin/turba-convert-datatree-shares-to-sql",
-                    "bin/turba-import-squirrelmail-file-abook"
+                    "bin/turba-public-to-horde-share",
+                    "bin/turba-import-vcards",
+                    "bin/turba-import-squirrelmail-sql-abook"
                 ],
                 "type": "horde-application",
                 "autoload": {
@@ -403,12 +403,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/turba.git",
-                    "reference": "9f101f69b26695354808e304a026c6f4f9ab048e"
+                    "reference": "5182d60afd96e134f57a7df8d000506c7f9ef7e0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/9f101f69b26695354808e304a026c6f4f9ab048e",
-                    "reference": "9f101f69b26695354808e304a026c6f4f9ab048e",
+                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/5182d60afd96e134f57a7df8d000506c7f9ef7e0",
+                    "reference": "5182d60afd96e134f57a7df8d000506c7f9ef7e0",
                     "shasum": ""
                 },
                 "require": {
@@ -452,16 +452,16 @@
                     "horde/ldap": "^2.1",
                     "horde/openxchange": "^1"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "bin": [
-                    "bin/turba-import-squirrelmail-sql-abook",
-                    "bin/turba-import-vcards",
-                    "bin/turba-public-to-horde-share",
-                    "bin/turba-convert-sql-shares-to-sqlng",
-                    "bin/turba-validate-email",
                     "bin/turba-import-openxchange",
+                    "bin/turba-convert-sql-shares-to-sqlng",
+                    "bin/turba-import-squirrelmail-file-abook",
+                    "bin/turba-validate-email",
                     "bin/turba-convert-datatree-shares-to-sql",
-                    "bin/turba-import-squirrelmail-file-abook"
+                    "bin/turba-public-to-horde-share",
+                    "bin/turba-import-vcards",
+                    "bin/turba-import-squirrelmail-sql-abook"
                 ],
                 "type": "horde-application",
                 "autoload": {

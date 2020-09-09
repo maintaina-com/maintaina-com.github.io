@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/imp.git",
-                    "reference": "da9c58a4bd8f4bdbc1a6df84841deefa422a0b12"
+                    "reference": "5cc83e7eff62315a7f16d5e12fc3e607a476e9af"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/da9c58a4bd8f4bdbc1a6df84841deefa422a0b12",
-                    "reference": "da9c58a4bd8f4bdbc1a6df84841deefa422a0b12",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/5cc83e7eff62315a7f16d5e12fc3e607a476e9af",
+                    "reference": "5cc83e7eff62315a7f16d5e12fc3e607a476e9af",
                     "shasum": ""
                 },
                 "require": {
@@ -70,7 +70,7 @@
                     "horde/service_gravatar": "^1",
                     "pear-phpseclib.sourceforge.net/File_ASN1": "*"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "bin": [
                     "bin/imp-mailbox-decode",
                     "bin/imp-query-imap-cache",
@@ -521,12 +521,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/imp.git",
-                    "reference": "9f7386aea1acf48eb8c75149578433bc104b21d6"
+                    "reference": "073fe37d65ea3c35a8f60e06b1f84618e07be338"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/9f7386aea1acf48eb8c75149578433bc104b21d6",
-                    "reference": "9f7386aea1acf48eb8c75149578433bc104b21d6",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/073fe37d65ea3c35a8f60e06b1f84618e07be338",
+                    "reference": "073fe37d65ea3c35a8f60e06b1f84618e07be338",
                     "shasum": ""
                 },
                 "require": {
@@ -583,7 +583,7 @@
                     "horde/service_gravatar": "^1",
                     "pear-phpseclib.sourceforge.net/File_ASN1": "*"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "bin": [
                     "bin/imp-mailbox-decode",
                     "bin/imp-query-imap-cache",

@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/nag.git",
-                    "reference": "0325cec28bcc3fb0ad04adb4c47fbe012e762b38"
+                    "reference": "9c9db026e6b3289d61ba2d15681a475b70685c3f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/0325cec28bcc3fb0ad04adb4c47fbe012e762b38",
-                    "reference": "0325cec28bcc3fb0ad04adb4c47fbe012e762b38",
+                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/9c9db026e6b3289d61ba2d15681a475b70685c3f",
+                    "reference": "9c9db026e6b3289d61ba2d15681a475b70685c3f",
                     "shasum": ""
                 },
                 "require": {
@@ -53,13 +53,13 @@
                     "horde/openxchange": "^1",
                     "horde/test": "^2"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "bin": [
-                    "bin/nag-create-missing-add-histories-sql",
+                    "bin/nag-convert-datatree-shares-to-sql",
                     "bin/nag-import-vtodos",
                     "bin/nag-convert-sql-shares-to-sqlng",
                     "bin/nag-import-openxchange",
-                    "bin/nag-convert-datatree-shares-to-sql"
+                    "bin/nag-create-missing-add-histories-sql"
                 ],
                 "type": "horde-application",
                 "autoload": {
@@ -439,12 +439,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/nag.git",
-                    "reference": "4d96aafd9431dc4971aab369fe07077fb64a5c71"
+                    "reference": "42150316ab1108cf7d1c4494263e6b04a3fbe26e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/4d96aafd9431dc4971aab369fe07077fb64a5c71",
-                    "reference": "4d96aafd9431dc4971aab369fe07077fb64a5c71",
+                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/42150316ab1108cf7d1c4494263e6b04a3fbe26e",
+                    "reference": "42150316ab1108cf7d1c4494263e6b04a3fbe26e",
                     "shasum": ""
                 },
                 "require": {
@@ -484,13 +484,13 @@
                     "horde/openxchange": "^1",
                     "horde/test": "^2"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "bin": [
-                    "bin/nag-create-missing-add-histories-sql",
+                    "bin/nag-convert-datatree-shares-to-sql",
                     "bin/nag-import-vtodos",
                     "bin/nag-convert-sql-shares-to-sqlng",
                     "bin/nag-import-openxchange",
-                    "bin/nag-convert-datatree-shares-to-sql"
+                    "bin/nag-create-missing-add-histories-sql"
                 ],
                 "type": "horde-application",
                 "autoload": {

@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/kronolith.git",
-                    "reference": "6899f9dd89df4cb57518d91a55306e773278a265"
+                    "reference": "4d2a258d48c9824f0237cbc1a0bad00e39c239f5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/6899f9dd89df4cb57518d91a55306e773278a265",
-                    "reference": "6899f9dd89df4cb57518d91a55306e773278a265",
+                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/4d2a258d48c9824f0237cbc1a0bad00e39c239f5",
+                    "reference": "4d2a258d48c9824f0237cbc1a0bad00e39c239f5",
                     "shasum": ""
                 },
                 "require": {
@@ -65,15 +65,15 @@
                     "horde/timeobjects": "^2",
                     "pear-pear.php.net/Date_Holidays": "^0.21"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "bin": [
+                    "bin/kronolith-convert-sql-shares-to-sqlng",
+                    "bin/kronolith-convert-to-utc",
                     "bin/kronolith-import-openxchange",
                     "bin/kronolith-import-squirrelmail-calendar",
-                    "bin/kronolith-agenda",
                     "bin/kronolith-convert-datatree-shares-to-sql",
-                    "bin/kronolith-import-icals",
-                    "bin/kronolith-convert-to-utc",
-                    "bin/kronolith-convert-sql-shares-to-sqlng"
+                    "bin/kronolith-agenda",
+                    "bin/kronolith-import-icals"
                 ],
                 "type": "horde-application",
                 "autoload": {
@@ -595,12 +595,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/kronolith.git",
-                    "reference": "7f62476e7cd68becea90d39719f2bab22a7f1a16"
+                    "reference": "b3b4463af8d9581b60610b9655bd0fbaf7c4859d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/7f62476e7cd68becea90d39719f2bab22a7f1a16",
-                    "reference": "7f62476e7cd68becea90d39719f2bab22a7f1a16",
+                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/b3b4463af8d9581b60610b9655bd0fbaf7c4859d",
+                    "reference": "b3b4463af8d9581b60610b9655bd0fbaf7c4859d",
                     "shasum": ""
                 },
                 "require": {
@@ -652,15 +652,15 @@
                     "horde/timeobjects": "^2",
                     "pear-pear.php.net/Date_Holidays": "^0.21"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "bin": [
+                    "bin/kronolith-convert-sql-shares-to-sqlng",
+                    "bin/kronolith-convert-to-utc",
                     "bin/kronolith-import-openxchange",
                     "bin/kronolith-import-squirrelmail-calendar",
-                    "bin/kronolith-agenda",
                     "bin/kronolith-convert-datatree-shares-to-sql",
-                    "bin/kronolith-import-icals",
-                    "bin/kronolith-convert-to-utc",
-                    "bin/kronolith-convert-sql-shares-to-sqlng"
+                    "bin/kronolith-agenda",
+                    "bin/kronolith-import-icals"
                 ],
                 "type": "horde-application",
                 "autoload": {

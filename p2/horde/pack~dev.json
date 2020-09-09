@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Pack.git",
-                    "reference": "e080b21a662d4962610be74284744737bb2839ac"
+                    "reference": "9a9e851c92658878ad818eb0fdd992536889ddd6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Pack/zipball/e080b21a662d4962610be74284744737bb2839ac",
-                    "reference": "e080b21a662d4962610be74284744737bb2839ac",
+                    "url": "https://api.github.com/repos/maintaina-com/Pack/zipball/9a9e851c92658878ad818eb0fdd992536889ddd6",
+                    "reference": "9a9e851c92658878ad818eb0fdd992536889ddd6",
                     "shasum": ""
                 },
                 "require": {
@@ -28,7 +28,7 @@
                     "ext-msgpack": "*",
                     "horde/test": "^2"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -205,12 +205,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Pack.git",
-                    "reference": "267cf8e2cd299ed4fa16b13371ede37a979b93b7"
+                    "reference": "1e988e056dbc3770b00f6ab90ffa05992f8d0bdf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Pack/zipball/267cf8e2cd299ed4fa16b13371ede37a979b93b7",
-                    "reference": "267cf8e2cd299ed4fa16b13371ede37a979b93b7",
+                    "url": "https://api.github.com/repos/maintaina-com/Pack/zipball/1e988e056dbc3770b00f6ab90ffa05992f8d0bdf",
+                    "reference": "1e988e056dbc3770b00f6ab90ffa05992f8d0bdf",
                     "shasum": ""
                 },
                 "require": {
@@ -225,7 +225,7 @@
                     "ext-msgpack": "*",
                     "horde/test": "^2"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

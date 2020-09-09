@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/timeobjects.git",
-                    "reference": "e8edda76f6eda4bf7312861b284704b7bc37dbcb"
+                    "reference": "699d548edbdaf08b8cbf059ecfa4679ccfcaeefa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/timeobjects/zipball/e8edda76f6eda4bf7312861b284704b7bc37dbcb",
-                    "reference": "e8edda76f6eda4bf7312861b284704b7bc37dbcb",
+                    "url": "https://api.github.com/repos/maintaina-com/timeobjects/zipball/699d548edbdaf08b8cbf059ecfa4679ccfcaeefa",
+                    "reference": "699d548edbdaf08b8cbf059ecfa4679ccfcaeefa",
                     "shasum": ""
                 },
                 "require": {
@@ -30,7 +30,7 @@
                     "horde/service_facebook": "^2",
                     "horde/service_weather": "^2"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "type": "horde-application",
                 "autoload": {
                     "psr-0": {
@@ -296,12 +296,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/timeobjects.git",
-                    "reference": "7b2d6852ce8bd8132b9ef83a152677caf0b3570e"
+                    "reference": "5826a6bf6627fd63039905992778284c2305bf6c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/timeobjects/zipball/7b2d6852ce8bd8132b9ef83a152677caf0b3570e",
-                    "reference": "7b2d6852ce8bd8132b9ef83a152677caf0b3570e",
+                    "url": "https://api.github.com/repos/maintaina-com/timeobjects/zipball/5826a6bf6627fd63039905992778284c2305bf6c",
+                    "reference": "5826a6bf6627fd63039905992778284c2305bf6c",
                     "shasum": ""
                 },
                 "require": {
@@ -318,7 +318,7 @@
                     "horde/service_facebook": "^2",
                     "horde/service_weather": "^2"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "type": "horde-application",
                 "autoload": {
                     "psr-0": {

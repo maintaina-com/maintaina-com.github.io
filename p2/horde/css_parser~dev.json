@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Css_Parser.git",
-                    "reference": "b4633c18138ecd6726573b9465c53f901dd43e10"
+                    "reference": "40ac4393bcc1c62badf73d517ccafefb9a558a5d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Css_Parser/zipball/b4633c18138ecd6726573b9465c53f901dd43e10",
-                    "reference": "b4633c18138ecd6726573b9465c53f901dd43e10",
+                    "url": "https://api.github.com/repos/maintaina-com/Css_Parser/zipball/40ac4393bcc1c62badf73d517ccafefb9a558a5d",
+                    "reference": "40ac4393bcc1c62badf73d517ccafefb9a558a5d",
                     "shasum": ""
                 },
                 "require": {
@@ -23,7 +23,7 @@
                 "suggest": {
                     "ext-mbstring": "*"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -185,12 +185,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Css_Parser.git",
-                    "reference": "44a448b3ecc12b57523a22770e253b9d296da759"
+                    "reference": "0849c025b3e7df653e8d29ca3c6f8dea885f6b83"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Css_Parser/zipball/44a448b3ecc12b57523a22770e253b9d296da759",
-                    "reference": "44a448b3ecc12b57523a22770e253b9d296da759",
+                    "url": "https://api.github.com/repos/maintaina-com/Css_Parser/zipball/0849c025b3e7df653e8d29ca3c6f8dea885f6b83",
+                    "reference": "0849c025b3e7df653e8d29ca3c6f8dea885f6b83",
                     "shasum": ""
                 },
                 "require": {
@@ -200,7 +200,7 @@
                 "suggest": {
                     "ext-mbstring": "*"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

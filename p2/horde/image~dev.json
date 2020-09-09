@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Image.git",
-                    "reference": "2563b96fad3dc678c1fdc622aa76c25a86f8261f"
+                    "reference": "0ca6932aee22e937a13fbfa35e0694c815035331"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Image/zipball/2563b96fad3dc678c1fdc622aa76c25a86f8261f",
-                    "reference": "2563b96fad3dc678c1fdc622aa76c25a86f8261f",
+                    "url": "https://api.github.com/repos/maintaina-com/Image/zipball/0ca6932aee22e937a13fbfa35e0694c815035331",
+                    "reference": "0ca6932aee22e937a13fbfa35e0694c815035331",
                     "shasum": ""
                 },
                 "require": {
@@ -33,7 +33,7 @@
                     "horde/test": "^2.1",
                     "pear-pear.php.net/XML_SVG": "*"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -245,12 +245,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Image.git",
-                    "reference": "e5e05c213145b6d0a3a8d628fb819e2fba4b0ddd"
+                    "reference": "ebe8ae213d9751528d31aab779cb5a9036bcf067"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Image/zipball/e5e05c213145b6d0a3a8d628fb819e2fba4b0ddd",
-                    "reference": "e5e05c213145b6d0a3a8d628fb819e2fba4b0ddd",
+                    "url": "https://api.github.com/repos/maintaina-com/Image/zipball/ebe8ae213d9751528d31aab779cb5a9036bcf067",
+                    "reference": "ebe8ae213d9751528d31aab779cb5a9036bcf067",
                     "shasum": ""
                 },
                 "require": {
@@ -270,7 +270,7 @@
                     "horde/test": "^2.1",
                     "pear-pear.php.net/XML_SVG": "*"
                 },
-                "time": "2020-09-01T00:00:00+00:00",
+                "time": "2020-09-08T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
