@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/horde-deployment.git",
-                    "reference": "42fc5e441bb0ea5a059c43765cfc0455e1908796"
+                    "reference": "3b3d6996b879565d9793560821237898cbf5f838"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/horde-deployment/zipball/42fc5e441bb0ea5a059c43765cfc0455e1908796",
-                    "reference": "42fc5e441bb0ea5a059c43765cfc0455e1908796",
+                    "url": "https://api.github.com/repos/maintaina-com/horde-deployment/zipball/3b3d6996b879565d9793560821237898cbf5f838",
+                    "reference": "3b3d6996b879565d9793560821237898cbf5f838",
                     "shasum": ""
                 },
                 "require": {
@@ -23,14 +23,13 @@
                     "horde/hordectl": "dev-master",
                     "horde/routes": "dev-master",
                     "horde/service_weather": "dev-master",
-                    "pear-pear.php.net/file_find": "^1.3",
                     "pear/console_color2": "^0.1.2",
                     "pear/console_table": "^1.3"
                 },
                 "require-dev": {
                     "squizlabs/php_codesniffer": "^3.4"
                 },
-                "time": "2020-09-07T08:26:21+00:00",
+                "time": "2020-09-10T19:36:03+00:00",
                 "type": "project",
                 "extra": {
                     "installer-types": [

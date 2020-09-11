@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/base.git",
-                    "reference": "45a6273ccd62dfe82679b93b1c08093789f18e57"
+                    "reference": "a2776555e683690dec5a1251036bdbb52e6dee11"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/45a6273ccd62dfe82679b93b1c08093789f18e57",
-                    "reference": "45a6273ccd62dfe82679b93b1c08093789f18e57",
+                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/a2776555e683690dec5a1251036bdbb52e6dee11",
+                    "reference": "a2776555e683690dec5a1251036bdbb52e6dee11",
                     "shasum": ""
                 },
                 "require": {
@@ -67,7 +67,6 @@
                     "horde/syncml": "^2",
                     "pear-pear.php.net/Console_Getopt": "*",
                     "pear-pear.php.net/Console_Table": "*",
-                    "pear-pear.php.net/File_Find": "*",
                     "pear-pear.php.net/File_Fstab": "*",
                     "pear-pear.php.net/Net_DNS2": "*"
                 },
@@ -569,12 +568,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/base.git",
-                    "reference": "62a799951d477cb0786e072aaa8ab6a71260ca4f"
+                    "reference": "b31e1594320697ab85ec818b73741e230c27b06e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/62a799951d477cb0786e072aaa8ab6a71260ca4f",
-                    "reference": "62a799951d477cb0786e072aaa8ab6a71260ca4f",
+                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/b31e1594320697ab85ec818b73741e230c27b06e",
+                    "reference": "b31e1594320697ab85ec818b73741e230c27b06e",
                     "shasum": ""
                 },
                 "require": {
@@ -631,7 +630,6 @@
                     "pear-pear.horde.org/Horde_SyncMl": "^2",
                     "pear-pear.php.net/Console_Getopt": "*",
                     "pear-pear.php.net/Console_Table": "*",
-                    "pear-pear.php.net/File_Find": "*",
                     "pear-pear.php.net/File_Fstab": "*",
                     "pear-pear.php.net/Net_DNS2": "*"
                 },
@@ -680,12 +678,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/base.git",
-                    "reference": "81d31051a8922aebdb9ff44fa2921e7148d65404"
+                    "reference": "3bd4ce2f8f5fa45835bba2785bc39ffdcf88afaf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/81d31051a8922aebdb9ff44fa2921e7148d65404",
-                    "reference": "81d31051a8922aebdb9ff44fa2921e7148d65404",
+                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/3bd4ce2f8f5fa45835bba2785bc39ffdcf88afaf",
+                    "reference": "3bd4ce2f8f5fa45835bba2785bc39ffdcf88afaf",
                     "shasum": ""
                 },
                 "require": {
@@ -739,7 +737,6 @@
                     "horde/syncml": "^2",
                     "pear-pear.php.net/Console_Getopt": "*",
                     "pear-pear.php.net/Console_Table": "*",
-                    "pear-pear.php.net/File_Find": "*",
                     "pear-pear.php.net/File_Fstab": "*",
                     "pear-pear.php.net/Net_DNS2": "*"
                 },
