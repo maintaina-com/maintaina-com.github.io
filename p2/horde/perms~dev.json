@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Perms.git",
-                    "reference": "54928762fc5da5de172c04b32470e9435404d9e0"
+                    "reference": "5fba1840b20ce09d449016b0bba6107eaa3b88a2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Perms/zipball/54928762fc5da5de172c04b32470e9435404d9e0",
-                    "reference": "54928762fc5da5de172c04b32470e9435404d9e0",
+                    "url": "https://api.github.com/repos/maintaina-com/Perms/zipball/5fba1840b20ce09d449016b0bba6107eaa3b88a2",
+                    "reference": "5fba1840b20ce09d449016b0bba6107eaa3b88a2",
                     "shasum": ""
                 },
                 "require": {
@@ -29,7 +29,7 @@
                     "horde/test": "^2.1",
                     "horde/tree": "^2"
                 },
-                "time": "2020-09-08T00:00:00+00:00",
+                "time": "2020-09-15T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -229,12 +229,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Perms.git",
-                    "reference": "624985057203aba2f4a2a72e357c96172cd3df52"
+                    "reference": "3543828572a865e1f7a3ed2f52371826477791c9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Perms/zipball/624985057203aba2f4a2a72e357c96172cd3df52",
-                    "reference": "624985057203aba2f4a2a72e357c96172cd3df52",
+                    "url": "https://api.github.com/repos/maintaina-com/Perms/zipball/3543828572a865e1f7a3ed2f52371826477791c9",
+                    "reference": "3543828572a865e1f7a3ed2f52371826477791c9",
                     "shasum": ""
                 },
                 "require": {
@@ -250,7 +250,7 @@
                     "horde/test": "^2.1",
                     "horde/tree": "^2"
                 },
-                "time": "2020-09-08T00:00:00+00:00",
+                "time": "2020-09-15T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

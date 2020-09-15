@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ingo.git",
-                    "reference": "737c9eb1963c577c68c310886bf197a9dbf10dc2"
+                    "reference": "301ba88fdcc929e4b58d2743c05572a6edfc9b25"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/737c9eb1963c577c68c310886bf197a9dbf10dc2",
-                    "reference": "737c9eb1963c577c68c310886bf197a9dbf10dc2",
+                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/301ba88fdcc929e4b58d2743c05572a6edfc9b25",
+                    "reference": "301ba88fdcc929e4b58d2743c05572a6edfc9b25",
                     "shasum": ""
                 },
                 "require": {
@@ -40,12 +40,12 @@
                     "horde/mongo": "^1",
                     "horde/vfs": "^2"
                 },
-                "time": "2020-09-08T00:00:00+00:00",
+                "time": "2020-09-15T00:00:00+00:00",
                 "bin": [
                     "bin/ingo-admin-upgrade",
+                    "bin/ingo-convert-prefs-to-sql",
                     "bin/ingo-postfix-policyd",
-                    "bin/ingo-convert-sql-shares-to-sqlng",
-                    "bin/ingo-convert-prefs-to-sql"
+                    "bin/ingo-convert-sql-shares-to-sqlng"
                 ],
                 "type": "horde-application",
                 "autoload": {
@@ -375,12 +375,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ingo.git",
-                    "reference": "0cc5f9752e7701ef2425f975819fbf58bd6e5c28"
+                    "reference": "0b762edc18e43b4af75db1579c25d27acda8bab5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/0cc5f9752e7701ef2425f975819fbf58bd6e5c28",
-                    "reference": "0cc5f9752e7701ef2425f975819fbf58bd6e5c28",
+                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/0b762edc18e43b4af75db1579c25d27acda8bab5",
+                    "reference": "0b762edc18e43b4af75db1579c25d27acda8bab5",
                     "shasum": ""
                 },
                 "require": {
@@ -407,12 +407,12 @@
                     "horde/mongo": "^1",
                     "horde/vfs": "^2"
                 },
-                "time": "2020-09-08T00:00:00+00:00",
+                "time": "2020-09-15T00:00:00+00:00",
                 "bin": [
                     "bin/ingo-admin-upgrade",
+                    "bin/ingo-convert-prefs-to-sql",
                     "bin/ingo-postfix-policyd",
-                    "bin/ingo-convert-sql-shares-to-sqlng",
-                    "bin/ingo-convert-prefs-to-sql"
+                    "bin/ingo-convert-sql-shares-to-sqlng"
                 ],
                 "type": "horde-application",
                 "autoload": {

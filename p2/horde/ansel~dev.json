@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ansel.git",
-                    "reference": "e69868e8a8bf949848b456d115c51020b046ddf1"
+                    "reference": "26529ad241cb226b72d56a8e63dda8bab06480d8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ansel/zipball/e69868e8a8bf949848b456d115c51020b046ddf1",
-                    "reference": "e69868e8a8bf949848b456d115c51020b046ddf1",
+                    "url": "https://api.github.com/repos/maintaina-com/ansel/zipball/26529ad241cb226b72d56a8e63dda8bab06480d8",
+                    "reference": "26529ad241cb226b72d56a8e63dda8bab06480d8",
                     "shasum": ""
                 },
                 "require": {
@@ -54,11 +54,11 @@
                     "horde/service_twitter": "^2",
                     "horde/service_urlshortener": "^2"
                 },
-                "time": "2020-09-08T00:00:00+00:00",
+                "time": "2020-09-15T00:00:00+00:00",
                 "bin": [
                     "bin/ansel-garbage-collection",
-                    "bin/ansel-convert-sql-shares-to-sqlng",
-                    "bin/ansel"
+                    "bin/ansel",
+                    "bin/ansel-convert-sql-shares-to-sqlng"
                 ],
                 "type": "horde-application",
                 "autoload": {
@@ -528,12 +528,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ansel.git",
-                    "reference": "2c56bdb41e3dc595559ca46ada17f968a465a894"
+                    "reference": "875c06e6cd17f7fdc47ecd2336965c02c093b71a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ansel/zipball/2c56bdb41e3dc595559ca46ada17f968a465a894",
-                    "reference": "2c56bdb41e3dc595559ca46ada17f968a465a894",
+                    "url": "https://api.github.com/repos/maintaina-com/ansel/zipball/875c06e6cd17f7fdc47ecd2336965c02c093b71a",
+                    "reference": "875c06e6cd17f7fdc47ecd2336965c02c093b71a",
                     "shasum": ""
                 },
                 "require": {
@@ -574,11 +574,11 @@
                     "horde/service_twitter": "^2",
                     "horde/service_urlshortener": "^2"
                 },
-                "time": "2020-09-08T00:00:00+00:00",
+                "time": "2020-09-15T00:00:00+00:00",
                 "bin": [
                     "bin/ansel-garbage-collection",
-                    "bin/ansel-convert-sql-shares-to-sqlng",
-                    "bin/ansel"
+                    "bin/ansel",
+                    "bin/ansel-convert-sql-shares-to-sqlng"
                 ],
                 "type": "horde-application",
                 "autoload": {

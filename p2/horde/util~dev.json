@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Util.git",
-                    "reference": "cfcb695e6903bef5de22b3a66d5d0e6601253d1b"
+                    "reference": "a8c6023a064e7e86a821c652f0417b21540b72f9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Util/zipball/cfcb695e6903bef5de22b3a66d5d0e6601253d1b",
-                    "reference": "cfcb695e6903bef5de22b3a66d5d0e6601253d1b",
+                    "url": "https://api.github.com/repos/maintaina-com/Util/zipball/a8c6023a064e7e86a821c652f0417b21540b72f9",
+                    "reference": "a8c6023a064e7e86a821c652f0417b21540b72f9",
                     "shasum": ""
                 },
                 "require": {
@@ -32,7 +32,7 @@
                     "horde/imap_client": "^2",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-09-08T00:00:00+00:00",
+                "time": "2020-09-15T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "classmap": [
@@ -261,12 +261,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Util.git",
-                    "reference": "33067aab4139fbb84b5e4a6126a9d5757a2c9f12"
+                    "reference": "b771355399e33bb2a09318b3e1c5769cb973fa6c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Util/zipball/33067aab4139fbb84b5e4a6126a9d5757a2c9f12",
-                    "reference": "33067aab4139fbb84b5e4a6126a9d5757a2c9f12",
+                    "url": "https://api.github.com/repos/maintaina-com/Util/zipball/b771355399e33bb2a09318b3e1c5769cb973fa6c",
+                    "reference": "b771355399e33bb2a09318b3e1c5769cb973fa6c",
                     "shasum": ""
                 },
                 "require": {
@@ -285,7 +285,7 @@
                     "horde/imap_client": "^2",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-09-08T00:00:00+00:00",
+                "time": "2020-09-15T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "classmap": [

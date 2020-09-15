@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Compress_Fast.git",
-                    "reference": "9839b7926f122d99aaebffacb65d348e4182ce62"
+                    "reference": "e1815c11e7e4230b6df23e6055956a6c392d4987"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Compress_Fast/zipball/9839b7926f122d99aaebffacb65d348e4182ce62",
-                    "reference": "9839b7926f122d99aaebffacb65d348e4182ce62",
+                    "url": "https://api.github.com/repos/maintaina-com/Compress_Fast/zipball/e1815c11e7e4230b6df23e6055956a6c392d4987",
+                    "reference": "e1815c11e7e4230b6df23e6055956a6c392d4987",
                     "shasum": ""
                 },
                 "require": {
@@ -27,7 +27,7 @@
                     "ext-zlib": "*",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-09-08T00:00:00+00:00",
+                "time": "2020-09-15T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -213,12 +213,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Compress_Fast.git",
-                    "reference": "748043d49980efffd43aafb7edd4c86559f5065c"
+                    "reference": "4d2b69e8499041709a7297688b8149a2161af705"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Compress_Fast/zipball/748043d49980efffd43aafb7edd4c86559f5065c",
-                    "reference": "748043d49980efffd43aafb7edd4c86559f5065c",
+                    "url": "https://api.github.com/repos/maintaina-com/Compress_Fast/zipball/4d2b69e8499041709a7297688b8149a2161af705",
+                    "reference": "4d2b69e8499041709a7297688b8149a2161af705",
                     "shasum": ""
                 },
                 "require": {
@@ -232,7 +232,7 @@
                     "ext-zlib": "*",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-09-08T00:00:00+00:00",
+                "time": "2020-09-15T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

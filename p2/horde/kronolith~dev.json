@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/kronolith.git",
-                    "reference": "4d2a258d48c9824f0237cbc1a0bad00e39c239f5"
+                    "reference": "51645cbce4e9eeb0af616a1fed114a523f7f6285"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/4d2a258d48c9824f0237cbc1a0bad00e39c239f5",
-                    "reference": "4d2a258d48c9824f0237cbc1a0bad00e39c239f5",
+                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/51645cbce4e9eeb0af616a1fed114a523f7f6285",
+                    "reference": "51645cbce4e9eeb0af616a1fed114a523f7f6285",
                     "shasum": ""
                 },
                 "require": {
@@ -65,15 +65,15 @@
                     "horde/timeobjects": "^2",
                     "pear-pear.php.net/Date_Holidays": "^0.21"
                 },
-                "time": "2020-09-08T00:00:00+00:00",
+                "time": "2020-09-15T00:00:00+00:00",
                 "bin": [
-                    "bin/kronolith-convert-sql-shares-to-sqlng",
-                    "bin/kronolith-convert-to-utc",
-                    "bin/kronolith-import-openxchange",
-                    "bin/kronolith-import-squirrelmail-calendar",
-                    "bin/kronolith-convert-datatree-shares-to-sql",
                     "bin/kronolith-agenda",
-                    "bin/kronolith-import-icals"
+                    "bin/kronolith-convert-to-utc",
+                    "bin/kronolith-import-icals",
+                    "bin/kronolith-convert-sql-shares-to-sqlng",
+                    "bin/kronolith-convert-datatree-shares-to-sql",
+                    "bin/kronolith-import-squirrelmail-calendar",
+                    "bin/kronolith-import-openxchange"
                 ],
                 "type": "horde-application",
                 "autoload": {
@@ -595,12 +595,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/kronolith.git",
-                    "reference": "b3b4463af8d9581b60610b9655bd0fbaf7c4859d"
+                    "reference": "8af139cb226820b158eb4e01e05a5d4f4f568a04"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/b3b4463af8d9581b60610b9655bd0fbaf7c4859d",
-                    "reference": "b3b4463af8d9581b60610b9655bd0fbaf7c4859d",
+                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/8af139cb226820b158eb4e01e05a5d4f4f568a04",
+                    "reference": "8af139cb226820b158eb4e01e05a5d4f4f568a04",
                     "shasum": ""
                 },
                 "require": {
@@ -652,15 +652,15 @@
                     "horde/timeobjects": "^2",
                     "pear-pear.php.net/Date_Holidays": "^0.21"
                 },
-                "time": "2020-09-08T00:00:00+00:00",
+                "time": "2020-09-15T00:00:00+00:00",
                 "bin": [
-                    "bin/kronolith-convert-sql-shares-to-sqlng",
-                    "bin/kronolith-convert-to-utc",
-                    "bin/kronolith-import-openxchange",
-                    "bin/kronolith-import-squirrelmail-calendar",
-                    "bin/kronolith-convert-datatree-shares-to-sql",
                     "bin/kronolith-agenda",
-                    "bin/kronolith-import-icals"
+                    "bin/kronolith-convert-to-utc",
+                    "bin/kronolith-import-icals",
+                    "bin/kronolith-convert-sql-shares-to-sqlng",
+                    "bin/kronolith-convert-datatree-shares-to-sql",
+                    "bin/kronolith-import-squirrelmail-calendar",
+                    "bin/kronolith-import-openxchange"
                 ],
                 "type": "horde-application",
                 "autoload": {
