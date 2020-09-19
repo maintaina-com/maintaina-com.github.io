@@ -224,6 +224,55 @@
                 ],
                 "description": "Dependency injection container library",
                 "homepage": "https://www.horde.org/libraries/Horde_Injector"
+            },
+            {
+                "name": "horde/injector",
+                "version": "dev-refactor-psr4",
+                "version_normalized": "dev-refactor-psr4",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Injector.git",
+                    "reference": "7d2dd6fcd0c217cde3bfb5da8167fcdb1622e5e4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/7d2dd6fcd0c217cde3bfb5da8167fcdb1622e5e4",
+                    "reference": "7d2dd6fcd0c217cde3bfb5da8167fcdb1622e5e4",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_injector": "2.*",
+                    "pear-pear.horde.org/horde_injector": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Injector": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Injector\\": "src/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Dependency injection container library",
+                "homepage": "https://www.horde.org/libraries/Horde_Injector"
             }
         ]
     }
