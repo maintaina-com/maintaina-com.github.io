@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Lock.git",
-                    "reference": "f5943d35cc45488c1cf0fd901fbd2776ae1edd31"
+                    "reference": "3ab33939ee61c254ea1d7c466cade51100f27914"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/f5943d35cc45488c1cf0fd901fbd2776ae1edd31",
-                    "reference": "f5943d35cc45488c1cf0fd901fbd2776ae1edd31",
+                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/3ab33939ee61c254ea1d7c466cade51100f27914",
+                    "reference": "3ab33939ee61c254ea1d7c466cade51100f27914",
                     "shasum": ""
                 },
                 "require": {
@@ -27,7 +27,7 @@
                     "horde/log": "^2",
                     "horde/mongo": "^1"
                 },
-                "time": "2020-09-15T00:00:00+00:00",
+                "time": "2020-09-22T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -201,12 +201,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Lock.git",
-                    "reference": "d2e1b00065c78cd48bd4ed57c2c13bd107d1e6d8"
+                    "reference": "f503e3bc3cc238770f872976c56becd9adb1847f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/d2e1b00065c78cd48bd4ed57c2c13bd107d1e6d8",
-                    "reference": "d2e1b00065c78cd48bd4ed57c2c13bd107d1e6d8",
+                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/f503e3bc3cc238770f872976c56becd9adb1847f",
+                    "reference": "f503e3bc3cc238770f872976c56becd9adb1847f",
                     "shasum": ""
                 },
                 "require": {
@@ -220,7 +220,7 @@
                     "horde/log": "^2",
                     "horde/mongo": "^1"
                 },
-                "time": "2020-09-15T00:00:00+00:00",
+                "time": "2020-09-22T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

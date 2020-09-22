@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/mnemo.git",
-                    "reference": "f38506be7c74fee5a6e25095666d4431603842c2"
+                    "reference": "608eb5f29942b7f9186c3f7633dbc5bafec115ce"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/f38506be7c74fee5a6e25095666d4431603842c2",
-                    "reference": "f38506be7c74fee5a6e25095666d4431603842c2",
+                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/608eb5f29942b7f9186c3f7633dbc5bafec115ce",
+                    "reference": "608eb5f29942b7f9186c3f7633dbc5bafec115ce",
                     "shasum": ""
                 },
                 "require": {
@@ -47,7 +47,7 @@
                     "horde/pdf": "^2",
                     "horde/test": "^2"
                 },
-                "time": "2020-09-15T00:00:00+00:00",
+                "time": "2020-09-22T00:00:00+00:00",
                 "bin": [
                     "bin/mnemo-convert-datatree-shares-to-sql",
                     "bin/mnemo-convert-sql-shares-to-sqlng",
@@ -384,12 +384,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/mnemo.git",
-                    "reference": "8c4ee299db9af91f4734cba2bf40b0d47119296c"
+                    "reference": "b0c5cb9a6154a16c1f696fa914a8d05d50ad5d1c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/8c4ee299db9af91f4734cba2bf40b0d47119296c",
-                    "reference": "8c4ee299db9af91f4734cba2bf40b0d47119296c",
+                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/b0c5cb9a6154a16c1f696fa914a8d05d50ad5d1c",
+                    "reference": "b0c5cb9a6154a16c1f696fa914a8d05d50ad5d1c",
                     "shasum": ""
                 },
                 "require": {
@@ -423,7 +423,7 @@
                     "horde/pdf": "^2",
                     "horde/test": "^2"
                 },
-                "time": "2020-09-15T00:00:00+00:00",
+                "time": "2020-09-22T00:00:00+00:00",
                 "bin": [
                     "bin/mnemo-convert-datatree-shares-to-sql",
                     "bin/mnemo-convert-sql-shares-to-sqlng",

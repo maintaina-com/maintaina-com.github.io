@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Db.git",
-                    "reference": "25f6ced2822e36ebe90e480a2ff34747e0c09076"
+                    "reference": "cf043aebab8bf4a08f45776c3d0055046d69111a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Db/zipball/25f6ced2822e36ebe90e480a2ff34747e0c09076",
-                    "reference": "25f6ced2822e36ebe90e480a2ff34747e0c09076",
+                    "url": "https://api.github.com/repos/maintaina-com/Db/zipball/cf043aebab8bf4a08f45776c3d0055046d69111a",
+                    "reference": "cf043aebab8bf4a08f45776c3d0055046d69111a",
                     "shasum": ""
                 },
                 "require": {
@@ -34,7 +34,7 @@
                     "horde/log": "^2",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-09-15T00:00:00+00:00",
+                "time": "2020-09-22T00:00:00+00:00",
                 "bin": [
                     "bin/horde-db-migrate-component"
                 ],
@@ -272,12 +272,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Db.git",
-                    "reference": "431e7af831c5443f45dba7039002af603116565d"
+                    "reference": "ebaba1609079e0022be09a11c1ede4c5c19c8958"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Db/zipball/431e7af831c5443f45dba7039002af603116565d",
-                    "reference": "431e7af831c5443f45dba7039002af603116565d",
+                    "url": "https://api.github.com/repos/maintaina-com/Db/zipball/ebaba1609079e0022be09a11c1ede4c5c19c8958",
+                    "reference": "ebaba1609079e0022be09a11c1ede4c5c19c8958",
                     "shasum": ""
                 },
                 "require": {
@@ -298,7 +298,7 @@
                     "horde/log": "^2",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-09-15T00:00:00+00:00",
+                "time": "2020-09-22T00:00:00+00:00",
                 "bin": [
                     "bin/horde-db-migrate-component"
                 ],

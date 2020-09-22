@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/turba.git",
-                    "reference": "ec3246720063cf1a862ce651bdcbfc9b14f6dc64"
+                    "reference": "93a021c12b593b29e4adef749a412abd6324c5d0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/ec3246720063cf1a862ce651bdcbfc9b14f6dc64",
-                    "reference": "ec3246720063cf1a862ce651bdcbfc9b14f6dc64",
+                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/93a021c12b593b29e4adef749a412abd6324c5d0",
+                    "reference": "93a021c12b593b29e4adef749a412abd6324c5d0",
                     "shasum": ""
                 },
                 "require": {
@@ -57,7 +57,7 @@
                     "horde/ldap": "^2.1",
                     "horde/openxchange": "^1"
                 },
-                "time": "2020-09-15T00:00:00+00:00",
+                "time": "2020-09-22T00:00:00+00:00",
                 "bin": [
                     "bin/turba-import-squirrelmail-sql-abook",
                     "bin/turba-convert-sql-shares-to-sqlng",
@@ -403,12 +403,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/turba.git",
-                    "reference": "bcccd80b6ae6eb356e29c0bedd6b3e5dd3c100a5"
+                    "reference": "65b79e3467e3b5f5acecaeded8dade45663a1adc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/bcccd80b6ae6eb356e29c0bedd6b3e5dd3c100a5",
-                    "reference": "bcccd80b6ae6eb356e29c0bedd6b3e5dd3c100a5",
+                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/65b79e3467e3b5f5acecaeded8dade45663a1adc",
+                    "reference": "65b79e3467e3b5f5acecaeded8dade45663a1adc",
                     "shasum": ""
                 },
                 "require": {
@@ -452,7 +452,7 @@
                     "horde/ldap": "^2.1",
                     "horde/openxchange": "^1"
                 },
-                "time": "2020-09-15T00:00:00+00:00",
+                "time": "2020-09-22T00:00:00+00:00",
                 "bin": [
                     "bin/turba-import-squirrelmail-sql-abook",
                     "bin/turba-convert-sql-shares-to-sqlng",

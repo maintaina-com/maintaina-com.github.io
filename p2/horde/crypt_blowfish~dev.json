@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Crypt_Blowfish.git",
-                    "reference": "46a9e37fa57ec4ae56844c53fbb7257a4b55a92e"
+                    "reference": "2bf4d8bdea209457e6ef0a331fc7de9911534db0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Crypt_Blowfish/zipball/46a9e37fa57ec4ae56844c53fbb7257a4b55a92e",
-                    "reference": "46a9e37fa57ec4ae56844c53fbb7257a4b55a92e",
+                    "url": "https://api.github.com/repos/maintaina-com/Crypt_Blowfish/zipball/2bf4d8bdea209457e6ef0a331fc7de9911534db0",
+                    "reference": "2bf4d8bdea209457e6ef0a331fc7de9911534db0",
                     "shasum": ""
                 },
                 "require": {
@@ -27,7 +27,7 @@
                     "ext-openssl": "*",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-09-15T00:00:00+00:00",
+                "time": "2020-09-22T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -201,12 +201,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Crypt_Blowfish.git",
-                    "reference": "c823bc3af148528e31a0190ed7244a8248aec461"
+                    "reference": "59fbd602c9fb51e2c6b630957f0226d0fa33e3bf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Crypt_Blowfish/zipball/c823bc3af148528e31a0190ed7244a8248aec461",
-                    "reference": "c823bc3af148528e31a0190ed7244a8248aec461",
+                    "url": "https://api.github.com/repos/maintaina-com/Crypt_Blowfish/zipball/59fbd602c9fb51e2c6b630957f0226d0fa33e3bf",
+                    "reference": "59fbd602c9fb51e2c6b630957f0226d0fa33e3bf",
                     "shasum": ""
                 },
                 "require": {
@@ -220,7 +220,7 @@
                     "ext-openssl": "*",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-09-15T00:00:00+00:00",
+                "time": "2020-09-22T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

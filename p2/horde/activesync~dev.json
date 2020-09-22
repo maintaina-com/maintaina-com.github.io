@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ActiveSync.git",
-                    "reference": "8c0ed444fe330fc5e200f7d0e70c8a9d5bf6ed8f"
+                    "reference": "7811dfca35d26cb1521c27cba0dbf17abe876d32"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/8c0ed444fe330fc5e200f7d0e70c8a9d5bf6ed8f",
-                    "reference": "8c0ed444fe330fc5e200f7d0e70c8a9d5bf6ed8f",
+                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/7811dfca35d26cb1521c27cba0dbf17abe876d32",
+                    "reference": "7811dfca35d26cb1521c27cba0dbf17abe876d32",
                     "shasum": ""
                 },
                 "require": {
@@ -40,7 +40,7 @@
                     "horde/test": "^2.1",
                     "horde/text_filter": "^2"
                 },
-                "time": "2020-09-15T00:00:00+00:00",
+                "time": "2020-09-22T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -265,12 +265,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ActiveSync.git",
-                    "reference": "837a90a59da8e5c7c50ea86320cdcf37f0ffe68f"
+                    "reference": "bb7104a8586b88ca551fc00cd7c61348e288d6c6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/837a90a59da8e5c7c50ea86320cdcf37f0ffe68f",
-                    "reference": "837a90a59da8e5c7c50ea86320cdcf37f0ffe68f",
+                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/bb7104a8586b88ca551fc00cd7c61348e288d6c6",
+                    "reference": "bb7104a8586b88ca551fc00cd7c61348e288d6c6",
                     "shasum": ""
                 },
                 "require": {
@@ -297,7 +297,7 @@
                     "horde/test": "^2.1",
                     "horde/text_filter": "^2"
                 },
-                "time": "2020-09-15T00:00:00+00:00",
+                "time": "2020-09-22T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

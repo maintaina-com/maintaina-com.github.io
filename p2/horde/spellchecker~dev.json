@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/SpellChecker.git",
-                    "reference": "16cf406bce5f230c8219340cd9df04dff49d4f5d"
+                    "reference": "51c866db59fd898961655a304c8bdff0a475878b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/SpellChecker/zipball/16cf406bce5f230c8219340cd9df04dff49d4f5d",
-                    "reference": "16cf406bce5f230c8219340cd9df04dff49d4f5d",
+                    "url": "https://api.github.com/repos/maintaina-com/SpellChecker/zipball/51c866db59fd898961655a304c8bdff0a475878b",
+                    "reference": "51c866db59fd898961655a304c8bdff0a475878b",
                     "shasum": ""
                 },
                 "require": {
@@ -22,7 +22,7 @@
                     "horde/util": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-09-15T00:00:00+00:00",
+                "time": "2020-09-22T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -201,12 +201,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/SpellChecker.git",
-                    "reference": "f0928d9bf87542cf9492cb7af921fcc9be7892ce"
+                    "reference": "d6f9a11e274fb5a9aa557eb557012a794757319f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/SpellChecker/zipball/f0928d9bf87542cf9492cb7af921fcc9be7892ce",
-                    "reference": "f0928d9bf87542cf9492cb7af921fcc9be7892ce",
+                    "url": "https://api.github.com/repos/maintaina-com/SpellChecker/zipball/d6f9a11e274fb5a9aa557eb557012a794757319f",
+                    "reference": "d6f9a11e274fb5a9aa557eb557012a794757319f",
                     "shasum": ""
                 },
                 "require": {
@@ -215,7 +215,7 @@
                     "horde/util": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-09-15T00:00:00+00:00",
+                "time": "2020-09-22T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
