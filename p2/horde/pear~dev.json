@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Pear.git",
-                    "reference": "459627f9be63eb4fc541c6a52b2f963522c05847"
+                    "reference": "e2f47c8deeb544bcfe9ea38497c2e02f74bd2da4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Pear/zipball/459627f9be63eb4fc541c6a52b2f963522c05847",
-                    "reference": "459627f9be63eb4fc541c6a52b2f963522c05847",
+                    "url": "https://api.github.com/repos/maintaina-com/Pear/zipball/e2f47c8deeb544bcfe9ea38497c2e02f74bd2da4",
+                    "reference": "e2f47c8deeb544bcfe9ea38497c2e02f74bd2da4",
                     "shasum": ""
                 },
                 "require": {
@@ -28,7 +28,7 @@
                     "horde/http": "^2",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-09-22T00:00:00+00:00",
+                "time": "2020-09-29T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -205,12 +205,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Pear.git",
-                    "reference": "ff640fe8367ff17592c5156612845101d158fcaa"
+                    "reference": "c50b606d390e4fb23db29832fd91ff8ed88e9805"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Pear/zipball/ff640fe8367ff17592c5156612845101d158fcaa",
-                    "reference": "ff640fe8367ff17592c5156612845101d158fcaa",
+                    "url": "https://api.github.com/repos/maintaina-com/Pear/zipball/c50b606d390e4fb23db29832fd91ff8ed88e9805",
+                    "reference": "c50b606d390e4fb23db29832fd91ff8ed88e9805",
                     "shasum": ""
                 },
                 "require": {
@@ -225,7 +225,7 @@
                     "horde/http": "^2",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-09-22T00:00:00+00:00",
+                "time": "2020-09-29T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

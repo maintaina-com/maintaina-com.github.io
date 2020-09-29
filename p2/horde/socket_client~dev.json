@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Socket_Client.git",
-                    "reference": "485a9145c90a38f11aabeff1960bb43628c75d86"
+                    "reference": "feb0166ae9908fa8495c11cabe1b1e3759e35f85"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Socket_Client/zipball/485a9145c90a38f11aabeff1960bb43628c75d86",
-                    "reference": "485a9145c90a38f11aabeff1960bb43628c75d86",
+                    "url": "https://api.github.com/repos/maintaina-com/Socket_Client/zipball/feb0166ae9908fa8495c11cabe1b1e3759e35f85",
+                    "reference": "feb0166ae9908fa8495c11cabe1b1e3759e35f85",
                     "shasum": ""
                 },
                 "require": {
@@ -24,7 +24,7 @@
                 "suggest": {
                     "ext-openssl": "*"
                 },
-                "time": "2020-09-22T00:00:00+00:00",
+                "time": "2020-09-29T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "classmap": [
@@ -189,12 +189,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Socket_Client.git",
-                    "reference": "d74505bed4f07810598fb11ec9c40d782e0c7fbf"
+                    "reference": "25974e137e5c50a6d2ae08abf2212b2345cb34bd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Socket_Client/zipball/d74505bed4f07810598fb11ec9c40d782e0c7fbf",
-                    "reference": "d74505bed4f07810598fb11ec9c40d782e0c7fbf",
+                    "url": "https://api.github.com/repos/maintaina-com/Socket_Client/zipball/25974e137e5c50a6d2ae08abf2212b2345cb34bd",
+                    "reference": "25974e137e5c50a6d2ae08abf2212b2345cb34bd",
                     "shasum": ""
                 },
                 "require": {
@@ -205,7 +205,7 @@
                 "suggest": {
                     "ext-openssl": "*"
                 },
-                "time": "2020-09-22T00:00:00+00:00",
+                "time": "2020-09-29T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "classmap": [

@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ansel.git",
-                    "reference": "36ed8b008aaa867b57b873898fed1ce85848341b"
+                    "reference": "9d2e1f91aadd41d774e7137db2060b89304d8a4a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ansel/zipball/36ed8b008aaa867b57b873898fed1ce85848341b",
-                    "reference": "36ed8b008aaa867b57b873898fed1ce85848341b",
+                    "url": "https://api.github.com/repos/maintaina-com/ansel/zipball/9d2e1f91aadd41d774e7137db2060b89304d8a4a",
+                    "reference": "9d2e1f91aadd41d774e7137db2060b89304d8a4a",
                     "shasum": ""
                 },
                 "require": {
@@ -54,7 +54,7 @@
                     "horde/service_twitter": "^2",
                     "horde/service_urlshortener": "^2"
                 },
-                "time": "2020-09-22T00:00:00+00:00",
+                "time": "2020-09-29T00:00:00+00:00",
                 "bin": [
                     "bin/ansel-garbage-collection",
                     "bin/ansel",
@@ -528,12 +528,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ansel.git",
-                    "reference": "bbaff7d626ebf80fce050b1b16ca007863a3d805"
+                    "reference": "b6fe87837cd5ffabf9835284e7544791ac6928e5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ansel/zipball/bbaff7d626ebf80fce050b1b16ca007863a3d805",
-                    "reference": "bbaff7d626ebf80fce050b1b16ca007863a3d805",
+                    "url": "https://api.github.com/repos/maintaina-com/ansel/zipball/b6fe87837cd5ffabf9835284e7544791ac6928e5",
+                    "reference": "b6fe87837cd5ffabf9835284e7544791ac6928e5",
                     "shasum": ""
                 },
                 "require": {
@@ -574,7 +574,7 @@
                     "horde/service_twitter": "^2",
                     "horde/service_urlshortener": "^2"
                 },
-                "time": "2020-09-22T00:00:00+00:00",
+                "time": "2020-09-29T00:00:00+00:00",
                 "bin": [
                     "bin/ansel-garbage-collection",
                     "bin/ansel",

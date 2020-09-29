@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/passwd.git",
-                    "reference": "b8dd883bb459230f159b0b81646ba80c6b8c2024"
+                    "reference": "d18a0464b5b40e6c0a1d034d5ceef3f36dc3df36"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/passwd/zipball/b8dd883bb459230f159b0b81646ba80c6b8c2024",
-                    "reference": "b8dd883bb459230f159b0b81646ba80c6b8c2024",
+                    "url": "https://api.github.com/repos/maintaina-com/passwd/zipball/d18a0464b5b40e6c0a1d034d5ceef3f36dc3df36",
+                    "reference": "d18a0464b5b40e6c0a1d034d5ceef3f36dc3df36",
                     "shasum": ""
                 },
                 "require": {
@@ -38,7 +38,7 @@
                     "horde/vfs": "^2",
                     "pear-pear.php.net/Crypt_CHAP": "*"
                 },
-                "time": "2020-09-22T00:00:00+00:00",
+                "time": "2020-09-29T00:00:00+00:00",
                 "type": "horde-application",
                 "autoload": {
                     "psr-0": {
@@ -336,12 +336,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/passwd.git",
-                    "reference": "5447b01bf1f2faa361fefb9b1f685159e0be7ae8"
+                    "reference": "a56caabe81ae1d787f5ccfbb69f5934254b34dab"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/passwd/zipball/5447b01bf1f2faa361fefb9b1f685159e0be7ae8",
-                    "reference": "5447b01bf1f2faa361fefb9b1f685159e0be7ae8",
+                    "url": "https://api.github.com/repos/maintaina-com/passwd/zipball/a56caabe81ae1d787f5ccfbb69f5934254b34dab",
+                    "reference": "a56caabe81ae1d787f5ccfbb69f5934254b34dab",
                     "shasum": ""
                 },
                 "require": {
@@ -366,7 +366,7 @@
                     "horde/vfs": "^2",
                     "pear-pear.php.net/Crypt_CHAP": "*"
                 },
-                "time": "2020-09-22T00:00:00+00:00",
+                "time": "2020-09-29T00:00:00+00:00",
                 "type": "horde-application",
                 "autoload": {
                     "psr-0": {

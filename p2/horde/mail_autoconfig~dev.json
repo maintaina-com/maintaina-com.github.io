@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Mail_Autoconfig.git",
-                    "reference": "de19a2aaab61a7fef0ad468cf1d469f213e01d30"
+                    "reference": "800eba7b15e9f56721394f1fb76427ff54a5a571"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mail_Autoconfig/zipball/de19a2aaab61a7fef0ad468cf1d469f213e01d30",
-                    "reference": "de19a2aaab61a7fef0ad468cf1d469f213e01d30",
+                    "url": "https://api.github.com/repos/maintaina-com/Mail_Autoconfig/zipball/800eba7b15e9f56721394f1fb76427ff54a5a571",
+                    "reference": "800eba7b15e9f56721394f1fb76427ff54a5a571",
                     "shasum": ""
                 },
                 "require": {
@@ -27,7 +27,7 @@
                     "pear-pear.php.net/net_dns2": "^1.3",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-09-22T00:00:00+00:00",
+                "time": "2020-09-29T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -201,12 +201,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Mail_Autoconfig.git",
-                    "reference": "87b0f88afdf2bdf06b054800eb2dc45d4bf2e7f7"
+                    "reference": "1e387c7cfd87bf4c44e896a4f6908cf0359cfc87"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mail_Autoconfig/zipball/87b0f88afdf2bdf06b054800eb2dc45d4bf2e7f7",
-                    "reference": "87b0f88afdf2bdf06b054800eb2dc45d4bf2e7f7",
+                    "url": "https://api.github.com/repos/maintaina-com/Mail_Autoconfig/zipball/1e387c7cfd87bf4c44e896a4f6908cf0359cfc87",
+                    "reference": "1e387c7cfd87bf4c44e896a4f6908cf0359cfc87",
                     "shasum": ""
                 },
                 "require": {
@@ -220,7 +220,7 @@
                     "pear-pear.php.net/net_dns2": "^1.3",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-09-22T00:00:00+00:00",
+                "time": "2020-09-29T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

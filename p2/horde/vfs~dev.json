@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Vfs.git",
-                    "reference": "4a10223d1cf033b78dfef0ecc38a297560b6c51d"
+                    "reference": "082534054c3c29fc99f913f2ee756d652ef013fd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/4a10223d1cf033b78dfef0ecc38a297560b6c51d",
-                    "reference": "4a10223d1cf033b78dfef0ecc38a297560b6c51d",
+                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/082534054c3c29fc99f913f2ee756d652ef013fd",
+                    "reference": "082534054c3c29fc99f913f2ee756d652ef013fd",
                     "shasum": ""
                 },
                 "require": {
@@ -35,7 +35,7 @@
                     "horde/perms": "^2",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-09-22T00:00:00+00:00",
+                "time": "2020-09-29T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -253,12 +253,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Vfs.git",
-                    "reference": "0769aa02347135f103fdd90b83c81523da1c4403"
+                    "reference": "64e61c7c0d2c6947a82268fb167eb036f05a9b5a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/0769aa02347135f103fdd90b83c81523da1c4403",
-                    "reference": "0769aa02347135f103fdd90b83c81523da1c4403",
+                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/64e61c7c0d2c6947a82268fb167eb036f05a9b5a",
+                    "reference": "64e61c7c0d2c6947a82268fb167eb036f05a9b5a",
                     "shasum": ""
                 },
                 "require": {
@@ -280,7 +280,7 @@
                     "horde/perms": "^2",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-09-22T00:00:00+00:00",
+                "time": "2020-09-29T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

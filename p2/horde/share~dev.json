@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Share.git",
-                    "reference": "ca1047684bcc4920d87a0bce507cb1054323dd29"
+                    "reference": "c83d21c072c2ee9fa0d20cb016125d46de0e3039"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Share/zipball/ca1047684bcc4920d87a0bce507cb1054323dd29",
-                    "reference": "ca1047684bcc4920d87a0bce507cb1054323dd29",
+                    "url": "https://api.github.com/repos/maintaina-com/Share/zipball/c83d21c072c2ee9fa0d20cb016125d46de0e3039",
+                    "reference": "c83d21c072c2ee9fa0d20cb016125d46de0e3039",
                     "shasum": ""
                 },
                 "require": {
@@ -32,7 +32,7 @@
                     "horde/kolab_storage": "^2",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-09-22T00:00:00+00:00",
+                "time": "2020-09-29T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -261,12 +261,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Share.git",
-                    "reference": "d0282da2376f8d67ceef4d5f0abd8568295af26e"
+                    "reference": "bc345b9e3b2bbdbcb36bfe16583b7b7b50cb8913"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Share/zipball/d0282da2376f8d67ceef4d5f0abd8568295af26e",
-                    "reference": "d0282da2376f8d67ceef4d5f0abd8568295af26e",
+                    "url": "https://api.github.com/repos/maintaina-com/Share/zipball/bc345b9e3b2bbdbcb36bfe16583b7b7b50cb8913",
+                    "reference": "bc345b9e3b2bbdbcb36bfe16583b7b7b50cb8913",
                     "shasum": ""
                 },
                 "require": {
@@ -285,7 +285,7 @@
                     "horde/kolab_storage": "^2",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-09-22T00:00:00+00:00",
+                "time": "2020-09-29T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
