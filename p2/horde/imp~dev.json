@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/imp.git",
-                    "reference": "06b96016fb0fb00a23028c07b3489e467a0027db"
+                    "reference": "ea507c29e7935c7c13caae922690ca3519fee5c0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/06b96016fb0fb00a23028c07b3489e467a0027db",
-                    "reference": "06b96016fb0fb00a23028c07b3489e467a0027db",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/ea507c29e7935c7c13caae922690ca3519fee5c0",
+                    "reference": "ea507c29e7935c7c13caae922690ca3519fee5c0",
                     "shasum": ""
                 },
                 "require": {
@@ -70,7 +70,7 @@
                     "horde/service_gravatar": "^1",
                     "pear-phpseclib.sourceforge.net/File_ASN1": "*"
                 },
-                "time": "2020-09-29T00:00:00+00:00",
+                "time": "2020-10-06T00:00:00+00:00",
                 "bin": [
                     "bin/imp-bounce-spam",
                     "bin/imp-mailbox-decode",
@@ -521,12 +521,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/imp.git",
-                    "reference": "ca4a2f72dd393a805f96680a943df7e334751d5e"
+                    "reference": "bcc3e8ab880183b884d7a96a5f439ab508b02f43"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/ca4a2f72dd393a805f96680a943df7e334751d5e",
-                    "reference": "ca4a2f72dd393a805f96680a943df7e334751d5e",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/bcc3e8ab880183b884d7a96a5f439ab508b02f43",
+                    "reference": "bcc3e8ab880183b884d7a96a5f439ab508b02f43",
                     "shasum": ""
                 },
                 "require": {
@@ -583,7 +583,7 @@
                     "horde/service_gravatar": "^1",
                     "pear-phpseclib.sourceforge.net/File_ASN1": "*"
                 },
-                "time": "2020-09-29T00:00:00+00:00",
+                "time": "2020-10-06T00:00:00+00:00",
                 "bin": [
                     "bin/imp-bounce-spam",
                     "bin/imp-mailbox-decode",

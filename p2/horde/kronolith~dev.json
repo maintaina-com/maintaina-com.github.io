@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/kronolith.git",
-                    "reference": "bd7be5878590e5e46167e851173336f31762d70c"
+                    "reference": "33183b565d5129eca52e77d5c6b3086bef072a5e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/bd7be5878590e5e46167e851173336f31762d70c",
-                    "reference": "bd7be5878590e5e46167e851173336f31762d70c",
+                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/33183b565d5129eca52e77d5c6b3086bef072a5e",
+                    "reference": "33183b565d5129eca52e77d5c6b3086bef072a5e",
                     "shasum": ""
                 },
                 "require": {
@@ -65,7 +65,7 @@
                     "horde/timeobjects": "^2",
                     "pear-pear.php.net/Date_Holidays": "^0.21"
                 },
-                "time": "2020-09-29T00:00:00+00:00",
+                "time": "2020-10-06T00:00:00+00:00",
                 "bin": [
                     "bin/kronolith-agenda",
                     "bin/kronolith-convert-to-utc",
@@ -595,12 +595,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/kronolith.git",
-                    "reference": "5f2844681efb2c1e50098bd183535ada6ce4b6c3"
+                    "reference": "8f5c0208692a69880b891b7bbc3cb684f2b5db94"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/5f2844681efb2c1e50098bd183535ada6ce4b6c3",
-                    "reference": "5f2844681efb2c1e50098bd183535ada6ce4b6c3",
+                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/8f5c0208692a69880b891b7bbc3cb684f2b5db94",
+                    "reference": "8f5c0208692a69880b891b7bbc3cb684f2b5db94",
                     "shasum": ""
                 },
                 "require": {
@@ -652,7 +652,7 @@
                     "horde/timeobjects": "^2",
                     "pear-pear.php.net/Date_Holidays": "^0.21"
                 },
-                "time": "2020-09-29T00:00:00+00:00",
+                "time": "2020-10-06T00:00:00+00:00",
                 "bin": [
                     "bin/kronolith-agenda",
                     "bin/kronolith-convert-to-utc",

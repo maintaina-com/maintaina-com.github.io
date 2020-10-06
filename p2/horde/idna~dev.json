@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Idna.git",
-                    "reference": "2fc433249a0d409b071aac8a53be77b0ff5175fd"
+                    "reference": "11ca51defeb67b7df8453d7b52491cb3be7449f3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Idna/zipball/2fc433249a0d409b071aac8a53be77b0ff5175fd",
-                    "reference": "2fc433249a0d409b071aac8a53be77b0ff5175fd",
+                    "url": "https://api.github.com/repos/maintaina-com/Idna/zipball/11ca51defeb67b7df8453d7b52491cb3be7449f3",
+                    "reference": "11ca51defeb67b7df8453d7b52491cb3be7449f3",
                     "shasum": ""
                 },
                 "require": {
@@ -25,7 +25,7 @@
                 "suggest": {
                     "ext-intl": "*"
                 },
-                "time": "2020-09-29T00:00:00+00:00",
+                "time": "2020-10-06T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -193,12 +193,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Idna.git",
-                    "reference": "64c251281eb96e98eef703111395fd6717733ed0"
+                    "reference": "891c0d517f61d776c5938e083650a063fb828af9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Idna/zipball/64c251281eb96e98eef703111395fd6717733ed0",
-                    "reference": "64c251281eb96e98eef703111395fd6717733ed0",
+                    "url": "https://api.github.com/repos/maintaina-com/Idna/zipball/891c0d517f61d776c5938e083650a063fb828af9",
+                    "reference": "891c0d517f61d776c5938e083650a063fb828af9",
                     "shasum": ""
                 },
                 "require": {
@@ -210,7 +210,7 @@
                 "suggest": {
                     "ext-intl": "*"
                 },
-                "time": "2020-09-29T00:00:00+00:00",
+                "time": "2020-10-06T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

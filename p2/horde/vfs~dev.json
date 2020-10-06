@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Vfs.git",
-                    "reference": "082534054c3c29fc99f913f2ee756d652ef013fd"
+                    "reference": "2e5b2c01a84a53ff3fbc1e7ed2941a7a48faba77"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/082534054c3c29fc99f913f2ee756d652ef013fd",
-                    "reference": "082534054c3c29fc99f913f2ee756d652ef013fd",
+                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/2e5b2c01a84a53ff3fbc1e7ed2941a7a48faba77",
+                    "reference": "2e5b2c01a84a53ff3fbc1e7ed2941a7a48faba77",
                     "shasum": ""
                 },
                 "require": {
@@ -35,7 +35,7 @@
                     "horde/perms": "^2",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-09-29T00:00:00+00:00",
+                "time": "2020-10-06T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -129,12 +129,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Vfs.git",
-                    "reference": "f88615f958d5c7e7fe7f64654357e5690ff90899"
+                    "reference": "fa2d6e8079cd9c92c29ad3711865a26ffdca8a0c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/f88615f958d5c7e7fe7f64654357e5690ff90899",
-                    "reference": "f88615f958d5c7e7fe7f64654357e5690ff90899",
+                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/fa2d6e8079cd9c92c29ad3711865a26ffdca8a0c",
+                    "reference": "fa2d6e8079cd9c92c29ad3711865a26ffdca8a0c",
                     "shasum": ""
                 },
                 "require": {
@@ -191,12 +191,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Vfs.git",
-                    "reference": "f88615f958d5c7e7fe7f64654357e5690ff90899"
+                    "reference": "fa2d6e8079cd9c92c29ad3711865a26ffdca8a0c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/f88615f958d5c7e7fe7f64654357e5690ff90899",
-                    "reference": "f88615f958d5c7e7fe7f64654357e5690ff90899",
+                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/fa2d6e8079cd9c92c29ad3711865a26ffdca8a0c",
+                    "reference": "fa2d6e8079cd9c92c29ad3711865a26ffdca8a0c",
                     "shasum": ""
                 },
                 "require": {
@@ -253,12 +253,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Vfs.git",
-                    "reference": "64e61c7c0d2c6947a82268fb167eb036f05a9b5a"
+                    "reference": "8528accda4a4dd241b4ad907295c17ffa0eea74d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/64e61c7c0d2c6947a82268fb167eb036f05a9b5a",
-                    "reference": "64e61c7c0d2c6947a82268fb167eb036f05a9b5a",
+                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/8528accda4a4dd241b4ad907295c17ffa0eea74d",
+                    "reference": "8528accda4a4dd241b4ad907295c17ffa0eea74d",
                     "shasum": ""
                 },
                 "require": {
@@ -280,7 +280,7 @@
                     "horde/perms": "^2",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-09-29T00:00:00+00:00",
+                "time": "2020-10-06T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

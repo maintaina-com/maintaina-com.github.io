@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/base.git",
-                    "reference": "dda0c7133dfab9a3f89aafa8d3f1ff0b1d488d37"
+                    "reference": "f6633fe98c829fe44963035227f0006825b6d18b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/dda0c7133dfab9a3f89aafa8d3f1ff0b1d488d37",
-                    "reference": "dda0c7133dfab9a3f89aafa8d3f1ff0b1d488d37",
+                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/f6633fe98c829fe44963035227f0006825b6d18b",
+                    "reference": "f6633fe98c829fe44963035227f0006825b6d18b",
                     "shasum": ""
                 },
                 "require": {
@@ -70,7 +70,7 @@
                     "pear-pear.php.net/File_Fstab": "*",
                     "pear-pear.php.net/Net_DNS2": "*"
                 },
-                "time": "2020-09-29T00:00:00+00:00",
+                "time": "2020-10-06T00:00:00+00:00",
                 "bin": [
                     "bin/horde-remove-user-data",
                     "bin/horde-active-sessions",
@@ -678,12 +678,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/base.git",
-                    "reference": "1f78ea30d8ef6f0666d520d3890fc0c64c72b570"
+                    "reference": "434f292652979fd47867f146aefefe629d275163"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/1f78ea30d8ef6f0666d520d3890fc0c64c72b570",
-                    "reference": "1f78ea30d8ef6f0666d520d3890fc0c64c72b570",
+                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/434f292652979fd47867f146aefefe629d275163",
+                    "reference": "434f292652979fd47867f146aefefe629d275163",
                     "shasum": ""
                 },
                 "require": {
@@ -740,7 +740,7 @@
                     "pear-pear.php.net/File_Fstab": "*",
                     "pear-pear.php.net/Net_DNS2": "*"
                 },
-                "time": "2020-09-29T00:00:00+00:00",
+                "time": "2020-10-06T00:00:00+00:00",
                 "bin": [
                     "bin/horde-remove-user-data",
                     "bin/horde-active-sessions",

@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ingo.git",
-                    "reference": "1292b8939526702edf421b0676702183e6005bc3"
+                    "reference": "1e673c7c2eb779ae7a852fd1a402cd4ced0ad34d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/1292b8939526702edf421b0676702183e6005bc3",
-                    "reference": "1292b8939526702edf421b0676702183e6005bc3",
+                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/1e673c7c2eb779ae7a852fd1a402cd4ced0ad34d",
+                    "reference": "1e673c7c2eb779ae7a852fd1a402cd4ced0ad34d",
                     "shasum": ""
                 },
                 "require": {
@@ -40,7 +40,7 @@
                     "horde/mongo": "^1",
                     "horde/vfs": "^2"
                 },
-                "time": "2020-09-29T00:00:00+00:00",
+                "time": "2020-10-06T00:00:00+00:00",
                 "bin": [
                     "bin/ingo-admin-upgrade",
                     "bin/ingo-convert-prefs-to-sql",
@@ -375,12 +375,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ingo.git",
-                    "reference": "b2f8991ddc6f77379f5de31e85f68a52e6828f90"
+                    "reference": "a1721466a7f1d98a23129ba756541bc522777d18"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/b2f8991ddc6f77379f5de31e85f68a52e6828f90",
-                    "reference": "b2f8991ddc6f77379f5de31e85f68a52e6828f90",
+                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/a1721466a7f1d98a23129ba756541bc522777d18",
+                    "reference": "a1721466a7f1d98a23129ba756541bc522777d18",
                     "shasum": ""
                 },
                 "require": {
@@ -407,7 +407,7 @@
                     "horde/mongo": "^1",
                     "horde/vfs": "^2"
                 },
-                "time": "2020-09-29T00:00:00+00:00",
+                "time": "2020-10-06T00:00:00+00:00",
                 "bin": [
                     "bin/ingo-admin-upgrade",
                     "bin/ingo-convert-prefs-to-sql",

@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/nag.git",
-                    "reference": "483a75922f2a4ce55a3152742cee8b85d494c669"
+                    "reference": "4284e6328bc15b9ded04a74c544b06200018dba3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/483a75922f2a4ce55a3152742cee8b85d494c669",
-                    "reference": "483a75922f2a4ce55a3152742cee8b85d494c669",
+                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/4284e6328bc15b9ded04a74c544b06200018dba3",
+                    "reference": "4284e6328bc15b9ded04a74c544b06200018dba3",
                     "shasum": ""
                 },
                 "require": {
@@ -53,7 +53,7 @@
                     "horde/openxchange": "^1",
                     "horde/test": "^2"
                 },
-                "time": "2020-09-29T00:00:00+00:00",
+                "time": "2020-10-06T00:00:00+00:00",
                 "bin": [
                     "bin/nag-convert-datatree-shares-to-sql",
                     "bin/nag-import-openxchange",
@@ -439,12 +439,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/nag.git",
-                    "reference": "89b1861c94fcb024d83f61c1c9ca8fd071bd5159"
+                    "reference": "565cbc72345f5297331095af94e890b8c8538988"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/89b1861c94fcb024d83f61c1c9ca8fd071bd5159",
-                    "reference": "89b1861c94fcb024d83f61c1c9ca8fd071bd5159",
+                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/565cbc72345f5297331095af94e890b8c8538988",
+                    "reference": "565cbc72345f5297331095af94e890b8c8538988",
                     "shasum": ""
                 },
                 "require": {
@@ -484,7 +484,7 @@
                     "horde/openxchange": "^1",
                     "horde/test": "^2"
                 },
-                "time": "2020-09-29T00:00:00+00:00",
+                "time": "2020-10-06T00:00:00+00:00",
                 "bin": [
                     "bin/nag-convert-datatree-shares-to-sql",
                     "bin/nag-import-openxchange",
