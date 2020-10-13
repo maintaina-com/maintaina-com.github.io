@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/imp.git",
-                    "reference": "ea507c29e7935c7c13caae922690ca3519fee5c0"
+                    "reference": "eff4af3891a0f158e7d0e9c3574393980618a463"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/ea507c29e7935c7c13caae922690ca3519fee5c0",
-                    "reference": "ea507c29e7935c7c13caae922690ca3519fee5c0",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/eff4af3891a0f158e7d0e9c3574393980618a463",
+                    "reference": "eff4af3891a0f158e7d0e9c3574393980618a463",
                     "shasum": ""
                 },
                 "require": {
@@ -70,11 +70,11 @@
                     "horde/service_gravatar": "^1",
                     "pear-phpseclib.sourceforge.net/File_ASN1": "*"
                 },
-                "time": "2020-10-06T00:00:00+00:00",
+                "time": "2020-10-13T00:00:00+00:00",
                 "bin": [
-                    "bin/imp-bounce-spam",
                     "bin/imp-mailbox-decode",
                     "bin/imp-admin-upgrade",
+                    "bin/imp-bounce-spam",
                     "bin/imp-query-imap-cache"
                 ],
                 "type": "horde-application",
@@ -521,12 +521,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/imp.git",
-                    "reference": "bcc3e8ab880183b884d7a96a5f439ab508b02f43"
+                    "reference": "2e10f6d4fd85cc5b879640446e432f092cd7f67e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/bcc3e8ab880183b884d7a96a5f439ab508b02f43",
-                    "reference": "bcc3e8ab880183b884d7a96a5f439ab508b02f43",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/2e10f6d4fd85cc5b879640446e432f092cd7f67e",
+                    "reference": "2e10f6d4fd85cc5b879640446e432f092cd7f67e",
                     "shasum": ""
                 },
                 "require": {
@@ -583,11 +583,11 @@
                     "horde/service_gravatar": "^1",
                     "pear-phpseclib.sourceforge.net/File_ASN1": "*"
                 },
-                "time": "2020-10-06T00:00:00+00:00",
+                "time": "2020-10-13T00:00:00+00:00",
                 "bin": [
-                    "bin/imp-bounce-spam",
                     "bin/imp-mailbox-decode",
                     "bin/imp-admin-upgrade",
+                    "bin/imp-bounce-spam",
                     "bin/imp-query-imap-cache"
                 ],
                 "type": "horde-application",

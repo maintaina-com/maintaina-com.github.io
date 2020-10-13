@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/JavascriptMinify.git",
-                    "reference": "a55fb1a686410a0d325ed0a0d76f602764475da6"
+                    "reference": "791c5e4a933ad7393f6187a1a06c26a28a734c2c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/JavascriptMinify/zipball/a55fb1a686410a0d325ed0a0d76f602764475da6",
-                    "reference": "a55fb1a686410a0d325ed0a0d76f602764475da6",
+                    "url": "https://api.github.com/repos/maintaina-com/JavascriptMinify/zipball/791c5e4a933ad7393f6187a1a06c26a28a734c2c",
+                    "reference": "791c5e4a933ad7393f6187a1a06c26a28a734c2c",
                     "shasum": ""
                 },
                 "require": {
@@ -23,7 +23,7 @@
                     "horde/util": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-10-06T00:00:00+00:00",
+                "time": "2020-10-13T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -185,12 +185,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/JavascriptMinify.git",
-                    "reference": "4e485b1f734c782aef42f41f4a4f7f7bf9a8e43a"
+                    "reference": "fbeff5283fd166ee307bb9ed64c4d0ca60bef0ed"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/JavascriptMinify/zipball/4e485b1f734c782aef42f41f4a4f7f7bf9a8e43a",
-                    "reference": "4e485b1f734c782aef42f41f4a4f7f7bf9a8e43a",
+                    "url": "https://api.github.com/repos/maintaina-com/JavascriptMinify/zipball/fbeff5283fd166ee307bb9ed64c4d0ca60bef0ed",
+                    "reference": "fbeff5283fd166ee307bb9ed64c4d0ca60bef0ed",
                     "shasum": ""
                 },
                 "require": {
@@ -200,7 +200,7 @@
                     "horde/util": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-10-06T00:00:00+00:00",
+                "time": "2020-10-13T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

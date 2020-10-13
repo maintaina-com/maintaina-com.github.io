@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/mnemo.git",
-                    "reference": "95a56885c73941433041dc2f9a19e73feb46c01d"
+                    "reference": "51310bcc326809422cf9b80a405f56ea8c5d9ba6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/95a56885c73941433041dc2f9a19e73feb46c01d",
-                    "reference": "95a56885c73941433041dc2f9a19e73feb46c01d",
+                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/51310bcc326809422cf9b80a405f56ea8c5d9ba6",
+                    "reference": "51310bcc326809422cf9b80a405f56ea8c5d9ba6",
                     "shasum": ""
                 },
                 "require": {
@@ -47,12 +47,12 @@
                     "horde/pdf": "^2",
                     "horde/test": "^2"
                 },
-                "time": "2020-10-06T00:00:00+00:00",
+                "time": "2020-10-13T00:00:00+00:00",
                 "bin": [
-                    "bin/mnemo-convert-datatree-shares-to-sql",
-                    "bin/mnemo-convert-sql-shares-to-sqlng",
                     "bin/mnemo-convert-to-utf8",
-                    "bin/mnemo-import-text-note"
+                    "bin/mnemo-import-text-note",
+                    "bin/mnemo-convert-sql-shares-to-sqlng",
+                    "bin/mnemo-convert-datatree-shares-to-sql"
                 ],
                 "type": "horde-application",
                 "autoload": {
@@ -384,12 +384,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/mnemo.git",
-                    "reference": "dba35d1e03fa417e398c06e2969532c1bdaea14d"
+                    "reference": "4ae14e172124512decfcd3fb28aa59de71f44f73"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/dba35d1e03fa417e398c06e2969532c1bdaea14d",
-                    "reference": "dba35d1e03fa417e398c06e2969532c1bdaea14d",
+                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/4ae14e172124512decfcd3fb28aa59de71f44f73",
+                    "reference": "4ae14e172124512decfcd3fb28aa59de71f44f73",
                     "shasum": ""
                 },
                 "require": {
@@ -423,12 +423,12 @@
                     "horde/pdf": "^2",
                     "horde/test": "^2"
                 },
-                "time": "2020-10-06T00:00:00+00:00",
+                "time": "2020-10-13T00:00:00+00:00",
                 "bin": [
-                    "bin/mnemo-convert-datatree-shares-to-sql",
-                    "bin/mnemo-convert-sql-shares-to-sqlng",
                     "bin/mnemo-convert-to-utf8",
-                    "bin/mnemo-import-text-note"
+                    "bin/mnemo-import-text-note",
+                    "bin/mnemo-convert-sql-shares-to-sqlng",
+                    "bin/mnemo-convert-datatree-shares-to-sql"
                 ],
                 "type": "horde-application",
                 "autoload": {

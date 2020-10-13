@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/base.git",
-                    "reference": "f6633fe98c829fe44963035227f0006825b6d18b"
+                    "reference": "56470370cbe39d63ff9422ada0724c0aa4c98a35"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/f6633fe98c829fe44963035227f0006825b6d18b",
-                    "reference": "f6633fe98c829fe44963035227f0006825b6d18b",
+                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/56470370cbe39d63ff9422ada0724c0aa4c98a35",
+                    "reference": "56470370cbe39d63ff9422ada0724c0aa4c98a35",
                     "shasum": ""
                 },
                 "require": {
@@ -70,27 +70,27 @@
                     "pear-pear.php.net/File_Fstab": "*",
                     "pear-pear.php.net/Net_DNS2": "*"
                 },
-                "time": "2020-10-06T00:00:00+00:00",
+                "time": "2020-10-13T00:00:00+00:00",
                 "bin": [
-                    "bin/horde-remove-user-data",
-                    "bin/horde-active-sessions",
-                    "bin/horde-sessions-gc",
                     "bin/horde-crond",
-                    "bin/horde-queue-run-tasks",
-                    "bin/horde-sql-shell",
-                    "bin/horde-backup",
-                    "bin/horde-db-migrate",
-                    "bin/horde-check-logger",
-                    "bin/horde-translation",
-                    "bin/horde-memcache-stats",
-                    "bin/horde-alarms",
                     "bin/horde-pref-remove",
                     "bin/horde-import-openxchange-prefs",
-                    "bin/horde-clear-cache",
+                    "bin/horde-queue-run-tasks",
+                    "bin/horde-db-migrate",
                     "bin/horde-run-task",
+                    "bin/horde-translation",
+                    "bin/horde-backup",
+                    "bin/horde-clear-cache",
+                    "bin/horde-alarms",
+                    "bin/horde-sql-shell",
+                    "bin/horde-import-squirrelmail-prefs",
+                    "bin/horde-active-sessions",
+                    "bin/horde-memcache-stats",
                     "bin/horde-set-perms",
-                    "bin/horde-themes",
-                    "bin/horde-import-squirrelmail-prefs"
+                    "bin/horde-sessions-gc",
+                    "bin/horde-check-logger",
+                    "bin/horde-remove-user-data",
+                    "bin/horde-themes"
                 ],
                 "type": "horde-application",
                 "autoload": {
@@ -678,12 +678,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/base.git",
-                    "reference": "434f292652979fd47867f146aefefe629d275163"
+                    "reference": "b16dd2966d95fbfbec01e08d113b902d933432d1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/434f292652979fd47867f146aefefe629d275163",
-                    "reference": "434f292652979fd47867f146aefefe629d275163",
+                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/b16dd2966d95fbfbec01e08d113b902d933432d1",
+                    "reference": "b16dd2966d95fbfbec01e08d113b902d933432d1",
                     "shasum": ""
                 },
                 "require": {
@@ -740,27 +740,27 @@
                     "pear-pear.php.net/File_Fstab": "*",
                     "pear-pear.php.net/Net_DNS2": "*"
                 },
-                "time": "2020-10-06T00:00:00+00:00",
+                "time": "2020-10-13T00:00:00+00:00",
                 "bin": [
-                    "bin/horde-remove-user-data",
-                    "bin/horde-active-sessions",
-                    "bin/horde-sessions-gc",
                     "bin/horde-crond",
-                    "bin/horde-queue-run-tasks",
-                    "bin/horde-sql-shell",
-                    "bin/horde-backup",
-                    "bin/horde-db-migrate",
-                    "bin/horde-check-logger",
-                    "bin/horde-translation",
-                    "bin/horde-memcache-stats",
-                    "bin/horde-alarms",
                     "bin/horde-pref-remove",
                     "bin/horde-import-openxchange-prefs",
-                    "bin/horde-clear-cache",
+                    "bin/horde-queue-run-tasks",
+                    "bin/horde-db-migrate",
                     "bin/horde-run-task",
+                    "bin/horde-translation",
+                    "bin/horde-backup",
+                    "bin/horde-clear-cache",
+                    "bin/horde-alarms",
+                    "bin/horde-sql-shell",
+                    "bin/horde-import-squirrelmail-prefs",
+                    "bin/horde-active-sessions",
+                    "bin/horde-memcache-stats",
                     "bin/horde-set-perms",
-                    "bin/horde-themes",
-                    "bin/horde-import-squirrelmail-prefs"
+                    "bin/horde-sessions-gc",
+                    "bin/horde-check-logger",
+                    "bin/horde-remove-user-data",
+                    "bin/horde-themes"
                 ],
                 "type": "horde-application",
                 "autoload": {
