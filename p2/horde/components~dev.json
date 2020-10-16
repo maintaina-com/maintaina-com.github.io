@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/components.git",
-                    "reference": "2bd4d8ba1f8d09e87c8554ac40c9111ae59cc9a2"
+                    "reference": "cf9aa2cbcfec70896cb860c8ab557101d62ed8b1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/2bd4d8ba1f8d09e87c8554ac40c9111ae59cc9a2",
-                    "reference": "2bd4d8ba1f8d09e87c8554ac40c9111ae59cc9a2",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/cf9aa2cbcfec70896cb860c8ab557101d62ed8b1",
+                    "reference": "cf9aa2cbcfec70896cb860c8ab557101d62ed8b1",
                     "shasum": ""
                 },
                 "require": {
@@ -42,7 +42,7 @@
                     "pear-pear.phpunit.de/phpdcd": "*",
                     "pear-pear.phpunit.de/phploc": "*"
                 },
-                "time": "2020-07-30T00:00:00+00:00",
+                "time": "2020-10-15T00:00:00+00:00",
                 "bin": [
                     "bin/horde-components"
                 ],
@@ -50,6 +50,9 @@
                 "autoload": {
                     "psr-0": {
                         "Components": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Components\\": "src/"
                     }
                 },
                 "license": [
@@ -345,12 +348,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/components.git",
-                    "reference": "78361ed9a939e13249f95747d821f360cdbffefc"
+                    "reference": "032c25afda2df1f79fa8cf9bf7534532b0bb48d3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/78361ed9a939e13249f95747d821f360cdbffefc",
-                    "reference": "78361ed9a939e13249f95747d821f360cdbffefc",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/032c25afda2df1f79fa8cf9bf7534532b0bb48d3",
+                    "reference": "032c25afda2df1f79fa8cf9bf7534532b0bb48d3",
                     "shasum": ""
                 },
                 "require": {
@@ -417,12 +420,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/components.git",
-                    "reference": "2bd4d8ba1f8d09e87c8554ac40c9111ae59cc9a2"
+                    "reference": "cf9aa2cbcfec70896cb860c8ab557101d62ed8b1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/2bd4d8ba1f8d09e87c8554ac40c9111ae59cc9a2",
-                    "reference": "2bd4d8ba1f8d09e87c8554ac40c9111ae59cc9a2",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/cf9aa2cbcfec70896cb860c8ab557101d62ed8b1",
+                    "reference": "cf9aa2cbcfec70896cb860c8ab557101d62ed8b1",
                     "shasum": ""
                 },
                 "require": {
@@ -451,7 +454,7 @@
                     "pear-pear.phpunit.de/phpdcd": "*",
                     "pear-pear.phpunit.de/phploc": "*"
                 },
-                "time": "2020-07-30T00:00:00+00:00",
+                "time": "2020-10-15T00:00:00+00:00",
                 "bin": [
                     "bin/horde-components"
                 ],
@@ -459,6 +462,9 @@
                 "autoload": {
                     "psr-0": {
                         "Components": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Components\\": "src/"
                     }
                 },
                 "license": [
