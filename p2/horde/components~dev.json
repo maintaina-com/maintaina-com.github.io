@@ -415,6 +415,78 @@
             },
             {
                 "name": "horde/components",
+                "version": "dev-maintaina-bare-psr4",
+                "version_normalized": "dev-maintaina-bare-psr4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/components.git",
+                    "reference": "55c36d5a2aa07c511fe68354835d962cb589a571"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/55c36d5a2aa07c511fe68354835d962cb589a571",
+                    "reference": "55c36d5a2aa07c511fe68354835d962cb589a571",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_argv": "*",
+                    "pear-pear.horde.org/horde_autoloader": "*",
+                    "pear-pear.horde.org/horde_cli": "^2.3",
+                    "pear-pear.horde.org/horde_cli_modular": "^2.1",
+                    "pear-pear.horde.org/horde_http": "*",
+                    "pear-pear.horde.org/horde_injector": "*",
+                    "pear-pear.horde.org/horde_pear": "*",
+                    "pear-pear.horde.org/horde_release": "*",
+                    "pear-pear.horde.org/horde_role": "*",
+                    "pear-pear.horde.org/horde_text_diff": "*",
+                    "pear-pear.horde.org/horde_util": "*",
+                    "pear-pear.horde.org/horde_yaml": "*",
+                    "php": "^5.4 || ^7"
+                },
+                "replace": {
+                    "pear-horde/components": "1.*",
+                    "pear-pear.horde.org/components": "1.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "*",
+                    "pear-pear.php.net/Archive_Tar": "*",
+                    "pear-pear.php.net/PHP_CodeSniffer": "*",
+                    "pear-pear.phpmd.org/PHP_PMD": "*",
+                    "pear-pear.phpunit.de/PHPUnit": "*",
+                    "pear-pear.phpunit.de/phpcpd": "*",
+                    "pear-pear.phpunit.de/phpdcd": "*",
+                    "pear-pear.phpunit.de/phploc": "*"
+                },
+                "time": "2020-03-15T00:00:00+00:00",
+                "type": "project",
+                "autoload": {
+                    "psr-0": {
+                        "Components": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Developer tool for managing Horde components",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/components/tree/maintaina-bare-psr4"
+                }
+            },
+            {
+                "name": "horde/components",
                 "version": "dev-maintaina-composerfixed",
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
@@ -486,6 +558,81 @@
                 "homepage": "https://www.horde.org",
                 "support": {
                     "source": "https://github.com/maintaina-com/components/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/components",
+                "version": "dev-psr4-composerfixed",
+                "version_normalized": "dev-psr4-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/components.git",
+                    "reference": "b3b7b8b06a79f1167a0e9432af29da471c13e720"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/b3b7b8b06a79f1167a0e9432af29da471c13e720",
+                    "reference": "b3b7b8b06a79f1167a0e9432af29da471c13e720",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/argv": "dev-master",
+                    "horde/autoloader": "dev-master",
+                    "horde/cli": "dev-master",
+                    "horde/cli_modular": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/http": "dev-master",
+                    "horde/injector": "dev-master",
+                    "horde/pear": "dev-master",
+                    "horde/release": "dev-master",
+                    "horde/role": "dev-master",
+                    "horde/text_diff": "dev-master",
+                    "horde/util": "dev-master",
+                    "horde/yaml": "dev-master",
+                    "php": "^5.4 || ^7"
+                },
+                "suggest": {
+                    "horde/test": "*",
+                    "pear-pear.php.net/Archive_Tar": "*",
+                    "pear-pear.php.net/PHP_CodeSniffer": "*",
+                    "pear-pear.phpmd.org/PHP_PMD": "*",
+                    "pear-pear.phpunit.de/PHPUnit": "*",
+                    "pear-pear.phpunit.de/phpcpd": "*",
+                    "pear-pear.phpunit.de/phpdcd": "*",
+                    "pear-pear.phpunit.de/phploc": "*"
+                },
+                "time": "2020-10-16T00:00:00+00:00",
+                "bin": [
+                    "bin/horde-components"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Components": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Components\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Developer tool for managing Horde components",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/components/tree/psr4-composerfixed"
                 }
             }
         ]
