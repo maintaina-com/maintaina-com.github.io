@@ -232,17 +232,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Injector.git",
-                    "reference": "7d2dd6fcd0c217cde3bfb5da8167fcdb1622e5e4"
+                    "reference": "49c98e85713aa144e19d312020bc4142492a1199"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/7d2dd6fcd0c217cde3bfb5da8167fcdb1622e5e4",
-                    "reference": "7d2dd6fcd0c217cde3bfb5da8167fcdb1622e5e4",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/49c98e85713aa144e19d312020bc4142492a1199",
+                    "reference": "49c98e85713aa144e19d312020bc4142492a1199",
                     "shasum": ""
                 },
                 "require": {
                     "pear-pear.horde.org/horde_exception": "^2",
-                    "php": "^5.3 || ^7"
+                    "php": "^5.3 || ^7",
+                    "psr/container": "^1"
                 },
                 "replace": {
                     "pear-horde/horde_injector": "2.*",
