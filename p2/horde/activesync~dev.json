@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ActiveSync.git",
-                    "reference": "a652f134eeddc5f7ca9b84dd6d7a32c6c1165c16"
+                    "reference": "7dbfd07e6ff152f3cc148ce66ea0c594edc04c44"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/a652f134eeddc5f7ca9b84dd6d7a32c6c1165c16",
-                    "reference": "a652f134eeddc5f7ca9b84dd6d7a32c6c1165c16",
+                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/7dbfd07e6ff152f3cc148ce66ea0c594edc04c44",
+                    "reference": "7dbfd07e6ff152f3cc148ce66ea0c594edc04c44",
                     "shasum": ""
                 },
                 "require": {
@@ -40,7 +40,7 @@
                     "horde/test": "^2.1",
                     "horde/text_filter": "^2"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -135,12 +135,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ActiveSync.git",
-                    "reference": "bea75ac0bc43bb5e3bd893ac9e1a816a67e9c434"
+                    "reference": "180ddfd2f095ed19cc2571bc3f53cb4d0055f7d6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/bea75ac0bc43bb5e3bd893ac9e1a816a67e9c434",
-                    "reference": "bea75ac0bc43bb5e3bd893ac9e1a816a67e9c434",
+                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/180ddfd2f095ed19cc2571bc3f53cb4d0055f7d6",
+                    "reference": "180ddfd2f095ed19cc2571bc3f53cb4d0055f7d6",
                     "shasum": ""
                 },
                 "require": {
@@ -200,12 +200,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ActiveSync.git",
-                    "reference": "bea75ac0bc43bb5e3bd893ac9e1a816a67e9c434"
+                    "reference": "180ddfd2f095ed19cc2571bc3f53cb4d0055f7d6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/bea75ac0bc43bb5e3bd893ac9e1a816a67e9c434",
-                    "reference": "bea75ac0bc43bb5e3bd893ac9e1a816a67e9c434",
+                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/180ddfd2f095ed19cc2571bc3f53cb4d0055f7d6",
+                    "reference": "180ddfd2f095ed19cc2571bc3f53cb4d0055f7d6",
                     "shasum": ""
                 },
                 "require": {
@@ -265,12 +265,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ActiveSync.git",
-                    "reference": "d5c68ab3fbae477449414be4e48a8f1b5758837c"
+                    "reference": "0e140923bd5c1b9900d3cf8244db5f23c0bd8b1a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/d5c68ab3fbae477449414be4e48a8f1b5758837c",
-                    "reference": "d5c68ab3fbae477449414be4e48a8f1b5758837c",
+                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/0e140923bd5c1b9900d3cf8244db5f23c0bd8b1a",
+                    "reference": "0e140923bd5c1b9900d3cf8244db5f23c0bd8b1a",
                     "shasum": ""
                 },
                 "require": {
@@ -297,7 +297,7 @@
                     "horde/test": "^2.1",
                     "horde/text_filter": "^2"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

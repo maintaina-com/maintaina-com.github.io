@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/turba.git",
-                    "reference": "7b72efb37a5972366f820081e5e3c37d428dbf69"
+                    "reference": "97e29ba4ea1eee321b61fa91872221bcb0c8d6a6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/7b72efb37a5972366f820081e5e3c37d428dbf69",
-                    "reference": "7b72efb37a5972366f820081e5e3c37d428dbf69",
+                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/97e29ba4ea1eee321b61fa91872221bcb0c8d6a6",
+                    "reference": "97e29ba4ea1eee321b61fa91872221bcb0c8d6a6",
                     "shasum": ""
                 },
                 "require": {
@@ -57,7 +57,7 @@
                     "horde/ldap": "^2.1",
                     "horde/openxchange": "^1"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "bin": [
                     "bin/turba-validate-email",
                     "bin/turba-convert-datatree-shares-to-sql",
@@ -403,12 +403,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/turba.git",
-                    "reference": "72a8c6ef24bc3ba3b4a8a90adad13fdbfb5c8aa0"
+                    "reference": "b722a1212f93d3597c1ef627b2e879fa41827d0f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/72a8c6ef24bc3ba3b4a8a90adad13fdbfb5c8aa0",
-                    "reference": "72a8c6ef24bc3ba3b4a8a90adad13fdbfb5c8aa0",
+                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/b722a1212f93d3597c1ef627b2e879fa41827d0f",
+                    "reference": "b722a1212f93d3597c1ef627b2e879fa41827d0f",
                     "shasum": ""
                 },
                 "require": {
@@ -452,7 +452,7 @@
                     "horde/ldap": "^2.1",
                     "horde/openxchange": "^1"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "bin": [
                     "bin/turba-validate-email",
                     "bin/turba-convert-datatree-shares-to-sql",

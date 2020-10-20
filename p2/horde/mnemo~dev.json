@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/mnemo.git",
-                    "reference": "51310bcc326809422cf9b80a405f56ea8c5d9ba6"
+                    "reference": "74d6d3ed336bb60d484260fd319a55303bbc05d2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/51310bcc326809422cf9b80a405f56ea8c5d9ba6",
-                    "reference": "51310bcc326809422cf9b80a405f56ea8c5d9ba6",
+                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/74d6d3ed336bb60d484260fd319a55303bbc05d2",
+                    "reference": "74d6d3ed336bb60d484260fd319a55303bbc05d2",
                     "shasum": ""
                 },
                 "require": {
@@ -47,7 +47,7 @@
                     "horde/pdf": "^2",
                     "horde/test": "^2"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "bin": [
                     "bin/mnemo-convert-to-utf8",
                     "bin/mnemo-import-text-note",
@@ -384,12 +384,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/mnemo.git",
-                    "reference": "4ae14e172124512decfcd3fb28aa59de71f44f73"
+                    "reference": "b86161591206d697cb84fabf6c1d6429220855ec"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/4ae14e172124512decfcd3fb28aa59de71f44f73",
-                    "reference": "4ae14e172124512decfcd3fb28aa59de71f44f73",
+                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/b86161591206d697cb84fabf6c1d6429220855ec",
+                    "reference": "b86161591206d697cb84fabf6c1d6429220855ec",
                     "shasum": ""
                 },
                 "require": {
@@ -423,7 +423,7 @@
                     "horde/pdf": "^2",
                     "horde/test": "^2"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "bin": [
                     "bin/mnemo-convert-to-utf8",
                     "bin/mnemo-import-text-note",

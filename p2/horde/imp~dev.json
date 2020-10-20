@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/imp.git",
-                    "reference": "eff4af3891a0f158e7d0e9c3574393980618a463"
+                    "reference": "fde650fa425aa4b3b051f0155fd5e67964788d84"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/eff4af3891a0f158e7d0e9c3574393980618a463",
-                    "reference": "eff4af3891a0f158e7d0e9c3574393980618a463",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/fde650fa425aa4b3b051f0155fd5e67964788d84",
+                    "reference": "fde650fa425aa4b3b051f0155fd5e67964788d84",
                     "shasum": ""
                 },
                 "require": {
@@ -70,7 +70,7 @@
                     "horde/service_gravatar": "^1",
                     "pear-phpseclib.sourceforge.net/File_ASN1": "*"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "bin": [
                     "bin/imp-mailbox-decode",
                     "bin/imp-admin-upgrade",
@@ -521,12 +521,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/imp.git",
-                    "reference": "2e10f6d4fd85cc5b879640446e432f092cd7f67e"
+                    "reference": "d1eed50a51d430257bcb3b1806395ff1313c7e10"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/2e10f6d4fd85cc5b879640446e432f092cd7f67e",
-                    "reference": "2e10f6d4fd85cc5b879640446e432f092cd7f67e",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/d1eed50a51d430257bcb3b1806395ff1313c7e10",
+                    "reference": "d1eed50a51d430257bcb3b1806395ff1313c7e10",
                     "shasum": ""
                 },
                 "require": {
@@ -583,7 +583,7 @@
                     "horde/service_gravatar": "^1",
                     "pear-phpseclib.sourceforge.net/File_ASN1": "*"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "bin": [
                     "bin/imp-mailbox-decode",
                     "bin/imp-admin-upgrade",

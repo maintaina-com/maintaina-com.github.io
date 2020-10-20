@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Injector.git",
-                    "reference": "9ec6dc785a6bbe9b17d5bb103250f971f93a727f"
+                    "reference": "954fba499a943726d40086e1e72fcdbc9e59be3b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/9ec6dc785a6bbe9b17d5bb103250f971f93a727f",
-                    "reference": "9ec6dc785a6bbe9b17d5bb103250f971f93a727f",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/954fba499a943726d40086e1e72fcdbc9e59be3b",
+                    "reference": "954fba499a943726d40086e1e72fcdbc9e59be3b",
                     "shasum": ""
                 },
                 "require": {
@@ -24,7 +24,7 @@
                 "suggest": {
                     "horde/test": "^2.1"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -189,12 +189,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Injector.git",
-                    "reference": "cf51d611a6b50792c902a7ade3e6fcac2df87fe7"
+                    "reference": "9b257c749b46f66e8ae64fba925425fc25279b35"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/cf51d611a6b50792c902a7ade3e6fcac2df87fe7",
-                    "reference": "cf51d611a6b50792c902a7ade3e6fcac2df87fe7",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/9b257c749b46f66e8ae64fba925425fc25279b35",
+                    "reference": "9b257c749b46f66e8ae64fba925425fc25279b35",
                     "shasum": ""
                 },
                 "require": {
@@ -205,7 +205,7 @@
                 "suggest": {
                     "horde/test": "^2.1"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -232,12 +232,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Injector.git",
-                    "reference": "49c98e85713aa144e19d312020bc4142492a1199"
+                    "reference": "1f05b6265dca1518e87930450c5295a41402d4a6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/49c98e85713aa144e19d312020bc4142492a1199",
-                    "reference": "49c98e85713aa144e19d312020bc4142492a1199",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/1f05b6265dca1518e87930450c5295a41402d4a6",
+                    "reference": "1f05b6265dca1518e87930450c5295a41402d4a6",
                     "shasum": ""
                 },
                 "require": {

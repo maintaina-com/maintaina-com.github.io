@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/whups.git",
-                    "reference": "e61e41c64b456a9755e550a79de0ae9fdfaeec64"
+                    "reference": "4195d4a41b94ae8c4512019ab6bc585dae3887dc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/e61e41c64b456a9755e550a79de0ae9fdfaeec64",
-                    "reference": "e61e41c64b456a9755e550a79de0ae9fdfaeec64",
+                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/4195d4a41b94ae8c4512019ab6bc585dae3887dc",
+                    "reference": "4195d4a41b94ae8c4512019ab6bc585dae3887dc",
                     "shasum": ""
                 },
                 "require": {
@@ -45,7 +45,7 @@
                     "horde/view": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "bin": [
                     "bin/whups-convert-sql-shares-to-sqlng",
                     "bin/whups-reminders",
@@ -382,12 +382,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/whups.git",
-                    "reference": "a6d82da4b5a37911a948564a58497ac55660c0b8"
+                    "reference": "3b004d7e13c44cb19d6acf20da9a78d755348ce2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/a6d82da4b5a37911a948564a58497ac55660c0b8",
-                    "reference": "a6d82da4b5a37911a948564a58497ac55660c0b8",
+                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/3b004d7e13c44cb19d6acf20da9a78d755348ce2",
+                    "reference": "3b004d7e13c44cb19d6acf20da9a78d755348ce2",
                     "shasum": ""
                 },
                 "require": {
@@ -419,7 +419,7 @@
                     "horde/view": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "bin": [
                     "bin/whups-convert-sql-shares-to-sqlng",
                     "bin/whups-reminders",

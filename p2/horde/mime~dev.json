@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Mime.git",
-                    "reference": "98185afd4aadb8f04d7e41a9228799329d702d18"
+                    "reference": "fe40166d5b54e53b627fc3070df54cbc3e8db8dc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/98185afd4aadb8f04d7e41a9228799329d702d18",
-                    "reference": "98185afd4aadb8f04d7e41a9228799329d702d18",
+                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/fe40166d5b54e53b627fc3070df54cbc3e8db8dc",
+                    "reference": "fe40166d5b54e53b627fc3070df54cbc3e8db8dc",
                     "shasum": ""
                 },
                 "require": {
@@ -37,7 +37,7 @@
                     "horde/text_filter": "^2",
                     "pear-pear.php.net/Net_DNS2": "*"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -133,12 +133,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Mime.git",
-                    "reference": "d4dccdce16bbc14d98d418a4b50747ff5ae419ae"
+                    "reference": "7f6d0aaea1a1f194f46ac4a0428b539df11b46e1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/d4dccdce16bbc14d98d418a4b50747ff5ae419ae",
-                    "reference": "d4dccdce16bbc14d98d418a4b50747ff5ae419ae",
+                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/7f6d0aaea1a1f194f46ac4a0428b539df11b46e1",
+                    "reference": "7f6d0aaea1a1f194f46ac4a0428b539df11b46e1",
                     "shasum": ""
                 },
                 "require": {
@@ -197,12 +197,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Mime.git",
-                    "reference": "d4dccdce16bbc14d98d418a4b50747ff5ae419ae"
+                    "reference": "7f6d0aaea1a1f194f46ac4a0428b539df11b46e1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/d4dccdce16bbc14d98d418a4b50747ff5ae419ae",
-                    "reference": "d4dccdce16bbc14d98d418a4b50747ff5ae419ae",
+                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/7f6d0aaea1a1f194f46ac4a0428b539df11b46e1",
+                    "reference": "7f6d0aaea1a1f194f46ac4a0428b539df11b46e1",
                     "shasum": ""
                 },
                 "require": {
@@ -261,12 +261,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Mime.git",
-                    "reference": "c1ab140b40c2148965ca0fac54e540711f55792a"
+                    "reference": "b41c134aa8e64e0bfb72583a41f1aff3d717139e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/c1ab140b40c2148965ca0fac54e540711f55792a",
-                    "reference": "c1ab140b40c2148965ca0fac54e540711f55792a",
+                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/b41c134aa8e64e0bfb72583a41f1aff3d717139e",
+                    "reference": "b41c134aa8e64e0bfb72583a41f1aff3d717139e",
                     "shasum": ""
                 },
                 "require": {
@@ -290,7 +290,7 @@
                     "horde/text_filter": "^2",
                     "pear-pear.php.net/Net_DNS2": "*"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

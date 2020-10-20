@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ingo.git",
-                    "reference": "fa5f68a1560493ee31a80ede73e6eed44b8d6299"
+                    "reference": "182ccadbe493ec44a91394c5199d09c987a86674"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/fa5f68a1560493ee31a80ede73e6eed44b8d6299",
-                    "reference": "fa5f68a1560493ee31a80ede73e6eed44b8d6299",
+                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/182ccadbe493ec44a91394c5199d09c987a86674",
+                    "reference": "182ccadbe493ec44a91394c5199d09c987a86674",
                     "shasum": ""
                 },
                 "require": {
@@ -40,7 +40,7 @@
                     "horde/mongo": "^1",
                     "horde/vfs": "^2"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "bin": [
                     "bin/ingo-convert-prefs-to-sql",
                     "bin/ingo-convert-sql-shares-to-sqlng",
@@ -375,12 +375,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ingo.git",
-                    "reference": "9be27bc3c9792ec8d978e4afbaac4fc1551a3d15"
+                    "reference": "7963541c73e345483d17406477cee954f06d6bcb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/9be27bc3c9792ec8d978e4afbaac4fc1551a3d15",
-                    "reference": "9be27bc3c9792ec8d978e4afbaac4fc1551a3d15",
+                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/7963541c73e345483d17406477cee954f06d6bcb",
+                    "reference": "7963541c73e345483d17406477cee954f06d6bcb",
                     "shasum": ""
                 },
                 "require": {
@@ -407,7 +407,7 @@
                     "horde/mongo": "^1",
                     "horde/vfs": "^2"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "bin": [
                     "bin/ingo-convert-prefs-to-sql",
                     "bin/ingo-convert-sql-shares-to-sqlng",

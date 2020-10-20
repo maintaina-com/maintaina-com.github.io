@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ansel.git",
-                    "reference": "dfa47807a4e94e19e84825bae94fb379092af92e"
+                    "reference": "22f1b87e74dbdf962ff212aae16b8d7150d7b07d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ansel/zipball/dfa47807a4e94e19e84825bae94fb379092af92e",
-                    "reference": "dfa47807a4e94e19e84825bae94fb379092af92e",
+                    "url": "https://api.github.com/repos/maintaina-com/ansel/zipball/22f1b87e74dbdf962ff212aae16b8d7150d7b07d",
+                    "reference": "22f1b87e74dbdf962ff212aae16b8d7150d7b07d",
                     "shasum": ""
                 },
                 "require": {
@@ -54,7 +54,7 @@
                     "horde/service_twitter": "^2",
                     "horde/service_urlshortener": "^2"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "bin": [
                     "bin/ansel-garbage-collection",
                     "bin/ansel-convert-sql-shares-to-sqlng",
@@ -528,12 +528,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ansel.git",
-                    "reference": "b1933d82b6923a1c3d4a39a9113e941a38d45ee6"
+                    "reference": "0c53ee164cc930085bbed29418e4251884537e33"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ansel/zipball/b1933d82b6923a1c3d4a39a9113e941a38d45ee6",
-                    "reference": "b1933d82b6923a1c3d4a39a9113e941a38d45ee6",
+                    "url": "https://api.github.com/repos/maintaina-com/ansel/zipball/0c53ee164cc930085bbed29418e4251884537e33",
+                    "reference": "0c53ee164cc930085bbed29418e4251884537e33",
                     "shasum": ""
                 },
                 "require": {
@@ -574,7 +574,7 @@
                     "horde/service_twitter": "^2",
                     "horde/service_urlshortener": "^2"
                 },
-                "time": "2020-10-13T00:00:00+00:00",
+                "time": "2020-10-20T00:00:00+00:00",
                 "bin": [
                     "bin/ansel-garbage-collection",
                     "bin/ansel-convert-sql-shares-to-sqlng",
