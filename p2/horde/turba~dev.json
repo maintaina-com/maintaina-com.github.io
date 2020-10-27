@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/turba.git",
-                    "reference": "97e29ba4ea1eee321b61fa91872221bcb0c8d6a6"
+                    "reference": "b9b83f05efd53f009730e7994bb50fd49de1cbeb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/97e29ba4ea1eee321b61fa91872221bcb0c8d6a6",
-                    "reference": "97e29ba4ea1eee321b61fa91872221bcb0c8d6a6",
+                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/b9b83f05efd53f009730e7994bb50fd49de1cbeb",
+                    "reference": "b9b83f05efd53f009730e7994bb50fd49de1cbeb",
                     "shasum": ""
                 },
                 "require": {
@@ -57,16 +57,16 @@
                     "horde/ldap": "^2.1",
                     "horde/openxchange": "^1"
                 },
-                "time": "2020-10-20T00:00:00+00:00",
+                "time": "2020-10-27T00:00:00+00:00",
                 "bin": [
-                    "bin/turba-validate-email",
-                    "bin/turba-convert-datatree-shares-to-sql",
                     "bin/turba-convert-sql-shares-to-sqlng",
-                    "bin/turba-public-to-horde-share",
-                    "bin/turba-import-squirrelmail-file-abook",
                     "bin/turba-import-openxchange",
+                    "bin/turba-import-vcards",
                     "bin/turba-import-squirrelmail-sql-abook",
-                    "bin/turba-import-vcards"
+                    "bin/turba-import-squirrelmail-file-abook",
+                    "bin/turba-public-to-horde-share",
+                    "bin/turba-convert-datatree-shares-to-sql",
+                    "bin/turba-validate-email"
                 ],
                 "type": "horde-application",
                 "autoload": {
@@ -403,12 +403,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/turba.git",
-                    "reference": "b722a1212f93d3597c1ef627b2e879fa41827d0f"
+                    "reference": "0182e858748d9222d72c5b6861afffc82e32c6be"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/b722a1212f93d3597c1ef627b2e879fa41827d0f",
-                    "reference": "b722a1212f93d3597c1ef627b2e879fa41827d0f",
+                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/0182e858748d9222d72c5b6861afffc82e32c6be",
+                    "reference": "0182e858748d9222d72c5b6861afffc82e32c6be",
                     "shasum": ""
                 },
                 "require": {
@@ -452,16 +452,16 @@
                     "horde/ldap": "^2.1",
                     "horde/openxchange": "^1"
                 },
-                "time": "2020-10-20T00:00:00+00:00",
+                "time": "2020-10-27T00:00:00+00:00",
                 "bin": [
-                    "bin/turba-validate-email",
-                    "bin/turba-convert-datatree-shares-to-sql",
                     "bin/turba-convert-sql-shares-to-sqlng",
-                    "bin/turba-public-to-horde-share",
-                    "bin/turba-import-squirrelmail-file-abook",
                     "bin/turba-import-openxchange",
+                    "bin/turba-import-vcards",
                     "bin/turba-import-squirrelmail-sql-abook",
-                    "bin/turba-import-vcards"
+                    "bin/turba-import-squirrelmail-file-abook",
+                    "bin/turba-public-to-horde-share",
+                    "bin/turba-convert-datatree-shares-to-sql",
+                    "bin/turba-validate-email"
                 ],
                 "type": "horde-application",
                 "autoload": {

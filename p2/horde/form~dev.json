@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Form.git",
-                    "reference": "a1e67d21c78a540fce43273a43fcc1a236995710"
+                    "reference": "bf52c8f426b1f1a7b2a43160b2754021f2bf7a8f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Form/zipball/a1e67d21c78a540fce43273a43fcc1a236995710",
-                    "reference": "a1e67d21c78a540fce43273a43fcc1a236995710",
+                    "url": "https://api.github.com/repos/maintaina-com/Form/zipball/bf52c8f426b1f1a7b2a43160b2754021f2bf7a8f",
+                    "reference": "bf52c8f426b1f1a7b2a43160b2754021f2bf7a8f",
                     "shasum": ""
                 },
                 "require": {
@@ -30,7 +30,7 @@
                     "horde/util": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-10-20T00:00:00+00:00",
+                "time": "2020-10-27T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "classmap": [
@@ -233,12 +233,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Form.git",
-                    "reference": "9b5f91e380b01f12c974a117fb29b26480a95882"
+                    "reference": "d0312abb9b47b36a781b6e08d6c709406dbc3d72"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Form/zipball/9b5f91e380b01f12c974a117fb29b26480a95882",
-                    "reference": "9b5f91e380b01f12c974a117fb29b26480a95882",
+                    "url": "https://api.github.com/repos/maintaina-com/Form/zipball/d0312abb9b47b36a781b6e08d6c709406dbc3d72",
+                    "reference": "d0312abb9b47b36a781b6e08d6c709406dbc3d72",
                     "shasum": ""
                 },
                 "require": {
@@ -255,7 +255,7 @@
                     "horde/util": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-10-20T00:00:00+00:00",
+                "time": "2020-10-27T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "classmap": [

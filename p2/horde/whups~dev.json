@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/whups.git",
-                    "reference": "4195d4a41b94ae8c4512019ab6bc585dae3887dc"
+                    "reference": "73aafc60ef722addade459ebf2aee0a804e803d5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/4195d4a41b94ae8c4512019ab6bc585dae3887dc",
-                    "reference": "4195d4a41b94ae8c4512019ab6bc585dae3887dc",
+                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/73aafc60ef722addade459ebf2aee0a804e803d5",
+                    "reference": "73aafc60ef722addade459ebf2aee0a804e803d5",
                     "shasum": ""
                 },
                 "require": {
@@ -45,17 +45,17 @@
                     "horde/view": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-10-20T00:00:00+00:00",
+                "time": "2020-10-27T00:00:00+00:00",
                 "bin": [
-                    "bin/whups-convert-sql-shares-to-sqlng",
-                    "bin/whups-reminders",
-                    "bin/whups-obliterate",
-                    "bin/whups-convert-datatree-shares-to-sql",
                     "bin/whups-svn-hook",
                     "bin/whups-convert-to-utf8",
                     "bin/whups-mail-filter",
                     "bin/whups-git-hook",
-                    "bin/whups-bugzilla-import"
+                    "bin/whups-convert-sql-shares-to-sqlng",
+                    "bin/whups-bugzilla-import",
+                    "bin/whups-obliterate",
+                    "bin/whups-convert-datatree-shares-to-sql",
+                    "bin/whups-reminders"
                 ],
                 "type": "horde-application",
                 "autoload": {
@@ -382,12 +382,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/whups.git",
-                    "reference": "3b004d7e13c44cb19d6acf20da9a78d755348ce2"
+                    "reference": "d57ea4f45ea3b461407efa7d0558750a3e68490c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/3b004d7e13c44cb19d6acf20da9a78d755348ce2",
-                    "reference": "3b004d7e13c44cb19d6acf20da9a78d755348ce2",
+                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/d57ea4f45ea3b461407efa7d0558750a3e68490c",
+                    "reference": "d57ea4f45ea3b461407efa7d0558750a3e68490c",
                     "shasum": ""
                 },
                 "require": {
@@ -419,17 +419,17 @@
                     "horde/view": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-10-20T00:00:00+00:00",
+                "time": "2020-10-27T00:00:00+00:00",
                 "bin": [
-                    "bin/whups-convert-sql-shares-to-sqlng",
-                    "bin/whups-reminders",
-                    "bin/whups-obliterate",
-                    "bin/whups-convert-datatree-shares-to-sql",
                     "bin/whups-svn-hook",
                     "bin/whups-convert-to-utf8",
                     "bin/whups-mail-filter",
                     "bin/whups-git-hook",
-                    "bin/whups-bugzilla-import"
+                    "bin/whups-convert-sql-shares-to-sqlng",
+                    "bin/whups-bugzilla-import",
+                    "bin/whups-obliterate",
+                    "bin/whups-convert-datatree-shares-to-sql",
+                    "bin/whups-reminders"
                 ],
                 "type": "horde-application",
                 "autoload": {

@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Browser.git",
-                    "reference": "3a7ce01b848b04122b284a2a1ae2820cf13706e0"
+                    "reference": "6242c70d63da8a80d0b7d276ac1dd61929899b84"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Browser/zipball/3a7ce01b848b04122b284a2a1ae2820cf13706e0",
-                    "reference": "3a7ce01b848b04122b284a2a1ae2820cf13706e0",
+                    "url": "https://api.github.com/repos/maintaina-com/Browser/zipball/6242c70d63da8a80d0b7d276ac1dd61929899b84",
+                    "reference": "6242c70d63da8a80d0b7d276ac1dd61929899b84",
                     "shasum": ""
                 },
                 "require": {
@@ -23,7 +23,7 @@
                     "horde/util": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-10-20T00:00:00+00:00",
+                "time": "2020-10-27T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -217,12 +217,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Browser.git",
-                    "reference": "0d96858a09bdb149df8babfe84ab23ec872e1d6f"
+                    "reference": "d351db691f573f6abad770fdd3940633bde9609a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Browser/zipball/0d96858a09bdb149df8babfe84ab23ec872e1d6f",
-                    "reference": "0d96858a09bdb149df8babfe84ab23ec872e1d6f",
+                    "url": "https://api.github.com/repos/maintaina-com/Browser/zipball/d351db691f573f6abad770fdd3940633bde9609a",
+                    "reference": "d351db691f573f6abad770fdd3940633bde9609a",
                     "shasum": ""
                 },
                 "require": {
@@ -232,7 +232,7 @@
                     "horde/util": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-10-20T00:00:00+00:00",
+                "time": "2020-10-27T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

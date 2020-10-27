@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Rdo.git",
-                    "reference": "c0d37188a3e3d9ace148909ea2af553784df3deb"
+                    "reference": "6f40bb19da639e7285ac4c70faa6f9ed5e7c925e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/c0d37188a3e3d9ace148909ea2af553784df3deb",
-                    "reference": "c0d37188a3e3d9ace148909ea2af553784df3deb",
+                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/6f40bb19da639e7285ac4c70faa6f9ed5e7c925e",
+                    "reference": "6f40bb19da639e7285ac4c70faa6f9ed5e7c925e",
                     "shasum": ""
                 },
                 "require": {
@@ -26,7 +26,7 @@
                 "suggest": {
                     "horde/test": "^2.1"
                 },
-                "time": "2020-10-20T00:00:00+00:00",
+                "time": "2020-10-27T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -197,12 +197,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Rdo.git",
-                    "reference": "c852110e269ecd002fac962286b3be3261b7dfc6"
+                    "reference": "56d30a9893a01d763cd765560794f3bdd5bfe399"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/c852110e269ecd002fac962286b3be3261b7dfc6",
-                    "reference": "c852110e269ecd002fac962286b3be3261b7dfc6",
+                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/56d30a9893a01d763cd765560794f3bdd5bfe399",
+                    "reference": "56d30a9893a01d763cd765560794f3bdd5bfe399",
                     "shasum": ""
                 },
                 "require": {
@@ -215,7 +215,7 @@
                 "suggest": {
                     "horde/test": "^2.1"
                 },
-                "time": "2020-10-20T00:00:00+00:00",
+                "time": "2020-10-27T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

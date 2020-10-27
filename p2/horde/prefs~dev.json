@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Prefs.git",
-                    "reference": "9a7b8f1b17f9e400eaebc2e7a6cf63db0d45dd82"
+                    "reference": "e2a3892db60e9a3c48aa2f05c0dd17fbdf955184"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Prefs/zipball/9a7b8f1b17f9e400eaebc2e7a6cf63db0d45dd82",
-                    "reference": "9a7b8f1b17f9e400eaebc2e7a6cf63db0d45dd82",
+                    "url": "https://api.github.com/repos/maintaina-com/Prefs/zipball/e2a3892db60e9a3c48aa2f05c0dd17fbdf955184",
+                    "reference": "e2a3892db60e9a3c48aa2f05c0dd17fbdf955184",
                     "shasum": ""
                 },
                 "require": {
@@ -37,7 +37,7 @@
                     "horde/mongo": "^1",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-10-20T00:00:00+00:00",
+                "time": "2020-10-27T00:00:00+00:00",
                 "bin": [
                     "bin/horde-prefs"
                 ],
@@ -284,12 +284,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Prefs.git",
-                    "reference": "f2f7cd28c2abe7a630dc4a415f0861817d0428e1"
+                    "reference": "c4cd0da204e061faa4c886a2fe1b379ca74b2ca5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Prefs/zipball/f2f7cd28c2abe7a630dc4a415f0861817d0428e1",
-                    "reference": "f2f7cd28c2abe7a630dc4a415f0861817d0428e1",
+                    "url": "https://api.github.com/repos/maintaina-com/Prefs/zipball/c4cd0da204e061faa4c886a2fe1b379ca74b2ca5",
+                    "reference": "c4cd0da204e061faa4c886a2fe1b379ca74b2ca5",
                     "shasum": ""
                 },
                 "require": {
@@ -313,7 +313,7 @@
                     "horde/mongo": "^1",
                     "horde/test": "^2.1"
                 },
-                "time": "2020-10-20T00:00:00+00:00",
+                "time": "2020-10-27T00:00:00+00:00",
                 "bin": [
                     "bin/horde-prefs"
                 ],

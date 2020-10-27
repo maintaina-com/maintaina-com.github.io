@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Scheduler.git",
-                    "reference": "04feb3193b230f7a197bbeb2905b2221c6ac43de"
+                    "reference": "bea0049b45568e4a4cc88639b550d994820d9d3a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Scheduler/zipball/04feb3193b230f7a197bbeb2905b2221c6ac43de",
-                    "reference": "04feb3193b230f7a197bbeb2905b2221c6ac43de",
+                    "url": "https://api.github.com/repos/maintaina-com/Scheduler/zipball/bea0049b45568e4a4cc88639b550d994820d9d3a",
+                    "reference": "bea0049b45568e4a4cc88639b550d994820d9d3a",
                     "shasum": ""
                 },
                 "require": {
@@ -23,7 +23,7 @@
                     "horde/vfs": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-10-20T00:00:00+00:00",
+                "time": "2020-10-27T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
@@ -185,12 +185,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Scheduler.git",
-                    "reference": "4e494e3a665f85c56dfdf572e9bdc5179149a442"
+                    "reference": "3a71adc65767d6681e4d246a9cf8c02c22b6c3a4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Scheduler/zipball/4e494e3a665f85c56dfdf572e9bdc5179149a442",
-                    "reference": "4e494e3a665f85c56dfdf572e9bdc5179149a442",
+                    "url": "https://api.github.com/repos/maintaina-com/Scheduler/zipball/3a71adc65767d6681e4d246a9cf8c02c22b6c3a4",
+                    "reference": "3a71adc65767d6681e4d246a9cf8c02c22b6c3a4",
                     "shasum": ""
                 },
                 "require": {
@@ -200,7 +200,7 @@
                     "horde/vfs": "dev-master",
                     "php": "^5.3 || ^7"
                 },
-                "time": "2020-10-20T00:00:00+00:00",
+                "time": "2020-10-27T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
