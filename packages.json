@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$eda6eb8515fbedf39ba641b5a400908eef3c8902.json": {
-            "sha1": "eda6eb8515fbedf39ba641b5a400908eef3c8902"
+        "include/all$e84cbd8d6a58105554251bcc4f6eb42f3a992b7c.json": {
+            "sha1": "e84cbd8d6a58105554251bcc4f6eb42f3a992b7c"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -45,6 +45,7 @@
         "horde/horde",
         "horde/horde-gittools",
         "horde/horde-installer-plugin",
+        "horde/horde-managesieve",
         "horde/hordectl",
         "horde/http",
         "horde/icalendar",
@@ -65,6 +66,7 @@
         "horde/logintasks",
         "horde/mail",
         "horde/mail_autoconfig",
+        "horde/managesieve",
         "horde/mapi",
         "horde/mime",
         "horde/mime_viewer",
