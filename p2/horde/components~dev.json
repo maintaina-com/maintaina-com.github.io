@@ -276,12 +276,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/components.git",
-                    "reference": "ef5dd8677c6622dad527432f72a3f591b0f48de9"
+                    "reference": "cc4c9160cfcdfe664039ca20c9e9ac60dea338b9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/ef5dd8677c6622dad527432f72a3f591b0f48de9",
-                    "reference": "ef5dd8677c6622dad527432f72a3f591b0f48de9",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/cc4c9160cfcdfe664039ca20c9e9ac60dea338b9",
+                    "reference": "cc4c9160cfcdfe664039ca20c9e9ac60dea338b9",
                     "shasum": ""
                 },
                 "require": {
@@ -348,12 +348,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/components.git",
-                    "reference": "55fbcecd43e1425e27678958e0b967e91cfc9014"
+                    "reference": "298e87d8431cec5502c7f0285b8fe03ef39c785e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/55fbcecd43e1425e27678958e0b967e91cfc9014",
-                    "reference": "55fbcecd43e1425e27678958e0b967e91cfc9014",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/298e87d8431cec5502c7f0285b8fe03ef39c785e",
+                    "reference": "298e87d8431cec5502c7f0285b8fe03ef39c785e",
                     "shasum": ""
                 },
                 "require": {
@@ -420,12 +420,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/components.git",
-                    "reference": "dd1002ac2892c5bb3a2b0f4e773ae3d02ce253c8"
+                    "reference": "e3e4f01365cd3afacc96aec3d1d624ec5750f01b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/dd1002ac2892c5bb3a2b0f4e773ae3d02ce253c8",
-                    "reference": "dd1002ac2892c5bb3a2b0f4e773ae3d02ce253c8",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/e3e4f01365cd3afacc96aec3d1d624ec5750f01b",
+                    "reference": "e3e4f01365cd3afacc96aec3d1d624ec5750f01b",
                     "shasum": ""
                 },
                 "require": {
@@ -441,7 +441,7 @@
                     "pear-pear.horde.org/horde_text_diff": "*",
                     "pear-pear.horde.org/horde_util": "*",
                     "pear-pear.horde.org/horde_yaml": "*",
-                    "php": "^5.4 || ^7"
+                    "php": "^7"
                 },
                 "replace": {
                     "pear-horde/components": "1.*",
@@ -492,12 +492,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/components.git",
-                    "reference": "d3bc50ad3ca10f0dd9a70f74c24c3a4d5db90d04"
+                    "reference": "4c80532f6569caceb38aa17852de350422c01e21"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/d3bc50ad3ca10f0dd9a70f74c24c3a4d5db90d04",
-                    "reference": "d3bc50ad3ca10f0dd9a70f74c24c3a4d5db90d04",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/4c80532f6569caceb38aa17852de350422c01e21",
+                    "reference": "4c80532f6569caceb38aa17852de350422c01e21",
                     "shasum": ""
                 },
                 "require": {
@@ -505,7 +505,6 @@
                     "horde/autoloader": "dev-master",
                     "horde/cli": "dev-master",
                     "horde/cli_modular": "dev-master",
-                    "horde/exception": "dev-master",
                     "horde/horde-installer-plugin": "dev-master",
                     "horde/http": "dev-master",
                     "horde/injector": "dev-master",
@@ -525,9 +524,10 @@
                     "pear-pear.phpunit.de/PHPUnit": "*",
                     "pear-pear.phpunit.de/phpcpd": "*",
                     "pear-pear.phpunit.de/phpdcd": "*",
-                    "pear-pear.phpunit.de/phploc": "*"
+                    "pear-pear.phpunit.de/phploc": "*",
+                    "squizlabs/php_codesniffer": "*"
                 },
-                "time": "2021-02-15T00:00:00+00:00",
+                "time": "2021-02-18T00:00:00+00:00",
                 "bin": [
                     "bin/horde-components"
                 ],
@@ -550,14 +550,14 @@
                         "role": "lead"
                     },
                     {
-                        "name": "Ralf Lang",
-                        "email": "lang@b1-systems.de",
-                        "role": "lead"
-                    },
-                    {
                         "name": "Gunnar Wrobel",
                         "email": "p@rdus.de",
                         "role": "lead"
+                    },
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "contributor"
                     }
                 ],
                 "description": "Developer tool for managing Horde components",
