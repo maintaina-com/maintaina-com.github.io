@@ -108,6 +108,60 @@
             },
             {
                 "name": "horde/cli_modular",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Cli_Modular.git",
+                    "reference": "b764d9fd763a5296056d744979e24873e91c1a53"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli_Modular/zipball/b764d9fd763a5296056d744979e24873e91c1a53",
+                    "reference": "b764d9fd763a5296056d744979e24873e91c1a53",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/argv": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/test": "^3"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Cli_Modular": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Cli\\Modular\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Modular command line interface library",
+                "homepage": "https://www.horde.org/libraries/Horde_Cli_Modular",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli_Modular/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/cli_modular",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {
