@@ -153,20 +153,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Auth.git",
-                    "reference": "c741906b589b4f5276f9ba44186d7b2d223053c5"
+                    "reference": "50753a3a39db35319414577e78f1d7d256d074ad"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Auth/zipball/c741906b589b4f5276f9ba44186d7b2d223053c5",
-                    "reference": "c741906b589b4f5276f9ba44186d7b2d223053c5",
+                    "url": "https://api.github.com/repos/maintaina-com/Auth/zipball/50753a3a39db35319414577e78f1d7d256d074ad",
+                    "reference": "50753a3a39db35319414577e78f1d7d256d074ad",
                     "shasum": ""
                 },
                 "require": {
                     "ext-hash": "*",
+                    "horde/exception": "^3",
                     "horde/horde-installer-plugin": "*",
-                    "pear-horde/exception": "^3",
-                    "pear-horde/translation": "^3",
-                    "pear-horde/util": "^3",
+                    "horde/translation": "^3",
+                    "horde/util": "^3",
                     "php": "^7"
                 },
                 "suggest": {
@@ -184,7 +184,7 @@
                     "horde/lock": "^3",
                     "horde/test": "^3"
                 },
-                "time": "2021-02-23T00:00:00+00:00",
+                "time": "2021-02-24T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
