@@ -81,6 +81,51 @@
                 ],
                 "description": "Horde Scheduler System",
                 "homepage": "https://pear.horde.org"
+            },
+            {
+                "name": "horde/scheduler",
+                "version": "3.0.0alpha1",
+                "version_normalized": "3.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Scheduler.git",
+                    "reference": "59fc2ab89d97cbad79e00d3c39866a2efa729e43"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Scheduler/zipball/59fc2ab89d97cbad79e00d3c39866a2efa729e43",
+                    "reference": "59fc2ab89d97cbad79e00d3c39866a2efa729e43",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/core": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/util": "^3",
+                    "horde/vfs": "^3",
+                    "php": "^7"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Scheduler": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Scheduler\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Scheduling library",
+                "homepage": "https://www.horde.org/libraries/Horde_Scheduler"
             }
         ]
     }

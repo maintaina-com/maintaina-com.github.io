@@ -120,6 +120,66 @@
             },
             {
                 "name": "horde/controller",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Controller.git",
+                    "reference": "77d8a547d75308b03f82b41307c91aa78e3f56d5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Controller/zipball/77d8a547d75308b03f82b41307c91aa78e3f56d5",
+                    "reference": "77d8a547d75308b03f82b41307c91aa78e3f56d5",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/injector": "^3",
+                    "horde/log": "^3",
+                    "horde/support": "^3",
+                    "horde/util": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "ext-mbstring": "*",
+                    "ext-zlib": "*",
+                    "horde/test": "^3"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Controller": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Controller\\": "src/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Naberezny",
+                        "email": "mike@naberezny.com",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Controller library",
+                "homepage": "https://www.horde.org/libraries/Horde_Controller",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Controller/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/controller",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

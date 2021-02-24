@@ -90,6 +90,51 @@
             },
             {
                 "name": "horde/text_textile",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Text_Textile.git",
+                    "reference": "5154caaf5fac1655975ab7714790718b9941a39b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Textile/zipball/5154caaf5fac1655975ab7714790718b9941a39b",
+                    "reference": "5154caaf5fac1655975ab7714790718b9941a39b",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "*",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/test": "^3"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Text_Textile": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Text\\Textile\\": "src/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Textile formatting library",
+                "homepage": "https://www.horde.org"
+            },
+            {
+                "name": "horde/text_textile",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

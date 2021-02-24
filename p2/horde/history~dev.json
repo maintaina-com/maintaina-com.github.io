@@ -98,6 +98,55 @@
             },
             {
                 "name": "horde/history",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/History.git",
+                    "reference": "5e17ef5e58132fad2a0070006745c9405e640dcd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/History/zipball/5e17ef5e58132fad2a0070006745c9405e640dcd",
+                    "reference": "5e17ef5e58132fad2a0070006745c9405e640dcd",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/db": "^3",
+                    "horde/exception": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/hashtable": "^2",
+                    "horde/mongo": "^2",
+                    "horde/test": "^3"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_History": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\History\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "History tracking library",
+                "homepage": "https://www.horde.org/libraries/Horde_History"
+            },
+            {
+                "name": "horde/history",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

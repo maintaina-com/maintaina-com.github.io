@@ -96,6 +96,54 @@
             },
             {
                 "name": "horde/timezone",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Timezone.git",
+                    "reference": "27f70c3c44295dd85bcda3af534538eb628a57f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Timezone/zipball/27f70c3c44295dd85bcda3af534538eb628a57f4",
+                    "reference": "27f70c3c44295dd85bcda3af534538eb628a57f4",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/date": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/icalendar": "^3",
+                    "horde/vfs": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/test": "^3"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Timezone": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Timezone\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Timezone library",
+                "homepage": "https://www.horde.org/libraries/Horde_Timezone"
+            },
+            {
+                "name": "horde/timezone",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

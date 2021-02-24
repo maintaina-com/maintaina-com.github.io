@@ -94,6 +94,53 @@
             },
             {
                 "name": "horde/logintasks",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/LoginTasks.git",
+                    "reference": "1aab1af048300cf57554d42fc21bf72c7743867b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/LoginTasks/zipball/1aab1af048300cf57554d42fc21bf72c7743867b",
+                    "reference": "1aab1af048300cf57554d42fc21bf72c7743867b",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "*",
+                    "horde/translation": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/date": "^3",
+                    "horde/test": "^3"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_LoginTasks": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\LoginTasks\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Login tasks library",
+                "homepage": "https://www.horde.org/libraries/Horde_LoginTasks"
+            },
+            {
+                "name": "horde/logintasks",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

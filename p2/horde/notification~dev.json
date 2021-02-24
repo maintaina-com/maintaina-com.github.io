@@ -100,6 +100,56 @@
             },
             {
                 "name": "horde/notification",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Notification.git",
+                    "reference": "fb34d7e83fcd4954a49aee802f164d2be8fbd898"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Notification/zipball/fb34d7e83fcd4954a49aee802f164d2be8fbd898",
+                    "reference": "fb34d7e83fcd4954a49aee802f164d2be8fbd898",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "horde/exception": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/util": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/alarm": "^3",
+                    "horde/nls": "^3",
+                    "horde/test": "^3"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Notification": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Notification\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Notification library implementing subject-observer pattern",
+                "homepage": "https://www.horde.org/libraries/Horde_Notification"
+            },
+            {
+                "name": "horde/notification",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

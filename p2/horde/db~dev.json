@@ -135,6 +135,75 @@
             },
             {
                 "name": "horde/db",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Db.git",
+                    "reference": "cdcd4176bb456f3f69933cadbe39cf621b89b319"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Db/zipball/cdcd4176bb456f3f69933cadbe39cf621b89b319",
+                    "reference": "cdcd4176bb456f3f69933cadbe39cf621b89b319",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/date": "^3",
+                    "horde/exception": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/support": "^3",
+                    "horde/util": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "ext-PDO": "*",
+                    "ext-mysql": "*",
+                    "ext-mysqli": "*",
+                    "ext-oci8": "*",
+                    "horde/autoloader": "^3",
+                    "horde/cache": "^3",
+                    "horde/log": "^3",
+                    "horde/test": "^3"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "bin": [
+                    "bin/horde-db-migrate-component"
+                ],
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Db": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Db\\": "src/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Mike Naberezny",
+                        "email": "mike@naberezny.com",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Database abstraction library",
+                "homepage": "https://www.horde.org/libraries/Horde_Db"
+            },
+            {
+                "name": "horde/db",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

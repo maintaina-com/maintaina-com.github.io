@@ -219,6 +219,57 @@
                 ],
                 "description": "Horde Url class",
                 "homepage": "https://pear.horde.org"
+            },
+            {
+                "name": "horde/url",
+                "version": "3.0.0alpha1",
+                "version_normalized": "3.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Url.git",
+                    "reference": "9708c0d051d3eae821f03c384cf8d712506accc5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Url/zipball/9708c0d051d3eae821f03c384cf8d712506accc5",
+                    "reference": "9708c0d051d3eae821f03c384cf8d712506accc5",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/test": "^3"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Url": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Url\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "URL library",
+                "homepage": "https://www.horde.org/libraries/Horde_Url"
             }
         ]
     }

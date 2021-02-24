@@ -195,6 +195,74 @@
             },
             {
                 "name": "horde/passwd",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/passwd.git",
+                    "reference": "37908f11c05e257212d34fd4c4a4c8bea1c0613b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/passwd/zipball/37908f11c05e257212d34fd4c4a4c8bea1c0613b",
+                    "reference": "37908f11c05e257212d34fd4c4a4c8bea1c0613b",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "horde/auth": "^3",
+                    "horde/core": "^3",
+                    "horde/exception": "^3",
+                    "horde/horde": "^6",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/injector": "^3",
+                    "horde/util": "^3",
+                    "horde/view": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "ext-com": "*",
+                    "ext-ldap": "*",
+                    "ext-soap": "*",
+                    "horde/db": "^3",
+                    "horde/http": "^3",
+                    "horde/ldap": "^3",
+                    "horde/vfs": "^3",
+                    "pear-pear.php.net/Crypt_CHAP": "*"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Passwd": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Passwd\\": "src/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Password changing application",
+                "homepage": "https://www.horde.org/apps/passwd",
+                "support": {
+                    "source": "https://github.com/maintaina-com/passwd/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/passwd",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

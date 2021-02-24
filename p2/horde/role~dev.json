@@ -94,6 +94,53 @@
             },
             {
                 "name": "horde/role",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Role.git",
+                    "reference": "67e5f10b7bc5ca06926f0d622432255415872779"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Role/zipball/67e5f10b7bc5ca06926f0d622432255415872779",
+                    "reference": "67e5f10b7bc5ca06926f0d622432255415872779",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "*",
+                    "php": "^7"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Role": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Role\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "PEAR installer role",
+                "homepage": "https://www.horde.org/libraries/Horde_Role"
+            },
+            {
+                "name": "horde/role",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

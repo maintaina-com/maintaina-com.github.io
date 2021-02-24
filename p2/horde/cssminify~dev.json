@@ -92,6 +92,52 @@
             },
             {
                 "name": "horde/cssminify",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/CssMinify.git",
+                    "reference": "c8c59d2b9f7d42a331998ec092875eb823583381"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/CssMinify/zipball/c8c59d2b9f7d42a331998ec092875eb823583381",
+                    "reference": "c8c59d2b9f7d42a331998ec092875eb823583381",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/css_parser": "^2",
+                    "horde/exception": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/log": "^3",
+                    "horde/url": "^3",
+                    "php": "^7"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_CssMinify": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\CssMinify\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "CSS minification library",
+                "homepage": "https://www.horde.org"
+            },
+            {
+                "name": "horde/cssminify",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

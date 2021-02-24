@@ -90,6 +90,51 @@
             },
             {
                 "name": "horde/mapi",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Mapi.git",
+                    "reference": "8b1819b159638e0d15365bc73dfd31e4afd11c4f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Mapi/zipball/8b1819b159638e0d15365bc73dfd31e4afd11c4f",
+                    "reference": "8b1819b159638e0d15365bc73dfd31e4afd11c4f",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-bcmath": "*",
+                    "horde/date": "^3",
+                    "horde/exception": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "php": "^7"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Mapi": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Mapi\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "MAPI utility library",
+                "homepage": "https://www.horde.org"
+            },
+            {
+                "name": "horde/mapi",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

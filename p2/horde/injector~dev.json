@@ -92,6 +92,52 @@
             },
             {
                 "name": "horde/injector",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Injector.git",
+                    "reference": "c97f6fdf8b2ddecf6af3dc9ed9c86ecd8eee86bc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/c97f6fdf8b2ddecf6af3dc9ed9c86ecd8eee86bc",
+                    "reference": "c97f6fdf8b2ddecf6af3dc9ed9c86ecd8eee86bc",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/test": "^3"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Injector": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Injector\\": "src/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Dependency injection container library",
+                "homepage": "https://www.horde.org/libraries/Horde_Injector"
+            },
+            {
+                "name": "horde/injector",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

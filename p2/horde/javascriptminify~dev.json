@@ -90,6 +90,51 @@
             },
             {
                 "name": "horde/javascriptminify",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/JavascriptMinify.git",
+                    "reference": "b91d18343500121840ea462cad05842ee1bc3a24"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/JavascriptMinify/zipball/b91d18343500121840ea462cad05842ee1bc3a24",
+                    "reference": "b91d18343500121840ea462cad05842ee1bc3a24",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/log": "^3",
+                    "horde/util": "^3",
+                    "php": "^7"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_JavascriptMinify": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\JavascriptMinify\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "JavaScript minification library",
+                "homepage": "https://www.horde.org"
+            },
+            {
+                "name": "horde/javascriptminify",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

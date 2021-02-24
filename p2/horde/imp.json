@@ -2938,6 +2938,117 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/imp/tree/v6.2.9"
                 }
+            },
+            {
+                "name": "horde/imp",
+                "version": "7.0.0alpha1",
+                "version_normalized": "7.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/imp.git",
+                    "reference": "a45e2fab811638dbc50644f9a2873b76ae821007"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/a45e2fab811638dbc50644f9a2873b76ae821007",
+                    "reference": "a45e2fab811638dbc50644f9a2873b76ae821007",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "ext-gettext": "*",
+                    "ext-hash": "*",
+                    "ext-json": "*",
+                    "horde/auth": "^3",
+                    "horde/browser": "^3",
+                    "horde/cache": "^3",
+                    "horde/compress": "^3",
+                    "horde/core": "^3",
+                    "horde/crypt": "^3",
+                    "horde/crypt_blowfish": "^2",
+                    "horde/css_parser": "^2",
+                    "horde/date": "^3",
+                    "horde/editor": "^3",
+                    "horde/exception": "^3",
+                    "horde/horde": "^6",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/icalendar": "^3",
+                    "horde/image": "^3",
+                    "horde/imap_client": "^3",
+                    "horde/itip": "^3",
+                    "horde/listheaders": "^2",
+                    "horde/logintasks": "^3",
+                    "horde/mail": "^3",
+                    "horde/mail_autoconfig": "^2",
+                    "horde/mime": "^3",
+                    "horde/mime_viewer": "^3",
+                    "horde/nls": "^3",
+                    "horde/notification": "^3",
+                    "horde/pack": "^2",
+                    "horde/perms": "^3",
+                    "horde/spellchecker": "^3",
+                    "horde/stream": "^2",
+                    "horde/stream_filter": "^3",
+                    "horde/stream_wrapper": "^3",
+                    "horde/support": "^3",
+                    "horde/text_filter": "^3",
+                    "horde/text_flowed": "^3",
+                    "horde/tree": "^3",
+                    "horde/url": "^3",
+                    "horde/util": "^3",
+                    "horde/vfs": "^3",
+                    "horde/view": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "ext-openssl": "*",
+                    "horde/history": "^3",
+                    "horde/http": "^3",
+                    "horde/mongo": "^2",
+                    "horde/service_gravatar": "^2",
+                    "pear-phpseclib.sourceforge.net/File_ASN1": "*"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "bin": [
+                    "bin/imp-admin-upgrade",
+                    "bin/imp-bounce-spam",
+                    "bin/imp-mailbox-decode",
+                    "bin/imp-query-imap-cache"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "IMP": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\IMP\\": "src/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Webmail application",
+                "homepage": "https://www.horde.org/apps/imp",
+                "support": {
+                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha1"
+                }
             }
         ]
     }

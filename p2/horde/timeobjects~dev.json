@@ -171,6 +171,66 @@
             },
             {
                 "name": "horde/timeobjects",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/timeobjects.git",
+                    "reference": "01d14d15b8a96fcb4c4d4d9993133d9ec9fb4dd5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/timeobjects/zipball/01d14d15b8a96fcb4c4d4d9993133d9ec9fb4dd5",
+                    "reference": "01d14d15b8a96fcb4c4d4d9993133d9ec9fb4dd5",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "horde/core": "^3",
+                    "horde/date": "^3",
+                    "horde/exception": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/url": "^3",
+                    "horde/util": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/service_facebook": "^3",
+                    "horde/service_weather": "^3"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Timeobjects": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Timeobjects\\": "src/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Time-based objects application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/timeobjects/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/timeobjects",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

@@ -89,6 +89,55 @@
                 ],
                 "description": "Horde ElasticSearch client",
                 "homepage": "https://pear.horde.org"
+            },
+            {
+                "name": "horde/elasticsearch",
+                "version": "2.0.0alpha1",
+                "version_normalized": "2.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/elasticsearch.git",
+                    "reference": "0f80e2e3646a38f1ce75b10ed25325641d6fd264"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/elasticsearch/zipball/0f80e2e3646a38f1ce75b10ed25325641d6fd264",
+                    "reference": "0f80e2e3646a38f1ce75b10ed25325641d6fd264",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/http": "^3",
+                    "php": "^7"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_ElasticSearch": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\ElasticSearch\\": "src/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "ElasticSearch client library",
+                "homepage": "https://www.horde.org/libraries/Horde_ElasticSearch"
             }
         ]
     }
