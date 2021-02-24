@@ -426,12 +426,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/components.git",
-                    "reference": "e3e4f01365cd3afacc96aec3d1d624ec5750f01b"
+                    "reference": "6a2abe855dec566219c06b4ea99ea3819bf15d98"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/e3e4f01365cd3afacc96aec3d1d624ec5750f01b",
-                    "reference": "e3e4f01365cd3afacc96aec3d1d624ec5750f01b",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/6a2abe855dec566219c06b4ea99ea3819bf15d98",
+                    "reference": "6a2abe855dec566219c06b4ea99ea3819bf15d98",
                     "shasum": ""
                 },
                 "require": {
@@ -488,7 +488,7 @@
                 "description": "Developer tool for managing Horde components",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/maintaina-bare-psr4"
+                    "source": "https://github.com/maintaina-com/components/tree/maintaina-bare"
                 }
             },
             {
@@ -570,12 +570,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/components.git",
-                    "reference": "4c80532f6569caceb38aa17852de350422c01e21"
+                    "reference": "b16e6885c82e35ae4fc2cff6ebf92d217a108110"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/4c80532f6569caceb38aa17852de350422c01e21",
-                    "reference": "4c80532f6569caceb38aa17852de350422c01e21",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/b16e6885c82e35ae4fc2cff6ebf92d217a108110",
+                    "reference": "b16e6885c82e35ae4fc2cff6ebf92d217a108110",
                     "shasum": ""
                 },
                 "require": {

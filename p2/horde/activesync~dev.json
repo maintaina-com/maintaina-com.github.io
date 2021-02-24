@@ -130,6 +130,71 @@
             },
             {
                 "name": "horde/activesync",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/ActiveSync.git",
+                    "reference": "0ac13936b351266e7973e1592632464e08a444d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/0ac13936b351266e7973e1592632464e08a444d4",
+                    "reference": "0ac13936b351266e7973e1592632464e08a444d4",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "horde/compress": "^3",
+                    "horde/date": "^3",
+                    "horde/exception": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/icalendar": "^3",
+                    "horde/log": "^3",
+                    "horde/mapi": "^2",
+                    "horde/mime": "^3",
+                    "horde/stream": "^2",
+                    "horde/support": "^3",
+                    "horde/translation": "^3",
+                    "horde/util": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/db": "^3",
+                    "horde/imap_client": "^3",
+                    "horde/mail": "^3",
+                    "horde/mongo": "^2",
+                    "horde/test": "^3",
+                    "horde/text_filter": "^3"
+                },
+                "time": "2021-02-23T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_ActiveSync": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\ActiveSync\\": "src/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "ActiveSync server library",
+                "homepage": "https://www.horde.org/libraries/Horde_ActiveSync",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ActiveSync/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/activesync",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

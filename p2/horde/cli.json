@@ -484,6 +484,58 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Cli/tree/v2.3.0"
                 }
+            },
+            {
+                "name": "horde/cli",
+                "version": "3.0.0alpha1",
+                "version_normalized": "3.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Cli.git",
+                    "reference": "828125bc81155647435d517c9588ad120e244e1c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli/zipball/828125bc81155647435d517c9588ad120e244e1c",
+                    "reference": "828125bc81155647435d517c9588ad120e244e1c",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "*",
+                    "horde/support": "^3",
+                    "horde/translation": "^3",
+                    "php": "^7"
+                },
+                "time": "2021-02-23T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Cli": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Cli\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Command line interface library",
+                "homepage": "https://www.horde.org/libraries/Horde_Cli",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli/tree/v3.0.0alpha1"
+                }
             }
         ]
     }

@@ -148,6 +148,80 @@
             },
             {
                 "name": "horde/auth",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Auth.git",
+                    "reference": "c741906b589b4f5276f9ba44186d7b2d223053c5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Auth/zipball/c741906b589b4f5276f9ba44186d7b2d223053c5",
+                    "reference": "c741906b589b4f5276f9ba44186d7b2d223053c5",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "horde/horde-installer-plugin": "*",
+                    "pear-horde/exception": "^3",
+                    "pear-horde/translation": "^3",
+                    "pear-horde/util": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "ext-ctype": "*",
+                    "ext-ftp": "*",
+                    "ext-pam": "*",
+                    "ext-sasl": "*",
+                    "horde/db": "^3",
+                    "horde/history": "^3",
+                    "horde/http": "^3",
+                    "horde/imap_client": "^3",
+                    "horde/imsp": "^3",
+                    "horde/kolab_session": "^3",
+                    "horde/ldap": "^3",
+                    "horde/lock": "^3",
+                    "horde/test": "^3"
+                },
+                "time": "2021-02-23T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Auth": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Auth\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Authentication and user management library",
+                "homepage": "https://www.horde.org/libraries/Horde_Auth",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Auth/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/auth",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

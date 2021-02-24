@@ -106,6 +106,59 @@
             },
             {
                 "name": "horde/autoloader",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Autoloader.git",
+                    "reference": "c6cb916a4c0696a517942f3ac500d2d28968bc43"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Autoloader/zipball/c6cb916a4c0696a517942f3ac500d2d28968bc43",
+                    "reference": "c6cb916a4c0696a517942f3ac500d2d28968bc43",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "*",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/test": "^3"
+                },
+                "time": "2021-02-23T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Autoloader": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Autoloader\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Autoloader library",
+                "homepage": "https://www.horde.org/libraries/Horde_Autoloader",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Autoloader/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/autoloader",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

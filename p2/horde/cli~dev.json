@@ -104,6 +104,58 @@
             },
             {
                 "name": "horde/cli",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Cli.git",
+                    "reference": "c43ac429ca7e0590e14c7a14fc1440d2582cf4f7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli/zipball/c43ac429ca7e0590e14c7a14fc1440d2582cf4f7",
+                    "reference": "c43ac429ca7e0590e14c7a14fc1440d2582cf4f7",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "*",
+                    "horde/support": "^3",
+                    "horde/translation": "^3",
+                    "php": "^7"
+                },
+                "time": "2021-02-23T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Cli": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Cli\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Command line interface library",
+                "homepage": "https://www.horde.org/libraries/Horde_Cli",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/cli",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

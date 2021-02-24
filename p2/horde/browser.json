@@ -335,6 +335,59 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Browser/tree/v2.0.16"
                 }
+            },
+            {
+                "name": "horde/browser",
+                "version": "3.0.0alpha1",
+                "version_normalized": "3.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Browser.git",
+                    "reference": "2e2a84dc1c1936d40c361b67bd9abd227cf90841"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Browser/zipball/2e2a84dc1c1936d40c361b67bd9abd227cf90841",
+                    "reference": "2e2a84dc1c1936d40c361b67bd9abd227cf90841",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/translation": "^3",
+                    "horde/util": "^3",
+                    "php": "^7"
+                },
+                "time": "2021-02-23T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Browser": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Browser\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Browser detection library",
+                "homepage": "https://www.horde.org/libraries/Horde_Browser",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Browser/tree/v3.0.0alpha1"
+                }
             }
         ]
     }

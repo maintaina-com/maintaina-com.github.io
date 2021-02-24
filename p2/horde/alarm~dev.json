@@ -116,6 +116,64 @@
             },
             {
                 "name": "horde/alarm",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Alarm.git",
+                    "reference": "c3f1843c0f3ed062e3d72403b91a517db89c54f2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Alarm/zipball/c3f1843c0f3ed062e3d72403b91a517db89c54f2",
+                    "reference": "c3f1843c0f3ed062e3d72403b91a517db89c54f2",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/date": "^3",
+                    "horde/exception": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/translation": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/db": "^3",
+                    "horde/log": "^3",
+                    "horde/mail": "^3",
+                    "horde/mime": "^3",
+                    "horde/notification": "^3",
+                    "horde/perms": "^3",
+                    "horde/prefs": "^3",
+                    "horde/test": "^3"
+                },
+                "time": "2021-02-23T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Alarm": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Alarm\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Alarm library",
+                "homepage": "https://www.horde.org/libraries/Horde_Alarm",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Alarm/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/alarm",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

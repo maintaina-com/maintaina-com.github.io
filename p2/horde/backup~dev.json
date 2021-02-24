@@ -104,6 +104,58 @@
             },
             {
                 "name": "horde/backup",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Backup.git",
+                    "reference": "f87b98a8c6df151eb89a94dd5e628aaaaf5cf365"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Backup/zipball/f87b98a8c6df151eb89a94dd5e628aaaaf5cf365",
+                    "reference": "f87b98a8c6df151eb89a94dd5e628aaaaf5cf365",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/compress": "^3",
+                    "horde/exception": "^3",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/pack": "^2",
+                    "horde/translation": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/test": "^3"
+                },
+                "time": "2021-02-23T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Backup": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Backup\\": "src/"
+                    }
+                },
+                "license": [
+                    "BSD"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Backup and restore library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Backup/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/backup",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {
