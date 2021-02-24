@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$09c4b1dd0783524c66699f51a6bbb03082ab925c.json": {
-            "sha1": "09c4b1dd0783524c66699f51a6bbb03082ab925c"
+        "include/all$66b1cce4d9bf74718b7a337b23e4da11e9b28224.json": {
+            "sha1": "66b1cce4d9bf74718b7a337b23e4da11e9b28224"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -37,6 +37,7 @@
         "horde/dav",
         "horde/db",
         "horde/editor",
+        "horde/elasticsearch",
         "horde/exception",
         "horde/form",
         "horde/group",
