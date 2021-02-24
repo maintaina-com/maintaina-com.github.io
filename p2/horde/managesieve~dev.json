@@ -56,12 +56,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/ManageSieve.git",
-                    "reference": "c2940401fa54b03d8cbd6f40c4c2ebd829ea6172"
+                    "reference": "4c937df28ad68380c8c2dc226054534c251e49dc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ManageSieve/zipball/c2940401fa54b03d8cbd6f40c4c2ebd829ea6172",
-                    "reference": "c2940401fa54b03d8cbd6f40c4c2ebd829ea6172",
+                    "url": "https://api.github.com/repos/maintaina-com/ManageSieve/zipball/4c937df28ad68380c8c2dc226054534c251e49dc",
+                    "reference": "4c937df28ad68380c8c2dc226054534c251e49dc",
                     "shasum": ""
                 },
                 "require": {
@@ -79,9 +79,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_ManageSieve": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\ManageSieve\\": "src/"
                     }
                 },
                 "license": [

@@ -143,12 +143,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Rpc.git",
-                    "reference": "c9a31c5544c2179834f81f684202c796c6d8e08f"
+                    "reference": "a6579570a6b90e23faaf4106ea9518af15dbfa0f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Rpc/zipball/c9a31c5544c2179834f81f684202c796c6d8e08f",
-                    "reference": "c9a31c5544c2179834f81f684202c796c6d8e08f",
+                    "url": "https://api.github.com/repos/maintaina-com/Rpc/zipball/a6579570a6b90e23faaf4106ea9518af15dbfa0f",
+                    "reference": "a6579570a6b90e23faaf4106ea9518af15dbfa0f",
                     "shasum": ""
                 },
                 "require": {
@@ -177,9 +177,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Rpc": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Rpc\\": "src/"
                     }
                 },
                 "license": [

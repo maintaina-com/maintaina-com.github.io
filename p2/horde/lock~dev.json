@@ -103,12 +103,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Lock.git",
-                    "reference": "36f1ffa3a9771b9bc69cded60a1233ee1a1b23ae"
+                    "reference": "386e884fe29122d585c8dc3316c2e17e401dcd7d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/36f1ffa3a9771b9bc69cded60a1233ee1a1b23ae",
-                    "reference": "36f1ffa3a9771b9bc69cded60a1233ee1a1b23ae",
+                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/386e884fe29122d585c8dc3316c2e17e401dcd7d",
+                    "reference": "386e884fe29122d585c8dc3316c2e17e401dcd7d",
                     "shasum": ""
                 },
                 "require": {
@@ -127,9 +127,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Lock": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Lock\\": "src/"
                     }
                 },
                 "license": [

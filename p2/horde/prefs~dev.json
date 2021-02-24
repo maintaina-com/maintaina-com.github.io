@@ -146,12 +146,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Prefs.git",
-                    "reference": "bcda47476089e419b14462eebeed9f969dc19749"
+                    "reference": "75149a6c2f6af6d67977b11bff8fb6d27e69cbd3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Prefs/zipball/bcda47476089e419b14462eebeed9f969dc19749",
-                    "reference": "bcda47476089e419b14462eebeed9f969dc19749",
+                    "url": "https://api.github.com/repos/maintaina-com/Prefs/zipball/75149a6c2f6af6d67977b11bff8fb6d27e69cbd3",
+                    "reference": "75149a6c2f6af6d67977b11bff8fb6d27e69cbd3",
                     "shasum": ""
                 },
                 "require": {
@@ -183,9 +183,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Prefs": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Prefs\\": "src/"
                     }
                 },
                 "license": [

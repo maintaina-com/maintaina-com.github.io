@@ -115,12 +115,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Test.git",
-                    "reference": "6bc9c19b77f0217e56de50d0df47efcdf38ea069"
+                    "reference": "73d552652f9ee7a0e5f780958cf3cb3f6e115888"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Test/zipball/6bc9c19b77f0217e56de50d0df47efcdf38ea069",
-                    "reference": "6bc9c19b77f0217e56de50d0df47efcdf38ea069",
+                    "url": "https://api.github.com/repos/maintaina-com/Test/zipball/73d552652f9ee7a0e5f780958cf3cb3f6e115888",
+                    "reference": "73d552652f9ee7a0e5f780958cf3cb3f6e115888",
                     "shasum": ""
                 },
                 "require": {
@@ -140,9 +140,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Test": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Test\\": "src/"
                     }
                 },
                 "license": [

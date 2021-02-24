@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Cli.git",
+                    "url": "https://github.com/maintaina-com/Cli.git",
                     "reference": "86de4b4ee69ffbbafd496132a22df22182c4dbd6"
                 },
                 "dist": {
@@ -45,7 +45,10 @@
                     }
                 ],
                 "description": "Command line interface library",
-                "homepage": "https://www.horde.org/libraries/Horde_Cli"
+                "homepage": "https://www.horde.org/libraries/Horde_Cli",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli/tree/master"
+                }
             },
             {
                 "name": "horde/cli",
@@ -53,7 +56,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Cli.git",
+                    "url": "https://github.com/maintaina-com/Cli.git",
                     "reference": "0637b277fcdcc2a705266562d07d8200956694c2"
                 },
                 "dist": {
@@ -94,7 +97,10 @@
                     }
                 ],
                 "description": "Command line interface library",
-                "homepage": "https://www.horde.org/libraries/Horde_Cli"
+                "homepage": "https://www.horde.org/libraries/Horde_Cli",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/cli",
@@ -102,13 +108,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Cli.git",
-                    "reference": "c43ac429ca7e0590e14c7a14fc1440d2582cf4f7"
+                    "url": "https://github.com/maintaina-com/Cli.git",
+                    "reference": "4b187fd5752e5ffc075cf22c642a4fe2cb91de26"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Cli/zipball/c43ac429ca7e0590e14c7a14fc1440d2582cf4f7",
-                    "reference": "c43ac429ca7e0590e14c7a14fc1440d2582cf4f7",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli/zipball/4b187fd5752e5ffc075cf22c642a4fe2cb91de26",
+                    "reference": "4b187fd5752e5ffc075cf22c642a4fe2cb91de26",
                     "shasum": ""
                 },
                 "require": {
@@ -117,14 +123,11 @@
                     "horde/translation": "^3",
                     "php": "^7"
                 },
-                "time": "2021-02-23T00:00:00+00:00",
+                "time": "2021-02-24T00:00:00+00:00",
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Cli": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Cli\\": "src/"
                     }
                 },
                 "license": [
@@ -143,7 +146,10 @@
                     }
                 ],
                 "description": "Command line interface library",
-                "homepage": "https://www.horde.org/libraries/Horde_Cli"
+                "homepage": "https://www.horde.org/libraries/Horde_Cli",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/cli",
@@ -151,7 +157,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Cli.git",
+                    "url": "https://github.com/maintaina-com/Cli.git",
                     "reference": "6b18c4528ccf1681521c878d816f0d9e9b9ab42c"
                 },
                 "dist": {
@@ -192,7 +198,10 @@
                     }
                 ],
                 "description": "Command line interface library",
-                "homepage": "https://www.horde.org/libraries/Horde_Cli"
+                "homepage": "https://www.horde.org/libraries/Horde_Cli",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/cli",
@@ -200,7 +209,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Cli.git",
+                    "url": "https://github.com/maintaina-com/Cli.git",
                     "reference": "6b18c4528ccf1681521c878d816f0d9e9b9ab42c"
                 },
                 "dist": {
@@ -241,7 +250,10 @@
                     }
                 ],
                 "description": "Command line interface library",
-                "homepage": "https://www.horde.org/libraries/Horde_Cli"
+                "homepage": "https://www.horde.org/libraries/Horde_Cli",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/cli",
@@ -249,7 +261,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Cli.git",
+                    "url": "https://github.com/maintaina-com/Cli.git",
                     "reference": "d409385b55610927492682c4ca8338ab9f47701e"
                 },
                 "dist": {
@@ -287,7 +299,10 @@
                     }
                 ],
                 "description": "Command line interface library",
-                "homepage": "https://www.horde.org/libraries/Horde_Cli"
+                "homepage": "https://www.horde.org/libraries/Horde_Cli",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

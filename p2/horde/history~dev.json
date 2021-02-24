@@ -103,12 +103,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/History.git",
-                    "reference": "5e17ef5e58132fad2a0070006745c9405e640dcd"
+                    "reference": "62c7bfee4e3c4e3219376a384391414986c2571f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/History/zipball/5e17ef5e58132fad2a0070006745c9405e640dcd",
-                    "reference": "5e17ef5e58132fad2a0070006745c9405e640dcd",
+                    "url": "https://api.github.com/repos/maintaina-com/History/zipball/62c7bfee4e3c4e3219376a384391414986c2571f",
+                    "reference": "62c7bfee4e3c4e3219376a384391414986c2571f",
                     "shasum": ""
                 },
                 "require": {
@@ -127,9 +127,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_History": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\History\\": "src/"
                     }
                 },
                 "license": [

@@ -181,6 +181,55 @@
                 ],
                 "description": "Gravatar client library",
                 "homepage": "https://www.horde.org"
+            },
+            {
+                "name": "horde/service_gravatar",
+                "version": "2.0.0alpha2",
+                "version_normalized": "2.0.0.0-alpha2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/Service_Gravatar.git",
+                    "reference": "43d07d7a826bbcc1e810ddd8f3e297c41314954d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Gravatar/zipball/43d07d7a826bbcc1e810ddd8f3e297c41314954d",
+                    "reference": "43d07d7a826bbcc1e810ddd8f3e297c41314954d",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "*",
+                    "horde/http": "^3",
+                    "horde/url": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/test": "^3"
+                },
+                "time": "2021-02-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Service_Gravatar": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Gravatar client library",
+                "homepage": "https://www.horde.org"
             }
         ]
     }

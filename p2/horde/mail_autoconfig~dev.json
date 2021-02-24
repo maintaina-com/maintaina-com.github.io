@@ -103,12 +103,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Mail_Autoconfig.git",
-                    "reference": "7cff2e99a03804f9eace77676a4d5d9c8e42b278"
+                    "reference": "c0cb28adb5a3195a1ebc3bd8ddf1ce26775b5619"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mail_Autoconfig/zipball/7cff2e99a03804f9eace77676a4d5d9c8e42b278",
-                    "reference": "7cff2e99a03804f9eace77676a4d5d9c8e42b278",
+                    "url": "https://api.github.com/repos/maintaina-com/Mail_Autoconfig/zipball/c0cb28adb5a3195a1ebc3bd8ddf1ce26775b5619",
+                    "reference": "c0cb28adb5a3195a1ebc3bd8ddf1ce26775b5619",
                     "shasum": ""
                 },
                 "require": {
@@ -127,9 +127,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Mail_Autoconfig": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Mail\\Autoconfig\\": "src/"
                     }
                 },
                 "license": [

@@ -111,12 +111,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Nls.git",
-                    "reference": "0642f1d447fabcc4ae64876d8ad7cdd10a01c2a2"
+                    "reference": "e04975a7be142bb0143ab53f8325d98770dd2211"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Nls/zipball/0642f1d447fabcc4ae64876d8ad7cdd10a01c2a2",
-                    "reference": "0642f1d447fabcc4ae64876d8ad7cdd10a01c2a2",
+                    "url": "https://api.github.com/repos/maintaina-com/Nls/zipball/e04975a7be142bb0143ab53f8325d98770dd2211",
+                    "reference": "e04975a7be142bb0143ab53f8325d98770dd2211",
                     "shasum": ""
                 },
                 "require": {
@@ -134,9 +134,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Nls": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Nls\\": "src/"
                     }
                 },
                 "license": [

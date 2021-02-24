@@ -116,12 +116,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Yaml.git",
-                    "reference": "52e231e897ad9170337d193f25c1c9deb3a2ff9d"
+                    "reference": "2a36c1caea515a0412a3e3125a6bdcc23675492d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Yaml/zipball/52e231e897ad9170337d193f25c1c9deb3a2ff9d",
-                    "reference": "52e231e897ad9170337d193f25c1c9deb3a2ff9d",
+                    "url": "https://api.github.com/repos/maintaina-com/Yaml/zipball/2a36c1caea515a0412a3e3125a6bdcc23675492d",
+                    "reference": "2a36c1caea515a0412a3e3125a6bdcc23675492d",
                     "shasum": ""
                 },
                 "require": {
@@ -139,9 +139,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Yaml": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Yaml\\": "src/"
                     }
                 },
                 "license": [

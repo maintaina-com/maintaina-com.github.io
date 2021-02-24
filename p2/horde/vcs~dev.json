@@ -121,12 +121,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Vcs.git",
-                    "reference": "7d795962e0c3aff5370db9806c087c99e9551d1c"
+                    "reference": "07fcfd70a293893bd7b4f7b8ffdfcf7c355a2e87"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Vcs/zipball/7d795962e0c3aff5370db9806c087c99e9551d1c",
-                    "reference": "7d795962e0c3aff5370db9806c087c99e9551d1c",
+                    "url": "https://api.github.com/repos/maintaina-com/Vcs/zipball/07fcfd70a293893bd7b4f7b8ffdfcf7c355a2e87",
+                    "reference": "07fcfd70a293893bd7b4f7b8ffdfcf7c355a2e87",
                     "shasum": ""
                 },
                 "require": {
@@ -144,9 +144,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Vcs": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Vcs\\": "src/"
                     }
                 },
                 "license": [

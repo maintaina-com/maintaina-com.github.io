@@ -127,12 +127,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Icalendar.git",
-                    "reference": "439b8e2ac27994a6716abc62a5fc019e44f91b57"
+                    "reference": "f8ca537e98ffd494e811146a1abb65c6f18cef7c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Icalendar/zipball/439b8e2ac27994a6716abc62a5fc019e44f91b57",
-                    "reference": "439b8e2ac27994a6716abc62a5fc019e44f91b57",
+                    "url": "https://api.github.com/repos/maintaina-com/Icalendar/zipball/f8ca537e98ffd494e811146a1abb65c6f18cef7c",
+                    "reference": "f8ca537e98ffd494e811146a1abb65c6f18cef7c",
                     "shasum": ""
                 },
                 "require": {
@@ -153,9 +153,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Icalendar": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Icalendar\\": "src/"
                     }
                 },
                 "license": [

@@ -103,12 +103,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/ListHeaders.git",
-                    "reference": "4f8711839c891c29dd3f15c0f58683a8fda34168"
+                    "reference": "ba1e7ccb8562c481fae88cb6a8509c95f5ee1390"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ListHeaders/zipball/4f8711839c891c29dd3f15c0f58683a8fda34168",
-                    "reference": "4f8711839c891c29dd3f15c0f58683a8fda34168",
+                    "url": "https://api.github.com/repos/maintaina-com/ListHeaders/zipball/ba1e7ccb8562c481fae88cb6a8509c95f5ee1390",
+                    "reference": "ba1e7ccb8562c481fae88cb6a8509c95f5ee1390",
                     "shasum": ""
                 },
                 "require": {
@@ -127,9 +127,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_ListHeaders": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\ListHeaders\\": "src/"
                     }
                 },
                 "license": [

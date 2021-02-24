@@ -101,12 +101,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Stream.git",
-                    "reference": "1ab2dfd1ff1542001aee9188a3ee0507f38277a8"
+                    "reference": "93f686335ff670f523fec89ec0b6c5339d2ac661"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Stream/zipball/1ab2dfd1ff1542001aee9188a3ee0507f38277a8",
-                    "reference": "1ab2dfd1ff1542001aee9188a3ee0507f38277a8",
+                    "url": "https://api.github.com/repos/maintaina-com/Stream/zipball/93f686335ff670f523fec89ec0b6c5339d2ac661",
+                    "reference": "93f686335ff670f523fec89ec0b6c5339d2ac661",
                     "shasum": ""
                 },
                 "require": {
@@ -124,9 +124,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Stream": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Stream\\": "src/"
                     }
                 },
                 "license": [

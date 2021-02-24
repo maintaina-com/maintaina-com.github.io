@@ -105,12 +105,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Spam.git",
-                    "reference": "3fd7ac1317edcc5a91e63db7ffdf1fe74ef752bf"
+                    "reference": "564bc3e9af73576563342c51ca8a6a85921b66e9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Spam/zipball/3fd7ac1317edcc5a91e63db7ffdf1fe74ef752bf",
-                    "reference": "3fd7ac1317edcc5a91e63db7ffdf1fe74ef752bf",
+                    "url": "https://api.github.com/repos/maintaina-com/Spam/zipball/564bc3e9af73576563342c51ca8a6a85921b66e9",
+                    "reference": "564bc3e9af73576563342c51ca8a6a85921b66e9",
                     "shasum": ""
                 },
                 "require": {
@@ -130,9 +130,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Spam": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Spam\\": "src/"
                     }
                 },
                 "license": [

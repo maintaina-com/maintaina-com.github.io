@@ -89,12 +89,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Queue.git",
-                    "reference": "671e081898e05769831e86fa7bb9639a9c9a7829"
+                    "reference": "18656dca1ae6fc7a503b9daeb124e064cc034245"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Queue/zipball/671e081898e05769831e86fa7bb9639a9c9a7829",
-                    "reference": "671e081898e05769831e86fa7bb9639a9c9a7829",
+                    "url": "https://api.github.com/repos/maintaina-com/Queue/zipball/18656dca1ae6fc7a503b9daeb124e064cc034245",
+                    "reference": "18656dca1ae6fc7a503b9daeb124e064cc034245",
                     "shasum": ""
                 },
                 "require": {
@@ -106,9 +106,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Queue": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Queue\\": "src/"
                     }
                 },
                 "license": [

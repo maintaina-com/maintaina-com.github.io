@@ -117,12 +117,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Exception.git",
-                    "reference": "aca3083e6a7bf603f4ea0891ed7156891f3a023a"
+                    "reference": "dcca04038707939c67dc8cd20f2de849b2e89596"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Exception/zipball/aca3083e6a7bf603f4ea0891ed7156891f3a023a",
-                    "reference": "aca3083e6a7bf603f4ea0891ed7156891f3a023a",
+                    "url": "https://api.github.com/repos/maintaina-com/Exception/zipball/dcca04038707939c67dc8cd20f2de849b2e89596",
+                    "reference": "dcca04038707939c67dc8cd20f2de849b2e89596",
                     "shasum": ""
                 },
                 "require": {
@@ -138,9 +138,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Exception": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Exception\\": "src/"
                     }
                 },
                 "license": [

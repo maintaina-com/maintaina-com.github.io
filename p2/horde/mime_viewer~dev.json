@@ -113,12 +113,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Mime_Viewer.git",
-                    "reference": "91a974ed01d6f50e8ec7192eed53468e9989a336"
+                    "reference": "33e4d8162e8853a6dabfba337ba7ed3f14359d3a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mime_Viewer/zipball/91a974ed01d6f50e8ec7192eed53468e9989a336",
-                    "reference": "91a974ed01d6f50e8ec7192eed53468e9989a336",
+                    "url": "https://api.github.com/repos/maintaina-com/Mime_Viewer/zipball/33e4d8162e8853a6dabfba337ba7ed3f14359d3a",
+                    "reference": "33e4d8162e8853a6dabfba337ba7ed3f14359d3a",
                     "shasum": ""
                 },
                 "require": {
@@ -142,9 +142,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Mime_Viewer": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Mime\\Viewer\\": "src/"
                     }
                 },
                 "license": [

@@ -133,12 +133,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Mime.git",
-                    "reference": "f00b3e829da7d3f1475ee45a202a08d805f7f89e"
+                    "reference": "028e9f2361061f2d54f668467ce27a8dd495c4cf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/f00b3e829da7d3f1475ee45a202a08d805f7f89e",
-                    "reference": "f00b3e829da7d3f1475ee45a202a08d805f7f89e",
+                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/028e9f2361061f2d54f668467ce27a8dd495c4cf",
+                    "reference": "028e9f2361061f2d54f668467ce27a8dd495c4cf",
                     "shasum": ""
                 },
                 "require": {
@@ -167,9 +167,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Mime": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Mime\\": "src/"
                     }
                 },
                 "license": [

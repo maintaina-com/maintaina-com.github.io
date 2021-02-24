@@ -129,12 +129,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Vfs.git",
-                    "reference": "940e24d6eb1d2d03fac4c1e08b6b136c790c47f5"
+                    "reference": "0eb4135fc116958eb1814f4500dfc283d7ef44e1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/940e24d6eb1d2d03fac4c1e08b6b136c790c47f5",
-                    "reference": "940e24d6eb1d2d03fac4c1e08b6b136c790c47f5",
+                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/0eb4135fc116958eb1814f4500dfc283d7ef44e1",
+                    "reference": "0eb4135fc116958eb1814f4500dfc283d7ef44e1",
                     "shasum": ""
                 },
                 "require": {
@@ -161,9 +161,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Vfs": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Vfs\\": "src/"
                     }
                 },
                 "license": [

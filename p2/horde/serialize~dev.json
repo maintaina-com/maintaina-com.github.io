@@ -133,12 +133,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Serialize.git",
-                    "reference": "e210f2e2ecf12d3377ea7944367cb5f7662a0569"
+                    "reference": "32b81b976870dd7a201ead8c6a330844267a0bd7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Serialize/zipball/e210f2e2ecf12d3377ea7944367cb5f7662a0569",
-                    "reference": "e210f2e2ecf12d3377ea7944367cb5f7662a0569",
+                    "url": "https://api.github.com/repos/maintaina-com/Serialize/zipball/32b81b976870dd7a201ead8c6a330844267a0bd7",
+                    "reference": "32b81b976870dd7a201ead8c6a330844267a0bd7",
                     "shasum": ""
                 },
                 "require": {
@@ -162,9 +162,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Serialize": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Serialize\\": "src/"
                     }
                 },
                 "license": [

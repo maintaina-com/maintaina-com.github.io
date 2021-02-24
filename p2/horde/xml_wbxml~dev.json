@@ -107,12 +107,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Xml_Wbxml.git",
-                    "reference": "16487e4cdb6047c2be98ec55fdc0a9cb001c36d2"
+                    "reference": "ff52f6da0afc2e9b2b94f74a3a7f0e92fe501708"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Xml_Wbxml/zipball/16487e4cdb6047c2be98ec55fdc0a9cb001c36d2",
-                    "reference": "16487e4cdb6047c2be98ec55fdc0a9cb001c36d2",
+                    "url": "https://api.github.com/repos/maintaina-com/Xml_Wbxml/zipball/ff52f6da0afc2e9b2b94f74a3a7f0e92fe501708",
+                    "reference": "ff52f6da0afc2e9b2b94f74a3a7f0e92fe501708",
                     "shasum": ""
                 },
                 "require": {
@@ -128,9 +128,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Xml_Wbxml": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Xml\\Wbxml\\": "src/"
                     }
                 },
                 "license": [

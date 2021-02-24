@@ -95,12 +95,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Scheduler.git",
-                    "reference": "51b6b4a8b8064353ad59f29381e7b1e8cac3b4ca"
+                    "reference": "5fc98678fad558e2fac463c0c677d1d3feebab9b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Scheduler/zipball/51b6b4a8b8064353ad59f29381e7b1e8cac3b4ca",
-                    "reference": "51b6b4a8b8064353ad59f29381e7b1e8cac3b4ca",
+                    "url": "https://api.github.com/repos/maintaina-com/Scheduler/zipball/5fc98678fad558e2fac463c0c677d1d3feebab9b",
+                    "reference": "5fc98678fad558e2fac463c0c677d1d3feebab9b",
                     "shasum": ""
                 },
                 "require": {
@@ -115,9 +115,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Scheduler": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Scheduler\\": "src/"
                     }
                 },
                 "license": [

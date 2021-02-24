@@ -115,12 +115,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Mail.git",
-                    "reference": "74bd2918bb3850d6bcbc0b906117adfcf2cd4b9a"
+                    "reference": "97b93a287eade2528252277751936b81aa08564f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mail/zipball/74bd2918bb3850d6bcbc0b906117adfcf2cd4b9a",
-                    "reference": "74bd2918bb3850d6bcbc0b906117adfcf2cd4b9a",
+                    "url": "https://api.github.com/repos/maintaina-com/Mail/zipball/97b93a287eade2528252277751936b81aa08564f",
+                    "reference": "97b93a287eade2528252277751936b81aa08564f",
                     "shasum": ""
                 },
                 "require": {
@@ -145,9 +145,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Mail": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Mail\\": "src/"
                     }
                 },
                 "license": [

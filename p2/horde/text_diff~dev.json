@@ -113,12 +113,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Text_Diff.git",
-                    "reference": "35cadc99f10ea76c8da8e5030328847463600c41"
+                    "reference": "916907aa099900c0cb1d9d0f8fc1bc4c88a29958"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/35cadc99f10ea76c8da8e5030328847463600c41",
-                    "reference": "35cadc99f10ea76c8da8e5030328847463600c41",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/916907aa099900c0cb1d9d0f8fc1bc4c88a29958",
+                    "reference": "916907aa099900c0cb1d9d0f8fc1bc4c88a29958",
                     "shasum": ""
                 },
                 "require": {
@@ -137,9 +137,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Text_Diff": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Text\\Diff\\": "src/"
                     }
                 },
                 "license": [

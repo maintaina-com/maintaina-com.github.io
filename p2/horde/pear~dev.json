@@ -105,12 +105,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Pear.git",
-                    "reference": "47f0a20c0330a5f08c306812a581072e247c6ea0"
+                    "reference": "8d0c8eaba9554ef6ca88a7c9f668c4787129010c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Pear/zipball/47f0a20c0330a5f08c306812a581072e247c6ea0",
-                    "reference": "47f0a20c0330a5f08c306812a581072e247c6ea0",
+                    "url": "https://api.github.com/repos/maintaina-com/Pear/zipball/8d0c8eaba9554ef6ca88a7c9f668c4787129010c",
+                    "reference": "8d0c8eaba9554ef6ca88a7c9f668c4787129010c",
                     "shasum": ""
                 },
                 "require": {
@@ -130,9 +130,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Pear": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Pear\\": "src/"
                     }
                 },
                 "license": [

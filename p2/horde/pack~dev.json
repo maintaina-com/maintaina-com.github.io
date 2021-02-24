@@ -105,12 +105,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Pack.git",
-                    "reference": "a1abbeb9a9a69bbe22de4a215de08d667e3695ec"
+                    "reference": "955396802ce4d9d1260ec3d093875851d0f9f82c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Pack/zipball/a1abbeb9a9a69bbe22de4a215de08d667e3695ec",
-                    "reference": "a1abbeb9a9a69bbe22de4a215de08d667e3695ec",
+                    "url": "https://api.github.com/repos/maintaina-com/Pack/zipball/955396802ce4d9d1260ec3d093875851d0f9f82c",
+                    "reference": "955396802ce4d9d1260ec3d093875851d0f9f82c",
                     "shasum": ""
                 },
                 "require": {
@@ -130,9 +130,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Pack": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Pack\\": "src/"
                     }
                 },
                 "license": [

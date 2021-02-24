@@ -124,12 +124,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Dav.git",
-                    "reference": "5f442a77097c4b8c1aeb2fc53edcabb1e5c1ad4c"
+                    "reference": "1ce65684bd96c42c2d97b9221369c4e1507d2942"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Dav/zipball/5f442a77097c4b8c1aeb2fc53edcabb1e5c1ad4c",
-                    "reference": "5f442a77097c4b8c1aeb2fc53edcabb1e5c1ad4c",
+                    "url": "https://api.github.com/repos/maintaina-com/Dav/zipball/1ce65684bd96c42c2d97b9221369c4e1507d2942",
+                    "reference": "1ce65684bd96c42c2d97b9221369c4e1507d2942",
                     "shasum": ""
                 },
                 "require": {
@@ -158,9 +158,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Dav": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Dav\\": "src/"
                     }
                 },
                 "license": [

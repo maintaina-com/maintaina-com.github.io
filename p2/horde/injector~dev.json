@@ -97,12 +97,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Injector.git",
-                    "reference": "c97f6fdf8b2ddecf6af3dc9ed9c86ecd8eee86bc"
+                    "reference": "973ddb26b984fd11c64276024bd930b6946a6b83"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/c97f6fdf8b2ddecf6af3dc9ed9c86ecd8eee86bc",
-                    "reference": "c97f6fdf8b2ddecf6af3dc9ed9c86ecd8eee86bc",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/973ddb26b984fd11c64276024bd930b6946a6b83",
+                    "reference": "973ddb26b984fd11c64276024bd930b6946a6b83",
                     "shasum": ""
                 },
                 "require": {
@@ -118,9 +118,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Injector": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Injector\\": "src/"
                     }
                 },
                 "license": [

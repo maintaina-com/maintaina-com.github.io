@@ -125,12 +125,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Image.git",
-                    "reference": "d8e85f5df96a08d69e7dbade3e79cdff941b3c8f"
+                    "reference": "9c84dc3b90577fa9d1eb0fcf9413338c84dc86ca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Image/zipball/d8e85f5df96a08d69e7dbade3e79cdff941b3c8f",
-                    "reference": "d8e85f5df96a08d69e7dbade3e79cdff941b3c8f",
+                    "url": "https://api.github.com/repos/maintaina-com/Image/zipball/9c84dc3b90577fa9d1eb0fcf9413338c84dc86ca",
+                    "reference": "9c84dc3b90577fa9d1eb0fcf9413338c84dc86ca",
                     "shasum": ""
                 },
                 "require": {
@@ -155,9 +155,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Image": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Image\\": "src/"
                     }
                 },
                 "license": [

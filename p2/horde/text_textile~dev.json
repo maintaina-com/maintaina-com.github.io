@@ -95,12 +95,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Text_Textile.git",
-                    "reference": "5154caaf5fac1655975ab7714790718b9941a39b"
+                    "reference": "a139c88b07d89333b72639ecacfe555e154d5bd0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Textile/zipball/5154caaf5fac1655975ab7714790718b9941a39b",
-                    "reference": "5154caaf5fac1655975ab7714790718b9941a39b",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Textile/zipball/a139c88b07d89333b72639ecacfe555e154d5bd0",
+                    "reference": "a139c88b07d89333b72639ecacfe555e154d5bd0",
                     "shasum": ""
                 },
                 "require": {
@@ -115,9 +115,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Text_Textile": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Text\\Textile\\": "src/"
                     }
                 },
                 "license": [

@@ -119,12 +119,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Token.git",
-                    "reference": "b4925bfd0c63a1c24716c18f8bac1553624d2e71"
+                    "reference": "d277253a21c4b050b59da8f151b16acffb872c56"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Token/zipball/b4925bfd0c63a1c24716c18f8bac1553624d2e71",
-                    "reference": "b4925bfd0c63a1c24716c18f8bac1553624d2e71",
+                    "url": "https://api.github.com/repos/maintaina-com/Token/zipball/d277253a21c4b050b59da8f151b16acffb872c56",
+                    "reference": "d277253a21c4b050b59da8f151b16acffb872c56",
                     "shasum": ""
                 },
                 "require": {
@@ -146,9 +146,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Token": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Token\\": "src/"
                     }
                 },
                 "license": [

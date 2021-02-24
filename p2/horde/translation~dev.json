@@ -97,12 +97,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Translation.git",
-                    "reference": "ce65be660c626e7545b06c11db0021e8c6093578"
+                    "reference": "996da443ddde0b0b9673d8a0670c1e8b08ac85f3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Translation/zipball/ce65be660c626e7545b06c11db0021e8c6093578",
-                    "reference": "ce65be660c626e7545b06c11db0021e8c6093578",
+                    "url": "https://api.github.com/repos/maintaina-com/Translation/zipball/996da443ddde0b0b9673d8a0670c1e8b08ac85f3",
+                    "reference": "996da443ddde0b0b9673d8a0670c1e8b08ac85f3",
                     "shasum": ""
                 },
                 "require": {
@@ -118,9 +118,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Translation": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Translation\\": "src/"
                     }
                 },
                 "license": [

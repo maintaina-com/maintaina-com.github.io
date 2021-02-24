@@ -97,12 +97,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Socket_Client.git",
-                    "reference": "15414db05ed54f4009f307961b6ca5e8123e984f"
+                    "reference": "f9edaa5a9b96b1ba0cd13c71c703393eab947235"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Socket_Client/zipball/15414db05ed54f4009f307961b6ca5e8123e984f",
-                    "reference": "15414db05ed54f4009f307961b6ca5e8123e984f",
+                    "url": "https://api.github.com/repos/maintaina-com/Socket_Client/zipball/f9edaa5a9b96b1ba0cd13c71c703393eab947235",
+                    "reference": "f9edaa5a9b96b1ba0cd13c71c703393eab947235",
                     "shasum": ""
                 },
                 "require": {

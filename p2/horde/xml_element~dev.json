@@ -101,12 +101,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Xml_Element.git",
-                    "reference": "8358bed56fa1c1eefd7ace0683f6e51ff72e7222"
+                    "reference": "3aaad2f2361433cbea5f5b26e35181caeb3d8c2f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Xml_Element/zipball/8358bed56fa1c1eefd7ace0683f6e51ff72e7222",
-                    "reference": "8358bed56fa1c1eefd7ace0683f6e51ff72e7222",
+                    "url": "https://api.github.com/repos/maintaina-com/Xml_Element/zipball/3aaad2f2361433cbea5f5b26e35181caeb3d8c2f",
+                    "reference": "3aaad2f2361433cbea5f5b26e35181caeb3d8c2f",
                     "shasum": ""
                 },
                 "require": {
@@ -124,9 +124,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Xml_Element": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Xml\\Element\\": "src/"
                     }
                 },
                 "license": [

@@ -105,12 +105,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Notification.git",
-                    "reference": "fb34d7e83fcd4954a49aee802f164d2be8fbd898"
+                    "reference": "2d5d1c783200cf89b9b88348b9a60e7fdc63ab4e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Notification/zipball/fb34d7e83fcd4954a49aee802f164d2be8fbd898",
-                    "reference": "fb34d7e83fcd4954a49aee802f164d2be8fbd898",
+                    "url": "https://api.github.com/repos/maintaina-com/Notification/zipball/2d5d1c783200cf89b9b88348b9a60e7fdc63ab4e",
+                    "reference": "2d5d1c783200cf89b9b88348b9a60e7fdc63ab4e",
                     "shasum": ""
                 },
                 "require": {
@@ -130,9 +130,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Notification": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Notification\\": "src/"
                     }
                 },
                 "license": [

@@ -125,12 +125,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Crypt.git",
-                    "reference": "aa58bad4d6a6c533a4c31ad14e0ad799d575f62c"
+                    "reference": "b6d0f5cb05db1b32a681e266e943ca9537d48e86"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Crypt/zipball/aa58bad4d6a6c533a4c31ad14e0ad799d575f62c",
-                    "reference": "aa58bad4d6a6c533a4c31ad14e0ad799d575f62c",
+                    "url": "https://api.github.com/repos/maintaina-com/Crypt/zipball/b6d0f5cb05db1b32a681e266e943ca9537d48e86",
+                    "reference": "b6d0f5cb05db1b32a681e266e943ca9537d48e86",
                     "shasum": ""
                 },
                 "require": {
@@ -155,9 +155,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Crypt": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Crypt\\": "src/"
                     }
                 },
                 "license": [

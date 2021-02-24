@@ -111,12 +111,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/SyncMl.git",
-                    "reference": "4f790e7279ea26605847adc2de46e1cd794c65b0"
+                    "reference": "85d3bccb3626de4629dd8869cdcd38c763e287f0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/SyncMl/zipball/4f790e7279ea26605847adc2de46e1cd794c65b0",
-                    "reference": "4f790e7279ea26605847adc2de46e1cd794c65b0",
+                    "url": "https://api.github.com/repos/maintaina-com/SyncMl/zipball/85d3bccb3626de4629dd8869cdcd38c763e287f0",
+                    "reference": "85d3bccb3626de4629dd8869cdcd38c763e287f0",
                     "shasum": ""
                 },
                 "require": {
@@ -139,9 +139,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_SyncMl": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\SyncMl\\": "src/"
                     }
                 },
                 "license": [

@@ -117,12 +117,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Perms.git",
-                    "reference": "d800fb7907db722d720e498904db3601f0087c2d"
+                    "reference": "8eeef9c284d65b86c6e9af514af593a3c88dc10b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Perms/zipball/d800fb7907db722d720e498904db3601f0087c2d",
-                    "reference": "d800fb7907db722d720e498904db3601f0087c2d",
+                    "url": "https://api.github.com/repos/maintaina-com/Perms/zipball/8eeef9c284d65b86c6e9af514af593a3c88dc10b",
+                    "reference": "8eeef9c284d65b86c6e9af514af593a3c88dc10b",
                     "shasum": ""
                 },
                 "require": {
@@ -143,9 +143,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Perms": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Perms\\": "src/"
                     }
                 },
                 "license": [

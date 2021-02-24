@@ -99,12 +99,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Role.git",
-                    "reference": "67e5f10b7bc5ca06926f0d622432255415872779"
+                    "reference": "0e8fb6cae4a8a08427720ab1b40ef65c0abbf85d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Role/zipball/67e5f10b7bc5ca06926f0d622432255415872779",
-                    "reference": "67e5f10b7bc5ca06926f0d622432255415872779",
+                    "url": "https://api.github.com/repos/maintaina-com/Role/zipball/0e8fb6cae4a8a08427720ab1b40ef65c0abbf85d",
+                    "reference": "0e8fb6cae4a8a08427720ab1b40ef65c0abbf85d",
                     "shasum": ""
                 },
                 "require": {
@@ -113,14 +113,6 @@
                 },
                 "time": "2021-02-24T00:00:00+00:00",
                 "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Role": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Role\\": "src/"
-                    }
-                },
                 "license": [
                     "LGPL-2.1"
                 ],

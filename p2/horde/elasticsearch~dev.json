@@ -103,12 +103,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/elasticsearch.git",
-                    "reference": "53155264fa38f26e3734a16e7a3f7b6bd0f52f03"
+                    "reference": "72f48d44685a8540bfc801f9bcd96a2b7e904e95"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/elasticsearch/zipball/53155264fa38f26e3734a16e7a3f7b6bd0f52f03",
-                    "reference": "53155264fa38f26e3734a16e7a3f7b6bd0f52f03",
+                    "url": "https://api.github.com/repos/maintaina-com/elasticsearch/zipball/72f48d44685a8540bfc801f9bcd96a2b7e904e95",
+                    "reference": "72f48d44685a8540bfc801f9bcd96a2b7e904e95",
                     "shasum": ""
                 },
                 "require": {
@@ -122,9 +122,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_ElasticSearch": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\ElasticSearch\\": "src/"
                     }
                 },
                 "license": [

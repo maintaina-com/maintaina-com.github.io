@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Cli_Modular.git",
+                    "url": "https://github.com/maintaina-com/Cli_Modular.git",
                     "reference": "dea6f5ccd21a0f57fb99f1c92b370aa3e5bcf047"
                 },
                 "dist": {
@@ -47,7 +47,10 @@
                     }
                 ],
                 "description": "Modular command line interface library",
-                "homepage": "https://www.horde.org/libraries/Horde_Cli_Modular"
+                "homepage": "https://www.horde.org/libraries/Horde_Cli_Modular",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli_Modular/tree/master"
+                }
             },
             {
                 "name": "horde/cli_modular",
@@ -55,7 +58,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Cli_Modular.git",
+                    "url": "https://github.com/maintaina-com/Cli_Modular.git",
                     "reference": "a7317bcca94c2fdc8929f8b2a319145583d8ed8f"
                 },
                 "dist": {
@@ -98,7 +101,10 @@
                     }
                 ],
                 "description": "Modular command line interface library",
-                "homepage": "https://www.horde.org/libraries/Horde_Cli_Modular"
+                "homepage": "https://www.horde.org/libraries/Horde_Cli_Modular",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli_Modular/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/cli_modular",
@@ -106,13 +112,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Cli_Modular.git",
-                    "reference": "b764d9fd763a5296056d744979e24873e91c1a53"
+                    "url": "https://github.com/maintaina-com/Cli_Modular.git",
+                    "reference": "aed7f8c57cd0c2d02fd7eb3b6c0d8c9d3f61bd9c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Cli_Modular/zipball/b764d9fd763a5296056d744979e24873e91c1a53",
-                    "reference": "b764d9fd763a5296056d744979e24873e91c1a53",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli_Modular/zipball/aed7f8c57cd0c2d02fd7eb3b6c0d8c9d3f61bd9c",
+                    "reference": "aed7f8c57cd0c2d02fd7eb3b6c0d8c9d3f61bd9c",
                     "shasum": ""
                 },
                 "require": {
@@ -128,9 +134,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Cli_Modular": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Cli\\Modular\\": "src/"
                     }
                 },
                 "license": [
@@ -149,7 +152,10 @@
                     }
                 ],
                 "description": "Modular command line interface library",
-                "homepage": "https://www.horde.org/libraries/Horde_Cli_Modular"
+                "homepage": "https://www.horde.org/libraries/Horde_Cli_Modular",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli_Modular/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/cli_modular",
@@ -157,7 +163,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Cli_Modular.git",
+                    "url": "https://github.com/maintaina-com/Cli_Modular.git",
                     "reference": "b8339121110ad9c946055ce5df92504ac494ec34"
                 },
                 "dist": {
@@ -200,7 +206,10 @@
                     }
                 ],
                 "description": "Modular command line interface library",
-                "homepage": "https://www.horde.org/libraries/Horde_Cli_Modular"
+                "homepage": "https://www.horde.org/libraries/Horde_Cli_Modular",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli_Modular/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/cli_modular",
@@ -208,7 +217,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Cli_Modular.git",
+                    "url": "https://github.com/maintaina-com/Cli_Modular.git",
                     "reference": "b8339121110ad9c946055ce5df92504ac494ec34"
                 },
                 "dist": {
@@ -251,7 +260,10 @@
                     }
                 ],
                 "description": "Modular command line interface library",
-                "homepage": "https://www.horde.org/libraries/Horde_Cli_Modular"
+                "homepage": "https://www.horde.org/libraries/Horde_Cli_Modular",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli_Modular/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/cli_modular",
@@ -259,7 +271,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Cli_Modular.git",
+                    "url": "https://github.com/maintaina-com/Cli_Modular.git",
                     "reference": "d08f748b9b88d16e7146b43a63ea81a42ca68f24"
                 },
                 "dist": {
@@ -299,7 +311,10 @@
                     }
                 ],
                 "description": "Modular command line interface library",
-                "homepage": "https://www.horde.org/libraries/Horde_Cli_Modular"
+                "homepage": "https://www.horde.org/libraries/Horde_Cli_Modular",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli_Modular/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

@@ -95,12 +95,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Mapi.git",
-                    "reference": "8b1819b159638e0d15365bc73dfd31e4afd11c4f"
+                    "reference": "86a52eee03359a2cec6316a2d93e4aa6a0bacd1d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mapi/zipball/8b1819b159638e0d15365bc73dfd31e4afd11c4f",
-                    "reference": "8b1819b159638e0d15365bc73dfd31e4afd11c4f",
+                    "url": "https://api.github.com/repos/maintaina-com/Mapi/zipball/86a52eee03359a2cec6316a2d93e4aa6a0bacd1d",
+                    "reference": "86a52eee03359a2cec6316a2d93e4aa6a0bacd1d",
                     "shasum": ""
                 },
                 "require": {
@@ -115,9 +115,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Mapi": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Mapi\\": "src/"
                     }
                 },
                 "license": [

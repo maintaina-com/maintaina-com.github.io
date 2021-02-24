@@ -121,12 +121,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Tree.git",
-                    "reference": "6cfa59ac0881e5b559a243d7c2c764bad38b06ac"
+                    "reference": "1eda382afb24a5ab464703ef032369bbf3c6333c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Tree/zipball/6cfa59ac0881e5b559a243d7c2c764bad38b06ac",
-                    "reference": "6cfa59ac0881e5b559a243d7c2c764bad38b06ac",
+                    "url": "https://api.github.com/repos/maintaina-com/Tree/zipball/1eda382afb24a5ab464703ef032369bbf3c6333c",
+                    "reference": "1eda382afb24a5ab464703ef032369bbf3c6333c",
                     "shasum": ""
                 },
                 "require": {
@@ -144,9 +144,6 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Tree": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Tree\\": "src/"
                     }
                 },
                 "license": [
