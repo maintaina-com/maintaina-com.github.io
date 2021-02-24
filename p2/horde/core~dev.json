@@ -277,12 +277,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Core.git",
-                    "reference": "b9e539a6a31f9f4648d2d8038cddbc75724fb2ac"
+                    "reference": "75fe1010d64beeb121ea9bb25b6e3483439755f6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Core/zipball/b9e539a6a31f9f4648d2d8038cddbc75724fb2ac",
-                    "reference": "b9e539a6a31f9f4648d2d8038cddbc75724fb2ac",
+                    "url": "https://api.github.com/repos/maintaina-com/Core/zipball/75fe1010d64beeb121ea9bb25b6e3483439755f6",
+                    "reference": "75fe1010d64beeb121ea9bb25b6e3483439755f6",
                     "shasum": ""
                 },
                 "require": {
@@ -327,7 +327,7 @@
                     "horde/url": "^3",
                     "horde/util": "^3",
                     "horde/view": "^3",
-                    "pear/composer": "*",
+                    "pear/pear": "*",
                     "php": "^7"
                 },
                 "suggest": {
