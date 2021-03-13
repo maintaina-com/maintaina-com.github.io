@@ -8,23 +8,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/hordectl.git",
-                    "reference": "75ca531347a8d1e78eb9713182db58c10bb66362"
+                    "reference": "6fbe0d922e1c27d9deb0b59f149fa8745950b547"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/hordectl/zipball/75ca531347a8d1e78eb9713182db58c10bb66362",
-                    "reference": "75ca531347a8d1e78eb9713182db58c10bb66362",
+                    "url": "https://api.github.com/repos/maintaina-com/hordectl/zipball/6fbe0d922e1c27d9deb0b59f149fa8745950b547",
+                    "reference": "6fbe0d922e1c27d9deb0b59f149fa8745950b547",
                     "shasum": ""
                 },
                 "require": {
-                    "horde/argv": "dev-master",
-                    "horde/auth": "dev-master",
-                    "horde/cli": "dev-master",
-                    "horde/cli_modular": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/perms": "dev-master",
-                    "horde/util": "dev-master",
-                    "horde/yaml": "dev-master",
+                    "horde/argv": "dev-master || dev-FRAMEWORK_6_0 || ^3",
+                    "horde/auth": "dev-master || dev-FRAMEWORK_6_0 || ^3",
+                    "horde/cli": "dev-master || dev-FRAMEWORK_6_0 || ^3",
+                    "horde/cli_modular": "dev-master || dev-FRAMEWORK_6_0 || ^3",
+                    "horde/horde-installer-plugin": "dev-master || dev-FRAMEWORK_6_0 || ^1",
+                    "horde/perms": "dev-master || dev-FRAMEWORK_6_0 || ^3",
+                    "horde/util": "dev-master || dev-FRAMEWORK_6_0 || ^3",
+                    "horde/yaml": "dev-master || dev-FRAMEWORK_6_0 || ^3",
                     "php": "^5.3 || ^7"
                 },
                 "time": "2020-04-02T00:00:00+00:00",
