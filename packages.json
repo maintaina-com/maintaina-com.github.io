@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$3ed75bda5f542b3b994aa8d89e05e2c8e05c45e8.json": {
-            "sha1": "3ed75bda5f542b3b994aa8d89e05e2c8e05c45e8"
+        "include/all$36a4f152f17de3981dbc155ed5d1d3564844deae.json": {
+            "sha1": "36a4f152f17de3981dbc155ed5d1d3564844deae"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -123,9 +123,15 @@
         "horde/vfs",
         "horde/view",
         "horde/whups",
+        "horde/wicked",
         "horde/xml_element",
         "horde/xml_wbxml",
         "horde/yaml",
-        "pear-pear.php.net/pear"
+        "pear-pear.php.net/pear",
+        "pear/crypt_chap",
+        "pear/file_fstab",
+        "pear/text_captcha",
+        "pear/text_figlet",
+        "pear/xml_svg"
     ]
 }
