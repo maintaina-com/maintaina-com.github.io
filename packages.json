@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$36a4f152f17de3981dbc155ed5d1d3564844deae.json": {
-            "sha1": "36a4f152f17de3981dbc155ed5d1d3564844deae"
+        "include/all$2b2daa5871511513c45d59022528ec43b5844454.json": {
+            "sha1": "2b2daa5871511513c45d59022528ec43b5844454"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -122,6 +122,7 @@
         "horde/vcs",
         "horde/vfs",
         "horde/view",
+        "horde/vilma",
         "horde/whups",
         "horde/wicked",
         "horde/xml_element",

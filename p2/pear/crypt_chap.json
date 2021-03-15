@@ -8,23 +8,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:ralflang/Crypt_CHAP.git",
-                    "reference": "5ea9860cfc9d9d865d8b0f5242cc5fe2c7c2441c"
+                    "reference": "5a2549c42f065a91f8d33ffbfb39d53329c73141"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/ralflang/Crypt_CHAP/zipball/5ea9860cfc9d9d865d8b0f5242cc5fe2c7c2441c",
-                    "reference": "5ea9860cfc9d9d865d8b0f5242cc5fe2c7c2441c",
+                    "url": "https://api.github.com/repos/ralflang/Crypt_CHAP/zipball/5a2549c42f065a91f8d33ffbfb39d53329c73141",
+                    "reference": "5a2549c42f065a91f8d33ffbfb39d53329c73141",
                     "shasum": ""
                 },
                 "require": {
                     "ext-hash": "*",
-                    "friendsofphp/php-cs-fixer": "^2.18",
                     "pear/pear": ">= 1.4.0b1",
                     "php": "^7 || ^8",
-                    "phpseclib/mcrypt_compat": "*",
-                    "rector/rector": "^0.9.31"
+                    "phpseclib/mcrypt_compat": "*"
                 },
-                "suggest": {
+                "require-dev": {
                     "phpunit/phpunit": "*"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
