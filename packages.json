@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$2b2daa5871511513c45d59022528ec43b5844454.json": {
-            "sha1": "2b2daa5871511513c45d59022528ec43b5844454"
+        "include/all$dd00c025ced9520cd074f3936b066c01c1aa3f15.json": {
+            "sha1": "dd00c025ced9520cd074f3936b066c01c1aa3f15"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -128,7 +128,6 @@
         "horde/xml_element",
         "horde/xml_wbxml",
         "horde/yaml",
-        "pear-pear.php.net/pear",
         "pear/crypt_chap",
         "pear/file_fstab",
         "pear/text_captcha",
