@@ -1,22 +1,26 @@
 {
     "packages": [],
     "includes": {
-        "include/all$938f114d54cedaabce934a0ba2e7794ebf43d383.json": {
-            "sha1": "938f114d54cedaabce934a0ba2e7794ebf43d383"
+        "include/all$f3fbc6d7529921c3affafead6a6c246e62744e31.json": {
+            "sha1": "f3fbc6d7529921c3affafead6a6c246e62744e31"
         }
     },
     "metadata-url": "/p2/%package%.json",
     "available-packages": [
         "horde/activesync",
+        "horde/agora",
         "horde/alarm",
         "horde/ansel",
         "horde/argv",
         "horde/auth",
         "horde/autoloader",
+        "horde/autoloader_cache",
         "horde/backup",
+        "horde/beatnik",
         "horde/browser",
         "horde/bundle",
         "horde/cache",
+        "horde/chora",
         "horde/cli",
         "horde/cli_application",
         "horde/cli_modular",
@@ -39,9 +43,12 @@
         "horde/editor",
         "horde/elasticsearch",
         "horde/exception",
+        "horde/feed",
         "horde/form",
+        "horde/gollem",
         "horde/group",
         "horde/hashtable",
+        "horde/hermes",
         "horde/history",
         "horde/horde",
         "horde/horde-gittools",
@@ -59,6 +66,7 @@
         "horde/itip",
         "horde/javascriptminify",
         "horde/javascriptminify_jsmin",
+        "horde/jonah",
         "horde/kronolith",
         "horde/ldap",
         "horde/listheaders",
@@ -72,6 +80,7 @@
         "horde/mime",
         "horde/mime_viewer",
         "horde/mnemo",
+        "horde/model",
         "horde/nag",
         "horde/nls",
         "horde/notification",
