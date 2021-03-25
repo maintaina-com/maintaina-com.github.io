@@ -223,12 +223,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/beatnik.git",
-                    "reference": "91553c081c1a709d968779d0b40e82cf93aecd0b"
+                    "reference": "a260a4c3e87f1b255ee8aeb69c30aa5516cefb13"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/beatnik/zipball/91553c081c1a709d968779d0b40e82cf93aecd0b",
-                    "reference": "91553c081c1a709d968779d0b40e82cf93aecd0b",
+                    "url": "https://api.github.com/repos/maintaina-com/beatnik/zipball/a260a4c3e87f1b255ee8aeb69c30aa5516cefb13",
+                    "reference": "a260a4c3e87f1b255ee8aeb69c30aa5516cefb13",
                     "shasum": ""
                 },
                 "require": {
@@ -259,7 +259,7 @@
                 "description": "DNS record management application",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/beatnik/tree/horde-upstream"
+                    "source": "https://github.com/maintaina-com/beatnik/tree/maintaina-bare"
                 }
             },
             {
