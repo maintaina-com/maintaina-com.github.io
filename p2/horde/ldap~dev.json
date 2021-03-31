@@ -111,12 +111,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Ldap.git",
-                    "reference": "7e8fbacb6cc4ed982acd3eae3007a8abc5ee10c9"
+                    "reference": "d3670ad48c878b5fad7482cd6035446faced0da5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Ldap/zipball/7e8fbacb6cc4ed982acd3eae3007a8abc5ee10c9",
-                    "reference": "7e8fbacb6cc4ed982acd3eae3007a8abc5ee10c9",
+                    "url": "https://api.github.com/repos/maintaina-com/Ldap/zipball/d3670ad48c878b5fad7482cd6035446faced0da5",
+                    "reference": "d3670ad48c878b5fad7482cd6035446faced0da5",
                     "shasum": ""
                 },
                 "require": {

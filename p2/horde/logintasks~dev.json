@@ -99,12 +99,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/LoginTasks.git",
-                    "reference": "504a7357b7f0538284bcd49148042f0307a4479d"
+                    "reference": "7d5976544ec67ec43d3ef4ff339158b78abb89b0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/LoginTasks/zipball/504a7357b7f0538284bcd49148042f0307a4479d",
-                    "reference": "504a7357b7f0538284bcd49148042f0307a4479d",
+                    "url": "https://api.github.com/repos/maintaina-com/LoginTasks/zipball/7d5976544ec67ec43d3ef4ff339158b78abb89b0",
+                    "reference": "7d5976544ec67ec43d3ef4ff339158b78abb89b0",
                     "shasum": ""
                 },
                 "require": {

@@ -133,12 +133,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Mime.git",
-                    "reference": "8b7be45a5c0e05127704b30df25aff63b22025ec"
+                    "reference": "e32024b9ebd1f0ab1f99ae5e8f7aa282018087a5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/8b7be45a5c0e05127704b30df25aff63b22025ec",
-                    "reference": "8b7be45a5c0e05127704b30df25aff63b22025ec",
+                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/e32024b9ebd1f0ab1f99ae5e8f7aa282018087a5",
+                    "reference": "e32024b9ebd1f0ab1f99ae5e8f7aa282018087a5",
                     "shasum": ""
                 },
                 "require": {

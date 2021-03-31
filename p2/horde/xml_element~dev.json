@@ -101,12 +101,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Xml_Element.git",
-                    "reference": "712bb106d9bcbf02cfdbda32607ad42572e3286a"
+                    "reference": "c0914658eec9f1a12d575e8b827bfeec477383bb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Xml_Element/zipball/712bb106d9bcbf02cfdbda32607ad42572e3286a",
-                    "reference": "712bb106d9bcbf02cfdbda32607ad42572e3286a",
+                    "url": "https://api.github.com/repos/maintaina-com/Xml_Element/zipball/c0914658eec9f1a12d575e8b827bfeec477383bb",
+                    "reference": "c0914658eec9f1a12d575e8b827bfeec477383bb",
                     "shasum": ""
                 },
                 "require": {

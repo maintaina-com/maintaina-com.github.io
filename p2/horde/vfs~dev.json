@@ -129,12 +129,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Vfs.git",
-                    "reference": "e0edd8a053a51f22298a9c7caf58b8aeea74bea4"
+                    "reference": "6dedbaa87343d8f1a9ad6490dc6ce86f151d9a37"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/e0edd8a053a51f22298a9c7caf58b8aeea74bea4",
-                    "reference": "e0edd8a053a51f22298a9c7caf58b8aeea74bea4",
+                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/6dedbaa87343d8f1a9ad6490dc6ce86f151d9a37",
+                    "reference": "6dedbaa87343d8f1a9ad6490dc6ce86f151d9a37",
                     "shasum": ""
                 },
                 "require": {

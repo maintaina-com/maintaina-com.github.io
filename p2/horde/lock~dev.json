@@ -103,12 +103,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Lock.git",
-                    "reference": "bdea5b09df909a98f356d098f80131d1ccc6e08a"
+                    "reference": "f9864ffaf186983d361416ca67f73213c205e479"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/bdea5b09df909a98f356d098f80131d1ccc6e08a",
-                    "reference": "bdea5b09df909a98f356d098f80131d1ccc6e08a",
+                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/f9864ffaf186983d361416ca67f73213c205e479",
+                    "reference": "f9864ffaf186983d361416ca67f73213c205e479",
                     "shasum": ""
                 },
                 "require": {

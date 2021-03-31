@@ -105,12 +105,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Service_Weather.git",
-                    "reference": "dd7ba28683323012ef711cd59746ca63b1b83e8f"
+                    "reference": "b572ba52c71b5bafc47a6a7d5affd1f1bc29bd30"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Service_Weather/zipball/dd7ba28683323012ef711cd59746ca63b1b83e8f",
-                    "reference": "dd7ba28683323012ef711cd59746ca63b1b83e8f",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Weather/zipball/b572ba52c71b5bafc47a6a7d5affd1f1bc29bd30",
+                    "reference": "b572ba52c71b5bafc47a6a7d5affd1f1bc29bd30",
                     "shasum": ""
                 },
                 "require": {

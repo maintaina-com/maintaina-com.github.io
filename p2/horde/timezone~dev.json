@@ -101,12 +101,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Timezone.git",
-                    "reference": "315b49e9dbce89458a7908617ea89b8bd33d86e3"
+                    "reference": "17f065480328be9c9ffd35daf485cc8231e17dcf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Timezone/zipball/315b49e9dbce89458a7908617ea89b8bd33d86e3",
-                    "reference": "315b49e9dbce89458a7908617ea89b8bd33d86e3",
+                    "url": "https://api.github.com/repos/maintaina-com/Timezone/zipball/17f065480328be9c9ffd35daf485cc8231e17dcf",
+                    "reference": "17f065480328be9c9ffd35daf485cc8231e17dcf",
                     "shasum": ""
                 },
                 "require": {

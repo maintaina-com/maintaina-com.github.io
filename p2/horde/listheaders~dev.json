@@ -103,12 +103,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/ListHeaders.git",
-                    "reference": "ce4dc32054717bf5f3c103d8e38b9b0187287837"
+                    "reference": "4f34c2ebe5aeaac06cdd2f1e978d170e75d0008f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ListHeaders/zipball/ce4dc32054717bf5f3c103d8e38b9b0187287837",
-                    "reference": "ce4dc32054717bf5f3c103d8e38b9b0187287837",
+                    "url": "https://api.github.com/repos/maintaina-com/ListHeaders/zipball/4f34c2ebe5aeaac06cdd2f1e978d170e75d0008f",
+                    "reference": "4f34c2ebe5aeaac06cdd2f1e978d170e75d0008f",
                     "shasum": ""
                 },
                 "require": {

@@ -91,12 +91,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Text_Filter_Jsmin.git",
-                    "reference": "d77fd0cc2ae8718a01e307c2098b78535606978b"
+                    "reference": "3e4e9c32be42961e686df4a279ed2dd7b531225e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Filter_Jsmin/zipball/d77fd0cc2ae8718a01e307c2098b78535606978b",
-                    "reference": "d77fd0cc2ae8718a01e307c2098b78535606978b",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Filter_Jsmin/zipball/3e4e9c32be42961e686df4a279ed2dd7b531225e",
+                    "reference": "3e4e9c32be42961e686df4a279ed2dd7b531225e",
                     "shasum": ""
                 },
                 "require": {

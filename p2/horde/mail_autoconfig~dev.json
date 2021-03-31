@@ -103,12 +103,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Mail_Autoconfig.git",
-                    "reference": "fb2dcb79f547118d435292f33669d240c4d2534a"
+                    "reference": "6519a61339e2001eb79f814919fef64c95af5267"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mail_Autoconfig/zipball/fb2dcb79f547118d435292f33669d240c4d2534a",
-                    "reference": "fb2dcb79f547118d435292f33669d240c4d2534a",
+                    "url": "https://api.github.com/repos/maintaina-com/Mail_Autoconfig/zipball/6519a61339e2001eb79f814919fef64c95af5267",
+                    "reference": "6519a61339e2001eb79f814919fef64c95af5267",
                     "shasum": ""
                 },
                 "require": {

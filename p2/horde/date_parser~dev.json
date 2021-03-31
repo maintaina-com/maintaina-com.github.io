@@ -111,12 +111,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Date_Parser.git",
-                    "reference": "855e09c522983bad95a553936362cb18f378112a"
+                    "reference": "15712f629b779540e1924314b1877eab0f8aa509"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Date_Parser/zipball/855e09c522983bad95a553936362cb18f378112a",
-                    "reference": "855e09c522983bad95a553936362cb18f378112a",
+                    "url": "https://api.github.com/repos/maintaina-com/Date_Parser/zipball/15712f629b779540e1924314b1877eab0f8aa509",
+                    "reference": "15712f629b779540e1924314b1877eab0f8aa509",
                     "shasum": ""
                 },
                 "require": {

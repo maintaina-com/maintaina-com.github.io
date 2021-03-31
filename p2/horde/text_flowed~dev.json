@@ -97,12 +97,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Text_Flowed.git",
-                    "reference": "799e7075da8cd1f703b9cb1a3183bbc4dba61222"
+                    "reference": "3e53232b08378e6dc58cf1d1af6465690fe19e61"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Flowed/zipball/799e7075da8cd1f703b9cb1a3183bbc4dba61222",
-                    "reference": "799e7075da8cd1f703b9cb1a3183bbc4dba61222",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Flowed/zipball/3e53232b08378e6dc58cf1d1af6465690fe19e61",
+                    "reference": "3e53232b08378e6dc58cf1d1af6465690fe19e61",
                     "shasum": ""
                 },
                 "require": {

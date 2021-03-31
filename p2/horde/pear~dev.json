@@ -105,12 +105,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Pear.git",
-                    "reference": "0eef2cbe8379b3e02f09c13b44b3b1a17a50727e"
+                    "reference": "2bb1166da17de6560013585ba0a23c775e1146eb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Pear/zipball/0eef2cbe8379b3e02f09c13b44b3b1a17a50727e",
-                    "reference": "0eef2cbe8379b3e02f09c13b44b3b1a17a50727e",
+                    "url": "https://api.github.com/repos/maintaina-com/Pear/zipball/2bb1166da17de6560013585ba0a23c775e1146eb",
+                    "reference": "2bb1166da17de6560013585ba0a23c775e1146eb",
                     "shasum": ""
                 },
                 "require": {

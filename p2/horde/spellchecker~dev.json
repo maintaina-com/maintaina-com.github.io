@@ -103,12 +103,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/SpellChecker.git",
-                    "reference": "6c9fd40bc6f609871af2918e6c228e6ae12b54e5"
+                    "reference": "25832208a68d096abdb27d03741d501db25a4897"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/SpellChecker/zipball/6c9fd40bc6f609871af2918e6c228e6ae12b54e5",
-                    "reference": "6c9fd40bc6f609871af2918e6c228e6ae12b54e5",
+                    "url": "https://api.github.com/repos/maintaina-com/SpellChecker/zipball/25832208a68d096abdb27d03741d501db25a4897",
+                    "reference": "25832208a68d096abdb27d03741d501db25a4897",
                     "shasum": ""
                 },
                 "require": {

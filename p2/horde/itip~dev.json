@@ -113,12 +113,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:maintaina-com/Itip.git",
-                    "reference": "856bbdb70d2422a20b025e0667a81a064e3ddddb"
+                    "reference": "c3125e76ada8ba046e032fedee3b3679b30d1c6d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Itip/zipball/856bbdb70d2422a20b025e0667a81a064e3ddddb",
-                    "reference": "856bbdb70d2422a20b025e0667a81a064e3ddddb",
+                    "url": "https://api.github.com/repos/maintaina-com/Itip/zipball/c3125e76ada8ba046e032fedee3b3679b30d1c6d",
+                    "reference": "c3125e76ada8ba046e032fedee3b3679b30d1c6d",
                     "shasum": ""
                 },
                 "require": {
