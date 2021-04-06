@@ -125,19 +125,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Form.git",
-                    "reference": "509122b6caf662e575aee1e9eb82c5fb7ac9ec1b"
+                    "reference": "841db8b2ea91ad4b58a8e6502eaff053be1cb397"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Form/zipball/509122b6caf662e575aee1e9eb82c5fb7ac9ec1b",
-                    "reference": "509122b6caf662e575aee1e9eb82c5fb7ac9ec1b",
+                    "url": "https://api.github.com/repos/maintaina-com/Form/zipball/841db8b2ea91ad4b58a8e6502eaff053be1cb397",
+                    "reference": "841db8b2ea91ad4b58a8e6502eaff053be1cb397",
                     "shasum": ""
                 },
                 "require": {
                     "ext-json": "*",
-                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
                     "horde/date": "^3 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mail": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mime": "^3 || dev-FRAMEWORK_6_0",
                     "horde/nls": "^3 || dev-FRAMEWORK_6_0",
@@ -145,6 +145,9 @@
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7"
+                },
+                "suggest": {
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
                 "type": "library",

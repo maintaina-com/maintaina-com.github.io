@@ -129,12 +129,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Argv.git",
-                    "reference": "7f69eb3af59ff7ae12f7a530323c0e2eafb153d6"
+                    "reference": "ffb5cb01d6940f33549ea990cc30abed7982cf78"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Argv/zipball/7f69eb3af59ff7ae12f7a530323c0e2eafb153d6",
-                    "reference": "7f69eb3af59ff7ae12f7a530323c0e2eafb153d6",
+                    "url": "https://api.github.com/repos/maintaina-com/Argv/zipball/ffb5cb01d6940f33549ea990cc30abed7982cf78",
+                    "reference": "ffb5cb01d6940f33549ea990cc30abed7982cf78",
                     "shasum": ""
                 },
                 "require": {
@@ -142,12 +142,15 @@
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7 || ^8"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2021-04-06T00:00:00+00:00",
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -249,12 +252,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Argv.git",
-                    "reference": "39db07d7fecf275420b6559e9b995411ae6206ce"
+                    "reference": "b11abed59ea36c63fbef7dd0ec2b4785769a7ffa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Argv/zipball/39db07d7fecf275420b6559e9b995411ae6206ce",
-                    "reference": "39db07d7fecf275420b6559e9b995411ae6206ce",
+                    "url": "https://api.github.com/repos/maintaina-com/Argv/zipball/b11abed59ea36c63fbef7dd0ec2b4785769a7ffa",
+                    "reference": "b11abed59ea36c63fbef7dd0ec2b4785769a7ffa",
                     "shasum": ""
                 },
                 "require": {
@@ -301,7 +304,7 @@
                 "description": "Command-line argument parsing library",
                 "homepage": "https://www.horde.org/libraries/Horde_Argv",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Argv/tree/horde-upstream"
+                    "source": "https://github.com/maintaina-com/Argv/tree/maintaina-bare"
                 }
             },
             {
