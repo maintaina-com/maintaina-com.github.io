@@ -7,7 +7,7 @@
                 "version_normalized": "1.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Queue.git",
+                    "url": "https://github.com/maintaina-com/Queue.git",
                     "reference": "8a7913ba13120441261cd73a4bf74f2d5f3d1a79"
                 },
                 "dist": {
@@ -32,7 +32,10 @@
                     }
                 ],
                 "description": "Horde Queue",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Queue/tree/v1.1.2"
+                }
             },
             {
                 "name": "horde/queue",
@@ -40,7 +43,7 @@
                 "version_normalized": "1.1.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Queue.git",
+                    "url": "https://github.com/maintaina-com/Queue.git",
                     "reference": "5828316ac67643863f428aacb94388077961634b"
                 },
                 "dist": {
@@ -65,7 +68,10 @@
                     }
                 ],
                 "description": "Horde Queue",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Queue/tree/v1.1.3"
+                }
             },
             {
                 "name": "horde/queue",
@@ -73,7 +79,7 @@
                 "version_normalized": "1.1.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Queue.git",
+                    "url": "https://github.com/maintaina-com/Queue.git",
                     "reference": "e644dd6a5b3fb676781a1254c6950b78e806a22a"
                 },
                 "dist": {
@@ -98,7 +104,10 @@
                     }
                 ],
                 "description": "Horde Queue",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Queue/tree/v1.1.4"
+                }
             },
             {
                 "name": "horde/queue",
@@ -106,7 +115,7 @@
                 "version_normalized": "1.1.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Queue.git",
+                    "url": "https://github.com/maintaina-com/Queue.git",
                     "reference": "652c3645e9a7ec21569caade17feb5b3ce99a723"
                 },
                 "dist": {
@@ -140,7 +149,10 @@
                     }
                 ],
                 "description": "Horde Queue",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Queue/tree/v1.1.5"
+                }
             },
             {
                 "name": "horde/queue",
@@ -148,7 +160,7 @@
                 "version_normalized": "2.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Queue.git",
+                    "url": "https://github.com/maintaina-com/Queue.git",
                     "reference": "156cb804a8f9875eeafbce1ef7f6e74f36c74755"
                 },
                 "dist": {
@@ -182,7 +194,10 @@
                     }
                 ],
                 "description": "Message and data queuing client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Queue"
+                "homepage": "https://www.horde.org/libraries/Horde_Queue",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Queue/tree/v2.0.0alpha1"
+                }
             },
             {
                 "name": "horde/queue",
@@ -190,7 +205,7 @@
                 "version_normalized": "2.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Queue.git",
+                    "url": "https://github.com/maintaina-com/Queue.git",
                     "reference": "c93a7b818edbc88340fb29c8620583adca9e4c6c"
                 },
                 "dist": {
@@ -221,7 +236,10 @@
                     }
                 ],
                 "description": "Message and data queuing client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Queue"
+                "homepage": "https://www.horde.org/libraries/Horde_Queue",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Queue/tree/v2.0.0alpha2"
+                }
             },
             {
                 "name": "horde/queue",
@@ -229,7 +247,7 @@
                 "version_normalized": "2.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Queue.git",
+                    "url": "https://github.com/maintaina-com/Queue.git",
                     "reference": "6e5c31c6b00ecc0b079b26c6205b52fdabc26aeb"
                 },
                 "dist": {
@@ -259,7 +277,10 @@
                     }
                 ],
                 "description": "Message and data queuing client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Queue"
+                "homepage": "https://www.horde.org/libraries/Horde_Queue",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Queue/tree/v2.0.0alpha3"
+                }
             }
         ]
     }

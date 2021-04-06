@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Form.git",
+                    "url": "https://github.com/maintaina-com/Form.git",
                     "reference": "bf52c8f426b1f1a7b2a43160b2754021f2bf7a8f"
                 },
                 "dist": {
@@ -53,7 +53,10 @@
                     }
                 ],
                 "description": "Form library",
-                "homepage": "https://www.horde.org/libraries/Horde_Form"
+                "homepage": "https://www.horde.org/libraries/Horde_Form",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Form/tree/master"
+                }
             },
             {
                 "name": "horde/form",
@@ -61,7 +64,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Form.git",
+                    "url": "https://github.com/maintaina-com/Form.git",
                     "reference": "6119fb4a5d964111ca8ea4ea2141c34fb7f2618d"
                 },
                 "dist": {
@@ -110,7 +113,10 @@
                     }
                 ],
                 "description": "Form library",
-                "homepage": "https://www.horde.org/libraries/Horde_Form"
+                "homepage": "https://www.horde.org/libraries/Horde_Form",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Form/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/form",
@@ -118,7 +124,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Form.git",
+                    "url": "https://github.com/maintaina-com/Form.git",
                     "reference": "509122b6caf662e575aee1e9eb82c5fb7ac9ec1b"
                 },
                 "dist": {
@@ -163,7 +169,10 @@
                     }
                 ],
                 "description": "Form library",
-                "homepage": "https://www.horde.org/libraries/Horde_Form"
+                "homepage": "https://www.horde.org/libraries/Horde_Form",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Form/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/form",
@@ -171,7 +180,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Form.git",
+                    "url": "https://github.com/maintaina-com/Form.git",
                     "reference": "a11bbadcb99dfc676901f56fe0b3e09bc258c0e1"
                 },
                 "dist": {
@@ -220,7 +229,10 @@
                     }
                 ],
                 "description": "Form library",
-                "homepage": "https://www.horde.org/libraries/Horde_Form"
+                "homepage": "https://www.horde.org/libraries/Horde_Form",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Form/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/form",
@@ -228,7 +240,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Form.git",
+                    "url": "https://github.com/maintaina-com/Form.git",
                     "reference": "385c51ff45718586173364f4fa33b2c603a7f41a"
                 },
                 "dist": {
@@ -277,7 +289,10 @@
                     }
                 ],
                 "description": "Form library",
-                "homepage": "https://www.horde.org/libraries/Horde_Form"
+                "homepage": "https://www.horde.org/libraries/Horde_Form",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Form/tree/maintaina-bare"
+                }
             },
             {
                 "name": "horde/form",
@@ -285,7 +300,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Form.git",
+                    "url": "https://github.com/maintaina-com/Form.git",
                     "reference": "d0312abb9b47b36a781b6e08d6c709406dbc3d72"
                 },
                 "dist": {
@@ -331,7 +346,10 @@
                     }
                 ],
                 "description": "Form library",
-                "homepage": "https://www.horde.org/libraries/Horde_Form"
+                "homepage": "https://www.horde.org/libraries/Horde_Form",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Form/tree/maintaina-composerfixed"
+                }
             },
             {
                 "name": "horde/form",
@@ -339,7 +357,7 @@
                 "version_normalized": "dev-refactor",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Form.git",
+                    "url": "https://github.com/maintaina-com/Form.git",
                     "reference": "21cf694c569eef119dbda05eeda8bcc389c88498"
                 },
                 "dist": {
@@ -388,7 +406,10 @@
                     }
                 ],
                 "description": "Form library",
-                "homepage": "https://www.horde.org/libraries/Horde_Form"
+                "homepage": "https://www.horde.org/libraries/Horde_Form",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Form/tree/refactor"
+                }
             }
         ]
     }

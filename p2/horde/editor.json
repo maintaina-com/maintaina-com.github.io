@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Editor.git",
+                    "url": "https://github.com/maintaina-com/Editor.git",
                     "reference": "09aef45e7bbe2e1e13ac9b6df7a05858416701e2"
                 },
                 "dist": {
@@ -40,7 +40,10 @@
                     }
                 ],
                 "description": "Horde Editor API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Editor/tree/v2.0.4"
+                }
             },
             {
                 "name": "horde/editor",
@@ -48,7 +51,7 @@
                 "version_normalized": "2.0.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Editor.git",
+                    "url": "https://github.com/maintaina-com/Editor.git",
                     "reference": "e5a70d63b0980e41a66a5281ab731d67365eaf88"
                 },
                 "dist": {
@@ -90,7 +93,10 @@
                     }
                 ],
                 "description": "Horde Editor API",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Editor/tree/v2.0.5"
+                }
             },
             {
                 "name": "horde/editor",
@@ -98,7 +104,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Editor.git",
+                    "url": "https://github.com/maintaina-com/Editor.git",
                     "reference": "db8ab20df7b41015394b90b1cb7bef85b94b36d4"
                 },
                 "dist": {
@@ -140,7 +146,10 @@
                     }
                 ],
                 "description": "WYSIWYG editor library",
-                "homepage": "https://www.horde.org/libraries/Horde_Editor"
+                "homepage": "https://www.horde.org/libraries/Horde_Editor",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Editor/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/editor",
@@ -148,7 +157,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Editor.git",
+                    "url": "https://github.com/maintaina-com/Editor.git",
                     "reference": "c36391527889fd673c6dee524dd33bb56bac424d"
                 },
                 "dist": {
@@ -187,7 +196,10 @@
                     }
                 ],
                 "description": "WYSIWYG editor library",
-                "homepage": "https://www.horde.org/libraries/Horde_Editor"
+                "homepage": "https://www.horde.org/libraries/Horde_Editor",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Editor/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/editor",
@@ -195,7 +207,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Editor.git",
+                    "url": "https://github.com/maintaina-com/Editor.git",
                     "reference": "cb86f4392fc01b834a503196be207b29b5a24ad3"
                 },
                 "dist": {
@@ -234,7 +246,10 @@
                     }
                 ],
                 "description": "WYSIWYG editor library",
-                "homepage": "https://www.horde.org/libraries/Horde_Editor"
+                "homepage": "https://www.horde.org/libraries/Horde_Editor",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Editor/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

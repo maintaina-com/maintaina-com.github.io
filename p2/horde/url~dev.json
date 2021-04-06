@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Url.git",
+                    "url": "https://github.com/maintaina-com/Url.git",
                     "reference": "6a0720ea72a10b732bca58190d775175af09798a"
                 },
                 "dist": {
@@ -47,7 +47,10 @@
                     }
                 ],
                 "description": "URL library",
-                "homepage": "https://www.horde.org/libraries/Horde_Url"
+                "homepage": "https://www.horde.org/libraries/Horde_Url",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Url/tree/master"
+                }
             },
             {
                 "name": "horde/url",
@@ -55,7 +58,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Url.git",
+                    "url": "https://github.com/maintaina-com/Url.git",
                     "reference": "1ecf5fdd72fda140645ebfedae41cef67b477403"
                 },
                 "dist": {
@@ -98,7 +101,10 @@
                     }
                 ],
                 "description": "URL library",
-                "homepage": "https://www.horde.org/libraries/Horde_Url"
+                "homepage": "https://www.horde.org/libraries/Horde_Url",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Url/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/url",
@@ -106,7 +112,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Url.git",
+                    "url": "https://github.com/maintaina-com/Url.git",
                     "reference": "d791ccfe05e10f74ef6fded53ba32a04a4aecf8d"
                 },
                 "dist": {
@@ -145,7 +151,10 @@
                     }
                 ],
                 "description": "URL library",
-                "homepage": "https://www.horde.org/libraries/Horde_Url"
+                "homepage": "https://www.horde.org/libraries/Horde_Url",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Url/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/url",
@@ -153,7 +162,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Url.git",
+                    "url": "https://github.com/maintaina-com/Url.git",
                     "reference": "242af8953cd7bfa4b3f685e7c42463b7cbe2483c"
                 },
                 "dist": {
@@ -196,7 +205,10 @@
                     }
                 ],
                 "description": "URL library",
-                "homepage": "https://www.horde.org/libraries/Horde_Url"
+                "homepage": "https://www.horde.org/libraries/Horde_Url",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Url/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/url",
@@ -204,7 +216,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Url.git",
+                    "url": "https://github.com/maintaina-com/Url.git",
                     "reference": "242af8953cd7bfa4b3f685e7c42463b7cbe2483c"
                 },
                 "dist": {
@@ -247,7 +259,10 @@
                     }
                 ],
                 "description": "URL library",
-                "homepage": "https://www.horde.org/libraries/Horde_Url"
+                "homepage": "https://www.horde.org/libraries/Horde_Url",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Url/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/url",
@@ -255,7 +270,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Url.git",
+                    "url": "https://github.com/maintaina-com/Url.git",
                     "reference": "66d81b2f4ed5542b5f77488ed38eae3ec7878d55"
                 },
                 "dist": {
@@ -295,7 +310,10 @@
                     }
                 ],
                 "description": "URL library",
-                "homepage": "https://www.horde.org/libraries/Horde_Url"
+                "homepage": "https://www.horde.org/libraries/Horde_Url",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Url/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

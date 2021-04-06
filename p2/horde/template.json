@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Template.git",
+                    "url": "https://github.com/maintaina-com/Template.git",
                     "reference": "5b74006bcca6988fa825c6d592dd68c11d93c0fe"
                 },
                 "dist": {
@@ -40,7 +40,10 @@
                     }
                 ],
                 "description": "Horde Template System",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Template/tree/v2.0.2"
+                }
             },
             {
                 "name": "horde/template",
@@ -48,7 +51,7 @@
                 "version_normalized": "2.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Template.git",
+                    "url": "https://github.com/maintaina-com/Template.git",
                     "reference": "b2126e82d62bcc1496290c098d3ea375aae80650"
                 },
                 "dist": {
@@ -81,7 +84,10 @@
                     }
                 ],
                 "description": "Horde Template System",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Template/tree/v2.0.3"
+                }
             },
             {
                 "name": "horde/template",
@@ -89,7 +95,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Template.git",
+                    "url": "https://github.com/maintaina-com/Template.git",
                     "reference": "2324b5e8a66397ed3ac21e7b209eece5868f3be6"
                 },
                 "dist": {
@@ -131,7 +137,10 @@
                     }
                 ],
                 "description": "Template library (deprecated)",
-                "homepage": "https://www.horde.org/libraries/Horde_Template"
+                "homepage": "https://www.horde.org/libraries/Horde_Template",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Template/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/template",
@@ -139,7 +148,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Template.git",
+                    "url": "https://github.com/maintaina-com/Template.git",
                     "reference": "a5fd7c29c76668f520befd9cd5db2c7953e58c9d"
                 },
                 "dist": {
@@ -178,7 +187,10 @@
                     }
                 ],
                 "description": "Template library (deprecated)",
-                "homepage": "https://www.horde.org/libraries/Horde_Template"
+                "homepage": "https://www.horde.org/libraries/Horde_Template",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Template/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/template",
@@ -186,7 +198,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Template.git",
+                    "url": "https://github.com/maintaina-com/Template.git",
                     "reference": "37223d9d97d6eb658338959bc4355b6d2a089101"
                 },
                 "dist": {
@@ -224,7 +236,10 @@
                     }
                 ],
                 "description": "Template library (deprecated)",
-                "homepage": "https://www.horde.org/libraries/Horde_Template"
+                "homepage": "https://www.horde.org/libraries/Horde_Template",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Template/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Socket_Client.git",
+                    "url": "https://github.com/maintaina-com/Socket_Client.git",
                     "reference": "601fbe771f9d08a973a4fe325448dfba9dfa74e8"
                 },
                 "dist": {
@@ -42,7 +42,10 @@
                     }
                 ],
                 "description": "Network socket client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Socket_Client/tree/master"
+                }
             },
             {
                 "name": "horde/socket_client",
@@ -50,7 +53,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Socket_Client.git",
+                    "url": "https://github.com/maintaina-com/Socket_Client.git",
                     "reference": "b5eeed9fc9f5fd8bcec90a3f9807f536da00b790"
                 },
                 "dist": {
@@ -88,7 +91,10 @@
                     }
                 ],
                 "description": "Network socket client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Socket_Client/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/socket_client",
@@ -96,7 +102,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Socket_Client.git",
+                    "url": "https://github.com/maintaina-com/Socket_Client.git",
                     "reference": "f97a31280bf2f32dbf6a1ab7bd9903a4f44e1992"
                 },
                 "dist": {
@@ -130,7 +136,10 @@
                     }
                 ],
                 "description": "Network socket client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Socket_Client/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/socket_client",
@@ -138,7 +147,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Socket_Client.git",
+                    "url": "https://github.com/maintaina-com/Socket_Client.git",
                     "reference": "8fe4ea91fae4fab2162d9d7004b7e1715fba8d59"
                 },
                 "dist": {
@@ -176,7 +185,10 @@
                     }
                 ],
                 "description": "Network socket client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Socket_Client/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/socket_client",
@@ -184,7 +196,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Socket_Client.git",
+                    "url": "https://github.com/maintaina-com/Socket_Client.git",
                     "reference": "c8e7ca4a3cfc3ec1dae40641bc0868a695eb2867"
                 },
                 "dist": {
@@ -222,7 +234,10 @@
                     }
                 ],
                 "description": "Network socket client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Socket_Client/tree/maintaina-bare"
+                }
             },
             {
                 "name": "horde/socket_client",
@@ -230,7 +245,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Socket_Client.git",
+                    "url": "https://github.com/maintaina-com/Socket_Client.git",
                     "reference": "ae99cd36a874ae62215e021d19ad024529dc6ba4"
                 },
                 "dist": {
@@ -265,7 +280,10 @@
                     }
                 ],
                 "description": "Network socket client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Socket_Client/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

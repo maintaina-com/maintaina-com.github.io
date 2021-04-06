@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Model.git",
+                    "url": "https://github.com/maintaina-com/Model.git",
                     "reference": "6091dc9e6fb8ae0f96b616ce040f8f7befdd775d"
                 },
                 "dist": {
@@ -41,7 +41,10 @@
                     }
                 ],
                 "description": "Forms replacement incubator project",
-                "homepage": "http://www.horde.org/libraries/model"
+                "homepage": "http://www.horde.org/libraries/model",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Model/tree/master"
+                }
             },
             {
                 "name": "horde/model",
@@ -49,7 +52,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Model.git",
+                    "url": "https://github.com/maintaina-com/Model.git",
                     "reference": "f63ea7bec2530933f66fdd836f373637210b405f"
                 },
                 "dist": {
@@ -83,7 +86,10 @@
                     }
                 ],
                 "description": "Forms replacement incubator project",
-                "homepage": "http://www.horde.org/libraries/model"
+                "homepage": "http://www.horde.org/libraries/model",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Model/tree/FRAMEWORK_6_0"
+                }
             }
         ]
     }

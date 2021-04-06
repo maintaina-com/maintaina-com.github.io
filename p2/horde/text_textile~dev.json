@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Textile.git",
+                    "url": "https://github.com/maintaina-com/Text_Textile.git",
                     "reference": "ebb3c3f57adada80ae800690dfd37c13bdefe042"
                 },
                 "dist": {
@@ -41,7 +41,10 @@
                     }
                 ],
                 "description": "Textile formatting library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Textile/tree/master"
+                }
             },
             {
                 "name": "horde/text_textile",
@@ -49,7 +52,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Textile.git",
+                    "url": "https://github.com/maintaina-com/Text_Textile.git",
                     "reference": "14409094b4dfc56764e434b2801d1e1cc0fe03cc"
                 },
                 "dist": {
@@ -86,7 +89,10 @@
                     }
                 ],
                 "description": "Textile formatting library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Textile/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/text_textile",
@@ -94,13 +100,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Textile.git",
-                    "reference": "38b16af7d8097ae06f772c11a2f71e5c334c9d2e"
+                    "url": "https://github.com/maintaina-com/Text_Textile.git",
+                    "reference": "1ace5f1e832bd5907449a79ce9ab3987bd3ae8ad"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Textile/zipball/38b16af7d8097ae06f772c11a2f71e5c334c9d2e",
-                    "reference": "38b16af7d8097ae06f772c11a2f71e5c334c9d2e",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Textile/zipball/1ace5f1e832bd5907449a79ce9ab3987bd3ae8ad",
+                    "reference": "1ace5f1e832bd5907449a79ce9ab3987bd3ae8ad",
                     "shasum": ""
                 },
                 "require": {
@@ -127,7 +133,10 @@
                     }
                 ],
                 "description": "Textile formatting library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Textile/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/text_textile",
@@ -135,7 +144,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Textile.git",
+                    "url": "https://github.com/maintaina-com/Text_Textile.git",
                     "reference": "0e8763ebb4d347aff2ebc60f034b253662fd7be9"
                 },
                 "dist": {
@@ -172,7 +181,10 @@
                     }
                 ],
                 "description": "Textile formatting library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Textile/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/text_textile",
@@ -180,7 +192,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Textile.git",
+                    "url": "https://github.com/maintaina-com/Text_Textile.git",
                     "reference": "0e8763ebb4d347aff2ebc60f034b253662fd7be9"
                 },
                 "dist": {
@@ -217,7 +229,10 @@
                     }
                 ],
                 "description": "Textile formatting library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Textile/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/text_textile",
@@ -225,7 +240,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Textile.git",
+                    "url": "https://github.com/maintaina-com/Text_Textile.git",
                     "reference": "fa8e2ad386410be2fe0fcc1818b95de26ff61e09"
                 },
                 "dist": {
@@ -259,7 +274,10 @@
                     }
                 ],
                 "description": "Textile formatting library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Textile/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

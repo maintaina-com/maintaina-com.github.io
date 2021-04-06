@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rdo.git",
+                    "url": "https://github.com/maintaina-com/Rdo.git",
                     "reference": "44d72d4fbdcc9123a8f058311599c1d584fa8b24"
                 },
                 "dist": {
@@ -44,7 +44,10 @@
                     }
                 ],
                 "description": "ORM (object relational-mapping) library",
-                "homepage": "https://www.horde.org/libraries/Horde_Rdo"
+                "homepage": "https://www.horde.org/libraries/Horde_Rdo",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rdo/tree/master"
+                }
             },
             {
                 "name": "horde/rdo",
@@ -52,7 +55,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rdo.git",
+                    "url": "https://github.com/maintaina-com/Rdo.git",
                     "reference": "2958206cd042faae47bd652f72444931f651d256"
                 },
                 "dist": {
@@ -92,7 +95,10 @@
                     }
                 ],
                 "description": "ORM (object relational-mapping) library",
-                "homepage": "https://www.horde.org/libraries/Horde_Rdo"
+                "homepage": "https://www.horde.org/libraries/Horde_Rdo",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rdo/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/rdo",
@@ -100,13 +106,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rdo.git",
-                    "reference": "625661a94bb021238b55f5761f3d73f981fe3afd"
+                    "url": "https://github.com/maintaina-com/Rdo.git",
+                    "reference": "39d7bcd1d57a61b7f0f0afb756facf8e54c6e4e8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/625661a94bb021238b55f5761f3d73f981fe3afd",
-                    "reference": "625661a94bb021238b55f5761f3d73f981fe3afd",
+                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/39d7bcd1d57a61b7f0f0afb756facf8e54c6e4e8",
+                    "reference": "39d7bcd1d57a61b7f0f0afb756facf8e54c6e4e8",
                     "shasum": ""
                 },
                 "require": {
@@ -139,7 +145,10 @@
                     }
                 ],
                 "description": "ORM (object relational-mapping) library",
-                "homepage": "https://www.horde.org/libraries/Horde_Rdo"
+                "homepage": "https://www.horde.org/libraries/Horde_Rdo",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rdo/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/rdo",
@@ -147,7 +156,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rdo.git",
+                    "url": "https://github.com/maintaina-com/Rdo.git",
                     "reference": "443b72dd69acfd4dc5c8d2cb95ddca4238f8f814"
                 },
                 "dist": {
@@ -187,7 +196,10 @@
                     }
                 ],
                 "description": "ORM (object relational-mapping) library",
-                "homepage": "https://www.horde.org/libraries/Horde_Rdo"
+                "homepage": "https://www.horde.org/libraries/Horde_Rdo",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rdo/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/rdo",
@@ -195,7 +207,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rdo.git",
+                    "url": "https://github.com/maintaina-com/Rdo.git",
                     "reference": "9ec8658c1eefa9c39ed7c1908d45909e89220aee"
                 },
                 "dist": {
@@ -235,7 +247,10 @@
                     }
                 ],
                 "description": "ORM (object relational-mapping) library",
-                "homepage": "https://www.horde.org/libraries/Horde_Rdo"
+                "homepage": "https://www.horde.org/libraries/Horde_Rdo",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rdo/tree/maintaina-bare"
+                }
             },
             {
                 "name": "horde/rdo",
@@ -243,7 +258,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rdo.git",
+                    "url": "https://github.com/maintaina-com/Rdo.git",
                     "reference": "56d30a9893a01d763cd765560794f3bdd5bfe399"
                 },
                 "dist": {
@@ -280,7 +295,10 @@
                     }
                 ],
                 "description": "ORM (object relational-mapping) library",
-                "homepage": "https://www.horde.org/libraries/Horde_Rdo"
+                "homepage": "https://www.horde.org/libraries/Horde_Rdo",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rdo/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

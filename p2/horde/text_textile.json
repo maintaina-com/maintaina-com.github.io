@@ -7,7 +7,7 @@
                 "version_normalized": "1.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Textile.git",
+                    "url": "https://github.com/maintaina-com/Text_Textile.git",
                     "reference": "2970fb1a3e657e268cc931d01ba02b8c548518a3"
                 },
                 "dist": {
@@ -44,7 +44,10 @@
                     }
                 ],
                 "description": "Textile formatting library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Textile/tree/v1.0.0alpha1"
+                }
             },
             {
                 "name": "horde/text_textile",
@@ -52,7 +55,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Textile.git",
+                    "url": "https://github.com/maintaina-com/Text_Textile.git",
                     "reference": "a5dcdeb6081897b2804be67039c7b9428159128a"
                 },
                 "dist": {
@@ -86,7 +89,10 @@
                     }
                 ],
                 "description": "Textile formatting library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Textile/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/text_textile",
@@ -94,7 +100,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Textile.git",
+                    "url": "https://github.com/maintaina-com/Text_Textile.git",
                     "reference": "2bcc39131c4293af3c05dff5ad06eaf84b96c3cf"
                 },
                 "dist": {
@@ -127,7 +133,10 @@
                     }
                 ],
                 "description": "Textile formatting library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Textile/tree/v3.0.0alpha2"
+                }
             }
         ]
     }

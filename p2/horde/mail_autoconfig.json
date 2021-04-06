@@ -7,7 +7,7 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail_Autoconfig.git",
+                    "url": "https://github.com/maintaina-com/Mail_Autoconfig.git",
                     "reference": "078dd8ff2cd351507e3826ee8ccbbd572508312b"
                 },
                 "dist": {
@@ -39,7 +39,10 @@
                     }
                 ],
                 "description": "Horde Mail Autoconfiguration",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail_Autoconfig/tree/v1.0.0"
+                }
             },
             {
                 "name": "horde/mail_autoconfig",
@@ -47,7 +50,7 @@
                 "version_normalized": "1.0.0.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail_Autoconfig.git",
+                    "url": "https://github.com/maintaina-com/Mail_Autoconfig.git",
                     "reference": "283ea10172897d16233a20ccf4dece53513a5341"
                 },
                 "dist": {
@@ -79,7 +82,10 @@
                     }
                 ],
                 "description": "Horde Mail Autoconfiguration",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail_Autoconfig/tree/v1.0.0beta1"
+                }
             },
             {
                 "name": "horde/mail_autoconfig",
@@ -87,7 +93,7 @@
                 "version_normalized": "1.0.0.0-beta2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail_Autoconfig.git",
+                    "url": "https://github.com/maintaina-com/Mail_Autoconfig.git",
                     "reference": "c3f650d0bd69899161e487bb5d09d0800da1f083"
                 },
                 "dist": {
@@ -119,7 +125,10 @@
                     }
                 ],
                 "description": "Horde Mail Autoconfiguration",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail_Autoconfig/tree/v1.0.0beta2"
+                }
             },
             {
                 "name": "horde/mail_autoconfig",
@@ -127,7 +136,7 @@
                 "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail_Autoconfig.git",
+                    "url": "https://github.com/maintaina-com/Mail_Autoconfig.git",
                     "reference": "05cd5debe46b56e5134116695d7ec12be6b3f0d3"
                 },
                 "dist": {
@@ -159,7 +168,10 @@
                     }
                 ],
                 "description": "Horde Mail Autoconfiguration",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail_Autoconfig/tree/v1.0.1"
+                }
             },
             {
                 "name": "horde/mail_autoconfig",
@@ -167,7 +179,7 @@
                 "version_normalized": "1.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail_Autoconfig.git",
+                    "url": "https://github.com/maintaina-com/Mail_Autoconfig.git",
                     "reference": "bda15e9027310b349bbe8d65c9bdbd162028955d"
                 },
                 "dist": {
@@ -199,7 +211,10 @@
                     }
                 ],
                 "description": "Horde Mail Autoconfiguration",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail_Autoconfig/tree/v1.0.2"
+                }
             },
             {
                 "name": "horde/mail_autoconfig",
@@ -207,7 +222,7 @@
                 "version_normalized": "1.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail_Autoconfig.git",
+                    "url": "https://github.com/maintaina-com/Mail_Autoconfig.git",
                     "reference": "7c72faef5833377dfb2e9328e40a7517967966d1"
                 },
                 "dist": {
@@ -239,7 +254,10 @@
                     }
                 ],
                 "description": "Horde Mail Autoconfiguration",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail_Autoconfig/tree/v1.0.3"
+                }
             },
             {
                 "name": "horde/mail_autoconfig",
@@ -247,7 +265,7 @@
                 "version_normalized": "2.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail_Autoconfig.git",
+                    "url": "https://github.com/maintaina-com/Mail_Autoconfig.git",
                     "reference": "9d6343600d591a170ba02366a50b880a7c583b8e"
                 },
                 "dist": {
@@ -288,7 +306,10 @@
                     }
                 ],
                 "description": "Mail server autoconfiguration library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail_Autoconfig/tree/v2.0.0alpha1"
+                }
             },
             {
                 "name": "horde/mail_autoconfig",
@@ -296,7 +317,7 @@
                 "version_normalized": "2.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail_Autoconfig.git",
+                    "url": "https://github.com/maintaina-com/Mail_Autoconfig.git",
                     "reference": "37e9882c48b94ec2c7a12e2f0d6f67e82a275670"
                 },
                 "dist": {
@@ -334,7 +355,10 @@
                     }
                 ],
                 "description": "Mail server autoconfiguration library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail_Autoconfig/tree/v2.0.0alpha2"
+                }
             },
             {
                 "name": "horde/mail_autoconfig",
@@ -342,7 +366,7 @@
                 "version_normalized": "2.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail_Autoconfig.git",
+                    "url": "https://github.com/maintaina-com/Mail_Autoconfig.git",
                     "reference": "5c64f29c77a540e4c226b75f7dbb9bd31abdf8c5"
                 },
                 "dist": {
@@ -379,7 +403,10 @@
                     }
                 ],
                 "description": "Mail server autoconfiguration library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail_Autoconfig/tree/v2.0.0alpha3"
+                }
             }
         ]
     }

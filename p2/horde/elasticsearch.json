@@ -7,12 +7,12 @@
                 "version_normalized": "1.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/elasticsearch.git",
+                    "url": "https://github.com/maintaina-com/ElasticSearch.git",
                     "reference": "4f8c1f4b9cdc549910dfa8e2ec06d5ab9c30a1b5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/elasticsearch/zipball/4f8c1f4b9cdc549910dfa8e2ec06d5ab9c30a1b5",
+                    "url": "https://api.github.com/repos/maintaina-com/ElasticSearch/zipball/4f8c1f4b9cdc549910dfa8e2ec06d5ab9c30a1b5",
                     "reference": "4f8c1f4b9cdc549910dfa8e2ec06d5ab9c30a1b5",
                     "shasum": ""
                 },
@@ -39,7 +39,10 @@
                     }
                 ],
                 "description": "Horde ElasticSearch client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ElasticSearch/tree/v1.0.3"
+                }
             },
             {
                 "name": "horde/elasticsearch",
@@ -47,12 +50,12 @@
                 "version_normalized": "1.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/elasticsearch.git",
+                    "url": "https://github.com/maintaina-com/ElasticSearch.git",
                     "reference": "41028327ed358ad3c33f382ba38ccb0cd50ab261"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/elasticsearch/zipball/41028327ed358ad3c33f382ba38ccb0cd50ab261",
+                    "url": "https://api.github.com/repos/maintaina-com/ElasticSearch/zipball/41028327ed358ad3c33f382ba38ccb0cd50ab261",
                     "reference": "41028327ed358ad3c33f382ba38ccb0cd50ab261",
                     "shasum": ""
                 },
@@ -88,7 +91,10 @@
                     }
                 ],
                 "description": "Horde ElasticSearch client",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ElasticSearch/tree/v1.0.4"
+                }
             },
             {
                 "name": "horde/elasticsearch",
@@ -96,12 +102,12 @@
                 "version_normalized": "2.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/elasticsearch.git",
+                    "url": "https://github.com/maintaina-com/ElasticSearch.git",
                     "reference": "0f80e2e3646a38f1ce75b10ed25325641d6fd264"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/elasticsearch/zipball/0f80e2e3646a38f1ce75b10ed25325641d6fd264",
+                    "url": "https://api.github.com/repos/maintaina-com/ElasticSearch/zipball/0f80e2e3646a38f1ce75b10ed25325641d6fd264",
                     "reference": "0f80e2e3646a38f1ce75b10ed25325641d6fd264",
                     "shasum": ""
                 },
@@ -137,7 +143,10 @@
                     }
                 ],
                 "description": "ElasticSearch client library",
-                "homepage": "https://www.horde.org/libraries/Horde_ElasticSearch"
+                "homepage": "https://www.horde.org/libraries/Horde_ElasticSearch",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ElasticSearch/tree/v2.0.0alpha1"
+                }
             },
             {
                 "name": "horde/elasticsearch",
@@ -145,12 +154,12 @@
                 "version_normalized": "2.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/elasticsearch.git",
+                    "url": "https://github.com/maintaina-com/ElasticSearch.git",
                     "reference": "b493dd2aa2d1c3eff169cc2e1aeb88320338c6cc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/elasticsearch/zipball/b493dd2aa2d1c3eff169cc2e1aeb88320338c6cc",
+                    "url": "https://api.github.com/repos/maintaina-com/ElasticSearch/zipball/b493dd2aa2d1c3eff169cc2e1aeb88320338c6cc",
                     "reference": "b493dd2aa2d1c3eff169cc2e1aeb88320338c6cc",
                     "shasum": ""
                 },
@@ -183,7 +192,10 @@
                     }
                 ],
                 "description": "ElasticSearch client library",
-                "homepage": "https://www.horde.org/libraries/Horde_ElasticSearch"
+                "homepage": "https://www.horde.org/libraries/Horde_ElasticSearch",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ElasticSearch/tree/v2.0.0alpha2"
+                }
             },
             {
                 "name": "horde/elasticsearch",
@@ -191,12 +203,12 @@
                 "version_normalized": "2.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/elasticsearch.git",
+                    "url": "https://github.com/maintaina-com/ElasticSearch.git",
                     "reference": "5fc9af46a9aff9b0c86efd396b186ad4a0072d36"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/elasticsearch/zipball/5fc9af46a9aff9b0c86efd396b186ad4a0072d36",
+                    "url": "https://api.github.com/repos/maintaina-com/ElasticSearch/zipball/5fc9af46a9aff9b0c86efd396b186ad4a0072d36",
                     "reference": "5fc9af46a9aff9b0c86efd396b186ad4a0072d36",
                     "shasum": ""
                 },
@@ -228,7 +240,10 @@
                     }
                 ],
                 "description": "ElasticSearch client library",
-                "homepage": "https://www.horde.org/libraries/Horde_ElasticSearch"
+                "homepage": "https://www.horde.org/libraries/Horde_ElasticSearch",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ElasticSearch/tree/v2.0.0alpha3"
+                }
             }
         ]
     }

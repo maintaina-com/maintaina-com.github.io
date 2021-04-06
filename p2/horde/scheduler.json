@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Scheduler.git",
+                    "url": "https://github.com/maintaina-com/Scheduler.git",
                     "reference": "0ab2519daf90d0f9e6201b9d79fc00a4703e6a67"
                 },
                 "dist": {
@@ -35,7 +35,10 @@
                     }
                 ],
                 "description": "Horde Scheduler System",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Scheduler/tree/v2.0.2"
+                }
             },
             {
                 "name": "horde/scheduler",
@@ -43,7 +46,7 @@
                 "version_normalized": "2.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Scheduler.git",
+                    "url": "https://github.com/maintaina-com/Scheduler.git",
                     "reference": "3c9b64483f9b8009aa481ad24711dc579c460bb0"
                 },
                 "dist": {
@@ -80,7 +83,10 @@
                     }
                 ],
                 "description": "Horde Scheduler System",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Scheduler/tree/v2.0.3"
+                }
             },
             {
                 "name": "horde/scheduler",
@@ -88,7 +94,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Scheduler.git",
+                    "url": "https://github.com/maintaina-com/Scheduler.git",
                     "reference": "59fc2ab89d97cbad79e00d3c39866a2efa729e43"
                 },
                 "dist": {
@@ -125,7 +131,10 @@
                     }
                 ],
                 "description": "Scheduling library",
-                "homepage": "https://www.horde.org/libraries/Horde_Scheduler"
+                "homepage": "https://www.horde.org/libraries/Horde_Scheduler",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Scheduler/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/scheduler",
@@ -133,7 +142,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Scheduler.git",
+                    "url": "https://github.com/maintaina-com/Scheduler.git",
                     "reference": "fe37681cec14d15631a2cd625b0b7065061f4a24"
                 },
                 "dist": {
@@ -167,7 +176,10 @@
                     }
                 ],
                 "description": "Scheduling library",
-                "homepage": "https://www.horde.org/libraries/Horde_Scheduler"
+                "homepage": "https://www.horde.org/libraries/Horde_Scheduler",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Scheduler/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/scheduler",
@@ -175,7 +187,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Scheduler.git",
+                    "url": "https://github.com/maintaina-com/Scheduler.git",
                     "reference": "232b92f55ac5bdd81ff2e28ef83c66754fb1ff16"
                 },
                 "dist": {
@@ -208,7 +220,10 @@
                     }
                 ],
                 "description": "Scheduling library",
-                "homepage": "https://www.horde.org/libraries/Horde_Scheduler"
+                "homepage": "https://www.horde.org/libraries/Horde_Scheduler",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Scheduler/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

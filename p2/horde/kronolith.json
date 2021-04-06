@@ -3760,12 +3760,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/kronolith.git",
-                    "reference": "204dc8b67905111abe3a1c4da523b1844924836d"
+                    "reference": "1a149ec90578fa6f9fce9e1b5dc19fddda64d67b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/204dc8b67905111abe3a1c4da523b1844924836d",
-                    "reference": "204dc8b67905111abe3a1c4da523b1844924836d",
+                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/1a149ec90578fa6f9fce9e1b5dc19fddda64d67b",
+                    "reference": "1a149ec90578fa6f9fce9e1b5dc19fddda64d67b",
                     "shasum": ""
                 },
                 "require": {
@@ -3817,7 +3817,7 @@
                     "horde/timeobjects": "^3",
                     "pear/date_holidays": "*"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2021-04-01T00:00:00+00:00",
                 "bin": [
                     "bin/kronolith-agenda",
                     "bin/kronolith-convert-datatree-shares-to-sql",

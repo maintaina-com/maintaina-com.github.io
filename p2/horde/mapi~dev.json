@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mapi.git",
+                    "url": "https://github.com/maintaina-com/Mapi.git",
                     "reference": "cf552217e1a72ffae78895d243d5de261782d821"
                 },
                 "dist": {
@@ -41,7 +41,10 @@
                     }
                 ],
                 "description": "MAPI utility library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mapi/tree/master"
+                }
             },
             {
                 "name": "horde/mapi",
@@ -49,7 +52,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mapi.git",
+                    "url": "https://github.com/maintaina-com/Mapi.git",
                     "reference": "9349f9a4e9a9419b5d4220a452428ad77573fa4e"
                 },
                 "dist": {
@@ -86,7 +89,10 @@
                     }
                 ],
                 "description": "MAPI utility library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mapi/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/mapi",
@@ -94,7 +100,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mapi.git",
+                    "url": "https://github.com/maintaina-com/Mapi.git",
                     "reference": "51da934a2d663d443e145bc33dcd01feeb432ba1"
                 },
                 "dist": {
@@ -127,7 +133,10 @@
                     }
                 ],
                 "description": "MAPI utility library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mapi/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/mapi",
@@ -135,7 +144,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mapi.git",
+                    "url": "https://github.com/maintaina-com/Mapi.git",
                     "reference": "4d1385188828c115e2732a7472bf12f2d01199ca"
                 },
                 "dist": {
@@ -171,7 +180,10 @@
                     }
                 ],
                 "description": "MAPI utility library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mapi/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/mapi",
@@ -179,7 +191,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mapi.git",
+                    "url": "https://github.com/maintaina-com/Mapi.git",
                     "reference": "4d1385188828c115e2732a7472bf12f2d01199ca"
                 },
                 "dist": {
@@ -215,7 +227,10 @@
                     }
                 ],
                 "description": "MAPI utility library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mapi/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/mapi",
@@ -223,7 +238,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mapi.git",
+                    "url": "https://github.com/maintaina-com/Mapi.git",
                     "reference": "e45481e60240d948e0b95a72357d33aa6d067622"
                 },
                 "dist": {
@@ -257,7 +272,10 @@
                     }
                 ],
                 "description": "MAPI utility library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mapi/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

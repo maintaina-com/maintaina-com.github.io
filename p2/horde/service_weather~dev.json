@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "2f24b257ee5012bb01d3329b3cba889354dfebb8"
                 },
                 "dist": {
@@ -46,7 +46,10 @@
                     }
                 ],
                 "description": "Weather service library",
-                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather"
+                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/master"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -54,7 +57,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "9483fac548124b92e296b9b6e7d2dd32f00c78df"
                 },
                 "dist": {
@@ -96,7 +99,10 @@
                     }
                 ],
                 "description": "Weather service library",
-                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather"
+                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -104,13 +110,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
-                    "reference": "b572ba52c71b5bafc47a6a7d5affd1f1bc29bd30"
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
+                    "reference": "23140377c05535daf279f034149dcea2c574db08"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Service_Weather/zipball/b572ba52c71b5bafc47a6a7d5affd1f1bc29bd30",
-                    "reference": "b572ba52c71b5bafc47a6a7d5affd1f1bc29bd30",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Weather/zipball/23140377c05535daf279f034149dcea2c574db08",
+                    "reference": "23140377c05535daf279f034149dcea2c574db08",
                     "shasum": ""
                 },
                 "require": {
@@ -143,7 +149,10 @@
                     }
                 ],
                 "description": "Weather service library",
-                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather"
+                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -151,7 +160,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "ae9379fb76ba283c38f900978ecbe31cdff3cded"
                 },
                 "dist": {
@@ -193,7 +202,10 @@
                     }
                 ],
                 "description": "Weather service library",
-                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather"
+                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -201,7 +213,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "ae9379fb76ba283c38f900978ecbe31cdff3cded"
                 },
                 "dist": {
@@ -243,7 +255,10 @@
                     }
                 ],
                 "description": "Weather service library",
-                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather"
+                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -251,7 +266,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "9025f213bc71f4221ed55a96d4a5a89d6ecd3c76"
                 },
                 "dist": {
@@ -290,7 +305,10 @@
                     }
                 ],
                 "description": "Weather service library",
-                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather"
+                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

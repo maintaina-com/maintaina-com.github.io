@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Template.git",
+                    "url": "https://github.com/maintaina-com/Template.git",
                     "reference": "63dba85c777eed944b78517ad8c2dd36289a694d"
                 },
                 "dist": {
@@ -46,7 +46,10 @@
                     }
                 ],
                 "description": "Template library (deprecated)",
-                "homepage": "https://www.horde.org/libraries/Horde_Template"
+                "homepage": "https://www.horde.org/libraries/Horde_Template",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Template/tree/master"
+                }
             },
             {
                 "name": "horde/template",
@@ -54,7 +57,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Template.git",
+                    "url": "https://github.com/maintaina-com/Template.git",
                     "reference": "cbc848e5c7c20364c5fc8699fe5dc8f397ccb972"
                 },
                 "dist": {
@@ -96,7 +99,10 @@
                     }
                 ],
                 "description": "Template library (deprecated)",
-                "homepage": "https://www.horde.org/libraries/Horde_Template"
+                "homepage": "https://www.horde.org/libraries/Horde_Template",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Template/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/template",
@@ -104,7 +110,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Template.git",
+                    "url": "https://github.com/maintaina-com/Template.git",
                     "reference": "dee9cddbcc0c608e5415e500639a7d3fa1ab90b5"
                 },
                 "dist": {
@@ -142,7 +148,10 @@
                     }
                 ],
                 "description": "Template library (deprecated)",
-                "homepage": "https://www.horde.org/libraries/Horde_Template"
+                "homepage": "https://www.horde.org/libraries/Horde_Template",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Template/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/template",
@@ -150,7 +159,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Template.git",
+                    "url": "https://github.com/maintaina-com/Template.git",
                     "reference": "1ddb62496dc49c66325b8e5d6451cbf810e90c7d"
                 },
                 "dist": {
@@ -192,7 +201,10 @@
                     }
                 ],
                 "description": "Template library (deprecated)",
-                "homepage": "https://www.horde.org/libraries/Horde_Template"
+                "homepage": "https://www.horde.org/libraries/Horde_Template",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Template/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/template",
@@ -200,7 +212,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Template.git",
+                    "url": "https://github.com/maintaina-com/Template.git",
                     "reference": "1ddb62496dc49c66325b8e5d6451cbf810e90c7d"
                 },
                 "dist": {
@@ -242,7 +254,10 @@
                     }
                 ],
                 "description": "Template library (deprecated)",
-                "homepage": "https://www.horde.org/libraries/Horde_Template"
+                "homepage": "https://www.horde.org/libraries/Horde_Template",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Template/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/template",
@@ -250,7 +265,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Template.git",
+                    "url": "https://github.com/maintaina-com/Template.git",
                     "reference": "854f42ebeb73a8b4a53eead06f95ce7af718f9e8"
                 },
                 "dist": {
@@ -289,7 +304,10 @@
                     }
                 ],
                 "description": "Template library (deprecated)",
-                "homepage": "https://www.horde.org/libraries/Horde_Template"
+                "homepage": "https://www.horde.org/libraries/Horde_Template",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Template/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

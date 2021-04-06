@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "10d890be561622c46e5708ff1c0c5afd8cf8b039"
                 },
                 "dist": {
@@ -58,7 +58,10 @@
                     }
                 ],
                 "description": "Virtual file system library",
-                "homepage": "https://www.horde.org/libraries/Horde_Vfs"
+                "homepage": "https://www.horde.org/libraries/Horde_Vfs",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/master"
+                }
             },
             {
                 "name": "horde/vfs",
@@ -66,7 +69,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "ab02573e57f43f02fb5c603287421c0da6a3ebd9"
                 },
                 "dist": {
@@ -120,7 +123,10 @@
                     }
                 ],
                 "description": "Virtual file system library",
-                "homepage": "https://www.horde.org/libraries/Horde_Vfs"
+                "homepage": "https://www.horde.org/libraries/Horde_Vfs",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/vfs",
@@ -128,7 +134,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "6dedbaa87343d8f1a9ad6490dc6ce86f151d9a37"
                 },
                 "dist": {
@@ -178,7 +184,10 @@
                     }
                 ],
                 "description": "Virtual file system library",
-                "homepage": "https://www.horde.org/libraries/Horde_Vfs"
+                "homepage": "https://www.horde.org/libraries/Horde_Vfs",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/vfs",
@@ -186,7 +195,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "6bb14e2229f008c04868f003ca9d2f791843a6a7"
                 },
                 "dist": {
@@ -240,7 +249,10 @@
                     }
                 ],
                 "description": "Virtual file system library",
-                "homepage": "https://www.horde.org/libraries/Horde_Vfs"
+                "homepage": "https://www.horde.org/libraries/Horde_Vfs",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/vfs",
@@ -248,7 +260,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "6bb14e2229f008c04868f003ca9d2f791843a6a7"
                 },
                 "dist": {
@@ -302,7 +314,10 @@
                     }
                 ],
                 "description": "Virtual file system library",
-                "homepage": "https://www.horde.org/libraries/Horde_Vfs"
+                "homepage": "https://www.horde.org/libraries/Horde_Vfs",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/vfs",
@@ -310,7 +325,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "e38297ee999bb836931a33d3aef8b1109f256fa0"
                 },
                 "dist": {
@@ -361,7 +376,10 @@
                     }
                 ],
                 "description": "Virtual file system library",
-                "homepage": "https://www.horde.org/libraries/Horde_Vfs"
+                "homepage": "https://www.horde.org/libraries/Horde_Vfs",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

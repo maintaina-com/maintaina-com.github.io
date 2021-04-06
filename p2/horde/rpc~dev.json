@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rpc.git",
+                    "url": "https://github.com/maintaina-com/Rpc.git",
                     "reference": "078b46ced793d94a87a92088351d30978cac0619"
                 },
                 "dist": {
@@ -65,7 +65,10 @@
                     }
                 ],
                 "description": "RPC library",
-                "homepage": "https://www.horde.org/libraries/Horde_Rpc"
+                "homepage": "https://www.horde.org/libraries/Horde_Rpc",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rpc/tree/master"
+                }
             },
             {
                 "name": "horde/rpc",
@@ -73,7 +76,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rpc.git",
+                    "url": "https://github.com/maintaina-com/Rpc.git",
                     "reference": "98632484b4b6a63ca4043a4c75b9ddd08d8467f3"
                 },
                 "dist": {
@@ -134,7 +137,10 @@
                     }
                 ],
                 "description": "RPC library",
-                "homepage": "https://www.horde.org/libraries/Horde_Rpc"
+                "homepage": "https://www.horde.org/libraries/Horde_Rpc",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rpc/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/rpc",
@@ -142,7 +148,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rpc.git",
+                    "url": "https://github.com/maintaina-com/Rpc.git",
                     "reference": "dc80088c9b48baee5e86d4f6bc45850504bb43f1"
                 },
                 "dist": {
@@ -199,7 +205,10 @@
                     }
                 ],
                 "description": "RPC library",
-                "homepage": "https://www.horde.org/libraries/Horde_Rpc"
+                "homepage": "https://www.horde.org/libraries/Horde_Rpc",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rpc/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/rpc",
@@ -207,7 +216,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rpc.git",
+                    "url": "https://github.com/maintaina-com/Rpc.git",
                     "reference": "e847d239387f69e84616f8f88b5a57052b49cb3d"
                 },
                 "dist": {
@@ -268,7 +277,10 @@
                     }
                 ],
                 "description": "RPC library",
-                "homepage": "https://www.horde.org/libraries/Horde_Rpc"
+                "homepage": "https://www.horde.org/libraries/Horde_Rpc",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rpc/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/rpc",
@@ -276,7 +288,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rpc.git",
+                    "url": "https://github.com/maintaina-com/Rpc.git",
                     "reference": "e847d239387f69e84616f8f88b5a57052b49cb3d"
                 },
                 "dist": {
@@ -337,7 +349,10 @@
                     }
                 ],
                 "description": "RPC library",
-                "homepage": "https://www.horde.org/libraries/Horde_Rpc"
+                "homepage": "https://www.horde.org/libraries/Horde_Rpc",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rpc/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/rpc",
@@ -345,7 +360,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rpc.git",
+                    "url": "https://github.com/maintaina-com/Rpc.git",
                     "reference": "8aeb4d364cd66f1ee2d996e6a1bcc9b622ecb500"
                 },
                 "dist": {
@@ -403,7 +418,10 @@
                     }
                 ],
                 "description": "RPC library",
-                "homepage": "https://www.horde.org/libraries/Horde_Rpc"
+                "homepage": "https://www.horde.org/libraries/Horde_Rpc",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rpc/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

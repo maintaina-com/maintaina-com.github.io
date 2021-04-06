@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Tree.git",
+                    "url": "https://github.com/maintaina-com/Tree.git",
                     "reference": "d67be1a2ecfdfc27272e9d0615ffd8c8a3e3c42f"
                 },
                 "dist": {
@@ -54,7 +54,10 @@
                     }
                 ],
                 "description": "Tree rendering library",
-                "homepage": "https://www.horde.org/libraries/Horde_Tree"
+                "homepage": "https://www.horde.org/libraries/Horde_Tree",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Tree/tree/master"
+                }
             },
             {
                 "name": "horde/tree",
@@ -62,7 +65,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Tree.git",
+                    "url": "https://github.com/maintaina-com/Tree.git",
                     "reference": "85e6af6ab0e0f1cbe8de5963abf6b71a78e87597"
                 },
                 "dist": {
@@ -112,7 +115,10 @@
                     }
                 ],
                 "description": "Tree rendering library",
-                "homepage": "https://www.horde.org/libraries/Horde_Tree"
+                "homepage": "https://www.horde.org/libraries/Horde_Tree",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Tree/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/tree",
@@ -120,7 +126,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Tree.git",
+                    "url": "https://github.com/maintaina-com/Tree.git",
                     "reference": "3d0391763a330e6f10e1d4fe38ea8e5883801351"
                 },
                 "dist": {
@@ -166,7 +172,10 @@
                     }
                 ],
                 "description": "Tree rendering library",
-                "homepage": "https://www.horde.org/libraries/Horde_Tree"
+                "homepage": "https://www.horde.org/libraries/Horde_Tree",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Tree/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/tree",
@@ -174,7 +183,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Tree.git",
+                    "url": "https://github.com/maintaina-com/Tree.git",
                     "reference": "35bdb7f10db7aaa5ac189e3a4c2d93ab32a72791"
                 },
                 "dist": {
@@ -224,7 +233,10 @@
                     }
                 ],
                 "description": "Tree rendering library",
-                "homepage": "https://www.horde.org/libraries/Horde_Tree"
+                "homepage": "https://www.horde.org/libraries/Horde_Tree",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Tree/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/tree",
@@ -232,7 +244,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Tree.git",
+                    "url": "https://github.com/maintaina-com/Tree.git",
                     "reference": "35bdb7f10db7aaa5ac189e3a4c2d93ab32a72791"
                 },
                 "dist": {
@@ -282,7 +294,10 @@
                     }
                 ],
                 "description": "Tree rendering library",
-                "homepage": "https://www.horde.org/libraries/Horde_Tree"
+                "homepage": "https://www.horde.org/libraries/Horde_Tree",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Tree/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/tree",
@@ -290,7 +305,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Tree.git",
+                    "url": "https://github.com/maintaina-com/Tree.git",
                     "reference": "aae43f35a680f90e48b47e4b650e7b55be873edc"
                 },
                 "dist": {
@@ -337,7 +352,10 @@
                     }
                 ],
                 "description": "Tree rendering library",
-                "homepage": "https://www.horde.org/libraries/Horde_Tree"
+                "homepage": "https://www.horde.org/libraries/Horde_Tree",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Tree/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

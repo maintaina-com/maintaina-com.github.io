@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Feed.git",
+                    "url": "https://github.com/maintaina-com/Feed.git",
                     "reference": "77d7f381b07fa4422407608849f5835a301dcfde"
                 },
                 "dist": {
@@ -44,7 +44,10 @@
                     }
                 ],
                 "description": "Feed client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Feed"
+                "homepage": "https://www.horde.org/libraries/Horde_Feed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Feed/tree/master"
+                }
             },
             {
                 "name": "horde/feed",
@@ -52,7 +55,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Feed.git",
+                    "url": "https://github.com/maintaina-com/Feed.git",
                     "reference": "30276f43389c241b1668c1070e03187e6b760433"
                 },
                 "dist": {
@@ -93,7 +96,10 @@
                     }
                 ],
                 "description": "Feed client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Feed"
+                "homepage": "https://www.horde.org/libraries/Horde_Feed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Feed/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/feed",
@@ -101,13 +107,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Feed.git",
-                    "reference": "77d7f381b07fa4422407608849f5835a301dcfde"
+                    "url": "https://github.com/maintaina-com/Feed.git",
+                    "reference": "03480067a8b1276990366a992b796779c5d8fc06"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Feed/zipball/77d7f381b07fa4422407608849f5835a301dcfde",
-                    "reference": "77d7f381b07fa4422407608849f5835a301dcfde",
+                    "url": "https://api.github.com/repos/maintaina-com/Feed/zipball/03480067a8b1276990366a992b796779c5d8fc06",
+                    "reference": "03480067a8b1276990366a992b796779c5d8fc06",
                     "shasum": ""
                 },
                 "require": {
@@ -138,7 +144,10 @@
                     }
                 ],
                 "description": "Feed client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Feed"
+                "homepage": "https://www.horde.org/libraries/Horde_Feed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Feed/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/feed",
@@ -146,7 +155,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Feed.git",
+                    "url": "https://github.com/maintaina-com/Feed.git",
                     "reference": "bc1f13fdf5a34b0a267a1bd5324322be17ec22b0"
                 },
                 "dist": {
@@ -187,7 +196,10 @@
                     }
                 ],
                 "description": "Feed client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Feed"
+                "homepage": "https://www.horde.org/libraries/Horde_Feed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Feed/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/feed",
@@ -195,7 +207,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Feed.git",
+                    "url": "https://github.com/maintaina-com/Feed.git",
                     "reference": "bc1f13fdf5a34b0a267a1bd5324322be17ec22b0"
                 },
                 "dist": {
@@ -236,7 +248,10 @@
                     }
                 ],
                 "description": "Feed client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Feed"
+                "homepage": "https://www.horde.org/libraries/Horde_Feed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Feed/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/feed",
@@ -244,7 +259,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Feed.git",
+                    "url": "https://github.com/maintaina-com/Feed.git",
                     "reference": "bbdc9e1b7c4c6bc1cccf4d4a46473cc092741eac"
                 },
                 "dist": {
@@ -282,7 +297,10 @@
                     }
                 ],
                 "description": "Feed client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Feed"
+                "homepage": "https://www.horde.org/libraries/Horde_Feed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Feed/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

@@ -7,7 +7,7 @@
                 "version_normalized": "2.5.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Prefs.git",
+                    "url": "https://github.com/maintaina-com/Prefs.git",
                     "reference": "3785f9bd26476ffe7692b2c5ae7edb7e5bb02391"
                 },
                 "dist": {
@@ -58,7 +58,10 @@
                     }
                 ],
                 "description": "Horde Preferences API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Prefs/tree/v2.5.1"
+                }
             },
             {
                 "name": "horde/prefs",
@@ -66,7 +69,7 @@
                 "version_normalized": "2.5.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Prefs.git",
+                    "url": "https://github.com/maintaina-com/Prefs.git",
                     "reference": "dce827bda5e3d03be83d217a293d01a8625db0fa"
                 },
                 "dist": {
@@ -117,7 +120,10 @@
                     }
                 ],
                 "description": "Horde Preferences API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Prefs/tree/v2.5.2"
+                }
             },
             {
                 "name": "horde/prefs",
@@ -125,7 +131,7 @@
                 "version_normalized": "2.6.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Prefs.git",
+                    "url": "https://github.com/maintaina-com/Prefs.git",
                     "reference": "8a86041928fd6ccfe4eba5ed414ab01a73342990"
                 },
                 "dist": {
@@ -177,7 +183,10 @@
                     }
                 ],
                 "description": "Horde Preferences API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Prefs/tree/v2.6.0"
+                }
             },
             {
                 "name": "horde/prefs",
@@ -185,7 +194,7 @@
                 "version_normalized": "2.7.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Prefs.git",
+                    "url": "https://github.com/maintaina-com/Prefs.git",
                     "reference": "71a84833d709f05b579e5e681415c990a35d8cdd"
                 },
                 "dist": {
@@ -237,7 +246,10 @@
                     }
                 ],
                 "description": "Horde Preferences API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Prefs/tree/v2.7.0"
+                }
             },
             {
                 "name": "horde/prefs",
@@ -245,7 +257,7 @@
                 "version_normalized": "2.7.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Prefs.git",
+                    "url": "https://github.com/maintaina-com/Prefs.git",
                     "reference": "37c6b7fb9d5855ff4fd668ad741d0650a3f9d6d6"
                 },
                 "dist": {
@@ -297,7 +309,10 @@
                     }
                 ],
                 "description": "Horde Preferences API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Prefs/tree/v2.7.1"
+                }
             },
             {
                 "name": "horde/prefs",
@@ -305,7 +320,7 @@
                 "version_normalized": "2.7.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Prefs.git",
+                    "url": "https://github.com/maintaina-com/Prefs.git",
                     "reference": "b1cbc18b0487d159f3113381348ffe9e7b24581f"
                 },
                 "dist": {
@@ -357,7 +372,10 @@
                     }
                 ],
                 "description": "Horde Preferences API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Prefs/tree/v2.7.2"
+                }
             },
             {
                 "name": "horde/prefs",
@@ -365,7 +383,7 @@
                 "version_normalized": "2.7.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Prefs.git",
+                    "url": "https://github.com/maintaina-com/Prefs.git",
                     "reference": "c31d9f977722f7615c9cb551a7e2efa402c60fd9"
                 },
                 "dist": {
@@ -417,7 +435,10 @@
                     }
                 ],
                 "description": "Horde Preferences API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Prefs/tree/v2.7.3"
+                }
             },
             {
                 "name": "horde/prefs",
@@ -425,7 +446,7 @@
                 "version_normalized": "2.7.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Prefs.git",
+                    "url": "https://github.com/maintaina-com/Prefs.git",
                     "reference": "dcf57325fd99eda3c0b60008563177bc4d0f9262"
                 },
                 "dist": {
@@ -477,7 +498,10 @@
                     }
                 ],
                 "description": "Horde Preferences API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Prefs/tree/v2.7.4"
+                }
             },
             {
                 "name": "horde/prefs",
@@ -485,7 +509,7 @@
                 "version_normalized": "2.7.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Prefs.git",
+                    "url": "https://github.com/maintaina-com/Prefs.git",
                     "reference": "3d8dd99eb52ae3c8331074ff7eecbab8cc339d07"
                 },
                 "dist": {
@@ -537,7 +561,10 @@
                     }
                 ],
                 "description": "Horde Preferences API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Prefs/tree/v2.7.5"
+                }
             },
             {
                 "name": "horde/prefs",
@@ -545,7 +572,7 @@
                 "version_normalized": "2.7.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Prefs.git",
+                    "url": "https://github.com/maintaina-com/Prefs.git",
                     "reference": "07d388fc24d3b138d097dfa440cf372b1caaec52"
                 },
                 "dist": {
@@ -597,7 +624,10 @@
                     }
                 ],
                 "description": "Horde Preferences API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Prefs/tree/v2.7.6"
+                }
             },
             {
                 "name": "horde/prefs",
@@ -605,7 +635,7 @@
                 "version_normalized": "2.8.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Prefs.git",
+                    "url": "https://github.com/maintaina-com/Prefs.git",
                     "reference": "e55fbc85f04e675cbdfd8485c16e01e5a23f1d8f"
                 },
                 "dist": {
@@ -657,7 +687,10 @@
                     }
                 ],
                 "description": "Horde Preferences API",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Prefs/tree/v2.8.0"
+                }
             },
             {
                 "name": "horde/prefs",
@@ -665,7 +698,7 @@
                 "version_normalized": "2.8.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Prefs.git",
+                    "url": "https://github.com/maintaina-com/Prefs.git",
                     "reference": "97f3a6c8893da3c79580894de45757965fd5b766"
                 },
                 "dist": {
@@ -717,7 +750,10 @@
                     }
                 ],
                 "description": "Horde Preferences API",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Prefs/tree/v2.8.1"
+                }
             },
             {
                 "name": "horde/prefs",
@@ -725,7 +761,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Prefs.git",
+                    "url": "https://github.com/maintaina-com/Prefs.git",
                     "reference": "d362a2a8bcc7e4095d8c544dec8666fac0e3b132"
                 },
                 "dist": {
@@ -789,7 +825,10 @@
                     }
                 ],
                 "description": "User preferences library",
-                "homepage": "https://www.horde.org/libraries/Horde_Prefs"
+                "homepage": "https://www.horde.org/libraries/Horde_Prefs",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Prefs/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/prefs",
@@ -797,7 +836,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Prefs.git",
+                    "url": "https://github.com/maintaina-com/Prefs.git",
                     "reference": "4c0ef240bf0a35a45d3060c8bd4aaae527a89c26"
                 },
                 "dist": {
@@ -858,7 +897,10 @@
                     }
                 ],
                 "description": "User preferences library",
-                "homepage": "https://www.horde.org/libraries/Horde_Prefs"
+                "homepage": "https://www.horde.org/libraries/Horde_Prefs",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Prefs/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/prefs",
@@ -866,7 +908,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Prefs.git",
+                    "url": "https://github.com/maintaina-com/Prefs.git",
                     "reference": "85a263568e3d22c34de4a7b00fc1fa6eccc78138"
                 },
                 "dist": {
@@ -926,7 +968,10 @@
                     }
                 ],
                 "description": "User preferences library",
-                "homepage": "https://www.horde.org/libraries/Horde_Prefs"
+                "homepage": "https://www.horde.org/libraries/Horde_Prefs",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Prefs/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Element.git",
+                    "url": "https://github.com/maintaina-com/Xml_Element.git",
                     "reference": "5de8b10abc8fead26e64523d04d6bc65523aeeed"
                 },
                 "dist": {
@@ -37,7 +37,10 @@
                     }
                 ],
                 "description": "Horde Xml Element object",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Element/tree/v2.0.2"
+                }
             },
             {
                 "name": "horde/xml_element",
@@ -45,7 +48,7 @@
                 "version_normalized": "2.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Element.git",
+                    "url": "https://github.com/maintaina-com/Xml_Element.git",
                     "reference": "4c9917355e32359893f6414305aca39bc8627b20"
                 },
                 "dist": {
@@ -76,7 +79,10 @@
                     }
                 ],
                 "description": "Horde Xml Element object",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Element/tree/v2.0.3"
+                }
             },
             {
                 "name": "horde/xml_element",
@@ -84,7 +90,7 @@
                 "version_normalized": "2.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Element.git",
+                    "url": "https://github.com/maintaina-com/Xml_Element.git",
                     "reference": "dc0873a035b21584d1d2cef715e09a411443106b"
                 },
                 "dist": {
@@ -115,7 +121,10 @@
                     }
                 ],
                 "description": "Horde Xml Element object",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Element/tree/v2.0.4"
+                }
             },
             {
                 "name": "horde/xml_element",
@@ -123,7 +132,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Element.git",
+                    "url": "https://github.com/maintaina-com/Xml_Element.git",
                     "reference": "5c5df864b0a81a5fcac32d2c519157a40b07611c"
                 },
                 "dist": {
@@ -163,7 +172,10 @@
                     }
                 ],
                 "description": "XML element library",
-                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element"
+                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Element/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/xml_element",
@@ -171,7 +183,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Element.git",
+                    "url": "https://github.com/maintaina-com/Xml_Element.git",
                     "reference": "4a0a1efed410501a8a2f636a462d0789912708ba"
                 },
                 "dist": {
@@ -208,7 +220,10 @@
                     }
                 ],
                 "description": "XML element library",
-                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element"
+                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Element/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/xml_element",
@@ -216,7 +231,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Element.git",
+                    "url": "https://github.com/maintaina-com/Xml_Element.git",
                     "reference": "b0cd29a5d960df0a7560ad7ff88e07e6b929e7ab"
                 },
                 "dist": {
@@ -252,7 +267,10 @@
                     }
                 ],
                 "description": "XML element library",
-                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element"
+                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Element/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

@@ -7,7 +7,7 @@
                 "version_normalized": "2.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Translation.git",
+                    "url": "https://github.com/maintaina-com/Translation.git",
                     "reference": "6cceabd195e864470685644048961144c6f3b924"
                 },
                 "dist": {
@@ -36,7 +36,10 @@
                     }
                 ],
                 "description": "Horde translation library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Translation/tree/v2.1.0"
+                }
             },
             {
                 "name": "horde/translation",
@@ -44,7 +47,7 @@
                 "version_normalized": "2.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Translation.git",
+                    "url": "https://github.com/maintaina-com/Translation.git",
                     "reference": "f2e5f2ebb3173151f8fe9aacd70d8e1b8b2b860d"
                 },
                 "dist": {
@@ -73,7 +76,10 @@
                     }
                 ],
                 "description": "Horde translation library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Translation/tree/v2.2.0"
+                }
             },
             {
                 "name": "horde/translation",
@@ -81,7 +87,7 @@
                 "version_normalized": "2.2.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Translation.git",
+                    "url": "https://github.com/maintaina-com/Translation.git",
                     "reference": "4bac4507711d560c67be7258c527f61ac363ec6e"
                 },
                 "dist": {
@@ -110,7 +116,10 @@
                     }
                 ],
                 "description": "Horde translation library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Translation/tree/v2.2.1"
+                }
             },
             {
                 "name": "horde/translation",
@@ -118,7 +127,7 @@
                 "version_normalized": "2.2.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Translation.git",
+                    "url": "https://github.com/maintaina-com/Translation.git",
                     "reference": "e83de5744912b5bbd6baebdf670a6311fb48e0ad"
                 },
                 "dist": {
@@ -147,7 +156,10 @@
                     }
                 ],
                 "description": "Horde translation library",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Translation/tree/v2.2.2"
+                }
             },
             {
                 "name": "horde/translation",
@@ -155,7 +167,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Translation.git",
+                    "url": "https://github.com/maintaina-com/Translation.git",
                     "reference": "5812d84245d94f2b31449972ec7845fac52ba4db"
                 },
                 "dist": {
@@ -193,7 +205,10 @@
                     }
                 ],
                 "description": "Translation library",
-                "homepage": "https://www.horde.org/libraries/Horde_Translation"
+                "homepage": "https://www.horde.org/libraries/Horde_Translation",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Translation/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/translation",
@@ -201,7 +216,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Translation.git",
+                    "url": "https://github.com/maintaina-com/Translation.git",
                     "reference": "54c96754c008ebb797b187d14a2bf650df2202b8"
                 },
                 "dist": {
@@ -236,7 +251,10 @@
                     }
                 ],
                 "description": "Translation library",
-                "homepage": "https://www.horde.org/libraries/Horde_Translation"
+                "homepage": "https://www.horde.org/libraries/Horde_Translation",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Translation/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/translation",
@@ -244,7 +262,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Translation.git",
+                    "url": "https://github.com/maintaina-com/Translation.git",
                     "reference": "17ba9fc94f45498a0902e9f5031e0f0c870b51a0"
                 },
                 "dist": {
@@ -278,7 +296,10 @@
                     }
                 ],
                 "description": "Translation library",
-                "homepage": "https://www.horde.org/libraries/Horde_Translation"
+                "homepage": "https://www.horde.org/libraries/Horde_Translation",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Translation/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

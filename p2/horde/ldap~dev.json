@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Ldap.git",
+                    "url": "https://github.com/maintaina-com/Ldap.git",
                     "reference": "0224f6499ea0796cadcba195b92080ad42bfb034"
                 },
                 "dist": {
@@ -49,7 +49,10 @@
                     }
                 ],
                 "description": "LDAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Ldap"
+                "homepage": "https://www.horde.org/libraries/Horde_Ldap",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Ldap/tree/master"
+                }
             },
             {
                 "name": "horde/ldap",
@@ -57,7 +60,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Ldap.git",
+                    "url": "https://github.com/maintaina-com/Ldap.git",
                     "reference": "24c148ed887691f7a3b0a65bad1c6b6dd3cb707b"
                 },
                 "dist": {
@@ -102,7 +105,10 @@
                     }
                 ],
                 "description": "LDAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Ldap"
+                "homepage": "https://www.horde.org/libraries/Horde_Ldap",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Ldap/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/ldap",
@@ -110,7 +116,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Ldap.git",
+                    "url": "https://github.com/maintaina-com/Ldap.git",
                     "reference": "d3670ad48c878b5fad7482cd6035446faced0da5"
                 },
                 "dist": {
@@ -151,7 +157,10 @@
                     }
                 ],
                 "description": "LDAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Ldap"
+                "homepage": "https://www.horde.org/libraries/Horde_Ldap",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Ldap/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/ldap",
@@ -159,7 +168,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Ldap.git",
+                    "url": "https://github.com/maintaina-com/Ldap.git",
                     "reference": "071fa77ccea758a133fc2eaa0b4f66cdcb791818"
                 },
                 "dist": {
@@ -204,7 +213,10 @@
                     }
                 ],
                 "description": "LDAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Ldap"
+                "homepage": "https://www.horde.org/libraries/Horde_Ldap",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Ldap/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/ldap",
@@ -212,7 +224,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Ldap.git",
+                    "url": "https://github.com/maintaina-com/Ldap.git",
                     "reference": "071fa77ccea758a133fc2eaa0b4f66cdcb791818"
                 },
                 "dist": {
@@ -257,7 +269,10 @@
                     }
                 ],
                 "description": "LDAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Ldap"
+                "homepage": "https://www.horde.org/libraries/Horde_Ldap",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Ldap/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/ldap",
@@ -265,7 +280,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Ldap.git",
+                    "url": "https://github.com/maintaina-com/Ldap.git",
                     "reference": "dbb8d600a7fe31f4d5a939b56e11b43bd27b39d2"
                 },
                 "dist": {
@@ -307,7 +322,10 @@
                     }
                 ],
                 "description": "LDAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Ldap"
+                "homepage": "https://www.horde.org/libraries/Horde_Ldap",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Ldap/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

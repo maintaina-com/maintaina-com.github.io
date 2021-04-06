@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Notification.git",
+                    "url": "https://github.com/maintaina-com/Notification.git",
                     "reference": "14b537096e9f2fc4f5b59be37060b7023b782ff3"
                 },
                 "dist": {
@@ -40,7 +40,10 @@
                     }
                 ],
                 "description": "Horde Notification System",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Notification/tree/v2.0.2"
+                }
             },
             {
                 "name": "horde/notification",
@@ -48,7 +51,7 @@
                 "version_normalized": "2.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Notification.git",
+                    "url": "https://github.com/maintaina-com/Notification.git",
                     "reference": "db60f9e7007c344e1bc549a09093c694d60e9324"
                 },
                 "dist": {
@@ -81,7 +84,10 @@
                     }
                 ],
                 "description": "Horde Notification System",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Notification/tree/v2.0.3"
+                }
             },
             {
                 "name": "horde/notification",
@@ -89,7 +95,7 @@
                 "version_normalized": "2.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Notification.git",
+                    "url": "https://github.com/maintaina-com/Notification.git",
                     "reference": "609ee69290035f72691f17da1d0768034cf02dd2"
                 },
                 "dist": {
@@ -122,7 +128,10 @@
                     }
                 ],
                 "description": "Horde Notification System",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Notification/tree/v2.0.4"
+                }
             },
             {
                 "name": "horde/notification",
@@ -130,7 +139,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Notification.git",
+                    "url": "https://github.com/maintaina-com/Notification.git",
                     "reference": "70be8604c554558565ba5627d1ea8eff342bc16b"
                 },
                 "dist": {
@@ -172,7 +181,10 @@
                     }
                 ],
                 "description": "Notification library implementing subject-observer pattern",
-                "homepage": "https://www.horde.org/libraries/Horde_Notification"
+                "homepage": "https://www.horde.org/libraries/Horde_Notification",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Notification/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/notification",
@@ -180,7 +192,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Notification.git",
+                    "url": "https://github.com/maintaina-com/Notification.git",
                     "reference": "7132cfda4800eb7fd92e940fa6f4c6783d67f169"
                 },
                 "dist": {
@@ -219,7 +231,10 @@
                     }
                 ],
                 "description": "Notification library implementing subject-observer pattern",
-                "homepage": "https://www.horde.org/libraries/Horde_Notification"
+                "homepage": "https://www.horde.org/libraries/Horde_Notification",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Notification/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/notification",
@@ -227,7 +242,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Notification.git",
+                    "url": "https://github.com/maintaina-com/Notification.git",
                     "reference": "6dbd3eb4683e4d03f91e3f3e620427db8e6e4ed7"
                 },
                 "dist": {
@@ -265,7 +280,10 @@
                     }
                 ],
                 "description": "Notification library implementing subject-observer pattern",
-                "homepage": "https://www.horde.org/libraries/Horde_Notification"
+                "homepage": "https://www.horde.org/libraries/Horde_Notification",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Notification/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

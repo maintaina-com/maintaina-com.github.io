@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Flowed.git",
+                    "url": "https://github.com/maintaina-com/Text_Flowed.git",
                     "reference": "e4552e24b4beddcd7753f988a2e98ed9040cb07e"
                 },
                 "dist": {
@@ -36,7 +36,10 @@
                     }
                 ],
                 "description": "Horde API for flowed text as per RFC 3676",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Flowed/tree/v2.0.2"
+                }
             },
             {
                 "name": "horde/text_flowed",
@@ -44,7 +47,7 @@
                 "version_normalized": "2.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Flowed.git",
+                    "url": "https://github.com/maintaina-com/Text_Flowed.git",
                     "reference": "13eb7900203c2bf5b0fa1b2ef280dd110c4a548e"
                 },
                 "dist": {
@@ -73,7 +76,10 @@
                     }
                 ],
                 "description": "Horde API for flowed text as per RFC 3676",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Flowed/tree/v2.0.3"
+                }
             },
             {
                 "name": "horde/text_flowed",
@@ -81,7 +87,7 @@
                 "version_normalized": "2.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Flowed.git",
+                    "url": "https://github.com/maintaina-com/Text_Flowed.git",
                     "reference": "7bc602da99eb73d9fe0e28de65de4f7dfe9739fb"
                 },
                 "dist": {
@@ -119,7 +125,10 @@
                     }
                 ],
                 "description": "Flowed text library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Flowed/tree/v2.0.4"
+                }
             },
             {
                 "name": "horde/text_flowed",
@@ -127,7 +136,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Flowed.git",
+                    "url": "https://github.com/maintaina-com/Text_Flowed.git",
                     "reference": "535591f49a7b36ceb4533def25f1bd3bca47f060"
                 },
                 "dist": {
@@ -165,7 +174,10 @@
                     }
                 ],
                 "description": "Flowed text library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Flowed/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/text_flowed",
@@ -173,7 +185,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Flowed.git",
+                    "url": "https://github.com/maintaina-com/Text_Flowed.git",
                     "reference": "47a442020e063e1dc0e23bb785a97a4d8dc160d8"
                 },
                 "dist": {
@@ -208,7 +220,10 @@
                     }
                 ],
                 "description": "Flowed text library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Flowed/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/text_flowed",
@@ -216,7 +231,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Flowed.git",
+                    "url": "https://github.com/maintaina-com/Text_Flowed.git",
                     "reference": "704d6ed2134e4536d9fe7a1e490dd368636e4c3a"
                 },
                 "dist": {
@@ -250,7 +265,10 @@
                     }
                 ],
                 "description": "Flowed text library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Flowed/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

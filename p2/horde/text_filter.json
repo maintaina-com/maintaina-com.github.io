@@ -7,7 +7,7 @@
                 "version_normalized": "2.3.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Filter.git",
+                    "url": "https://github.com/maintaina-com/Text_Filter.git",
                     "reference": "ac2151613978fca39f5d23dfe8a8d334198ff1f5"
                 },
                 "dist": {
@@ -52,7 +52,10 @@
                     }
                 ],
                 "description": "Horde Text Filter API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Filter/tree/v2.3.2"
+                }
             },
             {
                 "name": "horde/text_filter",
@@ -60,7 +63,7 @@
                 "version_normalized": "2.3.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Filter.git",
+                    "url": "https://github.com/maintaina-com/Text_Filter.git",
                     "reference": "69c717b60876a1f3c78f1bc2bedb34414fd99839"
                 },
                 "dist": {
@@ -105,7 +108,10 @@
                     }
                 ],
                 "description": "Horde Text Filter API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Filter/tree/v2.3.3"
+                }
             },
             {
                 "name": "horde/text_filter",
@@ -113,7 +119,7 @@
                 "version_normalized": "2.3.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Filter.git",
+                    "url": "https://github.com/maintaina-com/Text_Filter.git",
                     "reference": "7ec825b30fe92427a25ba02404dd38f2d3f09a7e"
                 },
                 "dist": {
@@ -158,7 +164,10 @@
                     }
                 ],
                 "description": "Horde Text Filter API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Filter/tree/v2.3.4"
+                }
             },
             {
                 "name": "horde/text_filter",
@@ -166,7 +175,7 @@
                 "version_normalized": "2.3.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Filter.git",
+                    "url": "https://github.com/maintaina-com/Text_Filter.git",
                     "reference": "935e1a6ba4a5d11081ff7b69fda82b23dc570a1a"
                 },
                 "dist": {
@@ -211,7 +220,10 @@
                     }
                 ],
                 "description": "Horde Text Filter API",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Filter/tree/v2.3.5"
+                }
             },
             {
                 "name": "horde/text_filter",
@@ -219,7 +231,7 @@
                 "version_normalized": "2.3.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Filter.git",
+                    "url": "https://github.com/maintaina-com/Text_Filter.git",
                     "reference": "171ade16f4fa7224bf366b15c917ff027f12edb4"
                 },
                 "dist": {
@@ -273,7 +285,10 @@
                     }
                 ],
                 "description": "Text filtering and conversion library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Filter/tree/v2.3.6"
+                }
             },
             {
                 "name": "horde/text_filter",
@@ -281,7 +296,7 @@
                 "version_normalized": "2.3.7.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Filter.git",
+                    "url": "https://github.com/maintaina-com/Text_Filter.git",
                     "reference": "fbfd735b36c70ad8bdc9315ea7efa08396dd13e5"
                 },
                 "dist": {
@@ -336,7 +351,10 @@
                     }
                 ],
                 "description": "Text filtering and conversion library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Filter/tree/v2.3.7"
+                }
             },
             {
                 "name": "horde/text_filter",
@@ -344,7 +362,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Filter.git",
+                    "url": "https://github.com/maintaina-com/Text_Filter.git",
                     "reference": "db74527db1eaae05f7682f55e6ff2e96fae99a74"
                 },
                 "dist": {
@@ -398,7 +416,10 @@
                     }
                 ],
                 "description": "Text filtering and conversion library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Filter/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/text_filter",
@@ -406,7 +427,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Filter.git",
+                    "url": "https://github.com/maintaina-com/Text_Filter.git",
                     "reference": "c56def8f2d4e7af81782d34f661952613e5a7abe"
                 },
                 "dist": {
@@ -457,7 +478,10 @@
                     }
                 ],
                 "description": "Text filtering and conversion library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Filter/tree/v3.0.0alpha2"
+                }
             }
         ]
     }

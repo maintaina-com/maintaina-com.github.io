@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "051056053249445f7aa8bc707cd2acdf4111a408"
                 },
                 "dist": {
@@ -65,7 +65,10 @@
                     }
                 ],
                 "description": "Database abstraction library",
-                "homepage": "https://www.horde.org/libraries/Horde_Db"
+                "homepage": "https://www.horde.org/libraries/Horde_Db",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/master"
+                }
             },
             {
                 "name": "horde/db",
@@ -73,7 +76,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "fa8a08ff230bd5dfb5c21c591e0947b24607455c"
                 },
                 "dist": {
@@ -131,7 +134,10 @@
                     }
                 ],
                 "description": "Database abstraction library",
-                "homepage": "https://www.horde.org/libraries/Horde_Db"
+                "homepage": "https://www.horde.org/libraries/Horde_Db",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/db",
@@ -139,7 +145,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "dab38819ada05f74726edfb4a450577515dddf5a"
                 },
                 "dist": {
@@ -196,7 +202,10 @@
                     }
                 ],
                 "description": "Database abstraction library",
-                "homepage": "https://www.horde.org/libraries/Horde_Db"
+                "homepage": "https://www.horde.org/libraries/Horde_Db",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/db",
@@ -204,7 +213,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "4b2f430fe80d18861f79d354e502993bf9be146e"
                 },
                 "dist": {
@@ -262,7 +271,10 @@
                     }
                 ],
                 "description": "Database abstraction library",
-                "homepage": "https://www.horde.org/libraries/Horde_Db"
+                "homepage": "https://www.horde.org/libraries/Horde_Db",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/db",
@@ -270,7 +282,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "4b2f430fe80d18861f79d354e502993bf9be146e"
                 },
                 "dist": {
@@ -328,7 +340,10 @@
                     }
                 ],
                 "description": "Database abstraction library",
-                "homepage": "https://www.horde.org/libraries/Horde_Db"
+                "homepage": "https://www.horde.org/libraries/Horde_Db",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/db",
@@ -336,7 +351,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "ef93c6a7f8d908bafa27646b0d3895e87a65eb11"
                 },
                 "dist": {
@@ -394,7 +409,10 @@
                     }
                 ],
                 "description": "Database abstraction library",
-                "homepage": "https://www.horde.org/libraries/Horde_Db"
+                "homepage": "https://www.horde.org/libraries/Horde_Db",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

@@ -7,7 +7,7 @@
                 "version_normalized": "2.16.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "4457bfa6237ffca480f8a378734e99a1882cca0a"
                 },
                 "dist": {
@@ -51,7 +51,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.16.0"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -59,7 +62,7 @@
                 "version_normalized": "2.16.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "358fd932b1bc176c9803ab35b4ad3661dac177da"
                 },
                 "dist": {
@@ -103,7 +106,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.16.1"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -111,7 +117,7 @@
                 "version_normalized": "2.16.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "d3d3b84b56cef7bd184107c9cd169287e99309da"
                 },
                 "dist": {
@@ -155,7 +161,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.16.2"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -163,7 +172,7 @@
                 "version_normalized": "2.17.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "7e245537825107f27dd641ea076de102316c0983"
                 },
                 "dist": {
@@ -209,7 +218,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.17.0"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -217,7 +229,7 @@
                 "version_normalized": "2.17.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "c490e0b2849e32ea5f8d7c0d88722cfea507dd54"
                 },
                 "dist": {
@@ -263,7 +275,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.17.1"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -271,7 +286,7 @@
                 "version_normalized": "2.18.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "61ec2e8587c612c7aaa772767051f2ef3aeb39f5"
                 },
                 "dist": {
@@ -318,7 +333,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.18.0"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -326,7 +344,7 @@
                 "version_normalized": "2.18.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "bdaf4f6b217cdfa010490afb7617ec77c582d13a"
                 },
                 "dist": {
@@ -373,7 +391,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.18.1"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -381,7 +402,7 @@
                 "version_normalized": "2.18.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "0794c1ccafd5a04359bb3ab910808a3f09fac3a6"
                 },
                 "dist": {
@@ -428,7 +449,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.18.2"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -436,7 +460,7 @@
                 "version_normalized": "2.18.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "555009ab6a2864257105c5c4179b609017287a08"
                 },
                 "dist": {
@@ -483,7 +507,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.18.3"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -491,7 +518,7 @@
                 "version_normalized": "2.18.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "cce95a90847c1625138d6582bfcafc6e94142aa6"
                 },
                 "dist": {
@@ -538,7 +565,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.18.4"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -546,7 +576,7 @@
                 "version_normalized": "2.18.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "120871d4af90c28edd03e647589bfa5b45106bc9"
                 },
                 "dist": {
@@ -593,7 +623,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.18.5"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -601,7 +634,7 @@
                 "version_normalized": "2.18.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "b27b6a1befaec5f13124074b926a7561bde9bbf3"
                 },
                 "dist": {
@@ -648,7 +681,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.18.6"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -656,7 +692,7 @@
                 "version_normalized": "2.19.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "0fc12f444772e32f6846284f88f7b2250383bea1"
                 },
                 "dist": {
@@ -703,7 +739,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.19.0"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -711,7 +750,7 @@
                 "version_normalized": "2.19.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "6c414196de8b06578c04fe51e6b919977ad4beb4"
                 },
                 "dist": {
@@ -758,7 +797,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.19.1"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -766,7 +808,7 @@
                 "version_normalized": "2.19.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "1c4c8809bd05c2032308e5472cc844b04b327b41"
                 },
                 "dist": {
@@ -813,7 +855,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.19.2"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -821,7 +866,7 @@
                 "version_normalized": "2.19.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "dfc2f757e99568ad0b0442735e6c7adb7db35bb0"
                 },
                 "dist": {
@@ -868,7 +913,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.19.3"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -876,7 +924,7 @@
                 "version_normalized": "2.19.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "fecd240010a197767686100fd67110fdc4faf528"
                 },
                 "dist": {
@@ -923,7 +971,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.19.4"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -931,7 +982,7 @@
                 "version_normalized": "2.19.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "0c48d4131e8c5fb550de1afa72b1160b52a23ee6"
                 },
                 "dist": {
@@ -978,7 +1029,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.19.5"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -986,7 +1040,7 @@
                 "version_normalized": "2.19.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "5d6f80c104fec8b0a3dad701a82573f25f04748c"
                 },
                 "dist": {
@@ -1033,7 +1087,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.19.6"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1041,7 +1098,7 @@
                 "version_normalized": "2.20.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "a108f4ce493a896ff0744f35f786bf47f5770878"
                 },
                 "dist": {
@@ -1088,7 +1145,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.20.0"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1096,7 +1156,7 @@
                 "version_normalized": "2.21.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "8344d82b42924f10ea0f525d472ec1e785c0a8c7"
                 },
                 "dist": {
@@ -1143,7 +1203,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.21.0"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1151,7 +1214,7 @@
                 "version_normalized": "2.22.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "4b3d95388abaf1932fea67897a1bc88e7624ab06"
                 },
                 "dist": {
@@ -1198,7 +1261,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.22.0"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1206,7 +1272,7 @@
                 "version_normalized": "2.23.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "f607a4666c60cf1362a91b1813a7a0e0a3a014e5"
                 },
                 "dist": {
@@ -1253,7 +1319,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.23.0"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1261,7 +1330,7 @@
                 "version_normalized": "2.23.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "1648d68eeab1a186d7d00eb4c959815f1b0ce649"
                 },
                 "dist": {
@@ -1308,7 +1377,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.23.1"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1316,7 +1388,7 @@
                 "version_normalized": "2.23.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "63e0638e0c8635d431e4473e08312c75ad151714"
                 },
                 "dist": {
@@ -1363,7 +1435,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.23.2"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1371,7 +1446,7 @@
                 "version_normalized": "2.24.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "cf149d29889686ce2d4bc0df318aaaa2a21381e3"
                 },
                 "dist": {
@@ -1418,7 +1493,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.24.0"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1426,7 +1504,7 @@
                 "version_normalized": "2.24.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "497faeb58883591fd339ffbea1464046d5d6ef20"
                 },
                 "dist": {
@@ -1473,7 +1551,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.24.1"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1481,7 +1562,7 @@
                 "version_normalized": "2.24.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "35c4494dad5765d95dd44f22a1abee1b17ae3ae4"
                 },
                 "dist": {
@@ -1528,7 +1609,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.24.2"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1536,7 +1620,7 @@
                 "version_normalized": "2.25.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "a3d8139af8c6da0b2a519bd5d59c62f960d158ae"
                 },
                 "dist": {
@@ -1584,7 +1668,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.25.0"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1592,7 +1679,7 @@
                 "version_normalized": "2.25.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "dd04d865b3143034c3a625be2ca03b2d1987c1b6"
                 },
                 "dist": {
@@ -1640,7 +1727,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.25.1"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1648,7 +1738,7 @@
                 "version_normalized": "2.25.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "55ecf047f97236efeefde02cae84c7591dd763a6"
                 },
                 "dist": {
@@ -1697,7 +1787,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.25.2"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1705,7 +1798,7 @@
                 "version_normalized": "2.25.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "1f830072d6b771481f91e88c49f434fdd5784fa1"
                 },
                 "dist": {
@@ -1754,7 +1847,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.25.3"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1762,7 +1858,7 @@
                 "version_normalized": "2.25.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "310b0890310c212dfcbe99a500c11378bc24c45f"
                 },
                 "dist": {
@@ -1811,7 +1907,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.25.4"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1819,7 +1918,7 @@
                 "version_normalized": "2.25.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "6d08ae51ac16bd5712df3aad46568b2a4dddfd40"
                 },
                 "dist": {
@@ -1868,7 +1967,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.25.5"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1876,7 +1978,7 @@
                 "version_normalized": "2.25.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "61b8602d6b7143ca43452ea50908430b269439c7"
                 },
                 "dist": {
@@ -1925,7 +2027,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.25.6"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1933,7 +2038,7 @@
                 "version_normalized": "2.26.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "1d8199866aac84978f259a346c797d5df43a0ad7"
                 },
                 "dist": {
@@ -1982,7 +2087,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.26.0"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -1990,7 +2098,7 @@
                 "version_normalized": "2.26.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "e22d7551c914b4fcc3a48359c3cecdf64d5141e5"
                 },
                 "dist": {
@@ -2039,7 +2147,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.26.1"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -2047,7 +2158,7 @@
                 "version_normalized": "2.27.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "86fa2facfbf36518aaa476e4fb9d4f1429f5f2e7"
                 },
                 "dist": {
@@ -2096,7 +2207,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.27.0"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -2104,7 +2218,7 @@
                 "version_normalized": "2.28.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "38743a74a66b8fe6e4f07a824608050fa542a2a5"
                 },
                 "dist": {
@@ -2153,7 +2267,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.28.0"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -2161,7 +2278,7 @@
                 "version_normalized": "2.28.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "29ce62129b622918f97157aed7964efb9ed8c626"
                 },
                 "dist": {
@@ -2210,7 +2327,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.28.1"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -2218,7 +2338,7 @@
                 "version_normalized": "2.29.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "0280bf2ba7ad646269c168d9d6bedcc3eac2f197"
                 },
                 "dist": {
@@ -2268,7 +2388,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.0"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -2276,7 +2399,7 @@
                 "version_normalized": "2.29.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "252af47c8eb1bc619774dfc44b4232ed2a1760bd"
                 },
                 "dist": {
@@ -2326,7 +2449,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.1"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -2334,7 +2460,7 @@
                 "version_normalized": "2.29.10.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "9dc3054cffd9921b979ebc73eb73eeb340c5375e"
                 },
                 "dist": {
@@ -2384,7 +2510,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.10"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -2392,7 +2521,7 @@
                 "version_normalized": "2.29.11.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "199adbf766fd98807c10b655d9d1f7d9980195ab"
                 },
                 "dist": {
@@ -2442,7 +2571,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.11"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -2450,7 +2582,7 @@
                 "version_normalized": "2.29.12.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "08bfd7a5b58c8697e5366a941f94acc78466b61e"
                 },
                 "dist": {
@@ -2500,7 +2632,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.12"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -2508,7 +2643,7 @@
                 "version_normalized": "2.29.13.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "7e882890624e6674bb5bd1acb28d6f375f37aebb"
                 },
                 "dist": {
@@ -2567,7 +2702,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.13"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -2575,7 +2713,7 @@
                 "version_normalized": "2.29.14.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "e03285a2f174eb31aebadad6890a4dde5da19bd8"
                 },
                 "dist": {
@@ -2634,7 +2772,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.14"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -2642,7 +2783,7 @@
                 "version_normalized": "2.29.15.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "f91a1239ab779058c0f4d7cad01114cc8c6e0138"
                 },
                 "dist": {
@@ -2701,7 +2842,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.15"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -2709,7 +2853,7 @@
                 "version_normalized": "2.29.16.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "b3771122b6671e342ce794446b5124e7792e07b2"
                 },
                 "dist": {
@@ -2768,7 +2912,10 @@
                     }
                 ],
                 "description": "IMAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client"
+                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.16"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -2776,7 +2923,7 @@
                 "version_normalized": "2.29.17.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "00ba0bc58ff4987e2b5e00f1ed7e5bc31c515ec4"
                 },
                 "dist": {
@@ -2835,7 +2982,10 @@
                     }
                 ],
                 "description": "IMAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client"
+                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.17"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -2843,7 +2993,7 @@
                 "version_normalized": "2.29.18.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "ec0eed0784d95d2a72a0752aaba8d672fbcf3698"
                 },
                 "dist": {
@@ -2902,7 +3052,10 @@
                     }
                 ],
                 "description": "IMAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client"
+                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.18"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -2910,7 +3063,7 @@
                 "version_normalized": "2.29.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "c977c144f6e188bf5060f6ea5bcb0f2a22d41412"
                 },
                 "dist": {
@@ -2960,7 +3113,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.2"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -2968,7 +3124,7 @@
                 "version_normalized": "2.29.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "5cf6286466d1b38b42fc3e988ec189703b682037"
                 },
                 "dist": {
@@ -3018,7 +3174,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.3"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -3026,7 +3185,7 @@
                 "version_normalized": "2.29.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "d0cf8e02d4cb360148f0d1b3e09e6d283b1b6927"
                 },
                 "dist": {
@@ -3076,7 +3235,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.4"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -3084,7 +3246,7 @@
                 "version_normalized": "2.29.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "b4827039dd27fbe03f81af787d9c6c2cb03a933e"
                 },
                 "dist": {
@@ -3134,7 +3296,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.5"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -3142,7 +3307,7 @@
                 "version_normalized": "2.29.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "12d74cbec2a3e7c1df34250de939f9913684576a"
                 },
                 "dist": {
@@ -3192,7 +3357,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.6"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -3200,7 +3368,7 @@
                 "version_normalized": "2.29.7.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "1dc8fa358e8997c53bad26d60d56f6b5843036a8"
                 },
                 "dist": {
@@ -3250,7 +3418,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.7"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -3258,7 +3429,7 @@
                 "version_normalized": "2.29.8.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "8c8a432acb09bbe34a6295e1ea1b632ceebcf564"
                 },
                 "dist": {
@@ -3308,7 +3479,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.8"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -3316,7 +3490,7 @@
                 "version_normalized": "2.29.9.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "ef83dc7253c4768b2f67bd7e5a7ac4ac54a4a55c"
                 },
                 "dist": {
@@ -3366,7 +3540,10 @@
                     }
                 ],
                 "description": "Horde IMAP Client",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.29.9"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -3374,7 +3551,7 @@
                 "version_normalized": "2.30.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "ddb08d76df20893d2fe2ce6facfac5beb260b665"
                 },
                 "dist": {
@@ -3433,7 +3610,10 @@
                     }
                 ],
                 "description": "IMAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client"
+                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.30.0"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -3441,7 +3621,7 @@
                 "version_normalized": "2.30.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "7aa0268572bbea525b09f992658766b9f8b0a704"
                 },
                 "dist": {
@@ -3500,7 +3680,10 @@
                     }
                 ],
                 "description": "IMAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client"
+                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v2.30.1"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -3508,7 +3691,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "4fbf85c3021eb96094d9118b976dc67120694fa2"
                 },
                 "dist": {
@@ -3567,7 +3750,10 @@
                     }
                 ],
                 "description": "IMAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client"
+                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -3575,7 +3761,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "34af0189d6d9656a1df9486462daf04dfe31e384"
                 },
                 "dist": {
@@ -3631,7 +3817,10 @@
                     }
                 ],
                 "description": "IMAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client"
+                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -3639,7 +3828,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "b8a8a9bc5aba9d52173fddc2b03cdf3323d28b77"
                 },
                 "dist": {
@@ -3694,7 +3883,10 @@
                     }
                 ],
                 "description": "IMAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client"
+                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

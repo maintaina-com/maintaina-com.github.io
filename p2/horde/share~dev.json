@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Share.git",
+                    "url": "https://github.com/maintaina-com/Share.git",
                     "reference": "f406aac70fc50c65e3dfddf656f51f37ee434e8a"
                 },
                 "dist": {
@@ -60,7 +60,10 @@
                     }
                 ],
                 "description": "Resource sharing library",
-                "homepage": "https://www.horde.org/libraries/Horde_Share"
+                "homepage": "https://www.horde.org/libraries/Horde_Share",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Share/tree/master"
+                }
             },
             {
                 "name": "horde/share",
@@ -68,7 +71,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Share.git",
+                    "url": "https://github.com/maintaina-com/Share.git",
                     "reference": "7a25a5c6fd4f18d4b918fe1a5dca7453e2f66533"
                 },
                 "dist": {
@@ -124,7 +127,10 @@
                     }
                 ],
                 "description": "Resource sharing library",
-                "homepage": "https://www.horde.org/libraries/Horde_Share"
+                "homepage": "https://www.horde.org/libraries/Horde_Share",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Share/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/share",
@@ -132,7 +138,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Share.git",
+                    "url": "https://github.com/maintaina-com/Share.git",
                     "reference": "bfe37948d5dc8d9a27f6d7b88eaf8ee6b6ad0827"
                 },
                 "dist": {
@@ -184,7 +190,10 @@
                     }
                 ],
                 "description": "Resource sharing library",
-                "homepage": "https://www.horde.org/libraries/Horde_Share"
+                "homepage": "https://www.horde.org/libraries/Horde_Share",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Share/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/share",
@@ -192,7 +201,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Share.git",
+                    "url": "https://github.com/maintaina-com/Share.git",
                     "reference": "218b59f19f7c61acedda737213a7a12e3f4791e2"
                 },
                 "dist": {
@@ -248,7 +257,10 @@
                     }
                 ],
                 "description": "Resource sharing library",
-                "homepage": "https://www.horde.org/libraries/Horde_Share"
+                "homepage": "https://www.horde.org/libraries/Horde_Share",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Share/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/share",
@@ -256,7 +268,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Share.git",
+                    "url": "https://github.com/maintaina-com/Share.git",
                     "reference": "218b59f19f7c61acedda737213a7a12e3f4791e2"
                 },
                 "dist": {
@@ -312,7 +324,10 @@
                     }
                 ],
                 "description": "Resource sharing library",
-                "homepage": "https://www.horde.org/libraries/Horde_Share"
+                "homepage": "https://www.horde.org/libraries/Horde_Share",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Share/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/share",
@@ -320,7 +335,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Share.git",
+                    "url": "https://github.com/maintaina-com/Share.git",
                     "reference": "9aca427e29c25fd1e6c1aacb5f680cca631b90ec"
                 },
                 "dist": {
@@ -373,7 +388,10 @@
                     }
                 ],
                 "description": "Resource sharing library",
-                "homepage": "https://www.horde.org/libraries/Horde_Share"
+                "homepage": "https://www.horde.org/libraries/Horde_Share",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Share/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

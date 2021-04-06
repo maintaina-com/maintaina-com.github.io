@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/LoginTasks.git",
+                    "url": "https://github.com/maintaina-com/LoginTasks.git",
                     "reference": "26d8615fa8830ff5f8ee6c730eaa95a1683e8cd9"
                 },
                 "dist": {
@@ -43,7 +43,10 @@
                     }
                 ],
                 "description": "Login tasks library",
-                "homepage": "https://www.horde.org/libraries/Horde_LoginTasks"
+                "homepage": "https://www.horde.org/libraries/Horde_LoginTasks",
+                "support": {
+                    "source": "https://github.com/maintaina-com/LoginTasks/tree/master"
+                }
             },
             {
                 "name": "horde/logintasks",
@@ -51,7 +54,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/LoginTasks.git",
+                    "url": "https://github.com/maintaina-com/LoginTasks.git",
                     "reference": "f7e887bb54af0a6ea0bd1c26c8c7f5989e123d8b"
                 },
                 "dist": {
@@ -90,7 +93,10 @@
                     }
                 ],
                 "description": "Login tasks library",
-                "homepage": "https://www.horde.org/libraries/Horde_LoginTasks"
+                "homepage": "https://www.horde.org/libraries/Horde_LoginTasks",
+                "support": {
+                    "source": "https://github.com/maintaina-com/LoginTasks/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/logintasks",
@@ -98,7 +104,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/LoginTasks.git",
+                    "url": "https://github.com/maintaina-com/LoginTasks.git",
                     "reference": "7d5976544ec67ec43d3ef4ff339158b78abb89b0"
                 },
                 "dist": {
@@ -133,7 +139,10 @@
                     }
                 ],
                 "description": "Login tasks library",
-                "homepage": "https://www.horde.org/libraries/Horde_LoginTasks"
+                "homepage": "https://www.horde.org/libraries/Horde_LoginTasks",
+                "support": {
+                    "source": "https://github.com/maintaina-com/LoginTasks/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/logintasks",
@@ -141,7 +150,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/LoginTasks.git",
+                    "url": "https://github.com/maintaina-com/LoginTasks.git",
                     "reference": "8852c9240ad344d597a87dd0122b1153b26d688f"
                 },
                 "dist": {
@@ -180,7 +189,10 @@
                     }
                 ],
                 "description": "Login tasks library",
-                "homepage": "https://www.horde.org/libraries/Horde_LoginTasks"
+                "homepage": "https://www.horde.org/libraries/Horde_LoginTasks",
+                "support": {
+                    "source": "https://github.com/maintaina-com/LoginTasks/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/logintasks",
@@ -188,7 +200,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/LoginTasks.git",
+                    "url": "https://github.com/maintaina-com/LoginTasks.git",
                     "reference": "8852c9240ad344d597a87dd0122b1153b26d688f"
                 },
                 "dist": {
@@ -227,7 +239,10 @@
                     }
                 ],
                 "description": "Login tasks library",
-                "homepage": "https://www.horde.org/libraries/Horde_LoginTasks"
+                "homepage": "https://www.horde.org/libraries/Horde_LoginTasks",
+                "support": {
+                    "source": "https://github.com/maintaina-com/LoginTasks/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/logintasks",
@@ -235,7 +250,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/LoginTasks.git",
+                    "url": "https://github.com/maintaina-com/LoginTasks.git",
                     "reference": "01156c7ee69b5245eb6e9637200f7658cc0f1ca9"
                 },
                 "dist": {
@@ -271,7 +286,10 @@
                     }
                 ],
                 "description": "Login tasks library",
-                "homepage": "https://www.horde.org/libraries/Horde_LoginTasks"
+                "homepage": "https://www.horde.org/libraries/Horde_LoginTasks",
+                "support": {
+                    "source": "https://github.com/maintaina-com/LoginTasks/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

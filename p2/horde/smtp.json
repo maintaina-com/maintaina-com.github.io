@@ -7,7 +7,7 @@
                 "version_normalized": "1.2.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "76b5deb4e544319b0eaf2903c100e330265acd60"
                 },
                 "dist": {
@@ -41,7 +41,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.2.5"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -49,7 +52,7 @@
                 "version_normalized": "1.2.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "f1a4ef177eabf45ce6a8dcfee225dfbe2cc82b3f"
                 },
                 "dist": {
@@ -83,7 +86,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.2.6"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -91,7 +97,7 @@
                 "version_normalized": "1.3.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "6b7209e59b72741a2b66ae2967471d7c6d7c6240"
                 },
                 "dist": {
@@ -125,7 +131,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.3.0"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -133,7 +142,7 @@
                 "version_normalized": "1.3.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "77e69c2eeac12c6367d2ef90ebd2ce116abd8a74"
                 },
                 "dist": {
@@ -167,7 +176,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.3.1"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -175,7 +187,7 @@
                 "version_normalized": "1.4.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "93a55f24604ce0bdfc3a4918dcdb949f9012d0e3"
                 },
                 "dist": {
@@ -210,7 +222,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.4.0"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -218,7 +233,7 @@
                 "version_normalized": "1.5.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "41ac4ac6cba04fdf57a19c54d1d88f17610e4928"
                 },
                 "dist": {
@@ -253,7 +268,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.5.0"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -261,7 +279,7 @@
                 "version_normalized": "1.5.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "706879b53aef9c3b16fccaeb8cbb69c78dc4309f"
                 },
                 "dist": {
@@ -296,7 +314,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.5.1"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -304,7 +325,7 @@
                 "version_normalized": "1.5.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "2f31a5d9a99e7032c2e56ba91f714777d29858c0"
                 },
                 "dist": {
@@ -339,7 +360,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.5.2"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -347,7 +371,7 @@
                 "version_normalized": "1.6.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "6be8735d060440da11fd0b1d06c5b5f93344a739"
                 },
                 "dist": {
@@ -382,7 +406,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.6.0"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -390,7 +417,7 @@
                 "version_normalized": "1.7.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "95259f958ca6a91f5d28ec87564f13ae1b7d7a49"
                 },
                 "dist": {
@@ -425,7 +452,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.7.0"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -433,7 +463,7 @@
                 "version_normalized": "1.8.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "b99c36fa350918fd55e46d1281f060e9c4141fbd"
                 },
                 "dist": {
@@ -468,7 +498,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.8.0"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -476,7 +509,7 @@
                 "version_normalized": "1.9.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "7f73ee74a4d012ea33dc15d86c533be6d1c2efa4"
                 },
                 "dist": {
@@ -511,7 +544,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.9.0"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -519,7 +555,7 @@
                 "version_normalized": "1.9.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "2a35be458d75348e66d63314c127733d070ae806"
                 },
                 "dist": {
@@ -555,7 +591,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.9.1"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -563,7 +602,7 @@
                 "version_normalized": "1.9.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "aeb6562996a165a205498fe94a660b45d52b0171"
                 },
                 "dist": {
@@ -599,7 +638,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.9.2"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -607,7 +649,7 @@
                 "version_normalized": "1.9.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "307314e502c2208fdf2420ce92bc3d52e5b8921f"
                 },
                 "dist": {
@@ -643,7 +685,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.9.3"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -651,7 +696,7 @@
                 "version_normalized": "1.9.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "2852fb412eb4fbccefd8a41717fbf5dc72e9ca4c"
                 },
                 "dist": {
@@ -687,7 +732,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.9.4"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -695,7 +743,7 @@
                 "version_normalized": "1.9.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "47f6b09edc26ada3b0b8ee2850fd4794e4305cf2"
                 },
                 "dist": {
@@ -740,7 +788,10 @@
                     }
                 ],
                 "description": "Horde SMTP Client",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v1.9.5"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -748,7 +799,7 @@
                 "version_normalized": "2.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "2ef87696e03af4160374a1e92bd2775212926037"
                 },
                 "dist": {
@@ -793,7 +844,10 @@
                     }
                 ],
                 "description": "SMTP client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v2.0.0alpha1"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -801,7 +855,7 @@
                 "version_normalized": "2.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "20eee1ca76d82c306b7cce9049a9de5f9b0ee954"
                 },
                 "dist": {
@@ -843,7 +897,10 @@
                     }
                 ],
                 "description": "SMTP client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v2.0.0alpha2"
+                }
             },
             {
                 "name": "horde/smtp",
@@ -851,7 +908,7 @@
                 "version_normalized": "2.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Smtp.git",
+                    "url": "https://github.com/maintaina-com/Smtp.git",
                     "reference": "cedaf67b69f52150d3209ea37231616c794c364f"
                 },
                 "dist": {
@@ -892,7 +949,10 @@
                     }
                 ],
                 "description": "SMTP client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Smtp/tree/v2.0.0alpha3"
+                }
             }
         ]
     }

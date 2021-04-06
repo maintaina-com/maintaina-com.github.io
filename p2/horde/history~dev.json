@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/History.git",
+                    "url": "https://github.com/maintaina-com/History.git",
                     "reference": "cefe3442ed9c318bd6d8bcbf4d0ce3449e7388d1"
                 },
                 "dist": {
@@ -44,7 +44,10 @@
                     }
                 ],
                 "description": "History tracking library",
-                "homepage": "https://www.horde.org/libraries/Horde_History"
+                "homepage": "https://www.horde.org/libraries/Horde_History",
+                "support": {
+                    "source": "https://github.com/maintaina-com/History/tree/master"
+                }
             },
             {
                 "name": "horde/history",
@@ -52,7 +55,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/History.git",
+                    "url": "https://github.com/maintaina-com/History.git",
                     "reference": "26b54bab071f0c80b9edcb67933a5a810dcc26d1"
                 },
                 "dist": {
@@ -93,7 +96,10 @@
                     }
                 ],
                 "description": "History tracking library",
-                "homepage": "https://www.horde.org/libraries/Horde_History"
+                "homepage": "https://www.horde.org/libraries/Horde_History",
+                "support": {
+                    "source": "https://github.com/maintaina-com/History/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/history",
@@ -101,13 +107,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/History.git",
-                    "reference": "4525254dcd73dc8550256a90cd668ac2a43b9879"
+                    "url": "https://github.com/maintaina-com/History.git",
+                    "reference": "3be316299c470ca4201f362b0d4b5aebeeffd578"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/History/zipball/4525254dcd73dc8550256a90cd668ac2a43b9879",
-                    "reference": "4525254dcd73dc8550256a90cd668ac2a43b9879",
+                    "url": "https://api.github.com/repos/maintaina-com/History/zipball/3be316299c470ca4201f362b0d4b5aebeeffd578",
+                    "reference": "3be316299c470ca4201f362b0d4b5aebeeffd578",
                     "shasum": ""
                 },
                 "require": {
@@ -138,7 +144,10 @@
                     }
                 ],
                 "description": "History tracking library",
-                "homepage": "https://www.horde.org/libraries/Horde_History"
+                "homepage": "https://www.horde.org/libraries/Horde_History",
+                "support": {
+                    "source": "https://github.com/maintaina-com/History/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/history",
@@ -146,7 +155,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/History.git",
+                    "url": "https://github.com/maintaina-com/History.git",
                     "reference": "8c15b5d1731fd0897bc92930048eb28bb21d78fb"
                 },
                 "dist": {
@@ -187,7 +196,10 @@
                     }
                 ],
                 "description": "History tracking library",
-                "homepage": "https://www.horde.org/libraries/Horde_History"
+                "homepage": "https://www.horde.org/libraries/Horde_History",
+                "support": {
+                    "source": "https://github.com/maintaina-com/History/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/history",
@@ -195,7 +207,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/History.git",
+                    "url": "https://github.com/maintaina-com/History.git",
                     "reference": "8c15b5d1731fd0897bc92930048eb28bb21d78fb"
                 },
                 "dist": {
@@ -236,7 +248,10 @@
                     }
                 ],
                 "description": "History tracking library",
-                "homepage": "https://www.horde.org/libraries/Horde_History"
+                "homepage": "https://www.horde.org/libraries/Horde_History",
+                "support": {
+                    "source": "https://github.com/maintaina-com/History/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/history",
@@ -244,7 +259,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/History.git",
+                    "url": "https://github.com/maintaina-com/History.git",
                     "reference": "b4c147eeb5184e67af1c9a342c34a80257715bff"
                 },
                 "dist": {
@@ -282,7 +297,10 @@
                     }
                 ],
                 "description": "History tracking library",
-                "homepage": "https://www.horde.org/libraries/Horde_History"
+                "homepage": "https://www.horde.org/libraries/Horde_History",
+                "support": {
+                    "source": "https://github.com/maintaina-com/History/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

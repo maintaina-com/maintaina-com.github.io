@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Stream.git",
+                    "url": "https://github.com/maintaina-com/Stream.git",
                     "reference": "2f4c5ffde3d32938031b1733ea086d1f018bedba"
                 },
                 "dist": {
@@ -44,7 +44,10 @@
                     }
                 ],
                 "description": "PHP streams library",
-                "homepage": "https://www.horde.org/libraries/Horde_Stream"
+                "homepage": "https://www.horde.org/libraries/Horde_Stream",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stream/tree/master"
+                }
             },
             {
                 "name": "horde/stream",
@@ -52,7 +55,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Stream.git",
+                    "url": "https://github.com/maintaina-com/Stream.git",
                     "reference": "92ebeb850053b549835615f7e060bb8573f1c1d5"
                 },
                 "dist": {
@@ -92,7 +95,10 @@
                     }
                 ],
                 "description": "PHP streams library",
-                "homepage": "https://www.horde.org/libraries/Horde_Stream"
+                "homepage": "https://www.horde.org/libraries/Horde_Stream",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stream/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/stream",
@@ -100,13 +106,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Stream.git",
-                    "reference": "405ac77e4d23743a98fcbc77bc6fe4fb9148a393"
+                    "url": "https://github.com/maintaina-com/Stream.git",
+                    "reference": "22dfbad8414605aa571a30db762e029c6722b271"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Stream/zipball/405ac77e4d23743a98fcbc77bc6fe4fb9148a393",
-                    "reference": "405ac77e4d23743a98fcbc77bc6fe4fb9148a393",
+                    "url": "https://api.github.com/repos/maintaina-com/Stream/zipball/22dfbad8414605aa571a30db762e029c6722b271",
+                    "reference": "22dfbad8414605aa571a30db762e029c6722b271",
                     "shasum": ""
                 },
                 "require": {
@@ -136,7 +142,10 @@
                     }
                 ],
                 "description": "PHP streams library",
-                "homepage": "https://www.horde.org/libraries/Horde_Stream"
+                "homepage": "https://www.horde.org/libraries/Horde_Stream",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stream/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/stream",
@@ -144,7 +153,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Stream.git",
+                    "url": "https://github.com/maintaina-com/Stream.git",
                     "reference": "2d0b2628b9fa4cbba305526317b9707662cfcdac"
                 },
                 "dist": {
@@ -184,7 +193,10 @@
                     }
                 ],
                 "description": "PHP streams library",
-                "homepage": "https://www.horde.org/libraries/Horde_Stream"
+                "homepage": "https://www.horde.org/libraries/Horde_Stream",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stream/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/stream",
@@ -192,7 +204,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Stream.git",
+                    "url": "https://github.com/maintaina-com/Stream.git",
                     "reference": "2d0b2628b9fa4cbba305526317b9707662cfcdac"
                 },
                 "dist": {
@@ -232,7 +244,10 @@
                     }
                 ],
                 "description": "PHP streams library",
-                "homepage": "https://www.horde.org/libraries/Horde_Stream"
+                "homepage": "https://www.horde.org/libraries/Horde_Stream",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stream/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/stream",
@@ -240,7 +255,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Stream.git",
+                    "url": "https://github.com/maintaina-com/Stream.git",
                     "reference": "df177fa64ea9fa4ced9225cc187ebad8801aee80"
                 },
                 "dist": {
@@ -277,7 +292,10 @@
                     }
                 ],
                 "description": "PHP streams library",
-                "homepage": "https://www.horde.org/libraries/Horde_Stream"
+                "homepage": "https://www.horde.org/libraries/Horde_Stream",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stream/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

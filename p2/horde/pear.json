@@ -7,7 +7,7 @@
                 "version_normalized": "1.0.0.0-alpha10",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pear.git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
                     "reference": "4780d075fef5a3704a2ea186457cfd5d093dc297"
                 },
                 "dist": {
@@ -39,7 +39,10 @@
                     }
                 ],
                 "description": "A library for handling a subset of the PEAR formats and specifications",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/v1.0.0alpha10"
+                }
             },
             {
                 "name": "horde/pear",
@@ -47,7 +50,7 @@
                 "version_normalized": "1.0.0.0-alpha11",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pear.git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
                     "reference": "173ca3846b65d2a2340c469f27abfd13bd965fc4"
                 },
                 "dist": {
@@ -79,7 +82,10 @@
                     }
                 ],
                 "description": "A library for handling a subset of the PEAR formats and specifications",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/v1.0.0alpha11"
+                }
             },
             {
                 "name": "horde/pear",
@@ -87,7 +93,7 @@
                 "version_normalized": "1.0.0.0-alpha12",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pear.git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
                     "reference": "e8fe437fa60bb515ba2b3d2ff8c8dfc55aafa728"
                 },
                 "dist": {
@@ -128,7 +134,10 @@
                     }
                 ],
                 "description": "A library for handling a subset of the PEAR formats and specifications",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/v1.0.0alpha12"
+                }
             },
             {
                 "name": "horde/pear",
@@ -136,7 +145,7 @@
                 "version_normalized": "1.0.0.0-alpha6",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pear.git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
                     "reference": "ad884f2937ac84d1c6d008be92ec7ce1515cee97"
                 },
                 "dist": {
@@ -167,7 +176,10 @@
                     }
                 ],
                 "description": "A library for handling a subset of the PEAR formats and specifications",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/v1.0.0alpha6"
+                }
             },
             {
                 "name": "horde/pear",
@@ -175,7 +187,7 @@
                 "version_normalized": "1.0.0.0-alpha7",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pear.git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
                     "reference": "ff2fd8af08ff5eedb4da2959eb09d836ade9dcdd"
                 },
                 "dist": {
@@ -206,7 +218,10 @@
                     }
                 ],
                 "description": "A library for handling a subset of the PEAR formats and specifications",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/v1.0.0alpha7"
+                }
             },
             {
                 "name": "horde/pear",
@@ -214,7 +229,7 @@
                 "version_normalized": "1.0.0.0-alpha8",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pear.git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
                     "reference": "de10af945b7a18620fe07990bc5552b864955e32"
                 },
                 "dist": {
@@ -245,7 +260,10 @@
                     }
                 ],
                 "description": "A library for handling a subset of the PEAR formats and specifications",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/v1.0.0alpha8"
+                }
             },
             {
                 "name": "horde/pear",
@@ -253,7 +271,7 @@
                 "version_normalized": "1.0.0.0-alpha9",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pear.git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
                     "reference": "1470573c2b73e353adece9b43a61e32d4bb7a64c"
                 },
                 "dist": {
@@ -285,7 +303,10 @@
                     }
                 ],
                 "description": "A library for handling a subset of the PEAR formats and specifications",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/v1.0.0alpha9"
+                }
             },
             {
                 "name": "horde/pear",
@@ -293,7 +314,7 @@
                 "version_normalized": "2.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pear.git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
                     "reference": "3759061e5a38193f21a180b146211440997f4002"
                 },
                 "dist": {
@@ -335,7 +356,10 @@
                     }
                 ],
                 "description": "PEAR infrastructure library",
-                "homepage": "https://www.horde.org/libraries/Horde_Pear"
+                "homepage": "https://www.horde.org/libraries/Horde_Pear",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/v2.0.0alpha1"
+                }
             },
             {
                 "name": "horde/pear",
@@ -343,7 +367,7 @@
                 "version_normalized": "2.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pear.git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
                     "reference": "e928885b82838d05066d8237731720e9eae6e11d"
                 },
                 "dist": {
@@ -382,7 +406,10 @@
                     }
                 ],
                 "description": "PEAR infrastructure library",
-                "homepage": "https://www.horde.org/libraries/Horde_Pear"
+                "homepage": "https://www.horde.org/libraries/Horde_Pear",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/v2.0.0alpha2"
+                }
             },
             {
                 "name": "horde/pear",
@@ -390,7 +417,7 @@
                 "version_normalized": "2.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pear.git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
                     "reference": "40496a973f59255fca067646cd2f04fa8a891eaf"
                 },
                 "dist": {
@@ -428,7 +455,10 @@
                     }
                 ],
                 "description": "PEAR infrastructure library",
-                "homepage": "https://www.horde.org/libraries/Horde_Pear"
+                "homepage": "https://www.horde.org/libraries/Horde_Pear",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/v2.0.0alpha3"
+                }
             }
         ]
     }

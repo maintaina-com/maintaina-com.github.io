@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Itip.git",
+                    "url": "https://github.com/maintaina-com/Itip.git",
                     "reference": "6ef99a89190571422b6bdc011002e9f204aac582"
                 },
                 "dist": {
@@ -50,7 +50,10 @@
                     }
                 ],
                 "description": "iTip invitation response library",
-                "homepage": "https://www.horde.org/libraries/Horde_Itip"
+                "homepage": "https://www.horde.org/libraries/Horde_Itip",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Itip/tree/master"
+                }
             },
             {
                 "name": "horde/itip",
@@ -58,7 +61,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Itip.git",
+                    "url": "https://github.com/maintaina-com/Itip.git",
                     "reference": "09e64b55d5ee9eed9d5458c5ac6f418ce015ce04"
                 },
                 "dist": {
@@ -104,7 +107,10 @@
                     }
                 ],
                 "description": "iTip invitation response library",
-                "homepage": "https://www.horde.org/libraries/Horde_Itip"
+                "homepage": "https://www.horde.org/libraries/Horde_Itip",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Itip/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/itip",
@@ -112,7 +118,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Itip.git",
+                    "url": "https://github.com/maintaina-com/Itip.git",
                     "reference": "c3125e76ada8ba046e032fedee3b3679b30d1c6d"
                 },
                 "dist": {
@@ -154,7 +160,10 @@
                     }
                 ],
                 "description": "iTip invitation response library",
-                "homepage": "https://www.horde.org/libraries/Horde_Itip"
+                "homepage": "https://www.horde.org/libraries/Horde_Itip",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Itip/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/itip",
@@ -162,7 +171,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Itip.git",
+                    "url": "https://github.com/maintaina-com/Itip.git",
                     "reference": "379f3ac9b22effa5152558e2b2949de4c3aab54c"
                 },
                 "dist": {
@@ -208,7 +217,10 @@
                     }
                 ],
                 "description": "iTip invitation response library",
-                "homepage": "https://www.horde.org/libraries/Horde_Itip"
+                "homepage": "https://www.horde.org/libraries/Horde_Itip",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Itip/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/itip",
@@ -216,7 +228,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Itip.git",
+                    "url": "https://github.com/maintaina-com/Itip.git",
                     "reference": "379f3ac9b22effa5152558e2b2949de4c3aab54c"
                 },
                 "dist": {
@@ -262,7 +274,10 @@
                     }
                 ],
                 "description": "iTip invitation response library",
-                "homepage": "https://www.horde.org/libraries/Horde_Itip"
+                "homepage": "https://www.horde.org/libraries/Horde_Itip",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Itip/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/itip",
@@ -270,7 +285,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Itip.git",
+                    "url": "https://github.com/maintaina-com/Itip.git",
                     "reference": "efc15f754295c91ab886d015c8d6d15b79e8879e"
                 },
                 "dist": {
@@ -313,7 +328,10 @@
                     }
                 ],
                 "description": "iTip invitation response library",
-                "homepage": "https://www.horde.org/libraries/Horde_Itip"
+                "homepage": "https://www.horde.org/libraries/Horde_Itip",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Itip/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Flowed.git",
+                    "url": "https://github.com/maintaina-com/Text_Flowed.git",
                     "reference": "8b894865db5537f7f6c9bfa8d0ca3011f2747486"
                 },
                 "dist": {
@@ -42,7 +42,10 @@
                     }
                 ],
                 "description": "Flowed text library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Flowed/tree/master"
+                }
             },
             {
                 "name": "horde/text_flowed",
@@ -50,7 +53,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Flowed.git",
+                    "url": "https://github.com/maintaina-com/Text_Flowed.git",
                     "reference": "854c9550e9c5d44e7df303b9f923d5d900b2c58c"
                 },
                 "dist": {
@@ -88,7 +91,10 @@
                     }
                 ],
                 "description": "Flowed text library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Flowed/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/text_flowed",
@@ -96,13 +102,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Flowed.git",
-                    "reference": "3e53232b08378e6dc58cf1d1af6465690fe19e61"
+                    "url": "https://github.com/maintaina-com/Text_Flowed.git",
+                    "reference": "3e9d385ae00803b3435ed8323d88722ed8c7c4b1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Flowed/zipball/3e53232b08378e6dc58cf1d1af6465690fe19e61",
-                    "reference": "3e53232b08378e6dc58cf1d1af6465690fe19e61",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Flowed/zipball/3e9d385ae00803b3435ed8323d88722ed8c7c4b1",
+                    "reference": "3e9d385ae00803b3435ed8323d88722ed8c7c4b1",
                     "shasum": ""
                 },
                 "require": {
@@ -130,7 +136,10 @@
                     }
                 ],
                 "description": "Flowed text library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Flowed/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/text_flowed",
@@ -138,7 +147,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Flowed.git",
+                    "url": "https://github.com/maintaina-com/Text_Flowed.git",
                     "reference": "a95af81d1572124176ebd6a8a0e74d466927b8f1"
                 },
                 "dist": {
@@ -176,7 +185,10 @@
                     }
                 ],
                 "description": "Flowed text library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Flowed/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/text_flowed",
@@ -184,7 +196,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Flowed.git",
+                    "url": "https://github.com/maintaina-com/Text_Flowed.git",
                     "reference": "a95af81d1572124176ebd6a8a0e74d466927b8f1"
                 },
                 "dist": {
@@ -222,7 +234,10 @@
                     }
                 ],
                 "description": "Flowed text library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Flowed/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/text_flowed",
@@ -230,7 +245,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Flowed.git",
+                    "url": "https://github.com/maintaina-com/Text_Flowed.git",
                     "reference": "6f1e29c67fc715177a9b0916814a44b061c48f5f"
                 },
                 "dist": {
@@ -265,7 +280,10 @@
                     }
                 ],
                 "description": "Flowed text library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Flowed/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

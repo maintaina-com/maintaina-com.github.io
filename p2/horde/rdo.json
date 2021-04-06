@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rdo.git",
+                    "url": "https://github.com/maintaina-com/Rdo.git",
                     "reference": "449aaf4c43e909edabccea4bb37eec90c9711564"
                 },
                 "dist": {
@@ -37,7 +37,10 @@
                     }
                 ],
                 "description": "Rampage Data Objects",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rdo/tree/v2.0.3"
+                }
             },
             {
                 "name": "horde/rdo",
@@ -45,7 +48,7 @@
                 "version_normalized": "2.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rdo.git",
+                    "url": "https://github.com/maintaina-com/Rdo.git",
                     "reference": "5be4ce6e0326a01f2ab1aae7a48eda201b07dfa8"
                 },
                 "dist": {
@@ -76,7 +79,10 @@
                     }
                 ],
                 "description": "Rampage Data Objects",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rdo/tree/v2.0.4"
+                }
             },
             {
                 "name": "horde/rdo",
@@ -84,7 +90,7 @@
                 "version_normalized": "2.0.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rdo.git",
+                    "url": "https://github.com/maintaina-com/Rdo.git",
                     "reference": "dc7aa576efcdea68759a00ab2e15c66a78e4c9cb"
                 },
                 "dist": {
@@ -115,7 +121,10 @@
                     }
                 ],
                 "description": "Rampage Data Objects",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rdo/tree/v2.0.5"
+                }
             },
             {
                 "name": "horde/rdo",
@@ -123,7 +132,7 @@
                 "version_normalized": "2.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rdo.git",
+                    "url": "https://github.com/maintaina-com/Rdo.git",
                     "reference": "826dbad79ace97440253207a0e60ce23a8259994"
                 },
                 "dist": {
@@ -154,7 +163,10 @@
                     }
                 ],
                 "description": "Rampage Data Objects",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rdo/tree/v2.1.0"
+                }
             },
             {
                 "name": "horde/rdo",
@@ -162,7 +174,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rdo.git",
+                    "url": "https://github.com/maintaina-com/Rdo.git",
                     "reference": "33f58f9203f73c1e0ad760ea5f8a44b41331f934"
                 },
                 "dist": {
@@ -202,7 +214,10 @@
                     }
                 ],
                 "description": "ORM (object relational-mapping) library",
-                "homepage": "https://www.horde.org/libraries/Horde_Rdo"
+                "homepage": "https://www.horde.org/libraries/Horde_Rdo",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rdo/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/rdo",
@@ -210,7 +225,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rdo.git",
+                    "url": "https://github.com/maintaina-com/Rdo.git",
                     "reference": "bacdf10d95502f4ef8f5f63b73de6134f8fb7820"
                 },
                 "dist": {
@@ -250,7 +265,10 @@
                     }
                 ],
                 "description": "ORM (object relational-mapping) library",
-                "homepage": "https://www.horde.org/libraries/Horde_Rdo"
+                "homepage": "https://www.horde.org/libraries/Horde_Rdo",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rdo/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/rdo",
@@ -258,7 +276,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Rdo.git",
+                    "url": "https://github.com/maintaina-com/Rdo.git",
                     "reference": "f9ba8046ad870742c78715890b40ce831a99124d"
                 },
                 "dist": {
@@ -297,7 +315,10 @@
                     }
                 ],
                 "description": "ORM (object relational-mapping) library",
-                "homepage": "https://www.horde.org/libraries/Horde_Rdo"
+                "homepage": "https://www.horde.org/libraries/Horde_Rdo",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rdo/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

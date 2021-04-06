@@ -7,7 +7,7 @@
                 "version_normalized": "2.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Log.git",
+                    "url": "https://github.com/maintaina-com/Log.git",
                     "reference": "cbcc997d17192a2b13eed39d3512825a047f72ee"
                 },
                 "dist": {
@@ -45,7 +45,10 @@
                     }
                 ],
                 "description": "Horde Logging library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Log/tree/v2.1.1"
+                }
             },
             {
                 "name": "horde/log",
@@ -53,7 +56,7 @@
                 "version_normalized": "2.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Log.git",
+                    "url": "https://github.com/maintaina-com/Log.git",
                     "reference": "ef523792f26d209fe2c6122747bb2bef7ef0fbc1"
                 },
                 "dist": {
@@ -92,7 +95,10 @@
                     }
                 ],
                 "description": "Horde Logging library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Log/tree/v2.1.2"
+                }
             },
             {
                 "name": "horde/log",
@@ -100,7 +106,7 @@
                 "version_normalized": "2.1.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Log.git",
+                    "url": "https://github.com/maintaina-com/Log.git",
                     "reference": "7a01a387382a067f2f5720f6c1b593de4599dede"
                 },
                 "dist": {
@@ -139,7 +145,10 @@
                     }
                 ],
                 "description": "Horde Logging library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Log/tree/v2.1.3"
+                }
             },
             {
                 "name": "horde/log",
@@ -147,7 +156,7 @@
                 "version_normalized": "2.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Log.git",
+                    "url": "https://github.com/maintaina-com/Log.git",
                     "reference": "3b9c6fb14bed79b2f8ed73085528c1b0383a11aa"
                 },
                 "dist": {
@@ -186,7 +195,10 @@
                     }
                 ],
                 "description": "Horde Logging library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Log/tree/v2.2.0"
+                }
             },
             {
                 "name": "horde/log",
@@ -194,7 +206,7 @@
                 "version_normalized": "2.3.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Log.git",
+                    "url": "https://github.com/maintaina-com/Log.git",
                     "reference": "8ca6269dc3c81d6e2b30f4142df435752a6a16d4"
                 },
                 "dist": {
@@ -233,7 +245,10 @@
                     }
                 ],
                 "description": "Horde Logging library",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Log/tree/v2.3.0"
+                }
             },
             {
                 "name": "horde/log",
@@ -241,7 +256,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Log.git",
+                    "url": "https://github.com/maintaina-com/Log.git",
                     "reference": "5e3fad72256a8f5070cbe8e8f47a6545e749995e"
                 },
                 "dist": {
@@ -289,7 +304,10 @@
                     }
                 ],
                 "description": "Logging library",
-                "homepage": "https://www.horde.org/libraries/Horde_Log"
+                "homepage": "https://www.horde.org/libraries/Horde_Log",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Log/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/log",
@@ -297,7 +315,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Log.git",
+                    "url": "https://github.com/maintaina-com/Log.git",
                     "reference": "dfb34a849db793edba1735c388d582a16980e53b"
                 },
                 "dist": {
@@ -342,7 +360,10 @@
                     }
                 ],
                 "description": "Logging library",
-                "homepage": "https://www.horde.org/libraries/Horde_Log"
+                "homepage": "https://www.horde.org/libraries/Horde_Log",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Log/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/log",
@@ -350,7 +371,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Log.git",
+                    "url": "https://github.com/maintaina-com/Log.git",
                     "reference": "0492037000b173d3fa2c723bad7fb425b58d8788"
                 },
                 "dist": {
@@ -394,7 +415,10 @@
                     }
                 ],
                 "description": "Logging library",
-                "homepage": "https://www.horde.org/libraries/Horde_Log"
+                "homepage": "https://www.horde.org/libraries/Horde_Log",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Log/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

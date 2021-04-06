@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/JavascriptMinify_Jsmin.git",
+                    "url": "https://github.com/maintaina-com/JavascriptMinify_Jsmin.git",
                     "reference": "1924edc04af6dd3d398a0ff2da94d0ab29159f91"
                 },
                 "dist": {
@@ -39,7 +39,10 @@
                     }
                 ],
                 "description": "JavaScript minification library - JSMin driver",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/JavascriptMinify_Jsmin/tree/master"
+                }
             },
             {
                 "name": "horde/javascriptminify_jsmin",
@@ -47,7 +50,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/JavascriptMinify_Jsmin.git",
+                    "url": "https://github.com/maintaina-com/JavascriptMinify_Jsmin.git",
                     "reference": "6b8adb35e88ded424b662e93e581a3fdfab3e719"
                 },
                 "dist": {
@@ -82,7 +85,10 @@
                     }
                 ],
                 "description": "JavaScript minification library - JSMin driver",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/JavascriptMinify_Jsmin/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/javascriptminify_jsmin",
@@ -90,17 +96,17 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/JavascriptMinify_Jsmin.git",
-                    "reference": "97b3adb9b52f7ed1b7989407ac3d115b708c167a"
+                    "url": "https://github.com/maintaina-com/JavascriptMinify_Jsmin.git",
+                    "reference": "7a4bbc44aeb1340b06cb09e5485389110986a714"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/JavascriptMinify_Jsmin/zipball/97b3adb9b52f7ed1b7989407ac3d115b708c167a",
-                    "reference": "97b3adb9b52f7ed1b7989407ac3d115b708c167a",
+                    "url": "https://api.github.com/repos/maintaina-com/JavascriptMinify_Jsmin/zipball/7a4bbc44aeb1340b06cb09e5485389110986a714",
+                    "reference": "7a4bbc44aeb1340b06cb09e5485389110986a714",
                     "shasum": ""
                 },
                 "require": {
-                    "horde/javascriptminify": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
@@ -121,7 +127,10 @@
                     }
                 ],
                 "description": "JavaScript minification library - JSMin driver",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/JavascriptMinify_Jsmin/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/javascriptminify_jsmin",
@@ -129,7 +138,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/JavascriptMinify_Jsmin.git",
+                    "url": "https://github.com/maintaina-com/JavascriptMinify_Jsmin.git",
                     "reference": "fd46a57532cbe578e1df61f9354762ee123048ba"
                 },
                 "dist": {
@@ -164,7 +173,10 @@
                     }
                 ],
                 "description": "JavaScript minification library - JSMin driver",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/JavascriptMinify_Jsmin/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/javascriptminify_jsmin",
@@ -172,7 +184,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/JavascriptMinify_Jsmin.git",
+                    "url": "https://github.com/maintaina-com/JavascriptMinify_Jsmin.git",
                     "reference": "fd46a57532cbe578e1df61f9354762ee123048ba"
                 },
                 "dist": {
@@ -207,7 +219,10 @@
                     }
                 ],
                 "description": "JavaScript minification library - JSMin driver",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/JavascriptMinify_Jsmin/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/javascriptminify_jsmin",
@@ -215,7 +230,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/JavascriptMinify_Jsmin.git",
+                    "url": "https://github.com/maintaina-com/JavascriptMinify_Jsmin.git",
                     "reference": "8c8d94c090d7e5c93f286674566ce816d908445b"
                 },
                 "dist": {
@@ -247,7 +262,10 @@
                     }
                 ],
                 "description": "JavaScript minification library - JSMin driver",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/JavascriptMinify_Jsmin/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

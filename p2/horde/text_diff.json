@@ -7,7 +7,7 @@
                 "version_normalized": "2.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Diff.git",
+                    "url": "https://github.com/maintaina-com/Text_Diff.git",
                     "reference": "58e3e0d11eb7120e78ed6cf2ff07b04f310dad4a"
                 },
                 "dist": {
@@ -43,7 +43,10 @@
                     }
                 ],
                 "description": "Engine for performing and rendering text diffs",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/v2.1.0"
+                }
             },
             {
                 "name": "horde/text_diff",
@@ -51,7 +54,7 @@
                 "version_normalized": "2.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Diff.git",
+                    "url": "https://github.com/maintaina-com/Text_Diff.git",
                     "reference": "8c1b408ddde8c2e70bf1d4d3b16ab10b588b1ff1"
                 },
                 "dist": {
@@ -87,7 +90,10 @@
                     }
                 ],
                 "description": "Engine for performing and rendering text diffs",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/v2.1.1"
+                }
             },
             {
                 "name": "horde/text_diff",
@@ -95,7 +101,7 @@
                 "version_normalized": "2.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Diff.git",
+                    "url": "https://github.com/maintaina-com/Text_Diff.git",
                     "reference": "e8b74a78217891f81668928aee2bfbccce16d9b3"
                 },
                 "dist": {
@@ -131,7 +137,10 @@
                     }
                 ],
                 "description": "Engine for performing and rendering text diffs",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/v2.1.2"
+                }
             },
             {
                 "name": "horde/text_diff",
@@ -139,7 +148,7 @@
                 "version_normalized": "2.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Diff.git",
+                    "url": "https://github.com/maintaina-com/Text_Diff.git",
                     "reference": "9586af2c6d3334b31af0267cb788fb87fb90881f"
                 },
                 "dist": {
@@ -176,7 +185,10 @@
                     }
                 ],
                 "description": "Engine for performing and rendering text diffs",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/v2.2.0"
+                }
             },
             {
                 "name": "horde/text_diff",
@@ -184,7 +196,7 @@
                 "version_normalized": "2.2.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Diff.git",
+                    "url": "https://github.com/maintaina-com/Text_Diff.git",
                     "reference": "ea24810d2e83274e83382158dfdfd3ecc58ea2b8"
                 },
                 "dist": {
@@ -230,7 +242,10 @@
                     }
                 ],
                 "description": "Text diff generation and rendering library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/v2.2.1"
+                }
             },
             {
                 "name": "horde/text_diff",
@@ -238,7 +253,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Diff.git",
+                    "url": "https://github.com/maintaina-com/Text_Diff.git",
                     "reference": "7ce41a6a55df17b231fc1a0d0364c86a538b0188"
                 },
                 "dist": {
@@ -284,7 +299,10 @@
                     }
                 ],
                 "description": "Text diff generation and rendering library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/text_diff",
@@ -292,7 +310,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Diff.git",
+                    "url": "https://github.com/maintaina-com/Text_Diff.git",
                     "reference": "ebdb28e8538d2a16e524a186e2bca8ac3b717c9b"
                 },
                 "dist": {
@@ -335,7 +353,10 @@
                     }
                 ],
                 "description": "Text diff generation and rendering library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/text_diff",
@@ -343,7 +364,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Diff.git",
+                    "url": "https://github.com/maintaina-com/Text_Diff.git",
                     "reference": "58f29a01fbc0e1106aae52836840078028a94a0a"
                 },
                 "dist": {
@@ -385,7 +406,10 @@
                     }
                 ],
                 "description": "Text diff generation and rendering library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

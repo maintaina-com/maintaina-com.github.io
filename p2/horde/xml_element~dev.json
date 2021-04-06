@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Element.git",
+                    "url": "https://github.com/maintaina-com/Xml_Element.git",
                     "reference": "e7ca6f05ada166981db0835f0f3f5796d8af34c1"
                 },
                 "dist": {
@@ -44,7 +44,10 @@
                     }
                 ],
                 "description": "XML element library",
-                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element"
+                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Element/tree/master"
+                }
             },
             {
                 "name": "horde/xml_element",
@@ -52,7 +55,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Element.git",
+                    "url": "https://github.com/maintaina-com/Xml_Element.git",
                     "reference": "aca80b75da5ec8c6b1d2631918856459d271920e"
                 },
                 "dist": {
@@ -92,7 +95,10 @@
                     }
                 ],
                 "description": "XML element library",
-                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element"
+                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Element/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/xml_element",
@@ -100,13 +106,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Element.git",
-                    "reference": "c0914658eec9f1a12d575e8b827bfeec477383bb"
+                    "url": "https://github.com/maintaina-com/Xml_Element.git",
+                    "reference": "0ac2cc4a91984afb985401b1ecc0bb1b6ef85444"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Xml_Element/zipball/c0914658eec9f1a12d575e8b827bfeec477383bb",
-                    "reference": "c0914658eec9f1a12d575e8b827bfeec477383bb",
+                    "url": "https://api.github.com/repos/maintaina-com/Xml_Element/zipball/0ac2cc4a91984afb985401b1ecc0bb1b6ef85444",
+                    "reference": "0ac2cc4a91984afb985401b1ecc0bb1b6ef85444",
                     "shasum": ""
                 },
                 "require": {
@@ -136,7 +142,10 @@
                     }
                 ],
                 "description": "XML element library",
-                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element"
+                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Element/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/xml_element",
@@ -144,7 +153,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Element.git",
+                    "url": "https://github.com/maintaina-com/Xml_Element.git",
                     "reference": "a313723f5f8d352b999fe9a6c3b519eb36372bcd"
                 },
                 "dist": {
@@ -184,7 +193,10 @@
                     }
                 ],
                 "description": "XML element library",
-                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element"
+                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Element/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/xml_element",
@@ -192,7 +204,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Element.git",
+                    "url": "https://github.com/maintaina-com/Xml_Element.git",
                     "reference": "a313723f5f8d352b999fe9a6c3b519eb36372bcd"
                 },
                 "dist": {
@@ -232,7 +244,10 @@
                     }
                 ],
                 "description": "XML element library",
-                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element"
+                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Element/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/xml_element",
@@ -240,7 +255,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Element.git",
+                    "url": "https://github.com/maintaina-com/Xml_Element.git",
                     "reference": "6878c4d1487154c0fd895f751d3557f1d07bff1f"
                 },
                 "dist": {
@@ -277,7 +292,10 @@
                     }
                 ],
                 "description": "XML element library",
-                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element"
+                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Element/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

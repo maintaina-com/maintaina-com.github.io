@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "4221e945c4f394fd1088d8b9d28b038c7b4c9617"
                 },
                 "dist": {
@@ -63,7 +63,10 @@
                     }
                 ],
                 "description": "IMAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client"
+                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/master"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -71,7 +74,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "ecf9595c65ca02ac728cc88d26c7b00c218c946e"
                 },
                 "dist": {
@@ -130,7 +133,10 @@
                     }
                 ],
                 "description": "IMAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client"
+                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -138,13 +144,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
-                    "reference": "166d2f029fca596e101d4c86a2fff7fadf1a6932"
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
+                    "reference": "815058a207b8a931710a43d95f30ef2c6be3d04e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Imap_Client/zipball/166d2f029fca596e101d4c86a2fff7fadf1a6932",
-                    "reference": "166d2f029fca596e101d4c86a2fff7fadf1a6932",
+                    "url": "https://api.github.com/repos/maintaina-com/Imap_Client/zipball/815058a207b8a931710a43d95f30ef2c6be3d04e",
+                    "reference": "815058a207b8a931710a43d95f30ef2c6be3d04e",
                     "shasum": ""
                 },
                 "require": {
@@ -193,7 +199,10 @@
                     }
                 ],
                 "description": "IMAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client"
+                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -201,7 +210,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "e5302ee8b238f03564d0ea4177625214f79a3ebe"
                 },
                 "dist": {
@@ -260,7 +269,10 @@
                     }
                 ],
                 "description": "IMAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client"
+                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -268,7 +280,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "e5302ee8b238f03564d0ea4177625214f79a3ebe"
                 },
                 "dist": {
@@ -327,7 +339,10 @@
                     }
                 ],
                 "description": "IMAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client"
+                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/imap_client",
@@ -335,7 +350,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Imap_Client.git",
+                    "url": "https://github.com/maintaina-com/Imap_Client.git",
                     "reference": "5416d1cad17cbd4645dffd6b58efe9c2ff20c7aa"
                 },
                 "dist": {
@@ -391,7 +406,10 @@
                     }
                 ],
                 "description": "IMAP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client"
+                "homepage": "https://www.horde.org/libraries/Horde_Imap_Client",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Imap_Client/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

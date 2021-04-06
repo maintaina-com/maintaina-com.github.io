@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Icalendar.git",
+                    "url": "https://github.com/maintaina-com/Icalendar.git",
                     "reference": "5a7dbb56149303bb0f34b98fddf45167fb6029fb"
                 },
                 "dist": {
@@ -57,7 +57,10 @@
                     }
                 ],
                 "description": "iCalendar and vCard library",
-                "homepage": "https://www.horde.org/libraries/Horde_Icalendar"
+                "homepage": "https://www.horde.org/libraries/Horde_Icalendar",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Icalendar/tree/master"
+                }
             },
             {
                 "name": "horde/icalendar",
@@ -65,7 +68,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Icalendar.git",
+                    "url": "https://github.com/maintaina-com/Icalendar.git",
                     "reference": "f4dc517f502bd4036e4f4bff76d2ec577872a1f6"
                 },
                 "dist": {
@@ -118,7 +121,10 @@
                     }
                 ],
                 "description": "iCalendar and vCard library",
-                "homepage": "https://www.horde.org/libraries/Horde_Icalendar"
+                "homepage": "https://www.horde.org/libraries/Horde_Icalendar",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Icalendar/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/icalendar",
@@ -126,13 +132,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Icalendar.git",
-                    "reference": "c0dda9b69dac1eaf0cf49e063f3462d995824d22"
+                    "url": "https://github.com/maintaina-com/Icalendar.git",
+                    "reference": "44c8bf37ec0a1ab7613116777e5f6c4763015ade"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Icalendar/zipball/c0dda9b69dac1eaf0cf49e063f3462d995824d22",
-                    "reference": "c0dda9b69dac1eaf0cf49e063f3462d995824d22",
+                    "url": "https://api.github.com/repos/maintaina-com/Icalendar/zipball/44c8bf37ec0a1ab7613116777e5f6c4763015ade",
+                    "reference": "44c8bf37ec0a1ab7613116777e5f6c4763015ade",
                     "shasum": ""
                 },
                 "require": {
@@ -175,7 +181,10 @@
                     }
                 ],
                 "description": "iCalendar and vCard library",
-                "homepage": "https://www.horde.org/libraries/Horde_Icalendar"
+                "homepage": "https://www.horde.org/libraries/Horde_Icalendar",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Icalendar/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/icalendar",
@@ -183,7 +192,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0-feature-vcard4",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Icalendar.git",
+                    "url": "https://github.com/maintaina-com/Icalendar.git",
                     "reference": "88a137d67769ce2334b8e59bf84bee8ba2503888"
                 },
                 "dist": {
@@ -234,7 +243,10 @@
                     }
                 ],
                 "description": "iCalendar and vCard library",
-                "homepage": "https://www.horde.org/libraries/Horde_Icalendar"
+                "homepage": "https://www.horde.org/libraries/Horde_Icalendar",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Icalendar/tree/FRAMEWORK_6_0-feature-vcard4"
+                }
             },
             {
                 "name": "horde/icalendar",
@@ -242,7 +254,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Icalendar.git",
+                    "url": "https://github.com/maintaina-com/Icalendar.git",
                     "reference": "9311091ea2fc4cce45afa99ed4b81164f70ea40a"
                 },
                 "dist": {
@@ -295,7 +307,10 @@
                     }
                 ],
                 "description": "iCalendar and vCard library",
-                "homepage": "https://www.horde.org/libraries/Horde_Icalendar"
+                "homepage": "https://www.horde.org/libraries/Horde_Icalendar",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Icalendar/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/icalendar",
@@ -303,7 +318,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Icalendar.git",
+                    "url": "https://github.com/maintaina-com/Icalendar.git",
                     "reference": "f5e2cf496c6bf6a70d1ba0af50142689d1e1e1b8"
                 },
                 "dist": {
@@ -356,7 +371,10 @@
                     }
                 ],
                 "description": "iCalendar and vCard library",
-                "homepage": "https://www.horde.org/libraries/Horde_Icalendar"
+                "homepage": "https://www.horde.org/libraries/Horde_Icalendar",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Icalendar/tree/maintaina-bare"
+                }
             },
             {
                 "name": "horde/icalendar",
@@ -364,7 +382,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Icalendar.git",
+                    "url": "https://github.com/maintaina-com/Icalendar.git",
                     "reference": "5e1c3261e43c893a720cff2e7273ab6861eb8b13"
                 },
                 "dist": {
@@ -414,7 +432,10 @@
                     }
                 ],
                 "description": "iCalendar and vCard library",
-                "homepage": "https://www.horde.org/libraries/Horde_Icalendar"
+                "homepage": "https://www.horde.org/libraries/Horde_Icalendar",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Icalendar/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

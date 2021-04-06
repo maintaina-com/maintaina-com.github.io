@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Support.git",
+                    "url": "https://github.com/maintaina-com/Support.git",
                     "reference": "9c15e0dc946ca4044bdc7159beb6f26dfa76ccbb"
                 },
                 "dist": {
@@ -53,7 +53,10 @@
                     }
                 ],
                 "description": "Supporting library",
-                "homepage": "https://www.horde.org/libraries/Horde_Support"
+                "homepage": "https://www.horde.org/libraries/Horde_Support",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Support/tree/master"
+                }
             },
             {
                 "name": "horde/support",
@@ -61,7 +64,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Support.git",
+                    "url": "https://github.com/maintaina-com/Support.git",
                     "reference": "e306998f5e130244a20c165cc2f5407eab9c3919"
                 },
                 "dist": {
@@ -111,7 +114,10 @@
                     }
                 ],
                 "description": "Supporting library",
-                "homepage": "https://www.horde.org/libraries/Horde_Support"
+                "homepage": "https://www.horde.org/libraries/Horde_Support",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Support/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/support",
@@ -119,13 +125,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Support.git",
-                    "reference": "879bb9f1a93831dcf4eb276e20e1e1f9540b62f9"
+                    "url": "https://github.com/maintaina-com/Support.git",
+                    "reference": "f48ce53728017a2857736b1140713a8930cd58f4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Support/zipball/879bb9f1a93831dcf4eb276e20e1e1f9540b62f9",
-                    "reference": "879bb9f1a93831dcf4eb276e20e1e1f9540b62f9",
+                    "url": "https://api.github.com/repos/maintaina-com/Support/zipball/f48ce53728017a2857736b1140713a8930cd58f4",
+                    "reference": "f48ce53728017a2857736b1140713a8930cd58f4",
                     "shasum": ""
                 },
                 "require": {
@@ -165,7 +171,10 @@
                     }
                 ],
                 "description": "Supporting library",
-                "homepage": "https://www.horde.org/libraries/Horde_Support"
+                "homepage": "https://www.horde.org/libraries/Horde_Support",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Support/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/support",
@@ -173,7 +182,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Support.git",
+                    "url": "https://github.com/maintaina-com/Support.git",
                     "reference": "d9ad61f15c07d76f2bd68a0d64cd8db60081ac8b"
                 },
                 "dist": {
@@ -223,7 +232,10 @@
                     }
                 ],
                 "description": "Supporting library",
-                "homepage": "https://www.horde.org/libraries/Horde_Support"
+                "homepage": "https://www.horde.org/libraries/Horde_Support",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Support/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/support",
@@ -231,7 +243,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Support.git",
+                    "url": "https://github.com/maintaina-com/Support.git",
                     "reference": "d9ad61f15c07d76f2bd68a0d64cd8db60081ac8b"
                 },
                 "dist": {
@@ -281,7 +293,10 @@
                     }
                 ],
                 "description": "Supporting library",
-                "homepage": "https://www.horde.org/libraries/Horde_Support"
+                "homepage": "https://www.horde.org/libraries/Horde_Support",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Support/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/support",
@@ -289,7 +304,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Support.git",
+                    "url": "https://github.com/maintaina-com/Support.git",
                     "reference": "6f3239516095ef313dc0e4fb4881c66cc4a7d2ed"
                 },
                 "dist": {
@@ -336,7 +351,10 @@
                     }
                 ],
                 "description": "Supporting library",
-                "homepage": "https://www.horde.org/libraries/Horde_Support"
+                "homepage": "https://www.horde.org/libraries/Horde_Support",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Support/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

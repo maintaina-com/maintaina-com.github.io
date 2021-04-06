@@ -7,7 +7,7 @@
                 "version_normalized": "2.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "938b88e141725fabf9104fa432168f42cb2e6f73"
                 },
                 "dist": {
@@ -51,7 +51,10 @@
                     }
                 ],
                 "description": "Virtual File System API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/v2.1.2"
+                }
             },
             {
                 "name": "horde/vfs",
@@ -59,7 +62,7 @@
                 "version_normalized": "2.2.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "532f9ba8c34474f673e51c45a120aae1b07f7585"
                 },
                 "dist": {
@@ -103,7 +106,10 @@
                     }
                 ],
                 "description": "Virtual File System API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/v2.2.1"
+                }
             },
             {
                 "name": "horde/vfs",
@@ -111,7 +117,7 @@
                 "version_normalized": "2.2.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "cc8c9621dc348b6721e6b851a3518d201d4246d2"
                 },
                 "dist": {
@@ -155,7 +161,10 @@
                     }
                 ],
                 "description": "Virtual File System API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/v2.2.2"
+                }
             },
             {
                 "name": "horde/vfs",
@@ -163,7 +172,7 @@
                 "version_normalized": "2.3.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "ebb76c963ccded7de7aab26c8de2c9bbe9004d4f"
                 },
                 "dist": {
@@ -207,7 +216,10 @@
                     }
                 ],
                 "description": "Virtual File System API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/v2.3.0"
+                }
             },
             {
                 "name": "horde/vfs",
@@ -215,7 +227,7 @@
                 "version_normalized": "2.3.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "aeac8e2f4adc0e1b3c043740ca8f16f91c215a0c"
                 },
                 "dist": {
@@ -259,7 +271,10 @@
                     }
                 ],
                 "description": "Virtual File System API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/v2.3.1"
+                }
             },
             {
                 "name": "horde/vfs",
@@ -267,7 +282,7 @@
                 "version_normalized": "2.3.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "989cda071f9ec5d6ec883ea30977a4ed5e15f025"
                 },
                 "dist": {
@@ -311,7 +326,10 @@
                     }
                 ],
                 "description": "Virtual File System API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/v2.3.2"
+                }
             },
             {
                 "name": "horde/vfs",
@@ -319,7 +337,7 @@
                 "version_normalized": "2.3.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "8c671a66dfc0b95245f833e6f11721cb58650c85"
                 },
                 "dist": {
@@ -364,7 +382,10 @@
                     }
                 ],
                 "description": "Virtual File System API",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/v2.3.3"
+                }
             },
             {
                 "name": "horde/vfs",
@@ -372,7 +393,7 @@
                 "version_normalized": "2.3.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "81d3f78eac21e543d720c6a2dffe7cd0d7c2aa22"
                 },
                 "dist": {
@@ -417,7 +438,10 @@
                     }
                 ],
                 "description": "Virtual File System API",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/v2.3.4"
+                }
             },
             {
                 "name": "horde/vfs",
@@ -425,7 +449,7 @@
                 "version_normalized": "2.4.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "c93cb920d87c0b8822f496a40a14bc9a7d1c4ad8"
                 },
                 "dist": {
@@ -470,7 +494,10 @@
                     }
                 ],
                 "description": "Virtual File System API",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/v2.4.0"
+                }
             },
             {
                 "name": "horde/vfs",
@@ -478,7 +505,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "82924c92c003d37b0da68d1eb481e114fcd74323"
                 },
                 "dist": {
@@ -532,7 +559,10 @@
                     }
                 ],
                 "description": "Virtual file system library",
-                "homepage": "https://www.horde.org/libraries/Horde_Vfs"
+                "homepage": "https://www.horde.org/libraries/Horde_Vfs",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/vfs",
@@ -540,7 +570,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "16ed31b27b5b99eb543aad5c2fd72c19b83e0795"
                 },
                 "dist": {
@@ -591,7 +621,10 @@
                     }
                 ],
                 "description": "Virtual file system library",
-                "homepage": "https://www.horde.org/libraries/Horde_Vfs"
+                "homepage": "https://www.horde.org/libraries/Horde_Vfs",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/vfs",
@@ -599,7 +632,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vfs.git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
                     "reference": "e8e130182ac7bdd1747c14880feb85c3f6ce0ce6"
                 },
                 "dist": {
@@ -649,7 +682,10 @@
                     }
                 ],
                 "description": "Virtual file system library",
-                "homepage": "https://www.horde.org/libraries/Horde_Vfs"
+                "homepage": "https://www.horde.org/libraries/Horde_Vfs",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

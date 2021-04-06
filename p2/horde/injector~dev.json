@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Injector.git",
+                    "url": "https://github.com/maintaina-com/Injector.git",
                     "reference": "6907c5b25a820bb4e5d430930de4c7f114725e8b"
                 },
                 "dist": {
@@ -42,7 +42,10 @@
                     }
                 ],
                 "description": "Dependency injection container library",
-                "homepage": "https://www.horde.org/libraries/Horde_Injector"
+                "homepage": "https://www.horde.org/libraries/Horde_Injector",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Injector/tree/master"
+                }
             },
             {
                 "name": "horde/injector",
@@ -50,7 +53,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Injector.git",
+                    "url": "https://github.com/maintaina-com/Injector.git",
                     "reference": "1e1463988d3d30ad922ecf49517580758eb8e702"
                 },
                 "dist": {
@@ -88,7 +91,10 @@
                     }
                 ],
                 "description": "Dependency injection container library",
-                "homepage": "https://www.horde.org/libraries/Horde_Injector"
+                "homepage": "https://www.horde.org/libraries/Horde_Injector",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Injector/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/injector",
@@ -96,7 +102,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Injector.git",
+                    "url": "https://github.com/maintaina-com/Injector.git",
                     "reference": "744bdbc5f3ec746bfee130eae420eebc98859c00"
                 },
                 "dist": {
@@ -130,7 +136,10 @@
                     }
                 ],
                 "description": "Dependency injection container library",
-                "homepage": "https://www.horde.org/libraries/Horde_Injector"
+                "homepage": "https://www.horde.org/libraries/Horde_Injector",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Injector/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/injector",
@@ -138,7 +147,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Injector.git",
+                    "url": "https://github.com/maintaina-com/Injector.git",
                     "reference": "1f5f7056ab58ebaf445e38474aa83b43497b59cc"
                 },
                 "dist": {
@@ -176,7 +185,10 @@
                     }
                 ],
                 "description": "Dependency injection container library",
-                "homepage": "https://www.horde.org/libraries/Horde_Injector"
+                "homepage": "https://www.horde.org/libraries/Horde_Injector",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Injector/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/injector",
@@ -184,7 +196,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Injector.git",
+                    "url": "https://github.com/maintaina-com/Injector.git",
                     "reference": "1f5f7056ab58ebaf445e38474aa83b43497b59cc"
                 },
                 "dist": {
@@ -222,7 +234,10 @@
                     }
                 ],
                 "description": "Dependency injection container library",
-                "homepage": "https://www.horde.org/libraries/Horde_Injector"
+                "homepage": "https://www.horde.org/libraries/Horde_Injector",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Injector/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/injector",
@@ -230,7 +245,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Injector.git",
+                    "url": "https://github.com/maintaina-com/Injector.git",
                     "reference": "fb222bdee6ff42f0a57b7ad70f9c39b9ea469042"
                 },
                 "dist": {
@@ -265,7 +280,10 @@
                     }
                 ],
                 "description": "Dependency injection container library",
-                "homepage": "https://www.horde.org/libraries/Horde_Injector"
+                "homepage": "https://www.horde.org/libraries/Horde_Injector",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Injector/tree/maintaina-composerfixed"
+                }
             },
             {
                 "name": "horde/injector",
@@ -273,7 +291,7 @@
                 "version_normalized": "dev-refactor-psr4",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Injector.git",
+                    "url": "https://github.com/maintaina-com/Injector.git",
                     "reference": "1f05b6265dca1518e87930450c5295a41402d4a6"
                 },
                 "dist": {
@@ -315,7 +333,10 @@
                     }
                 ],
                 "description": "Dependency injection container library",
-                "homepage": "https://www.horde.org/libraries/Horde_Injector"
+                "homepage": "https://www.horde.org/libraries/Horde_Injector",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Injector/tree/refactor-psr4"
+                }
             }
         ]
     }

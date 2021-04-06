@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Wbxml.git",
+                    "url": "https://github.com/maintaina-com/Xml_Wbxml.git",
                     "reference": "a6be6c20934466b81967c37ff1348021f7eb31b1"
                 },
                 "dist": {
@@ -47,7 +47,10 @@
                     }
                 ],
                 "description": "WBXML library",
-                "homepage": "https://www.horde.org/libraries/Horde_Xml_Wbxml"
+                "homepage": "https://www.horde.org/libraries/Horde_Xml_Wbxml",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Wbxml/tree/master"
+                }
             },
             {
                 "name": "horde/xml_wbxml",
@@ -55,7 +58,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Wbxml.git",
+                    "url": "https://github.com/maintaina-com/Xml_Wbxml.git",
                     "reference": "c95b168940dfd88589165473e0602cacf36f6fa0"
                 },
                 "dist": {
@@ -98,7 +101,10 @@
                     }
                 ],
                 "description": "WBXML library",
-                "homepage": "https://www.horde.org/libraries/Horde_Xml_Wbxml"
+                "homepage": "https://www.horde.org/libraries/Horde_Xml_Wbxml",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Wbxml/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/xml_wbxml",
@@ -106,13 +112,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Wbxml.git",
-                    "reference": "171204d29def447e9f21217bb996a262dc8b3ebd"
+                    "url": "https://github.com/maintaina-com/Xml_Wbxml.git",
+                    "reference": "25ea32dc00c9d4b7ed8118b4dc5c90d105e37eb6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Xml_Wbxml/zipball/171204d29def447e9f21217bb996a262dc8b3ebd",
-                    "reference": "171204d29def447e9f21217bb996a262dc8b3ebd",
+                    "url": "https://api.github.com/repos/maintaina-com/Xml_Wbxml/zipball/25ea32dc00c9d4b7ed8118b4dc5c90d105e37eb6",
+                    "reference": "25ea32dc00c9d4b7ed8118b4dc5c90d105e37eb6",
                     "shasum": ""
                 },
                 "require": {
@@ -145,7 +151,10 @@
                     }
                 ],
                 "description": "WBXML library",
-                "homepage": "https://www.horde.org/libraries/Horde_Xml_Wbxml"
+                "homepage": "https://www.horde.org/libraries/Horde_Xml_Wbxml",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Wbxml/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/xml_wbxml",
@@ -153,7 +162,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Wbxml.git",
+                    "url": "https://github.com/maintaina-com/Xml_Wbxml.git",
                     "reference": "17c0768f3aa0d986b03d5887651560aa6d2ab321"
                 },
                 "dist": {
@@ -196,7 +205,10 @@
                     }
                 ],
                 "description": "WBXML library",
-                "homepage": "https://www.horde.org/libraries/Horde_Xml_Wbxml"
+                "homepage": "https://www.horde.org/libraries/Horde_Xml_Wbxml",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Wbxml/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/xml_wbxml",
@@ -204,7 +216,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Wbxml.git",
+                    "url": "https://github.com/maintaina-com/Xml_Wbxml.git",
                     "reference": "17c0768f3aa0d986b03d5887651560aa6d2ab321"
                 },
                 "dist": {
@@ -247,7 +259,10 @@
                     }
                 ],
                 "description": "WBXML library",
-                "homepage": "https://www.horde.org/libraries/Horde_Xml_Wbxml"
+                "homepage": "https://www.horde.org/libraries/Horde_Xml_Wbxml",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Wbxml/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/xml_wbxml",
@@ -255,7 +270,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Xml_Wbxml.git",
+                    "url": "https://github.com/maintaina-com/Xml_Wbxml.git",
                     "reference": "2b2375b1a923e1e2721cab8d1691c814dd6aac40"
                 },
                 "dist": {
@@ -295,7 +310,10 @@
                     }
                 ],
                 "description": "WBXML library",
-                "homepage": "https://www.horde.org/libraries/Horde_Xml_Wbxml"
+                "homepage": "https://www.horde.org/libraries/Horde_Xml_Wbxml",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Wbxml/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Notification.git",
+                    "url": "https://github.com/maintaina-com/Notification.git",
                     "reference": "c9693ac6d2f464068b0a2747d69b50d7de74286a"
                 },
                 "dist": {
@@ -46,7 +46,10 @@
                     }
                 ],
                 "description": "Notification library implementing subject-observer pattern",
-                "homepage": "https://www.horde.org/libraries/Horde_Notification"
+                "homepage": "https://www.horde.org/libraries/Horde_Notification",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Notification/tree/master"
+                }
             },
             {
                 "name": "horde/notification",
@@ -54,7 +57,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Notification.git",
+                    "url": "https://github.com/maintaina-com/Notification.git",
                     "reference": "e75e868bab04bdbc0a576c053acb4be1fcb12296"
                 },
                 "dist": {
@@ -96,7 +99,10 @@
                     }
                 ],
                 "description": "Notification library implementing subject-observer pattern",
-                "homepage": "https://www.horde.org/libraries/Horde_Notification"
+                "homepage": "https://www.horde.org/libraries/Horde_Notification",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Notification/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/notification",
@@ -104,13 +110,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Notification.git",
-                    "reference": "7abb4feacaad9facd81f0f0960d53827ddc7f39f"
+                    "url": "https://github.com/maintaina-com/Notification.git",
+                    "reference": "0dcbc8b3040fcd918c47ea1cd280489b2665d74b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Notification/zipball/7abb4feacaad9facd81f0f0960d53827ddc7f39f",
-                    "reference": "7abb4feacaad9facd81f0f0960d53827ddc7f39f",
+                    "url": "https://api.github.com/repos/maintaina-com/Notification/zipball/0dcbc8b3040fcd918c47ea1cd280489b2665d74b",
+                    "reference": "0dcbc8b3040fcd918c47ea1cd280489b2665d74b",
                     "shasum": ""
                 },
                 "require": {
@@ -142,7 +148,10 @@
                     }
                 ],
                 "description": "Notification library implementing subject-observer pattern",
-                "homepage": "https://www.horde.org/libraries/Horde_Notification"
+                "homepage": "https://www.horde.org/libraries/Horde_Notification",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Notification/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/notification",
@@ -150,7 +159,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Notification.git",
+                    "url": "https://github.com/maintaina-com/Notification.git",
                     "reference": "3b5e9046f32d03b228d50a331d2cca5c558b2a99"
                 },
                 "dist": {
@@ -192,7 +201,10 @@
                     }
                 ],
                 "description": "Notification library implementing subject-observer pattern",
-                "homepage": "https://www.horde.org/libraries/Horde_Notification"
+                "homepage": "https://www.horde.org/libraries/Horde_Notification",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Notification/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/notification",
@@ -200,7 +212,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Notification.git",
+                    "url": "https://github.com/maintaina-com/Notification.git",
                     "reference": "3b5e9046f32d03b228d50a331d2cca5c558b2a99"
                 },
                 "dist": {
@@ -242,7 +254,10 @@
                     }
                 ],
                 "description": "Notification library implementing subject-observer pattern",
-                "homepage": "https://www.horde.org/libraries/Horde_Notification"
+                "homepage": "https://www.horde.org/libraries/Horde_Notification",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Notification/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/notification",
@@ -250,7 +265,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Notification.git",
+                    "url": "https://github.com/maintaina-com/Notification.git",
                     "reference": "97f33ce205c3bfcba4264955011dc1d547e44f0b"
                 },
                 "dist": {
@@ -289,7 +304,10 @@
                     }
                 ],
                 "description": "Notification library implementing subject-observer pattern",
-                "homepage": "https://www.horde.org/libraries/Horde_Notification"
+                "homepage": "https://www.horde.org/libraries/Horde_Notification",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Notification/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vcs.git",
+                    "url": "https://github.com/maintaina-com/Vcs.git",
                     "reference": "6efb5caa8fd97ddf2a378528efe9480e3b41367e"
                 },
                 "dist": {
@@ -54,7 +54,10 @@
                     }
                 ],
                 "description": "Version control client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vcs/tree/master"
+                }
             },
             {
                 "name": "horde/vcs",
@@ -62,7 +65,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vcs.git",
+                    "url": "https://github.com/maintaina-com/Vcs.git",
                     "reference": "593a8bea37aa7ead9626b1a819b9fd2cd17c8985"
                 },
                 "dist": {
@@ -112,7 +115,10 @@
                     }
                 ],
                 "description": "Version control client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vcs/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/vcs",
@@ -120,7 +126,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vcs.git",
+                    "url": "https://github.com/maintaina-com/Vcs.git",
                     "reference": "2c1c876bd0daf57995e4f7100d32e3af46c2eddb"
                 },
                 "dist": {
@@ -166,7 +172,10 @@
                     }
                 ],
                 "description": "Version control client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vcs/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/vcs",
@@ -174,7 +183,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vcs.git",
+                    "url": "https://github.com/maintaina-com/Vcs.git",
                     "reference": "8c83bc91fdd9494852b675bcd35836b825491705"
                 },
                 "dist": {
@@ -224,7 +233,10 @@
                     }
                 ],
                 "description": "Version control client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vcs/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/vcs",
@@ -232,7 +244,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vcs.git",
+                    "url": "https://github.com/maintaina-com/Vcs.git",
                     "reference": "8c83bc91fdd9494852b675bcd35836b825491705"
                 },
                 "dist": {
@@ -282,7 +294,10 @@
                     }
                 ],
                 "description": "Version control client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vcs/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/vcs",
@@ -290,7 +305,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Vcs.git",
+                    "url": "https://github.com/maintaina-com/Vcs.git",
                     "reference": "1d94e5cf503ab1611880f1b3683b5c30c235cf79"
                 },
                 "dist": {
@@ -337,7 +352,10 @@
                     }
                 ],
                 "description": "Version control client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vcs/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

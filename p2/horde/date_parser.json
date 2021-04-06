@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date_Parser.git",
+                    "url": "https://github.com/maintaina-com/Date_Parser.git",
                     "reference": "e32db7949eba0c5910240f679037b504a8049eae"
                 },
                 "dist": {
@@ -42,7 +42,10 @@
                     }
                 ],
                 "description": "Horde Date Parser",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date_Parser/tree/v2.0.3"
+                }
             },
             {
                 "name": "horde/date_parser",
@@ -50,7 +53,7 @@
                 "version_normalized": "2.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date_Parser.git",
+                    "url": "https://github.com/maintaina-com/Date_Parser.git",
                     "reference": "13885818e9c9768a54fd86e014af8139e252e984"
                 },
                 "dist": {
@@ -86,7 +89,10 @@
                     }
                 ],
                 "description": "Horde Date Parser",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date_Parser/tree/v2.0.4"
+                }
             },
             {
                 "name": "horde/date_parser",
@@ -94,7 +100,7 @@
                 "version_normalized": "2.0.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date_Parser.git",
+                    "url": "https://github.com/maintaina-com/Date_Parser.git",
                     "reference": "39a70e6d4f00357bc506a47206748a576b18f3b6"
                 },
                 "dist": {
@@ -130,7 +136,10 @@
                     }
                 ],
                 "description": "Horde Date Parser",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date_Parser/tree/v2.0.5"
+                }
             },
             {
                 "name": "horde/date_parser",
@@ -138,7 +147,7 @@
                 "version_normalized": "2.0.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date_Parser.git",
+                    "url": "https://github.com/maintaina-com/Date_Parser.git",
                     "reference": "7f41b8a32d585484f90c0cc82d8ca4f5a9214fdd"
                 },
                 "dist": {
@@ -174,7 +183,10 @@
                     }
                 ],
                 "description": "Horde Date Parser",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date_Parser/tree/v2.0.6"
+                }
             },
             {
                 "name": "horde/date_parser",
@@ -182,7 +194,7 @@
                 "version_normalized": "2.0.7.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date_Parser.git",
+                    "url": "https://github.com/maintaina-com/Date_Parser.git",
                     "reference": "ff6101e11a524a3bbb4bb4695510f8ac4ab0384a"
                 },
                 "dist": {
@@ -227,7 +239,10 @@
                     }
                 ],
                 "description": "Date parser library",
-                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser"
+                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date_Parser/tree/v2.0.7"
+                }
             },
             {
                 "name": "horde/date_parser",
@@ -235,7 +250,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date_Parser.git",
+                    "url": "https://github.com/maintaina-com/Date_Parser.git",
                     "reference": "ac79132df337ada2a0328b73dbc9990bbe2a5dc1"
                 },
                 "dist": {
@@ -280,7 +295,10 @@
                     }
                 ],
                 "description": "Date parser library",
-                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser"
+                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date_Parser/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/date_parser",
@@ -288,7 +306,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date_Parser.git",
+                    "url": "https://github.com/maintaina-com/Date_Parser.git",
                     "reference": "ee8d3e53f3554fbac728cc266d08b85e00ab6b92"
                 },
                 "dist": {
@@ -330,7 +348,10 @@
                     }
                 ],
                 "description": "Date parser library",
-                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser"
+                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date_Parser/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/date_parser",
@@ -338,7 +359,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date_Parser.git",
+                    "url": "https://github.com/maintaina-com/Date_Parser.git",
                     "reference": "9580049b6580d762b415560f4ff9e822af9e905e"
                 },
                 "dist": {
@@ -379,7 +400,10 @@
                     }
                 ],
                 "description": "Date parser library",
-                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser"
+                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date_Parser/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

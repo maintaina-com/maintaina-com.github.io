@@ -7,7 +7,7 @@
                 "version_normalized": "2.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "a669d6b885488682053e3336e66afd9e93dcad83"
                 },
                 "dist": {
@@ -56,7 +56,10 @@
                     }
                 ],
                 "description": "Horde Database Libraries",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.1.0"
+                }
             },
             {
                 "name": "horde/db",
@@ -64,7 +67,7 @@
                 "version_normalized": "2.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "10b0d4be09aa0acc12a7057b9e134e0806cd2b1b"
                 },
                 "dist": {
@@ -113,7 +116,10 @@
                     }
                 ],
                 "description": "Horde Database Libraries",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.1.1"
+                }
             },
             {
                 "name": "horde/db",
@@ -121,7 +127,7 @@
                 "version_normalized": "2.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "c55497893c0dff93a3c9c666ef84b6755d0c5d71"
                 },
                 "dist": {
@@ -170,7 +176,10 @@
                     }
                 ],
                 "description": "Horde Database Libraries",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.1.2"
+                }
             },
             {
                 "name": "horde/db",
@@ -178,7 +187,7 @@
                 "version_normalized": "2.1.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "f84a2f3db02295f579dcc37abb270e7ca2fbdb58"
                 },
                 "dist": {
@@ -227,7 +236,10 @@
                     }
                 ],
                 "description": "Horde Database Libraries",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.1.3"
+                }
             },
             {
                 "name": "horde/db",
@@ -235,7 +247,7 @@
                 "version_normalized": "2.1.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "01d08c481abdac42fe8b163be5903e3020fa65b9"
                 },
                 "dist": {
@@ -284,7 +296,10 @@
                     }
                 ],
                 "description": "Horde Database Libraries",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.1.4"
+                }
             },
             {
                 "name": "horde/db",
@@ -292,7 +307,7 @@
                 "version_normalized": "2.1.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "7ab449e5c1a945c28387b9cef2ca84839f7e2d70"
                 },
                 "dist": {
@@ -341,7 +356,10 @@
                     }
                 ],
                 "description": "Horde Database Libraries",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.1.5"
+                }
             },
             {
                 "name": "horde/db",
@@ -349,7 +367,7 @@
                 "version_normalized": "2.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "cafe834a68658cec89dfdf6591231d6ead2114ac"
                 },
                 "dist": {
@@ -398,7 +416,10 @@
                     }
                 ],
                 "description": "Horde Database Libraries",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.2.0"
+                }
             },
             {
                 "name": "horde/db",
@@ -406,7 +427,7 @@
                 "version_normalized": "2.2.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "9216a366a29287085506bb7f8f4372e11bb63155"
                 },
                 "dist": {
@@ -455,7 +476,10 @@
                     }
                 ],
                 "description": "Horde Database Libraries",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.2.1"
+                }
             },
             {
                 "name": "horde/db",
@@ -463,7 +487,7 @@
                 "version_normalized": "2.2.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "0f936f4f9d67c2c7e8f46fa96553cd15331f32a0"
                 },
                 "dist": {
@@ -512,7 +536,10 @@
                     }
                 ],
                 "description": "Horde Database Libraries",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.2.2"
+                }
             },
             {
                 "name": "horde/db",
@@ -520,7 +547,7 @@
                 "version_normalized": "2.2.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "b25174c1504afae724f64b72d69f5772b1983111"
                 },
                 "dist": {
@@ -569,7 +596,10 @@
                     }
                 ],
                 "description": "Horde Database Libraries",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.2.3"
+                }
             },
             {
                 "name": "horde/db",
@@ -577,7 +607,7 @@
                 "version_normalized": "2.3.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "b7aeb4684556b9cf214a4fc720206108fafbe403"
                 },
                 "dist": {
@@ -626,7 +656,10 @@
                     }
                 ],
                 "description": "Horde Database Libraries",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.3.0"
+                }
             },
             {
                 "name": "horde/db",
@@ -634,7 +667,7 @@
                 "version_normalized": "2.3.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "eedc1ae69e2dca53ebc7052addb3c368cdeffdfd"
                 },
                 "dist": {
@@ -683,7 +716,10 @@
                     }
                 ],
                 "description": "Horde Database Libraries",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.3.1"
+                }
             },
             {
                 "name": "horde/db",
@@ -691,7 +727,7 @@
                 "version_normalized": "2.3.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "9c617059915466d299f23820b3af81511caf5343"
                 },
                 "dist": {
@@ -740,7 +776,10 @@
                     }
                 ],
                 "description": "Horde Database Libraries",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.3.2"
+                }
             },
             {
                 "name": "horde/db",
@@ -748,7 +787,7 @@
                 "version_normalized": "2.3.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "7f34d011673c6e3ea5974d9465a85cd96385d80f"
                 },
                 "dist": {
@@ -797,7 +836,10 @@
                     }
                 ],
                 "description": "Horde Database Libraries",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.3.3"
+                }
             },
             {
                 "name": "horde/db",
@@ -805,7 +847,7 @@
                 "version_normalized": "2.3.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "897ee64c0b3d4054415beae6070aa61939dc5958"
                 },
                 "dist": {
@@ -854,7 +896,10 @@
                     }
                 ],
                 "description": "Horde Database Libraries",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.3.4"
+                }
             },
             {
                 "name": "horde/db",
@@ -862,7 +907,7 @@
                 "version_normalized": "2.4.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "94579fdfd4615f1d3bac000bef9220f05e1d5a53"
                 },
                 "dist": {
@@ -911,7 +956,10 @@
                     }
                 ],
                 "description": "Horde Database Libraries",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.4.0"
+                }
             },
             {
                 "name": "horde/db",
@@ -919,7 +967,7 @@
                 "version_normalized": "2.4.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "8ed3e776559b4b36f87019b91e9f30cd4c8dd1e4"
                 },
                 "dist": {
@@ -977,7 +1025,10 @@
                     }
                 ],
                 "description": "Database abstraction library",
-                "homepage": "https://www.horde.org/libraries/Horde_Db"
+                "homepage": "https://www.horde.org/libraries/Horde_Db",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v2.4.1"
+                }
             },
             {
                 "name": "horde/db",
@@ -985,7 +1036,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "12a6b9d0498522967b060d271925f2dc1287a80e"
                 },
                 "dist": {
@@ -1046,7 +1097,10 @@
                     }
                 ],
                 "description": "Database abstraction library",
-                "homepage": "https://www.horde.org/libraries/Horde_Db"
+                "homepage": "https://www.horde.org/libraries/Horde_Db",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/db",
@@ -1054,7 +1108,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "d035fdb4d4ec14d3e09fc7b50b06600ef2ec8b98"
                 },
                 "dist": {
@@ -1112,7 +1166,10 @@
                     }
                 ],
                 "description": "Database abstraction library",
-                "homepage": "https://www.horde.org/libraries/Horde_Db"
+                "homepage": "https://www.horde.org/libraries/Horde_Db",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/db",
@@ -1120,7 +1177,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Db.git",
+                    "url": "https://github.com/maintaina-com/Db.git",
                     "reference": "5e1c2fb6ab2a35c436a452e49becc144b6b2e7c6"
                 },
                 "dist": {
@@ -1177,7 +1234,10 @@
                     }
                 ],
                 "description": "Database abstraction library",
-                "homepage": "https://www.horde.org/libraries/Horde_Db"
+                "homepage": "https://www.horde.org/libraries/Horde_Db",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

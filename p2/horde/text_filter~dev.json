@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Filter.git",
+                    "url": "https://github.com/maintaina-com/Text_Filter.git",
                     "reference": "57bbfcbe2183407a47c52e40adc714641fc80277"
                 },
                 "dist": {
@@ -58,7 +58,10 @@
                     }
                 ],
                 "description": "Text filtering and conversion library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Filter/tree/master"
+                }
             },
             {
                 "name": "horde/text_filter",
@@ -66,7 +69,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Filter.git",
+                    "url": "https://github.com/maintaina-com/Text_Filter.git",
                     "reference": "a3f3bb48fc82b8e2b878e5729a9fba958b5db5cf"
                 },
                 "dist": {
@@ -120,7 +123,10 @@
                     }
                 ],
                 "description": "Text filtering and conversion library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Filter/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/text_filter",
@@ -128,13 +134,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Filter.git",
-                    "reference": "e8a3d4147c1c824e5ad148218e7663fa72d42bc2"
+                    "url": "https://github.com/maintaina-com/Text_Filter.git",
+                    "reference": "1766e6ad9f5fb24b481d5328ceea67d29234ec85"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Filter/zipball/e8a3d4147c1c824e5ad148218e7663fa72d42bc2",
-                    "reference": "e8a3d4147c1c824e5ad148218e7663fa72d42bc2",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Filter/zipball/1766e6ad9f5fb24b481d5328ceea67d29234ec85",
+                    "reference": "1766e6ad9f5fb24b481d5328ceea67d29234ec85",
                     "shasum": ""
                 },
                 "require": {
@@ -182,7 +188,10 @@
                     }
                 ],
                 "description": "Text filtering and conversion library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Filter/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/text_filter",
@@ -190,7 +199,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Filter.git",
+                    "url": "https://github.com/maintaina-com/Text_Filter.git",
                     "reference": "0182edd3f762909146196a43dc8da2c872ab8964"
                 },
                 "dist": {
@@ -245,7 +254,10 @@
                     }
                 ],
                 "description": "Text filtering and conversion library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Filter/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/text_filter",
@@ -253,7 +265,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Filter.git",
+                    "url": "https://github.com/maintaina-com/Text_Filter.git",
                     "reference": "0182edd3f762909146196a43dc8da2c872ab8964"
                 },
                 "dist": {
@@ -308,7 +320,10 @@
                     }
                 ],
                 "description": "Text filtering and conversion library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Filter/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/text_filter",
@@ -316,7 +331,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Filter.git",
+                    "url": "https://github.com/maintaina-com/Text_Filter.git",
                     "reference": "4b2b9115ee352d0ba70fac99e556e86b00d6e5e7"
                 },
                 "dist": {
@@ -367,7 +382,10 @@
                     }
                 ],
                 "description": "Text filtering and conversion library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Filter",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Filter/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

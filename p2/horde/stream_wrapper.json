@@ -7,7 +7,7 @@
                 "version_normalized": "2.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Stream_Wrapper.git",
+                    "url": "https://github.com/maintaina-com/Stream_Wrapper.git",
                     "reference": "b405ba26909440201e4229a07cf5532334831f80"
                 },
                 "dist": {
@@ -37,7 +37,10 @@
                     }
                 ],
                 "description": "Horde Stream wrappers",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stream_Wrapper/tree/v2.1.0"
+                }
             },
             {
                 "name": "horde/stream_wrapper",
@@ -45,7 +48,7 @@
                 "version_normalized": "2.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Stream_Wrapper.git",
+                    "url": "https://github.com/maintaina-com/Stream_Wrapper.git",
                     "reference": "4b637ec8e53a71f975c3a7324816d91d5d287fa1"
                 },
                 "dist": {
@@ -75,7 +78,10 @@
                     }
                 ],
                 "description": "Horde Stream wrappers",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stream_Wrapper/tree/v2.1.1"
+                }
             },
             {
                 "name": "horde/stream_wrapper",
@@ -83,7 +89,7 @@
                 "version_normalized": "2.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Stream_Wrapper.git",
+                    "url": "https://github.com/maintaina-com/Stream_Wrapper.git",
                     "reference": "7c63ca629b34cafd08aac30918cb83ffba36e275"
                 },
                 "dist": {
@@ -113,7 +119,10 @@
                     }
                 ],
                 "description": "Horde Stream wrappers",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stream_Wrapper/tree/v2.1.2"
+                }
             },
             {
                 "name": "horde/stream_wrapper",
@@ -121,7 +130,7 @@
                 "version_normalized": "2.1.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Stream_Wrapper.git",
+                    "url": "https://github.com/maintaina-com/Stream_Wrapper.git",
                     "reference": "b41f543ed1bcd399ecf0b03b429cbdc0ca356a97"
                 },
                 "dist": {
@@ -151,7 +160,10 @@
                     }
                 ],
                 "description": "Horde Stream wrappers",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stream_Wrapper/tree/v2.1.3"
+                }
             },
             {
                 "name": "horde/stream_wrapper",
@@ -159,7 +171,7 @@
                 "version_normalized": "2.1.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Stream_Wrapper.git",
+                    "url": "https://github.com/maintaina-com/Stream_Wrapper.git",
                     "reference": "59188d068a65b3bda34c435f96ea8925dd1855af"
                 },
                 "dist": {
@@ -198,7 +210,10 @@
                     }
                 ],
                 "description": "PHP stream wrappers library",
-                "homepage": "https://www.horde.org/libraries/Horde_Stream_Wrapper"
+                "homepage": "https://www.horde.org/libraries/Horde_Stream_Wrapper",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stream_Wrapper/tree/v2.1.4"
+                }
             },
             {
                 "name": "horde/stream_wrapper",
@@ -206,7 +221,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Stream_Wrapper.git",
+                    "url": "https://github.com/maintaina-com/Stream_Wrapper.git",
                     "reference": "5e49cebed454d3911de8281f25fa4cd9f50f178a"
                 },
                 "dist": {
@@ -248,7 +263,10 @@
                     }
                 ],
                 "description": "PHP stream wrappers library",
-                "homepage": "https://www.horde.org/libraries/Horde_Stream_Wrapper"
+                "homepage": "https://www.horde.org/libraries/Horde_Stream_Wrapper",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stream_Wrapper/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/stream_wrapper",
@@ -256,7 +274,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Stream_Wrapper.git",
+                    "url": "https://github.com/maintaina-com/Stream_Wrapper.git",
                     "reference": "6d280399cd6c9f16673ecb916b99c3243b13cd9e"
                 },
                 "dist": {
@@ -295,7 +313,10 @@
                     }
                 ],
                 "description": "PHP stream wrappers library",
-                "homepage": "https://www.horde.org/libraries/Horde_Stream_Wrapper"
+                "homepage": "https://www.horde.org/libraries/Horde_Stream_Wrapper",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stream_Wrapper/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/stream_wrapper",
@@ -303,7 +324,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Stream_Wrapper.git",
+                    "url": "https://github.com/maintaina-com/Stream_Wrapper.git",
                     "reference": "024b006bef37bffab9ae6a5334bf32e7d5dc83ef"
                 },
                 "dist": {
@@ -341,7 +362,10 @@
                     }
                 ],
                 "description": "PHP stream wrappers library",
-                "homepage": "https://www.horde.org/libraries/Horde_Stream_Wrapper"
+                "homepage": "https://www.horde.org/libraries/Horde_Stream_Wrapper",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stream_Wrapper/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

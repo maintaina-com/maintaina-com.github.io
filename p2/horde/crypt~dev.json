@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Crypt.git",
+                    "url": "https://github.com/maintaina-com/Crypt.git",
                     "reference": "534ad3e3b3c068981655c9d6d75e27af29e9ef1f"
                 },
                 "dist": {
@@ -56,7 +56,10 @@
                     }
                 ],
                 "description": "Cryptography library",
-                "homepage": "https://www.horde.org/libraries/Horde_Crypt"
+                "homepage": "https://www.horde.org/libraries/Horde_Crypt",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Crypt/tree/master"
+                }
             },
             {
                 "name": "horde/crypt",
@@ -64,7 +67,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Crypt.git",
+                    "url": "https://github.com/maintaina-com/Crypt.git",
                     "reference": "13fc791cdde31c2e577b466d3036744dbe50de0b"
                 },
                 "dist": {
@@ -116,7 +119,10 @@
                     }
                 ],
                 "description": "Cryptography library",
-                "homepage": "https://www.horde.org/libraries/Horde_Crypt"
+                "homepage": "https://www.horde.org/libraries/Horde_Crypt",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Crypt/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/crypt",
@@ -124,13 +130,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Crypt.git",
-                    "reference": "47cebceb254901b34d3d4bfbe43edf50876f7a8e"
+                    "url": "https://github.com/maintaina-com/Crypt.git",
+                    "reference": "e16f2a23e94b04cab651dd5bdfd1e3ae14f04983"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Crypt/zipball/47cebceb254901b34d3d4bfbe43edf50876f7a8e",
-                    "reference": "47cebceb254901b34d3d4bfbe43edf50876f7a8e",
+                    "url": "https://api.github.com/repos/maintaina-com/Crypt/zipball/e16f2a23e94b04cab651dd5bdfd1e3ae14f04983",
+                    "reference": "e16f2a23e94b04cab651dd5bdfd1e3ae14f04983",
                     "shasum": ""
                 },
                 "require": {
@@ -172,7 +178,10 @@
                     }
                 ],
                 "description": "Cryptography library",
-                "homepage": "https://www.horde.org/libraries/Horde_Crypt"
+                "homepage": "https://www.horde.org/libraries/Horde_Crypt",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Crypt/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/crypt",
@@ -180,7 +189,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Crypt.git",
+                    "url": "https://github.com/maintaina-com/Crypt.git",
                     "reference": "5cc883f1a2dfad6d0947dffc9e1bb1b9eb0ff3f4"
                 },
                 "dist": {
@@ -232,7 +241,10 @@
                     }
                 ],
                 "description": "Cryptography library",
-                "homepage": "https://www.horde.org/libraries/Horde_Crypt"
+                "homepage": "https://www.horde.org/libraries/Horde_Crypt",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Crypt/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/crypt",
@@ -240,7 +252,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Crypt.git",
+                    "url": "https://github.com/maintaina-com/Crypt.git",
                     "reference": "5cc883f1a2dfad6d0947dffc9e1bb1b9eb0ff3f4"
                 },
                 "dist": {
@@ -292,7 +304,10 @@
                     }
                 ],
                 "description": "Cryptography library",
-                "homepage": "https://www.horde.org/libraries/Horde_Crypt"
+                "homepage": "https://www.horde.org/libraries/Horde_Crypt",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Crypt/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/crypt",
@@ -300,7 +315,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Crypt.git",
+                    "url": "https://github.com/maintaina-com/Crypt.git",
                     "reference": "9b52cbe61da861cda621196d83536ad2c61ecd56"
                 },
                 "dist": {
@@ -349,7 +364,10 @@
                     }
                 ],
                 "description": "Cryptography library",
-                "homepage": "https://www.horde.org/libraries/Horde_Crypt"
+                "homepage": "https://www.horde.org/libraries/Horde_Crypt",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Crypt/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

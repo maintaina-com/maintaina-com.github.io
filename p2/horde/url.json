@@ -7,7 +7,7 @@
                 "version_normalized": "2.2.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Url.git",
+                    "url": "https://github.com/maintaina-com/Url.git",
                     "reference": "c8e9e6adf90e26a7f747b9ef0878ef22c1fedb4d"
                 },
                 "dist": {
@@ -41,7 +41,10 @@
                     }
                 ],
                 "description": "Horde Url class",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Url/tree/v2.2.2"
+                }
             },
             {
                 "name": "horde/url",
@@ -49,7 +52,7 @@
                 "version_normalized": "2.2.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Url.git",
+                    "url": "https://github.com/maintaina-com/Url.git",
                     "reference": "4096ac4544e40355643a348eeecce7feac75d079"
                 },
                 "dist": {
@@ -83,7 +86,10 @@
                     }
                 ],
                 "description": "Horde Url class",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Url/tree/v2.2.3"
+                }
             },
             {
                 "name": "horde/url",
@@ -91,7 +97,7 @@
                 "version_normalized": "2.2.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Url.git",
+                    "url": "https://github.com/maintaina-com/Url.git",
                     "reference": "9562806d064792e21016a51affb9969a998dc880"
                 },
                 "dist": {
@@ -125,7 +131,10 @@
                     }
                 ],
                 "description": "Horde Url class",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Url/tree/v2.2.4"
+                }
             },
             {
                 "name": "horde/url",
@@ -133,7 +142,7 @@
                 "version_normalized": "2.2.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Url.git",
+                    "url": "https://github.com/maintaina-com/Url.git",
                     "reference": "7b8426902584c88fd8cec2e0821552f306f2b093"
                 },
                 "dist": {
@@ -167,7 +176,10 @@
                     }
                 ],
                 "description": "Horde Url class",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Url/tree/v2.2.5"
+                }
             },
             {
                 "name": "horde/url",
@@ -175,7 +187,7 @@
                 "version_normalized": "2.2.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Url.git",
+                    "url": "https://github.com/maintaina-com/Url.git",
                     "reference": "d9ea1517a52e2afcb956c756f2b3f9ea523d06ea"
                 },
                 "dist": {
@@ -218,7 +230,10 @@
                     }
                 ],
                 "description": "Horde Url class",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Url/tree/v2.2.6"
+                }
             },
             {
                 "name": "horde/url",
@@ -226,7 +241,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Url.git",
+                    "url": "https://github.com/maintaina-com/Url.git",
                     "reference": "9708c0d051d3eae821f03c384cf8d712506accc5"
                 },
                 "dist": {
@@ -269,7 +284,10 @@
                     }
                 ],
                 "description": "URL library",
-                "homepage": "https://www.horde.org/libraries/Horde_Url"
+                "homepage": "https://www.horde.org/libraries/Horde_Url",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Url/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/url",
@@ -277,7 +295,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Url.git",
+                    "url": "https://github.com/maintaina-com/Url.git",
                     "reference": "1f478c2d0812574d9ee64c9c9d7009e7a924145b"
                 },
                 "dist": {
@@ -317,7 +335,10 @@
                     }
                 ],
                 "description": "URL library",
-                "homepage": "https://www.horde.org/libraries/Horde_Url"
+                "homepage": "https://www.horde.org/libraries/Horde_Url",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Url/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/url",
@@ -325,7 +346,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Url.git",
+                    "url": "https://github.com/maintaina-com/Url.git",
                     "reference": "eca658e159fce458819d4eb02cbfbc24bc460a67"
                 },
                 "dist": {
@@ -364,7 +385,10 @@
                     }
                 ],
                 "description": "URL library",
-                "homepage": "https://www.horde.org/libraries/Horde_Url"
+                "homepage": "https://www.horde.org/libraries/Horde_Url",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Url/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

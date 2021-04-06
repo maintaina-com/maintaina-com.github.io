@@ -7,7 +7,7 @@
                 "version_normalized": "2.1.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail.git",
+                    "url": "https://github.com/maintaina-com/Mail.git",
                     "reference": "9a540c398e5ff94b91375295e8a78a2231b37576"
                 },
                 "dist": {
@@ -42,7 +42,10 @@
                     }
                 ],
                 "description": "Horde Mail Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail/tree/v2.1.3"
+                }
             },
             {
                 "name": "horde/mail",
@@ -50,7 +53,7 @@
                 "version_normalized": "2.1.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail.git",
+                    "url": "https://github.com/maintaina-com/Mail.git",
                     "reference": "69af375553d29bffcbb19fec89dcd4fe1d2020f7"
                 },
                 "dist": {
@@ -85,7 +88,10 @@
                     }
                 ],
                 "description": "Horde Mail Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail/tree/v2.1.4"
+                }
             },
             {
                 "name": "horde/mail",
@@ -93,7 +99,7 @@
                 "version_normalized": "2.1.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail.git",
+                    "url": "https://github.com/maintaina-com/Mail.git",
                     "reference": "7745804b03e3b49df13857ace3ffb1c961f97bd2"
                 },
                 "dist": {
@@ -128,7 +134,10 @@
                     }
                 ],
                 "description": "Horde Mail Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail/tree/v2.1.5"
+                }
             },
             {
                 "name": "horde/mail",
@@ -136,7 +145,7 @@
                 "version_normalized": "2.3.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail.git",
+                    "url": "https://github.com/maintaina-com/Mail.git",
                     "reference": "056c1e90cd79d2e3f4be02d885d054576beb6b68"
                 },
                 "dist": {
@@ -171,7 +180,10 @@
                     }
                 ],
                 "description": "Horde Mail Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail/tree/v2.3.0"
+                }
             },
             {
                 "name": "horde/mail",
@@ -179,7 +191,7 @@
                 "version_normalized": "2.4.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail.git",
+                    "url": "https://github.com/maintaina-com/Mail.git",
                     "reference": "f699725fc6adb0f4a671326665401d8de1697d00"
                 },
                 "dist": {
@@ -214,7 +226,10 @@
                     }
                 ],
                 "description": "Horde Mail Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail/tree/v2.4.0"
+                }
             },
             {
                 "name": "horde/mail",
@@ -222,7 +237,7 @@
                 "version_normalized": "2.5.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail.git",
+                    "url": "https://github.com/maintaina-com/Mail.git",
                     "reference": "b8687b94a6fcc924da7f1aae7deabc59e708ab29"
                 },
                 "dist": {
@@ -258,7 +273,10 @@
                     }
                 ],
                 "description": "Horde Mail Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail/tree/v2.5.0"
+                }
             },
             {
                 "name": "horde/mail",
@@ -266,7 +284,7 @@
                 "version_normalized": "2.5.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail.git",
+                    "url": "https://github.com/maintaina-com/Mail.git",
                     "reference": "5672c3c83ad4d78a10865f8593827a66e29a488f"
                 },
                 "dist": {
@@ -303,7 +321,10 @@
                     }
                 ],
                 "description": "Horde Mail Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail/tree/v2.5.1"
+                }
             },
             {
                 "name": "horde/mail",
@@ -311,7 +332,7 @@
                 "version_normalized": "2.6.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail.git",
+                    "url": "https://github.com/maintaina-com/Mail.git",
                     "reference": "3ad886eb9d694de2558eb03690afc72546a796f6"
                 },
                 "dist": {
@@ -349,7 +370,10 @@
                     }
                 ],
                 "description": "Horde Mail Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail/tree/v2.6.0"
+                }
             },
             {
                 "name": "horde/mail",
@@ -357,7 +381,7 @@
                 "version_normalized": "2.6.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail.git",
+                    "url": "https://github.com/maintaina-com/Mail.git",
                     "reference": "9310ce78adfa12defa5b407a6fb23cd7338f9e6f"
                 },
                 "dist": {
@@ -395,7 +419,10 @@
                     }
                 ],
                 "description": "Horde Mail Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail/tree/v2.6.1"
+                }
             },
             {
                 "name": "horde/mail",
@@ -403,7 +430,7 @@
                 "version_normalized": "2.6.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail.git",
+                    "url": "https://github.com/maintaina-com/Mail.git",
                     "reference": "51eafdc15f448d4ca98e618cadac18cc9d81c777"
                 },
                 "dist": {
@@ -441,7 +468,10 @@
                     }
                 ],
                 "description": "Horde Mail Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail/tree/v2.6.2"
+                }
             },
             {
                 "name": "horde/mail",
@@ -449,7 +479,7 @@
                 "version_normalized": "2.6.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail.git",
+                    "url": "https://github.com/maintaina-com/Mail.git",
                     "reference": "6a4e4c6fd4f9eb43586f6dd49f139858c83317ba"
                 },
                 "dist": {
@@ -487,7 +517,10 @@
                     }
                 ],
                 "description": "Horde Mail Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail/tree/v2.6.3"
+                }
             },
             {
                 "name": "horde/mail",
@@ -495,7 +528,7 @@
                 "version_normalized": "2.6.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail.git",
+                    "url": "https://github.com/maintaina-com/Mail.git",
                     "reference": "5d0b224813fded3e70e7e49ac7559691a73f9daa"
                 },
                 "dist": {
@@ -542,7 +575,10 @@
                     }
                 ],
                 "description": "Horde Mail Library",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail/tree/v2.6.4"
+                }
             },
             {
                 "name": "horde/mail",
@@ -550,7 +586,7 @@
                 "version_normalized": "2.6.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail.git",
+                    "url": "https://github.com/maintaina-com/Mail.git",
                     "reference": "fefa2fe14747bdbbccada684cec117c2cbfc858c"
                 },
                 "dist": {
@@ -597,7 +633,10 @@
                     }
                 ],
                 "description": "Mail library",
-                "homepage": "https://www.horde.org/libraries/Horde_Mail"
+                "homepage": "https://www.horde.org/libraries/Horde_Mail",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail/tree/v2.6.5"
+                }
             },
             {
                 "name": "horde/mail",
@@ -605,7 +644,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail.git",
+                    "url": "https://github.com/maintaina-com/Mail.git",
                     "reference": "30f59444eecb272d0d8427e229b334961188b99f"
                 },
                 "dist": {
@@ -652,7 +691,10 @@
                     }
                 ],
                 "description": "Mail library",
-                "homepage": "https://www.horde.org/libraries/Horde_Mail"
+                "homepage": "https://www.horde.org/libraries/Horde_Mail",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/mail",
@@ -660,7 +702,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail.git",
+                    "url": "https://github.com/maintaina-com/Mail.git",
                     "reference": "89d6872f986e20aa91f108c54b5c9d8f39b58e3d"
                 },
                 "dist": {
@@ -704,7 +746,10 @@
                     }
                 ],
                 "description": "Mail library",
-                "homepage": "https://www.horde.org/libraries/Horde_Mail"
+                "homepage": "https://www.horde.org/libraries/Horde_Mail",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/mail",
@@ -712,7 +757,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mail.git",
+                    "url": "https://github.com/maintaina-com/Mail.git",
                     "reference": "5ab9b140a75c3f479b35459f3c8052d778f80e73"
                 },
                 "dist": {
@@ -755,7 +800,10 @@
                     }
                 ],
                 "description": "Mail library",
-                "homepage": "https://www.horde.org/libraries/Horde_Mail"
+                "homepage": "https://www.horde.org/libraries/Horde_Mail",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

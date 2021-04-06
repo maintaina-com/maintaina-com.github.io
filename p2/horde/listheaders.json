@@ -7,7 +7,7 @@
                 "version_normalized": "1.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ListHeaders.git",
+                    "url": "https://github.com/maintaina-com/ListHeaders.git",
                     "reference": "98ce49ab5cab57fdd09d177f2c95482e672b7cc7"
                 },
                 "dist": {
@@ -37,7 +37,10 @@
                     }
                 ],
                 "description": "Horde List Headers Parsing Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ListHeaders/tree/v1.1.2"
+                }
             },
             {
                 "name": "horde/listheaders",
@@ -45,7 +48,7 @@
                 "version_normalized": "1.1.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ListHeaders.git",
+                    "url": "https://github.com/maintaina-com/ListHeaders.git",
                     "reference": "186eb7bbb43a9d2751b6cb485370c10236d64124"
                 },
                 "dist": {
@@ -75,7 +78,10 @@
                     }
                 ],
                 "description": "Horde List Headers Parsing Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ListHeaders/tree/v1.1.3"
+                }
             },
             {
                 "name": "horde/listheaders",
@@ -83,7 +89,7 @@
                 "version_normalized": "1.1.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ListHeaders.git",
+                    "url": "https://github.com/maintaina-com/ListHeaders.git",
                     "reference": "88cce0243b66adb8f776d7274a907b7cc05a6ee5"
                 },
                 "dist": {
@@ -113,7 +119,10 @@
                     }
                 ],
                 "description": "Horde List Headers Parsing Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ListHeaders/tree/v1.1.4"
+                }
             },
             {
                 "name": "horde/listheaders",
@@ -121,7 +130,7 @@
                 "version_normalized": "1.1.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ListHeaders.git",
+                    "url": "https://github.com/maintaina-com/ListHeaders.git",
                     "reference": "f1e37e54b9757a0e512495a8c3cb148db9e5644d"
                 },
                 "dist": {
@@ -151,7 +160,10 @@
                     }
                 ],
                 "description": "Horde List Headers Parsing Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ListHeaders/tree/v1.1.5"
+                }
             },
             {
                 "name": "horde/listheaders",
@@ -159,7 +171,7 @@
                 "version_normalized": "1.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ListHeaders.git",
+                    "url": "https://github.com/maintaina-com/ListHeaders.git",
                     "reference": "83e2e4c8ccd90eae08118afb8ce6cbf54ed21c3b"
                 },
                 "dist": {
@@ -190,7 +202,10 @@
                     }
                 ],
                 "description": "Horde List Headers Parsing Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ListHeaders/tree/v1.2.0"
+                }
             },
             {
                 "name": "horde/listheaders",
@@ -198,7 +213,7 @@
                 "version_normalized": "1.2.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ListHeaders.git",
+                    "url": "https://github.com/maintaina-com/ListHeaders.git",
                     "reference": "ff96014b56605910300409c5ab62b4578e97ae5d"
                 },
                 "dist": {
@@ -229,7 +244,10 @@
                     }
                 ],
                 "description": "Horde List Headers Parsing Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ListHeaders/tree/v1.2.1"
+                }
             },
             {
                 "name": "horde/listheaders",
@@ -237,7 +255,7 @@
                 "version_normalized": "1.2.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ListHeaders.git",
+                    "url": "https://github.com/maintaina-com/ListHeaders.git",
                     "reference": "0f22269eb1e271fd86d5f09a37162e388de96919"
                 },
                 "dist": {
@@ -269,7 +287,10 @@
                     }
                 ],
                 "description": "Horde List Headers Parsing Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ListHeaders/tree/v1.2.2"
+                }
             },
             {
                 "name": "horde/listheaders",
@@ -277,7 +298,7 @@
                 "version_normalized": "1.2.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ListHeaders.git",
+                    "url": "https://github.com/maintaina-com/ListHeaders.git",
                     "reference": "6cabf0225bbb5d998d44fdf8f40449321397082b"
                 },
                 "dist": {
@@ -309,7 +330,10 @@
                     }
                 ],
                 "description": "Horde List Headers Parsing Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ListHeaders/tree/v1.2.3"
+                }
             },
             {
                 "name": "horde/listheaders",
@@ -317,7 +341,7 @@
                 "version_normalized": "1.2.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ListHeaders.git",
+                    "url": "https://github.com/maintaina-com/ListHeaders.git",
                     "reference": "794064849a345ab1be1887767370ce1a678f4ac8"
                 },
                 "dist": {
@@ -349,7 +373,10 @@
                     }
                 ],
                 "description": "Horde List Headers Parsing Library",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ListHeaders/tree/v1.2.4"
+                }
             },
             {
                 "name": "horde/listheaders",
@@ -357,7 +384,7 @@
                 "version_normalized": "1.2.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ListHeaders.git",
+                    "url": "https://github.com/maintaina-com/ListHeaders.git",
                     "reference": "ed5453ff79a090aeae8e0d28f76f1a86a19f2f69"
                 },
                 "dist": {
@@ -398,7 +425,10 @@
                     }
                 ],
                 "description": "Horde List Headers Parsing Library",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ListHeaders/tree/v1.2.5"
+                }
             },
             {
                 "name": "horde/listheaders",
@@ -406,7 +436,7 @@
                 "version_normalized": "2.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ListHeaders.git",
+                    "url": "https://github.com/maintaina-com/ListHeaders.git",
                     "reference": "612a9267ae728412bf8a4ac28fffe254f79f278e"
                 },
                 "dist": {
@@ -447,7 +477,10 @@
                     }
                 ],
                 "description": "List headers parsing library",
-                "homepage": "https://www.horde.org/libraries/Horde_ListHeaders"
+                "homepage": "https://www.horde.org/libraries/Horde_ListHeaders",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ListHeaders/tree/v2.0.0alpha1"
+                }
             },
             {
                 "name": "horde/listheaders",
@@ -455,7 +488,7 @@
                 "version_normalized": "2.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ListHeaders.git",
+                    "url": "https://github.com/maintaina-com/ListHeaders.git",
                     "reference": "571f21c619389bff67868f7e3cba1a8ec4e72ebd"
                 },
                 "dist": {
@@ -493,7 +526,10 @@
                     }
                 ],
                 "description": "List headers parsing library",
-                "homepage": "https://www.horde.org/libraries/Horde_ListHeaders"
+                "homepage": "https://www.horde.org/libraries/Horde_ListHeaders",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ListHeaders/tree/v2.0.0alpha2"
+                }
             },
             {
                 "name": "horde/listheaders",
@@ -501,7 +537,7 @@
                 "version_normalized": "2.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ListHeaders.git",
+                    "url": "https://github.com/maintaina-com/ListHeaders.git",
                     "reference": "0c40aada632f2f774ad4fac925b65e5c1113c4e8"
                 },
                 "dist": {
@@ -538,7 +574,10 @@
                     }
                 ],
                 "description": "List headers parsing library",
-                "homepage": "https://www.horde.org/libraries/Horde_ListHeaders"
+                "homepage": "https://www.horde.org/libraries/Horde_ListHeaders",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ListHeaders/tree/v2.0.0alpha3"
+                }
             }
         ]
     }

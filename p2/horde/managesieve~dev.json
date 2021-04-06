@@ -7,7 +7,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ManageSieve.git",
+                    "url": "https://github.com/maintaina-com/ManageSieve.git",
                     "reference": "be302bc07bad40248700c2ff3b8a20ae06d6d8d1"
                 },
                 "dist": {
@@ -47,7 +47,10 @@
                     }
                 ],
                 "description": "ManageSieve client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ManageSieve/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/managesieve",
@@ -55,7 +58,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ManageSieve.git",
+                    "url": "https://github.com/maintaina-com/ManageSieve.git",
                     "reference": "520dd5ca60622ee6ee59e830e04f348563743cd7"
                 },
                 "dist": {
@@ -91,7 +94,10 @@
                     }
                 ],
                 "description": "ManageSieve client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ManageSieve/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/managesieve",
@@ -99,7 +105,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ManageSieve.git",
+                    "url": "https://github.com/maintaina-com/ManageSieve.git",
                     "reference": "c3abba972bee22731e63a6af737e77704aef838c"
                 },
                 "dist": {
@@ -139,7 +145,10 @@
                     }
                 ],
                 "description": "ManageSieve client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ManageSieve/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/managesieve",
@@ -147,7 +156,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ManageSieve.git",
+                    "url": "https://github.com/maintaina-com/ManageSieve.git",
                     "reference": "c3abba972bee22731e63a6af737e77704aef838c"
                 },
                 "dist": {
@@ -187,7 +196,10 @@
                     }
                 ],
                 "description": "ManageSieve client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ManageSieve/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/managesieve",
@@ -195,7 +207,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/ManageSieve.git",
+                    "url": "https://github.com/maintaina-com/ManageSieve.git",
                     "reference": "788b76dba80f6648410bd9cc3547208cc6f1e931"
                 },
                 "dist": {
@@ -232,7 +244,10 @@
                     }
                 ],
                 "description": "ManageSieve client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ManageSieve/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

@@ -7,7 +7,7 @@
                 "version_normalized": "2.1.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Support.git",
+                    "url": "https://github.com/maintaina-com/Support.git",
                     "reference": "92967d110c5ac87888f1d7b429be29bf3c202b7d"
                 },
                 "dist": {
@@ -48,7 +48,10 @@
                     }
                 ],
                 "description": "Horde support package",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Support/tree/v2.1.4"
+                }
             },
             {
                 "name": "horde/support",
@@ -56,7 +59,7 @@
                 "version_normalized": "2.1.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Support.git",
+                    "url": "https://github.com/maintaina-com/Support.git",
                     "reference": "0343dfd637f1b26eae4dae27fa558551252ed6d1"
                 },
                 "dist": {
@@ -97,7 +100,10 @@
                     }
                 ],
                 "description": "Horde support package",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Support/tree/v2.1.5"
+                }
             },
             {
                 "name": "horde/support",
@@ -105,7 +111,7 @@
                 "version_normalized": "2.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Support.git",
+                    "url": "https://github.com/maintaina-com/Support.git",
                     "reference": "b64527ce5bfca2401eb769e685f3d540616461ea"
                 },
                 "dist": {
@@ -146,7 +152,10 @@
                     }
                 ],
                 "description": "Horde support package",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Support/tree/v2.2.0"
+                }
             },
             {
                 "name": "horde/support",
@@ -154,7 +163,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Support.git",
+                    "url": "https://github.com/maintaina-com/Support.git",
                     "reference": "c5410091914a3830de94748c5e2c7e58f5c66e12"
                 },
                 "dist": {
@@ -204,7 +213,10 @@
                     }
                 ],
                 "description": "Supporting library",
-                "homepage": "https://www.horde.org/libraries/Horde_Support"
+                "homepage": "https://www.horde.org/libraries/Horde_Support",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Support/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/support",
@@ -212,7 +224,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Support.git",
+                    "url": "https://github.com/maintaina-com/Support.git",
                     "reference": "7ef76c7833ab6105ed7d84f50c59fbd0a015684c"
                 },
                 "dist": {
@@ -259,7 +271,10 @@
                     }
                 ],
                 "description": "Supporting library",
-                "homepage": "https://www.horde.org/libraries/Horde_Support"
+                "homepage": "https://www.horde.org/libraries/Horde_Support",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Support/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/support",
@@ -267,7 +282,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Support.git",
+                    "url": "https://github.com/maintaina-com/Support.git",
                     "reference": "56d0319e291826d15286402326508795b92a3180"
                 },
                 "dist": {
@@ -313,7 +328,10 @@
                     }
                 ],
                 "description": "Supporting library",
-                "homepage": "https://www.horde.org/libraries/Horde_Support"
+                "homepage": "https://www.horde.org/libraries/Horde_Support",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Support/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

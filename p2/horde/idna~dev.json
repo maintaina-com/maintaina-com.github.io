@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Idna.git",
+                    "url": "https://github.com/maintaina-com/Idna.git",
                     "reference": "9f578fcfb04c12505f54f40c84d989005f497060"
                 },
                 "dist": {
@@ -43,7 +43,10 @@
                     }
                 ],
                 "description": "IDNA normalization library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Idna/tree/master"
+                }
             },
             {
                 "name": "horde/idna",
@@ -51,7 +54,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Idna.git",
+                    "url": "https://github.com/maintaina-com/Idna.git",
                     "reference": "b2735474e3259bdc972ce70e8cb1ec6e7b8080b2"
                 },
                 "dist": {
@@ -90,7 +93,10 @@
                     }
                 ],
                 "description": "IDNA normalization library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Idna/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/idna",
@@ -98,7 +104,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Idna.git",
+                    "url": "https://github.com/maintaina-com/Idna.git",
                     "reference": "84648afbfa51467afcd9626d1c59543b01f674f5"
                 },
                 "dist": {
@@ -133,7 +139,10 @@
                     }
                 ],
                 "description": "IDNA normalization library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Idna/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/idna",
@@ -141,7 +150,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Idna.git",
+                    "url": "https://github.com/maintaina-com/Idna.git",
                     "reference": "2e9ab2e210867815c10c61c7a414d877818c4f32"
                 },
                 "dist": {
@@ -180,7 +189,10 @@
                     }
                 ],
                 "description": "IDNA normalization library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Idna/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/idna",
@@ -188,7 +200,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Idna.git",
+                    "url": "https://github.com/maintaina-com/Idna.git",
                     "reference": "2e9ab2e210867815c10c61c7a414d877818c4f32"
                 },
                 "dist": {
@@ -227,7 +239,10 @@
                     }
                 ],
                 "description": "IDNA normalization library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Idna/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/idna",
@@ -235,7 +250,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Idna.git",
+                    "url": "https://github.com/maintaina-com/Idna.git",
                     "reference": "cdeec6f5d7c0340386901099c3db3b8aceb70b5f"
                 },
                 "dist": {
@@ -271,7 +286,10 @@
                     }
                 ],
                 "description": "IDNA normalization library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Idna/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

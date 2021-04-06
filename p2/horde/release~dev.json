@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Release.git",
+                    "url": "https://github.com/maintaina-com/Release.git",
                     "reference": "29decb4de261ca105ae39792c55ca89fb93306f4"
                 },
                 "dist": {
@@ -48,7 +48,10 @@
                     }
                 ],
                 "description": "Component release library",
-                "homepage": "https://www.horde.org/libraries/Horde_Release"
+                "homepage": "https://www.horde.org/libraries/Horde_Release",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Release/tree/master"
+                }
             },
             {
                 "name": "horde/release",
@@ -56,7 +59,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Release.git",
+                    "url": "https://github.com/maintaina-com/Release.git",
                     "reference": "0b40aec0862dfb7120ab20cbe21d531c7548ac99"
                 },
                 "dist": {
@@ -100,7 +103,10 @@
                     }
                 ],
                 "description": "Component release library",
-                "homepage": "https://www.horde.org/libraries/Horde_Release"
+                "homepage": "https://www.horde.org/libraries/Horde_Release",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Release/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/release",
@@ -108,13 +114,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Release.git",
-                    "reference": "35526d301996003f7597a0f5c77185de751ba5fc"
+                    "url": "https://github.com/maintaina-com/Release.git",
+                    "reference": "31df743f7ba39db01e9630d2a30788b6e4bfcbdf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Release/zipball/35526d301996003f7597a0f5c77185de751ba5fc",
-                    "reference": "35526d301996003f7597a0f5c77185de751ba5fc",
+                    "url": "https://api.github.com/repos/maintaina-com/Release/zipball/31df743f7ba39db01e9630d2a30788b6e4bfcbdf",
+                    "reference": "31df743f7ba39db01e9630d2a30788b6e4bfcbdf",
                     "shasum": ""
                 },
                 "require": {
@@ -148,7 +154,10 @@
                     }
                 ],
                 "description": "Component release library",
-                "homepage": "https://www.horde.org/libraries/Horde_Release"
+                "homepage": "https://www.horde.org/libraries/Horde_Release",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Release/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/release",
@@ -156,7 +165,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Release.git",
+                    "url": "https://github.com/maintaina-com/Release.git",
                     "reference": "522999144a00215dcaf3c01192c73c2742a251ad"
                 },
                 "dist": {
@@ -200,7 +209,10 @@
                     }
                 ],
                 "description": "Component release library",
-                "homepage": "https://www.horde.org/libraries/Horde_Release"
+                "homepage": "https://www.horde.org/libraries/Horde_Release",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Release/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/release",
@@ -208,7 +220,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Release.git",
+                    "url": "https://github.com/maintaina-com/Release.git",
                     "reference": "522999144a00215dcaf3c01192c73c2742a251ad"
                 },
                 "dist": {
@@ -252,7 +264,10 @@
                     }
                 ],
                 "description": "Component release library",
-                "homepage": "https://www.horde.org/libraries/Horde_Release"
+                "homepage": "https://www.horde.org/libraries/Horde_Release",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Release/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/release",
@@ -260,7 +275,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Release.git",
+                    "url": "https://github.com/maintaina-com/Release.git",
                     "reference": "97264ec8b6c8984e199aa97d603b5d41ec44a01d"
                 },
                 "dist": {
@@ -301,7 +316,10 @@
                     }
                 ],
                 "description": "Component release library",
-                "homepage": "https://www.horde.org/libraries/Horde_Release"
+                "homepage": "https://www.horde.org/libraries/Horde_Release",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Release/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

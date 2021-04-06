@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pear.git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
                     "reference": "8933e51314f94c54b08937a38dc4328b9ae7736f"
                 },
                 "dist": {
@@ -46,7 +46,10 @@
                     }
                 ],
                 "description": "PEAR infrastructure library",
-                "homepage": "https://www.horde.org/libraries/Horde_Pear"
+                "homepage": "https://www.horde.org/libraries/Horde_Pear",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/master"
+                }
             },
             {
                 "name": "horde/pear",
@@ -54,7 +57,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pear.git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
                     "reference": "7edf13dbde0762441db15374a1efa8d944f74485"
                 },
                 "dist": {
@@ -96,7 +99,10 @@
                     }
                 ],
                 "description": "PEAR infrastructure library",
-                "homepage": "https://www.horde.org/libraries/Horde_Pear"
+                "homepage": "https://www.horde.org/libraries/Horde_Pear",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/pear",
@@ -104,7 +110,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pear.git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
                     "reference": "2bb1166da17de6560013585ba0a23c775e1146eb"
                 },
                 "dist": {
@@ -142,7 +148,10 @@
                     }
                 ],
                 "description": "PEAR infrastructure library",
-                "homepage": "https://www.horde.org/libraries/Horde_Pear"
+                "homepage": "https://www.horde.org/libraries/Horde_Pear",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/pear",
@@ -150,7 +159,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pear.git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
                     "reference": "f20f32d431ee1aace2c6dca5796d127b18dc8d13"
                 },
                 "dist": {
@@ -192,7 +201,10 @@
                     }
                 ],
                 "description": "PEAR infrastructure library",
-                "homepage": "https://www.horde.org/libraries/Horde_Pear"
+                "homepage": "https://www.horde.org/libraries/Horde_Pear",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/pear",
@@ -200,7 +212,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pear.git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
                     "reference": "f20f32d431ee1aace2c6dca5796d127b18dc8d13"
                 },
                 "dist": {
@@ -242,7 +254,10 @@
                     }
                 ],
                 "description": "PEAR infrastructure library",
-                "homepage": "https://www.horde.org/libraries/Horde_Pear"
+                "homepage": "https://www.horde.org/libraries/Horde_Pear",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/pear",
@@ -250,7 +265,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pear.git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
                     "reference": "1c7149dd794b98fdae6a347327ef4e36ade6f8cf"
                 },
                 "dist": {
@@ -289,7 +304,10 @@
                     }
                 ],
                 "description": "PEAR infrastructure library",
-                "homepage": "https://www.horde.org/libraries/Horde_Pear"
+                "homepage": "https://www.horde.org/libraries/Horde_Pear",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

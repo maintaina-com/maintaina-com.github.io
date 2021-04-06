@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Crypt_Blowfish.git",
+                    "url": "https://github.com/maintaina-com/Crypt_Blowfish.git",
                     "reference": "8cc466513176d4a8abc0780d24e421b4c4125276"
                 },
                 "dist": {
@@ -45,7 +45,10 @@
                     }
                 ],
                 "description": "Blowfish encryption library",
-                "homepage": "https://www.horde.org/libraries/Horde_Crypt_Blowfish"
+                "homepage": "https://www.horde.org/libraries/Horde_Crypt_Blowfish",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Crypt_Blowfish/tree/master"
+                }
             },
             {
                 "name": "horde/crypt_blowfish",
@@ -53,7 +56,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Crypt_Blowfish.git",
+                    "url": "https://github.com/maintaina-com/Crypt_Blowfish.git",
                     "reference": "c25661701f563fcfa414349821d3f1fc87c10281"
                 },
                 "dist": {
@@ -94,7 +97,10 @@
                     }
                 ],
                 "description": "Blowfish encryption library",
-                "homepage": "https://www.horde.org/libraries/Horde_Crypt_Blowfish"
+                "homepage": "https://www.horde.org/libraries/Horde_Crypt_Blowfish",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Crypt_Blowfish/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/crypt_blowfish",
@@ -102,13 +108,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Crypt_Blowfish.git",
-                    "reference": "d9402a984aebbff1adfd80ccd17186f54fce317e"
+                    "url": "https://github.com/maintaina-com/Crypt_Blowfish.git",
+                    "reference": "e0725db33d70580e6fd3c487024a4c907ae1f59d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Crypt_Blowfish/zipball/d9402a984aebbff1adfd80ccd17186f54fce317e",
-                    "reference": "d9402a984aebbff1adfd80ccd17186f54fce317e",
+                    "url": "https://api.github.com/repos/maintaina-com/Crypt_Blowfish/zipball/e0725db33d70580e6fd3c487024a4c907ae1f59d",
+                    "reference": "e0725db33d70580e6fd3c487024a4c907ae1f59d",
                     "shasum": ""
                 },
                 "require": {
@@ -139,7 +145,10 @@
                     }
                 ],
                 "description": "Blowfish encryption library",
-                "homepage": "https://www.horde.org/libraries/Horde_Crypt_Blowfish"
+                "homepage": "https://www.horde.org/libraries/Horde_Crypt_Blowfish",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Crypt_Blowfish/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/crypt_blowfish",
@@ -147,7 +156,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Crypt_Blowfish.git",
+                    "url": "https://github.com/maintaina-com/Crypt_Blowfish.git",
                     "reference": "07ecf499ce74094b6b2b11367ad84f87b9e4a504"
                 },
                 "dist": {
@@ -188,7 +197,10 @@
                     }
                 ],
                 "description": "Blowfish encryption library",
-                "homepage": "https://www.horde.org/libraries/Horde_Crypt_Blowfish"
+                "homepage": "https://www.horde.org/libraries/Horde_Crypt_Blowfish",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Crypt_Blowfish/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/crypt_blowfish",
@@ -196,7 +208,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Crypt_Blowfish.git",
+                    "url": "https://github.com/maintaina-com/Crypt_Blowfish.git",
                     "reference": "07ecf499ce74094b6b2b11367ad84f87b9e4a504"
                 },
                 "dist": {
@@ -237,7 +249,10 @@
                     }
                 ],
                 "description": "Blowfish encryption library",
-                "homepage": "https://www.horde.org/libraries/Horde_Crypt_Blowfish"
+                "homepage": "https://www.horde.org/libraries/Horde_Crypt_Blowfish",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Crypt_Blowfish/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/crypt_blowfish",
@@ -245,7 +260,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Crypt_Blowfish.git",
+                    "url": "https://github.com/maintaina-com/Crypt_Blowfish.git",
                     "reference": "cab629d2bcc981d466df5d76305c8c5af11edbf1"
                 },
                 "dist": {
@@ -283,7 +298,10 @@
                     }
                 ],
                 "description": "Blowfish encryption library",
-                "homepage": "https://www.horde.org/libraries/Horde_Crypt_Blowfish"
+                "homepage": "https://www.horde.org/libraries/Horde_Crypt_Blowfish",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Crypt_Blowfish/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

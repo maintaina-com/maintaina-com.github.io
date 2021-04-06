@@ -7,7 +7,7 @@
                 "version_normalized": "1.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Spam.git",
+                    "url": "https://github.com/maintaina-com/Spam.git",
                     "reference": "744448e36ff41f5676fef475eb5f72b83315111e"
                 },
                 "dist": {
@@ -49,7 +49,10 @@
                     }
                 ],
                 "description": "Spam reporting library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Spam/tree/v1.0.0alpha1"
+                }
             },
             {
                 "name": "horde/spam",
@@ -57,7 +60,7 @@
                 "version_normalized": "1.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Spam.git",
+                    "url": "https://github.com/maintaina-com/Spam.git",
                     "reference": "fffe0ede84a56cd39ef26997d986be30ed0b0c96"
                 },
                 "dist": {
@@ -96,7 +99,10 @@
                     }
                 ],
                 "description": "Spam reporting library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Spam/tree/v1.0.0alpha2"
+                }
             },
             {
                 "name": "horde/spam",
@@ -104,7 +110,7 @@
                 "version_normalized": "1.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Spam.git",
+                    "url": "https://github.com/maintaina-com/Spam.git",
                     "reference": "3062231be8591cf11b36d188a1269045987b5b7c"
                 },
                 "dist": {
@@ -142,7 +148,10 @@
                     }
                 ],
                 "description": "Spam reporting library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Spam/tree/v1.0.0alpha3"
+                }
             }
         ]
     }

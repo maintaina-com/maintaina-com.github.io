@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Diff.git",
+                    "url": "https://github.com/maintaina-com/Text_Diff.git",
                     "reference": "9c429343409c4414388d0198a155550517fda071"
                 },
                 "dist": {
@@ -50,7 +50,10 @@
                     }
                 ],
                 "description": "Text diff generation and rendering library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/master"
+                }
             },
             {
                 "name": "horde/text_diff",
@@ -58,7 +61,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Diff.git",
+                    "url": "https://github.com/maintaina-com/Text_Diff.git",
                     "reference": "b0e1217ce5eacad215a845a6238bd45b8dd93b01"
                 },
                 "dist": {
@@ -104,7 +107,10 @@
                     }
                 ],
                 "description": "Text diff generation and rendering library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/text_diff",
@@ -112,13 +118,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Diff.git",
-                    "reference": "cb1f07f915b035e26c485596b84e7ad34945a085"
+                    "url": "https://github.com/maintaina-com/Text_Diff.git",
+                    "reference": "49ea3e2d05a4ce35dd09af3737bcc6fec3a23e71"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/cb1f07f915b035e26c485596b84e7ad34945a085",
-                    "reference": "cb1f07f915b035e26c485596b84e7ad34945a085",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/49ea3e2d05a4ce35dd09af3737bcc6fec3a23e71",
+                    "reference": "49ea3e2d05a4ce35dd09af3737bcc6fec3a23e71",
                     "shasum": ""
                 },
                 "require": {
@@ -154,7 +160,10 @@
                     }
                 ],
                 "description": "Text diff generation and rendering library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/text_diff",
@@ -162,7 +171,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Diff.git",
+                    "url": "https://github.com/maintaina-com/Text_Diff.git",
                     "reference": "454ecff09e3ac7892a8833f23e33e8808097b107"
                 },
                 "dist": {
@@ -208,7 +217,10 @@
                     }
                 ],
                 "description": "Text diff generation and rendering library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/text_diff",
@@ -216,7 +228,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Diff.git",
+                    "url": "https://github.com/maintaina-com/Text_Diff.git",
                     "reference": "454ecff09e3ac7892a8833f23e33e8808097b107"
                 },
                 "dist": {
@@ -262,7 +274,10 @@
                     }
                 ],
                 "description": "Text diff generation and rendering library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/text_diff",
@@ -270,7 +285,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Text_Diff.git",
+                    "url": "https://github.com/maintaina-com/Text_Diff.git",
                     "reference": "8fec7124db4498157077393051d398146ab50cf0"
                 },
                 "dist": {
@@ -313,7 +328,10 @@
                     }
                 ],
                 "description": "Text diff generation and rendering library",
-                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff"
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

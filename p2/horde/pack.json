@@ -7,7 +7,7 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pack.git",
+                    "url": "https://github.com/maintaina-com/Pack.git",
                     "reference": "916c3ce62867043b99b780f9a30cff9f18278827"
                 },
                 "dist": {
@@ -40,7 +40,10 @@
                     }
                 ],
                 "description": "Horde Pack Utility",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pack/tree/v1.0.0"
+                }
             },
             {
                 "name": "horde/pack",
@@ -48,7 +51,7 @@
                 "version_normalized": "1.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pack.git",
+                    "url": "https://github.com/maintaina-com/Pack.git",
                     "reference": "6dd1a7730540f8d33088a20e12d3e20e4fc776da"
                 },
                 "dist": {
@@ -81,7 +84,10 @@
                     }
                 ],
                 "description": "Horde Pack Utility",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pack/tree/v1.0.2"
+                }
             },
             {
                 "name": "horde/pack",
@@ -89,7 +95,7 @@
                 "version_normalized": "1.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pack.git",
+                    "url": "https://github.com/maintaina-com/Pack.git",
                     "reference": "f4cb621de893ef36ab0dec7ff0ed69ddcd90ec60"
                 },
                 "dist": {
@@ -122,7 +128,10 @@
                     }
                 ],
                 "description": "Horde Pack Utility",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pack/tree/v1.0.3"
+                }
             },
             {
                 "name": "horde/pack",
@@ -130,7 +139,7 @@
                 "version_normalized": "1.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pack.git",
+                    "url": "https://github.com/maintaina-com/Pack.git",
                     "reference": "240ae0d2c7a764e49fab22f17ae1420dfc80a024"
                 },
                 "dist": {
@@ -163,7 +172,10 @@
                     }
                 ],
                 "description": "Horde Pack Utility",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pack/tree/v1.0.4"
+                }
             },
             {
                 "name": "horde/pack",
@@ -171,7 +183,7 @@
                 "version_normalized": "1.0.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pack.git",
+                    "url": "https://github.com/maintaina-com/Pack.git",
                     "reference": "39b5913b889b4e83a13880cfc764bb1988b1d67d"
                 },
                 "dist": {
@@ -204,7 +216,10 @@
                     }
                 ],
                 "description": "Horde Pack Utility",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pack/tree/v1.0.5"
+                }
             },
             {
                 "name": "horde/pack",
@@ -212,7 +227,7 @@
                 "version_normalized": "1.0.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pack.git",
+                    "url": "https://github.com/maintaina-com/Pack.git",
                     "reference": "741fb5db0c4b544c9568d66f1551f5fd9d9a8969"
                 },
                 "dist": {
@@ -245,7 +260,10 @@
                     }
                 ],
                 "description": "Horde Pack Utility",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pack/tree/v1.0.6"
+                }
             },
             {
                 "name": "horde/pack",
@@ -253,7 +271,7 @@
                 "version_normalized": "1.0.7.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pack.git",
+                    "url": "https://github.com/maintaina-com/Pack.git",
                     "reference": "125563d955f341d8a4b77571e0d1583418987681"
                 },
                 "dist": {
@@ -286,7 +304,10 @@
                     }
                 ],
                 "description": "Horde Pack Utility",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pack/tree/v1.0.7"
+                }
             },
             {
                 "name": "horde/pack",
@@ -294,7 +315,7 @@
                 "version_normalized": "2.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pack.git",
+                    "url": "https://github.com/maintaina-com/Pack.git",
                     "reference": "4bce284b884415afc322a5b794d5ffa71f881a04"
                 },
                 "dist": {
@@ -336,7 +357,10 @@
                     }
                 ],
                 "description": "Data packing library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pack/tree/v2.0.0alpha1"
+                }
             },
             {
                 "name": "horde/pack",
@@ -344,7 +368,7 @@
                 "version_normalized": "2.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pack.git",
+                    "url": "https://github.com/maintaina-com/Pack.git",
                     "reference": "8665a2a79c05a270ab66394c2f5162910912ea93"
                 },
                 "dist": {
@@ -383,7 +407,10 @@
                     }
                 ],
                 "description": "Data packing library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pack/tree/v2.0.0alpha2"
+                }
             },
             {
                 "name": "horde/pack",
@@ -391,7 +418,7 @@
                 "version_normalized": "2.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Pack.git",
+                    "url": "https://github.com/maintaina-com/Pack.git",
                     "reference": "7e1b78b87a3567777c0a4e4c8743135e5b425ed1"
                 },
                 "dist": {
@@ -429,7 +456,10 @@
                     }
                 ],
                 "description": "Data packing library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pack/tree/v2.0.0alpha3"
+                }
             }
         ]
     }

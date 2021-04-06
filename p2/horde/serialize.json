@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Serialize.git",
+                    "url": "https://github.com/maintaina-com/Serialize.git",
                     "reference": "43ec30a975f71fb9a294938f4106bd9113143d00"
                 },
                 "dist": {
@@ -54,7 +54,10 @@
                     }
                 ],
                 "description": "Data Encapulation API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Serialize/tree/v2.0.4"
+                }
             },
             {
                 "name": "horde/serialize",
@@ -62,7 +65,7 @@
                 "version_normalized": "2.0.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Serialize.git",
+                    "url": "https://github.com/maintaina-com/Serialize.git",
                     "reference": "f6658cdea3a6fc04fd63f7c4c0f3a27181931c5b"
                 },
                 "dist": {
@@ -109,7 +112,10 @@
                     }
                 ],
                 "description": "Data Encapulation API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Serialize/tree/v2.0.5"
+                }
             },
             {
                 "name": "horde/serialize",
@@ -117,7 +123,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Serialize.git",
+                    "url": "https://github.com/maintaina-com/Serialize.git",
                     "reference": "8c78d1b8037a0b72e25980a3da4c3798f60f9bbb"
                 },
                 "dist": {
@@ -173,7 +179,10 @@
                     }
                 ],
                 "description": "Data serialization library",
-                "homepage": "https://www.horde.org/libraries/Horde_Serialize"
+                "homepage": "https://www.horde.org/libraries/Horde_Serialize",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Serialize/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/serialize",
@@ -181,7 +190,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Serialize.git",
+                    "url": "https://github.com/maintaina-com/Serialize.git",
                     "reference": "0f40665fc611bed8534cdda0f5210dad9fdd64c0"
                 },
                 "dist": {
@@ -234,7 +243,10 @@
                     }
                 ],
                 "description": "Data serialization library",
-                "homepage": "https://www.horde.org/libraries/Horde_Serialize"
+                "homepage": "https://www.horde.org/libraries/Horde_Serialize",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Serialize/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/serialize",
@@ -242,7 +254,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Serialize.git",
+                    "url": "https://github.com/maintaina-com/Serialize.git",
                     "reference": "992cf6f84fc661401e1224c24064b0e6e19050d3"
                 },
                 "dist": {
@@ -294,7 +306,10 @@
                     }
                 ],
                 "description": "Data serialization library",
-                "homepage": "https://www.horde.org/libraries/Horde_Serialize"
+                "homepage": "https://www.horde.org/libraries/Horde_Serialize",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Serialize/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

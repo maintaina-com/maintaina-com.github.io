@@ -7,7 +7,7 @@
                 "version_normalized": "2.2.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "bf3b260fbf994df4bbdf43a572cbc41bbfc50063"
                 },
                 "dist": {
@@ -46,7 +46,10 @@
                     }
                 ],
                 "description": "Horde testing base classes",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.2.4"
+                }
             },
             {
                 "name": "horde/test",
@@ -54,7 +57,7 @@
                 "version_normalized": "2.4.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "24530486456ff2389f1da295c29b588a7bf1ceb6"
                 },
                 "dist": {
@@ -92,7 +95,10 @@
                     }
                 ],
                 "description": "Horde testing base classes",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.4.0"
+                }
             },
             {
                 "name": "horde/test",
@@ -100,7 +106,7 @@
                 "version_normalized": "2.4.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "bb2762ddca844427018900f209ad855c1e88dff9"
                 },
                 "dist": {
@@ -138,7 +144,10 @@
                     }
                 ],
                 "description": "Horde testing base classes",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.4.1"
+                }
             },
             {
                 "name": "horde/test",
@@ -146,7 +155,7 @@
                 "version_normalized": "2.4.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "9fae803f43a9936792e7d7184e4208df443c1c72"
                 },
                 "dist": {
@@ -184,7 +193,10 @@
                     }
                 ],
                 "description": "Horde testing base classes",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.4.2"
+                }
             },
             {
                 "name": "horde/test",
@@ -192,7 +204,7 @@
                 "version_normalized": "2.4.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "01651f8b30400ba7265d7d3bebc56b0e86078d7d"
                 },
                 "dist": {
@@ -230,7 +242,10 @@
                     }
                 ],
                 "description": "Horde testing base classes",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.4.3"
+                }
             },
             {
                 "name": "horde/test",
@@ -238,7 +253,7 @@
                 "version_normalized": "2.4.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "0b2765aa0524aa0c0cb53b03ad673c7bb0477829"
                 },
                 "dist": {
@@ -276,7 +291,10 @@
                     }
                 ],
                 "description": "Horde testing base classes",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.4.4"
+                }
             },
             {
                 "name": "horde/test",
@@ -284,7 +302,7 @@
                 "version_normalized": "2.4.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "b8a95b58e3ceccda8978514a0899582f778d98f6"
                 },
                 "dist": {
@@ -322,7 +340,10 @@
                     }
                 ],
                 "description": "Horde testing base classes",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.4.5"
+                }
             },
             {
                 "name": "horde/test",
@@ -330,7 +351,7 @@
                 "version_normalized": "2.4.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "a1a2f8ea03e779a0b946e54216830783053d52d8"
                 },
                 "dist": {
@@ -368,7 +389,10 @@
                     }
                 ],
                 "description": "Horde testing base classes",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.4.6"
+                }
             },
             {
                 "name": "horde/test",
@@ -376,7 +400,7 @@
                 "version_normalized": "2.4.7.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "3f8fd88200db9b16bb0191d5294125a023cd84d0"
                 },
                 "dist": {
@@ -414,7 +438,10 @@
                     }
                 ],
                 "description": "Horde testing base classes",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.4.7"
+                }
             },
             {
                 "name": "horde/test",
@@ -422,7 +449,7 @@
                 "version_normalized": "2.4.8.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "31b54a3ffb3e1ed5249ccba9594800016ec03234"
                 },
                 "dist": {
@@ -460,7 +487,10 @@
                     }
                 ],
                 "description": "Horde testing base classes",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.4.8"
+                }
             },
             {
                 "name": "horde/test",
@@ -468,7 +498,7 @@
                 "version_normalized": "2.5.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "c096c543d0bf4448db6f5515409f2261b8fd232f"
                 },
                 "dist": {
@@ -506,7 +536,10 @@
                     }
                 ],
                 "description": "Horde testing base classes",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.5.0"
+                }
             },
             {
                 "name": "horde/test",
@@ -514,7 +547,7 @@
                 "version_normalized": "2.5.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "e037ca8d5049e109d85b5ab521c4118127a8096c"
                 },
                 "dist": {
@@ -552,7 +585,10 @@
                     }
                 ],
                 "description": "Horde testing base classes",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.5.1"
+                }
             },
             {
                 "name": "horde/test",
@@ -560,7 +596,7 @@
                 "version_normalized": "2.6.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "28b54ee918c6fed294264bdb1f4aa85ce85d3b36"
                 },
                 "dist": {
@@ -598,7 +634,10 @@
                     }
                 ],
                 "description": "Horde testing base classes",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.6.0"
+                }
             },
             {
                 "name": "horde/test",
@@ -606,7 +645,7 @@
                 "version_normalized": "2.6.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "3e4cee162eb01a3669c2fea7c86b80abf9b6f366"
                 },
                 "dist": {
@@ -644,7 +683,10 @@
                     }
                 ],
                 "description": "Horde testing base classes",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.6.1"
+                }
             },
             {
                 "name": "horde/test",
@@ -652,7 +694,7 @@
                 "version_normalized": "2.6.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "6911382aa0aec31845d72aff2c029b491d4cf080"
                 },
                 "dist": {
@@ -690,7 +732,10 @@
                     }
                 ],
                 "description": "Horde testing base classes",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.6.2"
+                }
             },
             {
                 "name": "horde/test",
@@ -698,7 +743,7 @@
                 "version_normalized": "2.6.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "49aa7e11c93f1de90db9b120234a224ef817d2d4"
                 },
                 "dist": {
@@ -745,7 +790,10 @@
                     }
                 ],
                 "description": "Horde testing base classes",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.6.3"
+                }
             },
             {
                 "name": "horde/test",
@@ -753,7 +801,7 @@
                 "version_normalized": "2.6.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "f7c139882f742fb54050d1f231229cc2a0d1a667"
                 },
                 "dist": {
@@ -800,7 +848,10 @@
                     }
                 ],
                 "description": "Unit testing library",
-                "homepage": "https://www.horde.org/libraries/Horde_Test"
+                "homepage": "https://www.horde.org/libraries/Horde_Test",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v2.6.4"
+                }
             },
             {
                 "name": "horde/test",
@@ -808,7 +859,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "71a5dcb13e9de3f0bde406f5b0c278c455f168d1"
                 },
                 "dist": {
@@ -855,7 +906,10 @@
                     }
                 ],
                 "description": "Unit testing library",
-                "homepage": "https://www.horde.org/libraries/Horde_Test"
+                "homepage": "https://www.horde.org/libraries/Horde_Test",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/test",
@@ -863,7 +917,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Test.git",
+                    "url": "https://github.com/maintaina-com/Test.git",
                     "reference": "e9cc15cb482daedf1dfd505712a94b6f45642768"
                 },
                 "dist": {
@@ -907,7 +961,10 @@
                     }
                 ],
                 "description": "Unit testing library",
-                "homepage": "https://www.horde.org/libraries/Horde_Test"
+                "homepage": "https://www.horde.org/libraries/Horde_Test",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v3.0.0alpha2"
+                }
             }
         ]
     }

@@ -7,7 +7,7 @@
                 "version_normalized": "1.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/HashTable.git",
+                    "url": "https://github.com/maintaina-com/HashTable.git",
                     "reference": "486f2625d5b01e35b01310f0db0b37051935e944"
                 },
                 "dist": {
@@ -37,7 +37,10 @@
                     }
                 ],
                 "description": "Horde Hash Table Interface",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/HashTable/tree/v1.1.1"
+                }
             },
             {
                 "name": "horde/hashtable",
@@ -45,7 +48,7 @@
                 "version_normalized": "1.1.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/HashTable.git",
+                    "url": "https://github.com/maintaina-com/HashTable.git",
                     "reference": "980736010c71d737cba2e11a9419f522c2120006"
                 },
                 "dist": {
@@ -76,7 +79,10 @@
                     }
                 ],
                 "description": "Horde Hash Table Interface",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/HashTable/tree/v1.1.3"
+                }
             },
             {
                 "name": "horde/hashtable",
@@ -84,7 +90,7 @@
                 "version_normalized": "1.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/HashTable.git",
+                    "url": "https://github.com/maintaina-com/HashTable.git",
                     "reference": "b69ea94489d9ca2967a32c842df415e1de9677da"
                 },
                 "dist": {
@@ -116,7 +122,10 @@
                     }
                 ],
                 "description": "Horde Hash Table Interface",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/HashTable/tree/v1.2.0"
+                }
             },
             {
                 "name": "horde/hashtable",
@@ -124,7 +133,7 @@
                 "version_normalized": "1.2.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/HashTable.git",
+                    "url": "https://github.com/maintaina-com/HashTable.git",
                     "reference": "a0e4525a86e0f7e028953bfce6b8f102c9914013"
                 },
                 "dist": {
@@ -156,7 +165,10 @@
                     }
                 ],
                 "description": "Horde Hash Table Interface",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/HashTable/tree/v1.2.1"
+                }
             },
             {
                 "name": "horde/hashtable",
@@ -164,7 +176,7 @@
                 "version_normalized": "1.2.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/HashTable.git",
+                    "url": "https://github.com/maintaina-com/HashTable.git",
                     "reference": "9ea0010ddcfd4b032c2dffba75293ac104a7af6d"
                 },
                 "dist": {
@@ -196,7 +208,10 @@
                     }
                 ],
                 "description": "Horde Hash Table Interface",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/HashTable/tree/v1.2.2"
+                }
             },
             {
                 "name": "horde/hashtable",
@@ -204,7 +219,7 @@
                 "version_normalized": "1.2.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/HashTable.git",
+                    "url": "https://github.com/maintaina-com/HashTable.git",
                     "reference": "255acdd49c77f4778b23dc12545fd23479a6526d"
                 },
                 "dist": {
@@ -236,7 +251,10 @@
                     }
                 ],
                 "description": "Horde Hash Table Interface",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/HashTable/tree/v1.2.3"
+                }
             },
             {
                 "name": "horde/hashtable",
@@ -244,7 +262,7 @@
                 "version_normalized": "1.2.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/HashTable.git",
+                    "url": "https://github.com/maintaina-com/HashTable.git",
                     "reference": "7d02cf7581405f184d2ad59f40ec0efa87982909"
                 },
                 "dist": {
@@ -276,7 +294,10 @@
                     }
                 ],
                 "description": "Horde Hash Table Interface",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/HashTable/tree/v1.2.4"
+                }
             },
             {
                 "name": "horde/hashtable",
@@ -284,7 +305,7 @@
                 "version_normalized": "1.2.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/HashTable.git",
+                    "url": "https://github.com/maintaina-com/HashTable.git",
                     "reference": "7928b97a4b66def421f5a4eb2bfb27449009f578"
                 },
                 "dist": {
@@ -316,7 +337,10 @@
                     }
                 ],
                 "description": "Horde Hash Table Interface",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/HashTable/tree/v1.2.5"
+                }
             },
             {
                 "name": "horde/hashtable",
@@ -324,7 +348,7 @@
                 "version_normalized": "1.2.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/HashTable.git",
+                    "url": "https://github.com/maintaina-com/HashTable.git",
                     "reference": "4e7dfdf51fd4f05c6dd2b163e021648a3b40085a"
                 },
                 "dist": {
@@ -356,7 +380,10 @@
                     }
                 ],
                 "description": "Horde Hash Table Interface",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/HashTable/tree/v1.2.6"
+                }
             },
             {
                 "name": "horde/hashtable",
@@ -364,7 +391,7 @@
                 "version_normalized": "2.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/HashTable.git",
+                    "url": "https://github.com/maintaina-com/HashTable.git",
                     "reference": "9b4cc58eebeef5bb6b366f4b8412f27fb2fa35ce"
                 },
                 "dist": {
@@ -405,7 +432,10 @@
                     }
                 ],
                 "description": "Hash table client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/HashTable/tree/v2.0.0alpha1"
+                }
             },
             {
                 "name": "horde/hashtable",
@@ -413,7 +443,7 @@
                 "version_normalized": "2.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/HashTable.git",
+                    "url": "https://github.com/maintaina-com/HashTable.git",
                     "reference": "fc1bee1490f2cf4006650e8b26d45c2d5455a07d"
                 },
                 "dist": {
@@ -451,7 +481,10 @@
                     }
                 ],
                 "description": "Hash table client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/HashTable/tree/v2.0.0alpha2"
+                }
             },
             {
                 "name": "horde/hashtable",
@@ -459,7 +492,7 @@
                 "version_normalized": "2.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/HashTable.git",
+                    "url": "https://github.com/maintaina-com/HashTable.git",
                     "reference": "b4bb6d86b454ccf4a9c2d46a30d650d4fba9319b"
                 },
                 "dist": {
@@ -496,7 +529,10 @@
                     }
                 ],
                 "description": "Hash table client library",
-                "homepage": "https://www.horde.org"
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/HashTable/tree/v2.0.0alpha3"
+                }
             }
         ]
     }

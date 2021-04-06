@@ -7,7 +7,7 @@
                 "version_normalized": "2.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Perms.git",
+                    "url": "https://github.com/maintaina-com/Perms.git",
                     "reference": "ae3c51ca61bfb6806e26dd995c33a275432d1a6b"
                 },
                 "dist": {
@@ -46,7 +46,10 @@
                     }
                 ],
                 "description": "Horde Permissions System",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Perms/tree/v2.1.2"
+                }
             },
             {
                 "name": "horde/perms",
@@ -54,7 +57,7 @@
                 "version_normalized": "2.1.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Perms.git",
+                    "url": "https://github.com/maintaina-com/Perms.git",
                     "reference": "9fc535d5d7a48d18a37bee7bf270a5ba04d05705"
                 },
                 "dist": {
@@ -93,7 +96,10 @@
                     }
                 ],
                 "description": "Horde Permissions System",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Perms/tree/v2.1.3"
+                }
             },
             {
                 "name": "horde/perms",
@@ -101,7 +107,7 @@
                 "version_normalized": "2.1.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Perms.git",
+                    "url": "https://github.com/maintaina-com/Perms.git",
                     "reference": "2bdc32dfb6380a971111fa448c89406e4c62a503"
                 },
                 "dist": {
@@ -140,7 +146,10 @@
                     }
                 ],
                 "description": "Horde Permissions System",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Perms/tree/v2.1.4"
+                }
             },
             {
                 "name": "horde/perms",
@@ -148,7 +157,7 @@
                 "version_normalized": "2.1.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Perms.git",
+                    "url": "https://github.com/maintaina-com/Perms.git",
                     "reference": "4ac50f29b2443b08272f86c563cbfcba5a375aaf"
                 },
                 "dist": {
@@ -187,7 +196,10 @@
                     }
                 ],
                 "description": "Horde Permissions System",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Perms/tree/v2.1.5"
+                }
             },
             {
                 "name": "horde/perms",
@@ -195,7 +207,7 @@
                 "version_normalized": "2.1.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Perms.git",
+                    "url": "https://github.com/maintaina-com/Perms.git",
                     "reference": "f9f23a7e3f9da7b223d159e410435d79c937781d"
                 },
                 "dist": {
@@ -234,7 +246,10 @@
                     }
                 ],
                 "description": "Horde Permissions System",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Perms/tree/v2.1.6"
+                }
             },
             {
                 "name": "horde/perms",
@@ -242,7 +257,7 @@
                 "version_normalized": "2.1.7.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Perms.git",
+                    "url": "https://github.com/maintaina-com/Perms.git",
                     "reference": "a1981a4efaf164fd72caa1ee63748b021990ecad"
                 },
                 "dist": {
@@ -281,7 +296,10 @@
                     }
                 ],
                 "description": "Horde Permissions System",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Perms/tree/v2.1.7"
+                }
             },
             {
                 "name": "horde/perms",
@@ -289,7 +307,7 @@
                 "version_normalized": "2.1.8.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Perms.git",
+                    "url": "https://github.com/maintaina-com/Perms.git",
                     "reference": "d46088f55385c6e49b7e073b96976969cd1ebfaf"
                 },
                 "dist": {
@@ -337,7 +355,10 @@
                     }
                 ],
                 "description": "Permissions library",
-                "homepage": "https://www.horde.org/libraries/Horde_Perms"
+                "homepage": "https://www.horde.org/libraries/Horde_Perms",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Perms/tree/v2.1.8"
+                }
             },
             {
                 "name": "horde/perms",
@@ -345,7 +366,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Perms.git",
+                    "url": "https://github.com/maintaina-com/Perms.git",
                     "reference": "544c9e60c67cef8241a7260922b75200e3d86c0a"
                 },
                 "dist": {
@@ -393,7 +414,10 @@
                     }
                 ],
                 "description": "Permissions library",
-                "homepage": "https://www.horde.org/libraries/Horde_Perms"
+                "homepage": "https://www.horde.org/libraries/Horde_Perms",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Perms/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/perms",
@@ -401,7 +425,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Perms.git",
+                    "url": "https://github.com/maintaina-com/Perms.git",
                     "reference": "6639a2a36e94e1032e34d944c4c28ac5f745e0b1"
                 },
                 "dist": {
@@ -446,7 +470,10 @@
                     }
                 ],
                 "description": "Permissions library",
-                "homepage": "https://www.horde.org/libraries/Horde_Perms"
+                "homepage": "https://www.horde.org/libraries/Horde_Perms",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Perms/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/perms",
@@ -454,7 +481,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Perms.git",
+                    "url": "https://github.com/maintaina-com/Perms.git",
                     "reference": "af35b7a703f200798e6acf4131b839ad2a26f35a"
                 },
                 "dist": {
@@ -498,7 +525,10 @@
                     }
                 ],
                 "description": "Permissions library",
-                "homepage": "https://www.horde.org/libraries/Horde_Perms"
+                "homepage": "https://www.horde.org/libraries/Horde_Perms",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Perms/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

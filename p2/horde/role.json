@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Role.git",
+                    "url": "https://github.com/maintaina-com/Role.git",
                     "reference": "6a753ab5d92f92c49de6c0bfdd36db3ac470f8bd"
                 },
                 "dist": {
@@ -46,7 +46,10 @@
                     }
                 ],
                 "description": "PEAR installer role",
-                "homepage": "https://www.horde.org/libraries/Horde_Role"
+                "homepage": "https://www.horde.org/libraries/Horde_Role",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Role/tree/v2.0.0alpha1"
+                }
             },
             {
                 "name": "horde/role",
@@ -54,7 +57,7 @@
                 "version_normalized": "2.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Role.git",
+                    "url": "https://github.com/maintaina-com/Role.git",
                     "reference": "246a1b10bcc665facdc508504b6bb515bbf810f1"
                 },
                 "dist": {
@@ -85,7 +88,10 @@
                     }
                 ],
                 "description": "PEAR installer role",
-                "homepage": "https://www.horde.org/libraries/Horde_Role"
+                "homepage": "https://www.horde.org/libraries/Horde_Role",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Role/tree/v2.0.0alpha2"
+                }
             },
             {
                 "name": "horde/role",
@@ -93,7 +99,7 @@
                 "version_normalized": "2.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Role.git",
+                    "url": "https://github.com/maintaina-com/Role.git",
                     "reference": "595ef2a425441bf982bfa440b2cfd809c18b6275"
                 },
                 "dist": {
@@ -123,7 +129,10 @@
                     }
                 ],
                 "description": "PEAR installer role",
-                "homepage": "https://www.horde.org/libraries/Horde_Role"
+                "homepage": "https://www.horde.org/libraries/Horde_Role",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Role/tree/v2.0.0alpha3"
+                }
             }
         ]
     }

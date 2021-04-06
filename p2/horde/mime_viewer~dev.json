@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mime_Viewer.git",
+                    "url": "https://github.com/maintaina-com/Mime_Viewer.git",
                     "reference": "178e0d91a3b890757a602dd857e58bea8f70866c"
                 },
                 "dist": {
@@ -50,7 +50,10 @@
                     }
                 ],
                 "description": "MIME viewer library",
-                "homepage": "https://www.horde.org/libraries/Horde_Mime_Viewer"
+                "homepage": "https://www.horde.org/libraries/Horde_Mime_Viewer",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mime_Viewer/tree/master"
+                }
             },
             {
                 "name": "horde/mime_viewer",
@@ -58,7 +61,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mime_Viewer.git",
+                    "url": "https://github.com/maintaina-com/Mime_Viewer.git",
                     "reference": "f4f9ac1e5b1ff49c3f433f227087148f9689583c"
                 },
                 "dist": {
@@ -104,7 +107,10 @@
                     }
                 ],
                 "description": "MIME viewer library",
-                "homepage": "https://www.horde.org/libraries/Horde_Mime_Viewer"
+                "homepage": "https://www.horde.org/libraries/Horde_Mime_Viewer",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mime_Viewer/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/mime_viewer",
@@ -112,7 +118,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mime_Viewer.git",
+                    "url": "https://github.com/maintaina-com/Mime_Viewer.git",
                     "reference": "7bc061589cd1a2ab345e9eca3fa5eec3bc967d75"
                 },
                 "dist": {
@@ -155,7 +161,10 @@
                     }
                 ],
                 "description": "MIME viewer library",
-                "homepage": "https://www.horde.org/libraries/Horde_Mime_Viewer"
+                "homepage": "https://www.horde.org/libraries/Horde_Mime_Viewer",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mime_Viewer/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/mime_viewer",
@@ -163,7 +172,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mime_Viewer.git",
+                    "url": "https://github.com/maintaina-com/Mime_Viewer.git",
                     "reference": "ac8e21885b8e139e526b2ade55690522b5bb3d6c"
                 },
                 "dist": {
@@ -209,7 +218,10 @@
                     }
                 ],
                 "description": "MIME viewer library",
-                "homepage": "https://www.horde.org/libraries/Horde_Mime_Viewer"
+                "homepage": "https://www.horde.org/libraries/Horde_Mime_Viewer",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mime_Viewer/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/mime_viewer",
@@ -217,7 +229,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mime_Viewer.git",
+                    "url": "https://github.com/maintaina-com/Mime_Viewer.git",
                     "reference": "ac8e21885b8e139e526b2ade55690522b5bb3d6c"
                 },
                 "dist": {
@@ -263,7 +275,10 @@
                     }
                 ],
                 "description": "MIME viewer library",
-                "homepage": "https://www.horde.org/libraries/Horde_Mime_Viewer"
+                "homepage": "https://www.horde.org/libraries/Horde_Mime_Viewer",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mime_Viewer/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/mime_viewer",
@@ -271,7 +286,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Mime_Viewer.git",
+                    "url": "https://github.com/maintaina-com/Mime_Viewer.git",
                     "reference": "e790b6b7e9ea050e959536b4a725df5453fc206c"
                 },
                 "dist": {
@@ -314,7 +329,10 @@
                     }
                 ],
                 "description": "MIME viewer library",
-                "homepage": "https://www.horde.org/libraries/Horde_Mime_Viewer"
+                "homepage": "https://www.horde.org/libraries/Horde_Mime_Viewer",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mime_Viewer/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

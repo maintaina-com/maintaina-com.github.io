@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date_Parser.git",
+                    "url": "https://github.com/maintaina-com/Date_Parser.git",
                     "reference": "ff6c43ba40c204792f9d59cf7f0e3dce5d1e2795"
                 },
                 "dist": {
@@ -49,7 +49,10 @@
                     }
                 ],
                 "description": "Date parser library",
-                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser"
+                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date_Parser/tree/master"
+                }
             },
             {
                 "name": "horde/date_parser",
@@ -57,7 +60,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date_Parser.git",
+                    "url": "https://github.com/maintaina-com/Date_Parser.git",
                     "reference": "3e5f1544e68a315d68373650357cef82a16a5601"
                 },
                 "dist": {
@@ -102,7 +105,10 @@
                     }
                 ],
                 "description": "Date parser library",
-                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser"
+                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date_Parser/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/date_parser",
@@ -110,13 +116,13 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date_Parser.git",
-                    "reference": "15712f629b779540e1924314b1877eab0f8aa509"
+                    "url": "https://github.com/maintaina-com/Date_Parser.git",
+                    "reference": "678aa5f1ae4dbb3c7ac6b1cb4ee2ecd7f6651b6e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Date_Parser/zipball/15712f629b779540e1924314b1877eab0f8aa509",
-                    "reference": "15712f629b779540e1924314b1877eab0f8aa509",
+                    "url": "https://api.github.com/repos/maintaina-com/Date_Parser/zipball/678aa5f1ae4dbb3c7ac6b1cb4ee2ecd7f6651b6e",
+                    "reference": "678aa5f1ae4dbb3c7ac6b1cb4ee2ecd7f6651b6e",
                     "shasum": ""
                 },
                 "require": {
@@ -151,7 +157,10 @@
                     }
                 ],
                 "description": "Date parser library",
-                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser"
+                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date_Parser/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/date_parser",
@@ -159,7 +168,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date_Parser.git",
+                    "url": "https://github.com/maintaina-com/Date_Parser.git",
                     "reference": "a642431495ef364cb0b1124b0e5605926cc5419e"
                 },
                 "dist": {
@@ -204,7 +213,10 @@
                     }
                 ],
                 "description": "Date parser library",
-                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser"
+                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date_Parser/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/date_parser",
@@ -212,7 +224,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date_Parser.git",
+                    "url": "https://github.com/maintaina-com/Date_Parser.git",
                     "reference": "a642431495ef364cb0b1124b0e5605926cc5419e"
                 },
                 "dist": {
@@ -257,7 +269,10 @@
                     }
                 ],
                 "description": "Date parser library",
-                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser"
+                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date_Parser/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/date_parser",
@@ -265,7 +280,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Date_Parser.git",
+                    "url": "https://github.com/maintaina-com/Date_Parser.git",
                     "reference": "e37065c3a3407f2e0c62cbc66a64ad2367c6fd4f"
                 },
                 "dist": {
@@ -307,7 +322,10 @@
                     }
                 ],
                 "description": "Date parser library",
-                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser"
+                "homepage": "https://www.horde.org/libraries/Horde_Date_Parser",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date_Parser/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

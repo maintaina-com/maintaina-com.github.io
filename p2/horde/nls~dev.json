@@ -7,7 +7,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Nls.git",
+                    "url": "https://github.com/maintaina-com/Nls.git",
                     "reference": "a7359c01a1e81083d2bdc1eed11a3f8913f847db"
                 },
                 "dist": {
@@ -49,7 +49,10 @@
                     }
                 ],
                 "description": "Native language support library",
-                "homepage": "https://www.horde.org/libraries/Horde_Nls"
+                "homepage": "https://www.horde.org/libraries/Horde_Nls",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Nls/tree/master"
+                }
             },
             {
                 "name": "horde/nls",
@@ -57,7 +60,7 @@
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Nls.git",
+                    "url": "https://github.com/maintaina-com/Nls.git",
                     "reference": "4a95345c11ed813058a97f195d3dd7507278e3cb"
                 },
                 "dist": {
@@ -102,7 +105,10 @@
                     }
                 ],
                 "description": "Native language support library",
-                "homepage": "https://www.horde.org/libraries/Horde_Nls"
+                "homepage": "https://www.horde.org/libraries/Horde_Nls",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Nls/tree/FRAMEWORK_5_2"
+                }
             },
             {
                 "name": "horde/nls",
@@ -110,7 +116,7 @@
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Nls.git",
+                    "url": "https://github.com/maintaina-com/Nls.git",
                     "reference": "72035fbccba85905e8ba96dfc54395c983e4b713"
                 },
                 "dist": {
@@ -151,7 +157,10 @@
                     }
                 ],
                 "description": "Native language support library",
-                "homepage": "https://www.horde.org/libraries/Horde_Nls"
+                "homepage": "https://www.horde.org/libraries/Horde_Nls",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Nls/tree/FRAMEWORK_6_0"
+                }
             },
             {
                 "name": "horde/nls",
@@ -159,7 +168,7 @@
                 "version_normalized": "dev-horde-upstream",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Nls.git",
+                    "url": "https://github.com/maintaina-com/Nls.git",
                     "reference": "e1eaadb3ac4d9e486ece7fef48698874dc193aa7"
                 },
                 "dist": {
@@ -204,7 +213,10 @@
                     }
                 ],
                 "description": "Native language support library",
-                "homepage": "https://www.horde.org/libraries/Horde_Nls"
+                "homepage": "https://www.horde.org/libraries/Horde_Nls",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Nls/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/nls",
@@ -212,7 +224,7 @@
                 "version_normalized": "dev-maintaina-bare",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Nls.git",
+                    "url": "https://github.com/maintaina-com/Nls.git",
                     "reference": "e1eaadb3ac4d9e486ece7fef48698874dc193aa7"
                 },
                 "dist": {
@@ -257,7 +269,10 @@
                     }
                 ],
                 "description": "Native language support library",
-                "homepage": "https://www.horde.org/libraries/Horde_Nls"
+                "homepage": "https://www.horde.org/libraries/Horde_Nls",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Nls/tree/horde-upstream"
+                }
             },
             {
                 "name": "horde/nls",
@@ -265,7 +280,7 @@
                 "version_normalized": "dev-maintaina-composerfixed",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Nls.git",
+                    "url": "https://github.com/maintaina-com/Nls.git",
                     "reference": "83e8f09db7df30ed0b4cd965ab3df72dd138870b"
                 },
                 "dist": {
@@ -307,7 +322,10 @@
                     }
                 ],
                 "description": "Native language support library",
-                "homepage": "https://www.horde.org/libraries/Horde_Nls"
+                "homepage": "https://www.horde.org/libraries/Horde_Nls",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Nls/tree/maintaina-composerfixed"
+                }
             },
             {
                 "name": "horde/nls",
@@ -315,7 +333,7 @@
                 "version_normalized": "dev-pr-autoload-issue",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Nls.git",
+                    "url": "https://github.com/maintaina-com/Nls.git",
                     "reference": "c6b75f3fb91b729184a904131caf29a85c410228"
                 },
                 "dist": {
@@ -360,7 +378,10 @@
                     }
                 ],
                 "description": "Native language support library",
-                "homepage": "https://www.horde.org/libraries/Horde_Nls"
+                "homepage": "https://www.horde.org/libraries/Horde_Nls",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Nls/tree/pr-autoload-issue"
+                }
             }
         ]
     }

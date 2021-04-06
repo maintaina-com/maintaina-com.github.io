@@ -7,7 +7,7 @@
                 "version_normalized": "2.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "73f97f676a34bceb4752a749a763023c2f7b2db2"
                 },
                 "dist": {
@@ -39,7 +39,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.1.1"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -47,7 +50,7 @@
                 "version_normalized": "2.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "64110e37797ffe056c3a9f6b96a834a7dd29be3b"
                 },
                 "dist": {
@@ -79,7 +82,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.1.2"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -87,7 +93,7 @@
                 "version_normalized": "2.1.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "39c09e8d2a3bdfdc16b63f80f71e40f4d433f73f"
                 },
                 "dist": {
@@ -119,7 +125,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.1.3"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -127,7 +136,7 @@
                 "version_normalized": "2.1.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "1c15934792fb4c1ee0baf8e2b785dc4839dfc1f8"
                 },
                 "dist": {
@@ -159,7 +168,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.1.4"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -167,7 +179,7 @@
                 "version_normalized": "2.1.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "b9fc1a8f3f2bcd4a0e586604eee85beeb8a09399"
                 },
                 "dist": {
@@ -200,7 +212,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.1.5"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -208,7 +223,7 @@
                 "version_normalized": "2.1.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "f1282df6b54e8ff58d4bbbf9f43051dbfefa1a18"
                 },
                 "dist": {
@@ -241,7 +256,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.1.6"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -249,7 +267,7 @@
                 "version_normalized": "2.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "2334d7b90e7c21ed8bf855eb81c5c4bc8524de06"
                 },
                 "dist": {
@@ -282,7 +300,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.2.0"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -290,7 +311,7 @@
                 "version_normalized": "2.3.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "a6f36cee8fc89e856105d2b8b31cce1fc25e5285"
                 },
                 "dist": {
@@ -323,7 +344,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.3.0"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -331,7 +355,7 @@
                 "version_normalized": "2.3.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "429ff83c721af1bc643b3544c5d8b739dbf201a9"
                 },
                 "dist": {
@@ -364,7 +388,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.3.1"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -372,7 +399,7 @@
                 "version_normalized": "2.3.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "b5f04c841c6dc31f7a052edd6440119bd9a4ef91"
                 },
                 "dist": {
@@ -405,7 +432,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.3.2"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -413,7 +443,7 @@
                 "version_normalized": "2.3.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "16273727ce5bb354defce15dcac8d1eca5cd0e54"
                 },
                 "dist": {
@@ -446,7 +476,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.3.3"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -454,7 +487,7 @@
                 "version_normalized": "2.3.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "9b85c7b6f8799b2ca6d3b5f785281711d6294d4e"
                 },
                 "dist": {
@@ -487,7 +520,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.3.4"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -495,7 +531,7 @@
                 "version_normalized": "2.4.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "77183ec24eef7438ea22188886292440772e1273"
                 },
                 "dist": {
@@ -528,7 +564,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.4.0"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -536,7 +575,7 @@
                 "version_normalized": "2.4.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "1f2534d0e9921297872c3c99b5644d29e1d42c41"
                 },
                 "dist": {
@@ -569,7 +608,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.4.1"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -577,7 +619,7 @@
                 "version_normalized": "2.5.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "859ee8cab36f390c096b0135a7cb737d8db6fcf5"
                 },
                 "dist": {
@@ -610,7 +652,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.5.0"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -618,7 +663,7 @@
                 "version_normalized": "2.5.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "7c722e8da96c1802e888fde68cc21d4ef0bb187d"
                 },
                 "dist": {
@@ -651,7 +696,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.5.1"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -659,7 +707,7 @@
                 "version_normalized": "2.5.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "d7d48e5142f560c24e07c0974a3fc75f1d9540b9"
                 },
                 "dist": {
@@ -692,7 +740,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.5.2"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -700,7 +751,7 @@
                 "version_normalized": "2.5.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "55a1289d00cf1dc6d976698288dddd0b2fe8771c"
                 },
                 "dist": {
@@ -733,7 +784,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.5.3"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -741,7 +795,7 @@
                 "version_normalized": "2.5.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "a08b89323c8ddbe53e2ddf7fcfff734f7eaf2539"
                 },
                 "dist": {
@@ -774,7 +828,10 @@
                     }
                 ],
                 "description": "Horde Weather Provider.",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v2.5.4"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -782,7 +839,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "ef41fb0eea6768aa0f4e40601656370e664e69da"
                 },
                 "dist": {
@@ -824,7 +881,10 @@
                     }
                 ],
                 "description": "Weather service library",
-                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather"
+                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -832,7 +892,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "cd4e67680d58ae0aae0279528a25985ad842245d"
                 },
                 "dist": {
@@ -871,7 +931,10 @@
                     }
                 ],
                 "description": "Weather service library",
-                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather"
+                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/service_weather",
@@ -879,7 +942,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Service_Weather.git",
+                    "url": "https://github.com/maintaina-com/Service_Weather.git",
                     "reference": "a74aa2a66f1fc2fd663098f44f946f543088070c"
                 },
                 "dist": {
@@ -917,7 +980,10 @@
                     }
                 ],
                 "description": "Weather service library",
-                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather"
+                "homepage": "https://www.horde.org/libraries/Horde_Service_Weather",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Weather/tree/v3.0.0alpha3"
+                }
             }
         ]
     }

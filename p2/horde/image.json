@@ -7,7 +7,7 @@
                 "version_normalized": "2.0.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "85ef1c62edaefcd5c4fc35a4aae74e29c603e747"
                 },
                 "dist": {
@@ -48,7 +48,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.0.6"
+                }
             },
             {
                 "name": "horde/image",
@@ -56,7 +59,7 @@
                 "version_normalized": "2.0.8.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "efd964ce7893d68e98271f3851a2efbc44915e80"
                 },
                 "dist": {
@@ -98,7 +101,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.0.8"
+                }
             },
             {
                 "name": "horde/image",
@@ -106,7 +112,7 @@
                 "version_normalized": "2.0.9.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "7950460b6b98ff288d1cf391a228d21f762cecaa"
                 },
                 "dist": {
@@ -148,7 +154,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.0.9"
+                }
             },
             {
                 "name": "horde/image",
@@ -156,7 +165,7 @@
                 "version_normalized": "2.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "fafaed7c8c76acb416dcb6ab4b81a11301e5a153"
                 },
                 "dist": {
@@ -198,7 +207,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.1.0"
+                }
             },
             {
                 "name": "horde/image",
@@ -206,7 +218,7 @@
                 "version_normalized": "2.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "1f191a196aa98c9fd77828f89ab41e0fda94f3af"
                 },
                 "dist": {
@@ -249,7 +261,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.2.0"
+                }
             },
             {
                 "name": "horde/image",
@@ -257,7 +272,7 @@
                 "version_normalized": "2.3.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "0540a42c75537d2f17b93bd94567e792e395638f"
                 },
                 "dist": {
@@ -300,7 +315,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.3.0"
+                }
             },
             {
                 "name": "horde/image",
@@ -308,7 +326,7 @@
                 "version_normalized": "2.3.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "ddf14bd3018cd2ac440fb43ed419ccdd5a291f62"
                 },
                 "dist": {
@@ -351,7 +369,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.3.1"
+                }
             },
             {
                 "name": "horde/image",
@@ -359,7 +380,7 @@
                 "version_normalized": "2.3.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "89747700ab2d17b71cd57be028c5671d227ac703"
                 },
                 "dist": {
@@ -402,7 +423,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.3.2"
+                }
             },
             {
                 "name": "horde/image",
@@ -410,7 +434,7 @@
                 "version_normalized": "2.3.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "b37f7b9c5186ed04f75e323bf648a35615498d79"
                 },
                 "dist": {
@@ -453,7 +477,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.3.3"
+                }
             },
             {
                 "name": "horde/image",
@@ -461,7 +488,7 @@
                 "version_normalized": "2.3.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "f3a5e4c66f4c45e36f23eec186ed9773b891b361"
                 },
                 "dist": {
@@ -504,7 +531,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.3.4"
+                }
             },
             {
                 "name": "horde/image",
@@ -512,7 +542,7 @@
                 "version_normalized": "2.3.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "dca802cdc33e44998204fe0cd992f2eca42d93a6"
                 },
                 "dist": {
@@ -555,7 +585,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "http://pear.horde.org"
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.3.5"
+                }
             },
             {
                 "name": "horde/image",
@@ -563,7 +596,7 @@
                 "version_normalized": "2.3.6.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "fbaf6caa9699ed423c9678ddb705144ac37f286e"
                 },
                 "dist": {
@@ -606,7 +639,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.3.6"
+                }
             },
             {
                 "name": "horde/image",
@@ -614,7 +650,7 @@
                 "version_normalized": "2.4.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "e4b2b3a7a51e61665e8baee0e93b8f723f94c70b"
                 },
                 "dist": {
@@ -657,7 +693,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.4.0"
+                }
             },
             {
                 "name": "horde/image",
@@ -665,7 +704,7 @@
                 "version_normalized": "2.4.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "7f85046c1413be7ebf89b93741e08d21964f4de8"
                 },
                 "dist": {
@@ -708,7 +747,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.4.1"
+                }
             },
             {
                 "name": "horde/image",
@@ -716,7 +758,7 @@
                 "version_normalized": "2.5.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "d026bd3843264de108d9f143207c3407008112f8"
                 },
                 "dist": {
@@ -768,7 +810,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.5.0"
+                }
             },
             {
                 "name": "horde/image",
@@ -776,7 +821,7 @@
                 "version_normalized": "2.5.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "d2a48831baf957ff76097f0edf4cb23dc2d31c14"
                 },
                 "dist": {
@@ -828,7 +873,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.5.1"
+                }
             },
             {
                 "name": "horde/image",
@@ -836,7 +884,7 @@
                 "version_normalized": "2.5.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "c7542a42afd92d55306f796726e3beab0cd4df8c"
                 },
                 "dist": {
@@ -888,7 +936,10 @@
                     }
                 ],
                 "description": "Horde Image API",
-                "homepage": "https://pear.horde.org"
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.5.2"
+                }
             },
             {
                 "name": "horde/image",
@@ -896,7 +947,7 @@
                 "version_normalized": "2.5.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "e68b880cb2814a22705cb82bc04f6fddd935b8cc"
                 },
                 "dist": {
@@ -948,7 +999,10 @@
                     }
                 ],
                 "description": "Image library",
-                "homepage": "https://www.horde.org/libraries/Horde_Image"
+                "homepage": "https://www.horde.org/libraries/Horde_Image",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.5.3"
+                }
             },
             {
                 "name": "horde/image",
@@ -956,7 +1010,7 @@
                 "version_normalized": "2.5.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "8f3dec89ee802c6aac2322cd346dabde10646f4e"
                 },
                 "dist": {
@@ -1008,7 +1062,10 @@
                     }
                 ],
                 "description": "Image library",
-                "homepage": "https://www.horde.org/libraries/Horde_Image"
+                "homepage": "https://www.horde.org/libraries/Horde_Image",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.5.4"
+                }
             },
             {
                 "name": "horde/image",
@@ -1016,7 +1073,7 @@
                 "version_normalized": "2.5.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "1a57c9a19aaa97bc9e98e8c09e5715532f26fe7f"
                 },
                 "dist": {
@@ -1068,7 +1125,10 @@
                     }
                 ],
                 "description": "Image library",
-                "homepage": "https://www.horde.org/libraries/Horde_Image"
+                "homepage": "https://www.horde.org/libraries/Horde_Image",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.5.5"
+                }
             },
             {
                 "name": "horde/image",
@@ -1076,7 +1136,7 @@
                 "version_normalized": "2.6.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "b62ce1662345f88f8c0af28ab8657e1852083a5c"
                 },
                 "dist": {
@@ -1128,7 +1188,10 @@
                     }
                 ],
                 "description": "Image library",
-                "homepage": "https://www.horde.org/libraries/Horde_Image"
+                "homepage": "https://www.horde.org/libraries/Horde_Image",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.6.0"
+                }
             },
             {
                 "name": "horde/image",
@@ -1136,7 +1199,7 @@
                 "version_normalized": "2.6.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "789cc43bcdb99f157bd987072cff390bec351856"
                 },
                 "dist": {
@@ -1188,7 +1251,10 @@
                     }
                 ],
                 "description": "Image library",
-                "homepage": "https://www.horde.org/libraries/Horde_Image"
+                "homepage": "https://www.horde.org/libraries/Horde_Image",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v2.6.1"
+                }
             },
             {
                 "name": "horde/image",
@@ -1196,7 +1262,7 @@
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "2b99179da1547b2d57b2dfb720e324f244355330"
                 },
                 "dist": {
@@ -1248,7 +1314,10 @@
                     }
                 ],
                 "description": "Image library",
-                "homepage": "https://www.horde.org/libraries/Horde_Image"
+                "homepage": "https://www.horde.org/libraries/Horde_Image",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v3.0.0alpha1"
+                }
             },
             {
                 "name": "horde/image",
@@ -1256,7 +1325,7 @@
                 "version_normalized": "3.0.0.0-alpha2",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "add4d304109e2361ba227c628fa026af0f9e4f17"
                 },
                 "dist": {
@@ -1305,7 +1374,10 @@
                     }
                 ],
                 "description": "Image library",
-                "homepage": "https://www.horde.org/libraries/Horde_Image"
+                "homepage": "https://www.horde.org/libraries/Horde_Image",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v3.0.0alpha2"
+                }
             },
             {
                 "name": "horde/image",
@@ -1313,7 +1385,7 @@
                 "version_normalized": "3.0.0.0-alpha3",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "12ae172e74a0cf0f975e8ffee4292dae00062647"
                 },
                 "dist": {
@@ -1361,7 +1433,10 @@
                     }
                 ],
                 "description": "Image library",
-                "homepage": "https://www.horde.org/libraries/Horde_Image"
+                "homepage": "https://www.horde.org/libraries/Horde_Image",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v3.0.0alpha3"
+                }
             },
             {
                 "name": "horde/image",
@@ -1369,7 +1444,7 @@
                 "version_normalized": "3.0.0.0-alpha4",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/Image.git",
+                    "url": "https://github.com/maintaina-com/Image.git",
                     "reference": "c06931b92169cc5b43bf7c93123da95bfdceda5b"
                 },
                 "dist": {
@@ -1417,7 +1492,10 @@
                     }
                 ],
                 "description": "Image library",
-                "homepage": "https://www.horde.org/libraries/Horde_Image"
+                "homepage": "https://www.horde.org/libraries/Horde_Image",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
