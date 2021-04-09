@@ -380,6 +380,58 @@
             },
             {
                 "name": "horde/listheaders",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/ListHeaders.git",
+                    "reference": "ed5453ff79a090aeae8e0d28f76f1a86a19f2f69"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/ListHeaders/zipball/ed5453ff79a090aeae8e0d28f76f1a86a19f2f69",
+                    "reference": "ed5453ff79a090aeae8e0d28f76f1a86a19f2f69",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_mail": "^2@stable",
+                    "pear-pear.horde.org/horde_translation": "^2.2@stable",
+                    "pear-pear.horde.org/horde_util": "^2@stable",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_listheaders": "1.*",
+                    "pear-pear.horde.org/horde_listheaders": "1.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Mime": "^2.5@stable",
+                    "pear-pear.horde.org/Horde_Test": "^2.1@stable"
+                },
+                "time": "2017-06-22T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_ListHeaders": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Horde List Headers Parsing Library",
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ListHeaders/tree/v1.2.5"
+                }
+            },
+            {
+                "name": "horde/listheaders",
                 "version": "2.0.0alpha1",
                 "version_normalized": "2.0.0.0-alpha1",
                 "source": {
