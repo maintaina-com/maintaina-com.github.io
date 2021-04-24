@@ -243,6 +243,53 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Idna/tree/horde-upstream"
                 }
+            },
+            {
+                "name": "horde/idna",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Idna.git",
+                    "reference": "cdeec6f5d7c0340386901099c3db3b8aceb70b5f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Idna/zipball/cdeec6f5d7c0340386901099c3db3b8aceb70b5f",
+                    "reference": "cdeec6f5d7c0340386901099c3db3b8aceb70b5f",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "ext-intl": "*"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Idna": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "IDNA normalization library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Idna/tree/maintaina-composerfixed"
+                }
             }
         ]
     }

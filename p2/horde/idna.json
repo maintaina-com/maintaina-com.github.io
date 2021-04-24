@@ -3,6 +3,48 @@
         "horde/idna": [
             {
                 "name": "horde/idna",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Idna.git",
+                    "reference": "ecf9f94a763bb5045d3e7a4b6281d34e9f78b108"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Idna/zipball/ecf9f94a763bb5045d3e7a4b6281d34e9f78b108",
+                    "reference": "ecf9f94a763bb5045d3e7a4b6281d34e9f78b108",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-mbstring": "*",
+                    "pear-pear.php.net/Net_IDNA": "<=1.0.0alpha1@stable",
+                    "pear-pear.php.net/Net_IDNA2": "<=1.0.0alpha1@stable"
+                },
+                "time": "2015-01-07T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "IDNA backend normalization package",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Idna/tree/v1.0.0"
+                }
+            },
+            {
+                "name": "horde/idna",
                 "version": "1.0.1",
                 "version_normalized": "1.0.1.0",
                 "source": {
@@ -82,6 +124,47 @@
                 "homepage": "http://pear.horde.org",
                 "support": {
                     "source": "https://github.com/maintaina-com/Idna/tree/v1.0.2"
+                }
+            },
+            {
+                "name": "horde/idna",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Idna.git",
+                    "reference": "274cb80c98ce6d7932fc395a018365b129eca943"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Idna/zipball/274cb80c98ce6d7932fc395a018365b129eca943",
+                    "reference": "274cb80c98ce6d7932fc395a018365b129eca943",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_util": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-intl": "*"
+                },
+                "time": "2015-04-28T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "IDNA backend normalization package",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Idna/tree/v1.0.3"
                 }
             },
             {
