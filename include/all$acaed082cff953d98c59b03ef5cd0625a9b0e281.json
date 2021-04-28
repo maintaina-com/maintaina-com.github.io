@@ -1,7 +1,7 @@
 {
     "packages": {
-        "horde/bundle": [
-            {
+        "horde/bundle": {
+            "dev-master": {
                 "name": "horde/bundle",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
@@ -50,7 +50,7 @@
                     "source": "https://github.com/maintaina-com/horde-deployment/tree/master"
                 }
             },
-            {
+            "dev-FRAMEWORK_6_0": {
                 "name": "horde/bundle",
                 "version": "dev-FRAMEWORK_6_0",
                 "version_normalized": "dev-FRAMEWORK_6_0",
@@ -99,7 +99,7 @@
                     "source": "https://github.com/maintaina-com/horde-deployment/tree/FRAMEWORK_6_0"
                 }
             },
-            {
+            "dev-FRAMEWORK_6_0_GROUPWARE": {
                 "name": "horde/bundle",
                 "version": "dev-FRAMEWORK_6_0_GROUPWARE",
                 "version_normalized": "dev-FRAMEWORK_6_0_GROUPWARE",
@@ -155,7 +155,7 @@
                     "source": "https://github.com/maintaina-com/horde-deployment/tree/FRAMEWORK_6_0_GROUPWARE"
                 }
             },
-            {
+            "dev-developer-downstream": {
                 "name": "horde/bundle",
                 "version": "dev-developer-downstream",
                 "version_normalized": "dev-developer-downstream",
@@ -209,6 +209,6 @@
                     "source": "https://github.com/maintaina-com/horde-deployment/tree/developer-downstream"
                 }
             }
-        ]
+        }
     }
 }
