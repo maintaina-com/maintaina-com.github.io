@@ -7,12 +7,12 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/ralflang/XML_SVG.git",
+                    "url": "git@github.com:ralflang/xml_svg.git",
                     "reference": "98d04c32d32bff87ba15a8270fe3e91ca1a4e9f8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/ralflang/XML_SVG/zipball/98d04c32d32bff87ba15a8270fe3e91ca1a4e9f8",
+                    "url": "https://api.github.com/repos/ralflang/xml_svg/zipball/98d04c32d32bff87ba15a8270fe3e91ca1a4e9f8",
                     "reference": "98d04c32d32bff87ba15a8270fe3e91ca1a4e9f8",
                     "shasum": ""
                 },

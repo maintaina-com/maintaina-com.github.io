@@ -7,12 +7,12 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/ralflang/Console_Getopt.git",
+                    "url": "git@github.com:ralflang/console_getopt.git",
                     "reference": "acc75a6a147b07685a44d188dda47cdbab2ab3c8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/ralflang/Console_Getopt/zipball/acc75a6a147b07685a44d188dda47cdbab2ab3c8",
+                    "url": "https://api.github.com/repos/ralflang/console_getopt/zipball/acc75a6a147b07685a44d188dda47cdbab2ab3c8",
                     "reference": "acc75a6a147b07685a44d188dda47cdbab2ab3c8",
                     "shasum": ""
                 },
@@ -61,12 +61,12 @@
                 "version_normalized": "dev-patch-1",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/ralflang/Console_Getopt.git",
+                    "url": "git@github.com:ralflang/console_getopt.git",
                     "reference": "a58c5e7337df2dea4d40210f2079bacb971dc5ca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/ralflang/Console_Getopt/zipball/a58c5e7337df2dea4d40210f2079bacb971dc5ca",
+                    "url": "https://api.github.com/repos/ralflang/console_getopt/zipball/a58c5e7337df2dea4d40210f2079bacb971dc5ca",
                     "reference": "a58c5e7337df2dea4d40210f2079bacb971dc5ca",
                     "shasum": ""
                 },

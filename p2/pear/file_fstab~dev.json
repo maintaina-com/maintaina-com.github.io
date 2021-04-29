@@ -7,12 +7,12 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/ralflang/File_Fstab.git",
+                    "url": "git@github.com:ralflang/file_fstab.git",
                     "reference": "94abdbd6d4b9295438dac509641de64f58af25bb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/ralflang/File_Fstab/zipball/94abdbd6d4b9295438dac509641de64f58af25bb",
+                    "url": "https://api.github.com/repos/ralflang/file_fstab/zipball/94abdbd6d4b9295438dac509641de64f58af25bb",
                     "reference": "94abdbd6d4b9295438dac509641de64f58af25bb",
                     "shasum": ""
                 },
@@ -55,12 +55,12 @@
                 "version_normalized": "dev-topics/composer-for-pear",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/ralflang/File_Fstab.git",
+                    "url": "git@github.com:ralflang/file_fstab.git",
                     "reference": "965f15b094d46fdb99fb5f586ec9305bc5d9f328"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/ralflang/File_Fstab/zipball/965f15b094d46fdb99fb5f586ec9305bc5d9f328",
+                    "url": "https://api.github.com/repos/ralflang/file_fstab/zipball/965f15b094d46fdb99fb5f586ec9305bc5d9f328",
                     "reference": "965f15b094d46fdb99fb5f586ec9305bc5d9f328",
                     "shasum": ""
                 },
