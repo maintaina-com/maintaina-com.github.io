@@ -64,64 +64,6 @@
             },
             {
                 "name": "horde/vcs",
-                "version": "1.0.0alpha2",
-                "version_normalized": "1.0.0.0-alpha2",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Vcs.git",
-                    "reference": "c6e116957431b160c530f2dabaf526c8f5de555a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Vcs/zipball/c6e116957431b160c530f2dabaf526c8f5de555a",
-                    "reference": "c6e116957431b160c530f2dabaf526c8f5de555a",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-pcre": "*",
-                    "horde/horde-installer-plugin": "*",
-                    "horde/util": "^3",
-                    "php": "^7"
-                },
-                "suggest": {
-                    "horde/cache": "^3",
-                    "horde/test": "^3"
-                },
-                "time": "2021-02-24T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Vcs": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Version control client library",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Vcs/tree/v1.0.0alpha2"
-                }
-            },
-            {
-                "name": "horde/vcs",
                 "version": "v1.0.0alpha3",
                 "version_normalized": "1.0.0.0-alpha3",
                 "source": {
