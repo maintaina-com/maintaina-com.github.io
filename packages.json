@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$1821e2c47e309a74fa7019ce5cb006db9288c439.json": {
-            "sha1": "1821e2c47e309a74fa7019ce5cb006db9288c439"
+        "include/all$4d1566564d9fab6c4830b4f4feed974096135594.json": {
+            "sha1": "4d1566564d9fab6c4830b4f4feed974096135594"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -120,6 +120,7 @@
         "horde/text_filter_jsmin",
         "horde/text_flowed",
         "horde/text_textile",
+        "horde/theme-hochschule",
         "horde/timeobjects",
         "horde/timezone",
         "horde/token",

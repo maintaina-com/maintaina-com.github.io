@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "horde/theme-hochschule": [
+            {
+                "name": "horde/theme-hochschule",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:maintaina-com/theme-hochschule.git",
+                    "reference": "f8c2ba48bef516876e1bb58fbc9638a47f6ab115"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/theme-hochschule/zipball/f8c2ba48bef516876e1bb58fbc9638a47f6ab115",
+                    "reference": "f8c2ba48bef516876e1bb58fbc9638a47f6ab115",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde": "*",
+                    "horde/horde-installer-plugin": "*",
+                    "php": "^7"
+                },
+                "time": "2021-06-09T00:00:00+00:00",
+                "type": "horde-theme",
+                "license": [
+                    "LGPL-2"
+                ],
+                "authors": [
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Horde Hochschule Theme",
+                "homepage": "https://www.horde.org/apps/horde"
+            }
+        ]
+    }
+}
