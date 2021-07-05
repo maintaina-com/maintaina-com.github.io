@@ -1,0 +1,267 @@
+{
+    "packages": {
+        "horde/lens": [
+            {
+                "name": "horde/lens",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Lens.git",
+                    "reference": "38df907479fe262096478b10b6cd05c6cb538c55"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Lens/zipball/38df907479fe262096478b10b6cd05c6cb538c55",
+                    "reference": "38df907479fe262096478b10b6cd05c6cb538c55",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_lens": "1.*",
+                    "pear-pear.horde.org/horde_lens": "1.*"
+                },
+                "time": "2017-03-20T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Lens": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Horde Lens decorating iterator/flyweight implementation",
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Lens/tree/FRAMEWORK_5_2"
+                }
+            },
+            {
+                "name": "horde/lens",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Lens.git",
+                    "reference": "37dc4d864f70a665ed429f1f3fb43bb94fb36055"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Lens/zipball/37dc4d864f70a665ed429f1f3fb43bb94fb36055",
+                    "reference": "37dc4d864f70a665ed429f1f3fb43bb94fb36055",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Lens": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Lens decorating iterator/flyweight library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Lens/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/lens",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Lens.git",
+                    "reference": "250d9abe6fbed4d1a277d755c7512dc595133357"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Lens/zipball/250d9abe6fbed4d1a277d755c7512dc595133357",
+                    "reference": "250d9abe6fbed4d1a277d755c7512dc595133357",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_lens": "1.*",
+                    "pear-pear.horde.org/horde_lens": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Lens": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Lens decorating iterator/flyweight library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Lens/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/lens",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Lens.git",
+                    "reference": "250d9abe6fbed4d1a277d755c7512dc595133357"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Lens/zipball/250d9abe6fbed4d1a277d755c7512dc595133357",
+                    "reference": "250d9abe6fbed4d1a277d755c7512dc595133357",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_lens": "1.*",
+                    "pear-pear.horde.org/horde_lens": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Lens": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Lens decorating iterator/flyweight library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Lens/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/lens",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Lens.git",
+                    "reference": "402b56380300f4106a162643cab1879d0cd518e9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Lens/zipball/402b56380300f4106a162643cab1879d0cd518e9",
+                    "reference": "402b56380300f4106a162643cab1879d0cd518e9",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Lens": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Lens decorating iterator/flyweight library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Lens/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/lens",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Lens.git",
+                    "reference": "dac857e3299a8c7df3ef17964a6c53083160689d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Lens/zipball/dac857e3299a8c7df3ef17964a6c53083160689d",
+                    "reference": "dac857e3299a8c7df3ef17964a6c53083160689d",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Lens": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Lens decorating iterator/flyweight library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Lens/tree/master"
+                }
+            }
+        ]
+    }
+}

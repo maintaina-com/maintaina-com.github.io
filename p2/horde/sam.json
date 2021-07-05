@@ -1,0 +1,50 @@
+{
+    "packages": {
+        "horde/sam": [
+            {
+                "name": "horde/sam",
+                "version": "v1.0.0alpha1",
+                "version_normalized": "1.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/sam.git",
+                    "reference": "9ca1e5ec8b2ca8ccfd9d8e09dd43408b852139e0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/sam/zipball/9ca1e5ec8b2ca8ccfd9d8e09dd43408b852139e0",
+                    "reference": "9ca1e5ec8b2ca8ccfd9d8e09dd43408b852139e0",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/core": "^3",
+                    "horde/horde": "^6",
+                    "horde/horde-installer-plugin": "*",
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Sam": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Anti-spam user preferences application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/sam/tree/v1.0.0alpha1"
+                }
+            }
+        ]
+    }
+}

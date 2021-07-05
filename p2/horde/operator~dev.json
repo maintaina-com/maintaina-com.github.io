@@ -1,0 +1,249 @@
+{
+    "packages": {
+        "horde/operator": [
+            {
+                "name": "horde/operator",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/operator.git",
+                    "reference": "f68f135a21e676ffdc581043476ddeaf34d2a707"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/operator/zipball/f68f135a21e676ffdc581043476ddeaf34d2a707",
+                    "reference": "f68f135a21e676ffdc581043476ddeaf34d2a707",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde": "^6 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "default-branch": true,
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Operator": "lib/"
+                    }
+                },
+                "license": [
+                    "TODO"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Call records viewer application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/operator/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/operator",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/operator.git",
+                    "reference": "a55d0826c61439133fdae008089048899af4eed6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/operator/zipball/a55d0826c61439133fdae008089048899af4eed6",
+                    "reference": "a55d0826c61439133fdae008089048899af4eed6",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3"
+                },
+                "replace": {
+                    "pear-horde/operator": "1.*",
+                    "pear-pear.horde.org/operator": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "project",
+                "autoload": {
+                    "psr-0": {
+                        "Operator": "lib/"
+                    }
+                },
+                "license": [
+                    "TODO"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Call records viewer application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/operator/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/operator",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/operator.git",
+                    "reference": "a55d0826c61439133fdae008089048899af4eed6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/operator/zipball/a55d0826c61439133fdae008089048899af4eed6",
+                    "reference": "a55d0826c61439133fdae008089048899af4eed6",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3"
+                },
+                "replace": {
+                    "pear-horde/operator": "1.*",
+                    "pear-pear.horde.org/operator": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "project",
+                "autoload": {
+                    "psr-0": {
+                        "Operator": "lib/"
+                    }
+                },
+                "license": [
+                    "TODO"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Call records viewer application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/operator/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/operator",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/operator.git",
+                    "reference": "d53406306ef30e8182048b302a02858afded958c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/operator/zipball/d53406306ef30e8182048b302a02858afded958c",
+                    "reference": "d53406306ef30e8182048b302a02858afded958c",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Operator": "lib/"
+                    }
+                },
+                "license": [
+                    "TODO"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Call records viewer application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/operator/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/operator",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/operator.git",
+                    "reference": "4f633e881b3e5ac2c30c73c58522846140ffc121"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/operator/zipball/4f633e881b3e5ac2c30c73c58522846140ffc121",
+                    "reference": "4f633e881b3e5ac2c30c73c58522846140ffc121",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Operator": "lib/"
+                    }
+                },
+                "license": [
+                    "TODO"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Call records viewer application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/operator/tree/master"
+                }
+            }
+        ]
+    }
+}

@@ -3,58 +3,6 @@
         "horde/release": [
             {
                 "name": "horde/release",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Release.git",
-                    "reference": "29decb4de261ca105ae39792c55ca89fb93306f4"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Release/zipball/29decb4de261ca105ae39792c55ca89fb93306f4",
-                    "reference": "29decb4de261ca105ae39792c55ca89fb93306f4",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/http": "dev-master",
-                    "horde/mail": "dev-master",
-                    "horde/mime": "dev-master",
-                    "horde/rpc": "dev-master",
-                    "horde/serialize": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "horde/test": "^2.1"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Release": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Component release library",
-                "homepage": "https://www.horde.org/libraries/Horde_Release",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Release/tree/master"
-                }
-            },
-            {
-                "name": "horde/release",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -137,6 +85,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -319,6 +268,58 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Release",
                 "support": {
                     "source": "https://github.com/maintaina-com/Release/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/release",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Release.git",
+                    "reference": "29decb4de261ca105ae39792c55ca89fb93306f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Release/zipball/29decb4de261ca105ae39792c55ca89fb93306f4",
+                    "reference": "29decb4de261ca105ae39792c55ca89fb93306f4",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/http": "dev-master",
+                    "horde/mail": "dev-master",
+                    "horde/mime": "dev-master",
+                    "horde/rpc": "dev-master",
+                    "horde/serialize": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Release": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Component release library",
+                "homepage": "https://www.horde.org/libraries/Horde_Release",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Release/tree/master"
                 }
             }
         ]

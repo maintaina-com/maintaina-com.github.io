@@ -7,12 +7,12 @@
                 "version_normalized": "1.0.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:ralflang/text_figlet.git",
+                    "url": "https://github.com/ralflang/Text_Figlet.git",
                     "reference": "a20dab37b74d3ae0c8bfba5ac7911ee2791c36ed"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/ralflang/text_figlet/zipball/a20dab37b74d3ae0c8bfba5ac7911ee2791c36ed",
+                    "url": "https://api.github.com/repos/ralflang/Text_Figlet/zipball/a20dab37b74d3ae0c8bfba5ac7911ee2791c36ed",
                     "reference": "a20dab37b74d3ae0c8bfba5ac7911ee2791c36ed",
                     "shasum": ""
                 },

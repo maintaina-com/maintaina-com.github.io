@@ -1,0 +1,59 @@
+{
+    "packages": {
+        "horde/pastie": [
+            {
+                "name": "horde/pastie",
+                "version": "v1.0.0alpha1",
+                "version_normalized": "1.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/pastie.git",
+                    "reference": "aa3abecb825c997265a476a808e5567c758d7631"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/pastie/zipball/aa3abecb825c997265a476a808e5567c758d7631",
+                    "reference": "aa3abecb825c997265a476a808e5567c758d7631",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde": "^6",
+                    "horde/horde-installer-plugin": "*",
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Pastie": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Ben Klang",
+                        "email": null,
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Pastebin application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/pastie/tree/v1.0.0alpha1"
+                }
+            }
+        ]
+    }
+}

@@ -3,50 +3,6 @@
         "horde/stringprep": [
             {
                 "name": "horde/stringprep",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Stringprep.git",
-                    "reference": "5eddf2db77ebd96c6dff3361fbfe4ca1e0e276eb"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Stringprep/zipball/5eddf2db77ebd96c6dff3361fbfe4ca1e0e276eb",
-                    "reference": "5eddf2db77ebd96c6dff3361fbfe4ca1e0e276eb",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-iconv": "*",
-                    "ext-intl": "*",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Stringprep": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Internationalized strings preparation library",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Stringprep/tree/master"
-                }
-            },
-            {
-                "name": "horde/stringprep",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -113,6 +69,7 @@
                     "php": "^7"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -271,6 +228,50 @@
                 "homepage": "https://www.horde.org",
                 "support": {
                     "source": "https://github.com/maintaina-com/Stringprep/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/stringprep",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Stringprep.git",
+                    "reference": "5eddf2db77ebd96c6dff3361fbfe4ca1e0e276eb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Stringprep/zipball/5eddf2db77ebd96c6dff3361fbfe4ca1e0e276eb",
+                    "reference": "5eddf2db77ebd96c6dff3361fbfe4ca1e0e276eb",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Stringprep": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Internationalized strings preparation library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stringprep/tree/master"
                 }
             }
         ]

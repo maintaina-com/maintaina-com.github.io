@@ -3,55 +3,6 @@
         "horde/elasticsearch": [
             {
                 "name": "horde/elasticsearch",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/ElasticSearch.git",
-                    "reference": "7ba86e276ced40058ed9db57b74d6ee0b825dd2a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ElasticSearch/zipball/7ba86e276ced40058ed9db57b74d6ee0b825dd2a",
-                    "reference": "7ba86e276ced40058ed9db57b74d6ee0b825dd2a",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/http": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_ElasticSearch": "lib/"
-                    }
-                },
-                "license": [
-                    "BSD-2-Clause"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "ElasticSearch client library",
-                "homepage": "https://www.horde.org/libraries/Horde_ElasticSearch",
-                "support": {
-                    "source": "https://github.com/maintaina-com/ElasticSearch/tree/master"
-                }
-            },
-            {
-                "name": "horde/elasticsearch",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -123,6 +74,7 @@
                     "php": "^7"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -301,6 +253,55 @@
                 "homepage": "https://www.horde.org/libraries/Horde_ElasticSearch",
                 "support": {
                     "source": "https://github.com/maintaina-com/ElasticSearch/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/elasticsearch",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/ElasticSearch.git",
+                    "reference": "7ba86e276ced40058ed9db57b74d6ee0b825dd2a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/ElasticSearch/zipball/7ba86e276ced40058ed9db57b74d6ee0b825dd2a",
+                    "reference": "7ba86e276ced40058ed9db57b74d6ee0b825dd2a",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/http": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_ElasticSearch": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "ElasticSearch client library",
+                "homepage": "https://www.horde.org/libraries/Horde_ElasticSearch",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ElasticSearch/tree/master"
                 }
             }
         ]

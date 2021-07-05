@@ -3,55 +3,6 @@
         "horde/cli": [
             {
                 "name": "horde/cli",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Cli.git",
-                    "reference": "86de4b4ee69ffbbafd496132a22df22182c4dbd6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Cli/zipball/86de4b4ee69ffbbafd496132a22df22182c4dbd6",
-                    "reference": "86de4b4ee69ffbbafd496132a22df22182c4dbd6",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/support": "dev-master",
-                    "horde/translation": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Cli": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Command line interface library",
-                "homepage": "https://www.horde.org/libraries/Horde_Cli",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Cli/tree/master"
-                }
-            },
-            {
-                "name": "horde/cli",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -123,6 +74,7 @@
                     "php": "^7"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -301,6 +253,55 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Cli",
                 "support": {
                     "source": "https://github.com/maintaina-com/Cli/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/cli",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Cli.git",
+                    "reference": "86de4b4ee69ffbbafd496132a22df22182c4dbd6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli/zipball/86de4b4ee69ffbbafd496132a22df22182c4dbd6",
+                    "reference": "86de4b4ee69ffbbafd496132a22df22182c4dbd6",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/support": "dev-master",
+                    "horde/translation": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Cli": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Command line interface library",
+                "homepage": "https://www.horde.org/libraries/Horde_Cli",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli/tree/master"
                 }
             }
         ]

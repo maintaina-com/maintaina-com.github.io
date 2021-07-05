@@ -3,66 +3,6 @@
         "horde/image": [
             {
                 "name": "horde/image",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Image.git",
-                    "reference": "2ad17964a3e29a2136081799097a8f184d3e2916"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Image/zipball/2ad17964a3e29a2136081799097a8f184d3e2916",
-                    "reference": "2ad17964a3e29a2136081799097a8f184d3e2916",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/stream": "dev-master",
-                    "horde/support": "dev-master",
-                    "horde/translation": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "ext-gd": "*",
-                    "ext-imagick": "^2 || ^3",
-                    "ext-json": "*",
-                    "ext-zlib": "*",
-                    "horde/test": "^2.1",
-                    "pear-pear.php.net/XML_SVG": "*"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Image": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Michael J Rubinsky",
-                        "email": "mrubinsk@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Image library",
-                "homepage": "https://www.horde.org/libraries/Horde_Image",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Image/tree/master"
-                }
-            },
-            {
-                "name": "horde/image",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -156,6 +96,7 @@
                     "pear/xml_svg": "*"
                 },
                 "time": "2021-03-15T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -367,6 +308,66 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Image",
                 "support": {
                     "source": "https://github.com/maintaina-com/Image/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/image",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Image.git",
+                    "reference": "2ad17964a3e29a2136081799097a8f184d3e2916"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Image/zipball/2ad17964a3e29a2136081799097a8f184d3e2916",
+                    "reference": "2ad17964a3e29a2136081799097a8f184d3e2916",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/stream": "dev-master",
+                    "horde/support": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "ext-gd": "*",
+                    "ext-imagick": "^2 || ^3",
+                    "ext-json": "*",
+                    "ext-zlib": "*",
+                    "horde/test": "^2.1",
+                    "pear-pear.php.net/XML_SVG": "*"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Image": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Image library",
+                "homepage": "https://www.horde.org/libraries/Horde_Image",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/master"
                 }
             }
         ]

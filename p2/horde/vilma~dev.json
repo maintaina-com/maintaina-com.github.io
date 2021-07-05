@@ -3,54 +3,6 @@
         "horde/vilma": [
             {
                 "name": "horde/vilma",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/vilma.git",
-                    "reference": "20633077ed98078994f95f22a773fdd4e0d55af3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/vilma/zipball/20633077ed98078994f95f22a773fdd4e0d55af3",
-                    "reference": "20633077ed98078994f95f22a773fdd4e0d55af3",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/horde-installer-plugin": "dev-master",
-                    "php": "^7.3"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "bin": [
-                    "bin/vilma-create-mailboxes"
-                ],
-                "type": "horde-application",
-                "autoload": {
-                    "psr-0": {
-                        "Vilma": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Vilma\\": "src/"
-                    }
-                },
-                "license": [
-                    "BSD"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Domain and user administration application",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/vilma/tree/master"
-                }
-            },
-            {
-                "name": "horde/vilma",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {
@@ -182,6 +134,54 @@
                 "homepage": "https://www.horde.org",
                 "support": {
                     "source": "https://github.com/maintaina-com/vilma/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/vilma",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/vilma.git",
+                    "reference": "20633077ed98078994f95f22a773fdd4e0d55af3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/vilma/zipball/20633077ed98078994f95f22a773fdd4e0d55af3",
+                    "reference": "20633077ed98078994f95f22a773fdd4e0d55af3",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^7.3"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "bin": [
+                    "bin/vilma-create-mailboxes"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Vilma": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Vilma\\": "src/"
+                    }
+                },
+                "license": [
+                    "BSD"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Domain and user administration application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/vilma/tree/master"
                 }
             }
         ]

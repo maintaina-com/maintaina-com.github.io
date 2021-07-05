@@ -3,110 +3,6 @@
         "horde/turba": [
             {
                 "name": "horde/turba",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/turba.git",
-                    "reference": "b9b83f05efd53f009730e7994bb50fd49de1cbeb"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/b9b83f05efd53f009730e7994bb50fd49de1cbeb",
-                    "reference": "b9b83f05efd53f009730e7994bb50fd49de1cbeb",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-gettext": "*",
-                    "ext-hash": "*",
-                    "ext-json": "*",
-                    "horde/auth": "dev-master",
-                    "horde/content": "dev-master",
-                    "horde/core": "dev-master",
-                    "horde/data": "dev-master",
-                    "horde/date": "dev-master",
-                    "horde/dav": "dev-master",
-                    "horde/exception": "dev-master",
-                    "horde/form": "dev-master",
-                    "horde/group": "dev-master",
-                    "horde/history": "dev-master",
-                    "horde/horde": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/icalendar": "dev-master",
-                    "horde/mail": "dev-master",
-                    "horde/mime": "dev-master",
-                    "horde/nls": "dev-master",
-                    "horde/perms": "dev-master",
-                    "horde/prefs": "dev-master",
-                    "horde/serialize": "dev-master",
-                    "horde/share": "dev-master",
-                    "horde/support": "dev-master",
-                    "horde/url": "dev-master",
-                    "horde/util": "dev-master",
-                    "horde/vfs": "dev-master",
-                    "horde/view": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "horde/activesync": "^2.4",
-                    "horde/backup": "^1",
-                    "horde/db": "^2.0.3",
-                    "horde/imsp": "^2",
-                    "horde/kolab_format": "^2.0.5",
-                    "horde/kolab_storage": "^2.1",
-                    "horde/ldap": "^2.1",
-                    "horde/openxchange": "^1"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "bin": [
-                    "bin/turba-convert-sql-shares-to-sqlng",
-                    "bin/turba-import-openxchange",
-                    "bin/turba-import-vcards",
-                    "bin/turba-import-squirrelmail-sql-abook",
-                    "bin/turba-import-squirrelmail-file-abook",
-                    "bin/turba-public-to-horde-share",
-                    "bin/turba-convert-datatree-shares-to-sql",
-                    "bin/turba-validate-email"
-                ],
-                "type": "horde-application",
-                "autoload": {
-                    "psr-0": {
-                        "Turba": "lib/"
-                    }
-                },
-                "license": [
-                    "ASL"
-                ],
-                "authors": [
-                    {
-                        "name": "Michael J Rubinsky",
-                        "email": "mrubinsk@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "developer"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Address book application",
-                "homepage": "https://www.horde.org/apps/turba",
-                "support": {
-                    "source": "https://github.com/maintaina-com/turba/tree/master"
-                }
-            },
-            {
-                "name": "horde/turba",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -259,6 +155,7 @@
                     "horde/openxchange": "^2 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "bin": [
                     "bin/turba-convert-datatree-shares-to-sql",
                     "bin/turba-convert-sql-shares-to-sqlng",
@@ -699,6 +596,110 @@
                 "homepage": "https://www.horde.org/apps/turba",
                 "support": {
                     "source": "https://github.com/maintaina-com/turba/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/turba",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/turba.git",
+                    "reference": "b9b83f05efd53f009730e7994bb50fd49de1cbeb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/b9b83f05efd53f009730e7994bb50fd49de1cbeb",
+                    "reference": "b9b83f05efd53f009730e7994bb50fd49de1cbeb",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "ext-hash": "*",
+                    "ext-json": "*",
+                    "horde/auth": "dev-master",
+                    "horde/content": "dev-master",
+                    "horde/core": "dev-master",
+                    "horde/data": "dev-master",
+                    "horde/date": "dev-master",
+                    "horde/dav": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/form": "dev-master",
+                    "horde/group": "dev-master",
+                    "horde/history": "dev-master",
+                    "horde/horde": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/icalendar": "dev-master",
+                    "horde/mail": "dev-master",
+                    "horde/mime": "dev-master",
+                    "horde/nls": "dev-master",
+                    "horde/perms": "dev-master",
+                    "horde/prefs": "dev-master",
+                    "horde/serialize": "dev-master",
+                    "horde/share": "dev-master",
+                    "horde/support": "dev-master",
+                    "horde/url": "dev-master",
+                    "horde/util": "dev-master",
+                    "horde/vfs": "dev-master",
+                    "horde/view": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/activesync": "^2.4",
+                    "horde/backup": "^1",
+                    "horde/db": "^2.0.3",
+                    "horde/imsp": "^2",
+                    "horde/kolab_format": "^2.0.5",
+                    "horde/kolab_storage": "^2.1",
+                    "horde/ldap": "^2.1",
+                    "horde/openxchange": "^1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "bin": [
+                    "bin/turba-convert-sql-shares-to-sqlng",
+                    "bin/turba-import-openxchange",
+                    "bin/turba-import-vcards",
+                    "bin/turba-import-squirrelmail-sql-abook",
+                    "bin/turba-import-squirrelmail-file-abook",
+                    "bin/turba-public-to-horde-share",
+                    "bin/turba-convert-datatree-shares-to-sql",
+                    "bin/turba-validate-email"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Turba": "lib/"
+                    }
+                },
+                "license": [
+                    "ASL"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "developer"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Address book application",
+                "homepage": "https://www.horde.org/apps/turba",
+                "support": {
+                    "source": "https://github.com/maintaina-com/turba/tree/master"
                 }
             },
             {

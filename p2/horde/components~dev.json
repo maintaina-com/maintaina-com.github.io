@@ -3,87 +3,6 @@
         "horde/components": [
             {
                 "name": "horde/components",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/components.git",
-                    "reference": "2879e7cab93b922f166bb9b52664b53b3d6342e6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/2879e7cab93b922f166bb9b52664b53b3d6342e6",
-                    "reference": "2879e7cab93b922f166bb9b52664b53b3d6342e6",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/argv": "dev-master",
-                    "horde/autoloader": "dev-master",
-                    "horde/cli": "dev-master",
-                    "horde/cli_modular": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/http": "dev-master",
-                    "horde/injector": "dev-master",
-                    "horde/pear": "dev-master",
-                    "horde/release": "dev-master",
-                    "horde/role": "dev-master",
-                    "horde/text_diff": "dev-master",
-                    "horde/util": "dev-master",
-                    "horde/yaml": "dev-master",
-                    "php": "^7"
-                },
-                "suggest": {
-                    "horde/test": "*",
-                    "pear-pear.php.net/Archive_Tar": "*",
-                    "pear-pear.php.net/PHP_CodeSniffer": "*",
-                    "pear-pear.phpmd.org/PHP_PMD": "*",
-                    "pear-pear.phpunit.de/PHPUnit": "*",
-                    "pear-pear.phpunit.de/phpcpd": "*",
-                    "pear-pear.phpunit.de/phpdcd": "*",
-                    "pear-pear.phpunit.de/phploc": "*",
-                    "squizlabs/php_codesniffer": "*"
-                },
-                "time": "2021-02-18T00:00:00+00:00",
-                "bin": [
-                    "bin/horde-components"
-                ],
-                "type": "horde-application",
-                "autoload": {
-                    "psr-0": {
-                        "Components": "lib/"
-                    },
-                    "psr-4": {
-                        "Horde\\Components\\": "src/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Gunnar Wrobel",
-                        "email": "p@rdus.de",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Ralf Lang",
-                        "email": "lang@b1-systems.de",
-                        "role": "contributor"
-                    }
-                ],
-                "description": "Developer tool for managing Horde components",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/master"
-                }
-            },
-            {
-                "name": "horde/components",
                 "version": "dev-FRAMEWORK_5_1",
                 "version_normalized": "dev-FRAMEWORK_5_1",
                 "source": {
@@ -210,32 +129,32 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/components.git",
-                    "reference": "f4fa082c76e6a9c4787c3ade4e8c9b635eb18b8a"
+                    "reference": "7f29c6a4514c73a8b0149ae43b8e7d5b6def9964"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/f4fa082c76e6a9c4787c3ade4e8c9b635eb18b8a",
-                    "reference": "f4fa082c76e6a9c4787c3ade4e8c9b635eb18b8a",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/7f29c6a4514c73a8b0149ae43b8e7d5b6def9964",
+                    "reference": "7f29c6a4514c73a8b0149ae43b8e7d5b6def9964",
                     "shasum": ""
                 },
                 "require": {
-                    "horde/argv": "*",
-                    "horde/autoloader": "*",
-                    "horde/cli": "^3",
-                    "horde/cli_modular": "^3",
-                    "horde/horde-installer-plugin": "*",
-                    "horde/http": "*",
-                    "horde/injector": "*",
-                    "horde/pear": "*",
-                    "horde/release": "*",
-                    "horde/role": "*",
-                    "horde/text_diff": "*",
-                    "horde/util": "*",
-                    "horde/yaml": "*",
+                    "horde/argv": "* || dev-FRAMEWORK_6_0",
+                    "horde/autoloader": "* || dev-FRAMEWORK_6_0",
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/cli_modular": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "horde/http": "* || dev-FRAMEWORK_6_0",
+                    "horde/injector": "* || dev-FRAMEWORK_6_0",
+                    "horde/pear": "* || dev-FRAMEWORK_6_0",
+                    "horde/release": "* || dev-FRAMEWORK_6_0",
+                    "horde/role": "* || dev-FRAMEWORK_6_0",
+                    "horde/text_diff": "* || dev-FRAMEWORK_6_0",
+                    "horde/util": "* || dev-FRAMEWORK_6_0",
+                    "horde/yaml": "* || dev-FRAMEWORK_6_0",
                     "php": "^7"
                 },
                 "suggest": {
-                    "horde/test": "3",
+                    "horde/test": "3 || dev-FRAMEWORK_6_0",
                     "pear/archive_tar": "^1.4",
                     "phploc/phploc": "^7",
                     "phpmd/phpmd": "^2.9",
@@ -244,7 +163,8 @@
                     "sebastian/phpdcd": "^1",
                     "squizlabs/php_codesniffer": "^3.5"
                 },
-                "time": "2021-02-24T00:00:00+00:00",
+                "time": "2021-07-04T00:00:00+00:00",
+                "default-branch": true,
                 "bin": [
                     "bin/horde-components"
                 ],
@@ -722,6 +642,87 @@
                 "homepage": "https://www.horde.org",
                 "support": {
                     "source": "https://github.com/maintaina-com/components/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/components",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/components.git",
+                    "reference": "2879e7cab93b922f166bb9b52664b53b3d6342e6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/2879e7cab93b922f166bb9b52664b53b3d6342e6",
+                    "reference": "2879e7cab93b922f166bb9b52664b53b3d6342e6",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/argv": "dev-master",
+                    "horde/autoloader": "dev-master",
+                    "horde/cli": "dev-master",
+                    "horde/cli_modular": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/http": "dev-master",
+                    "horde/injector": "dev-master",
+                    "horde/pear": "dev-master",
+                    "horde/release": "dev-master",
+                    "horde/role": "dev-master",
+                    "horde/text_diff": "dev-master",
+                    "horde/util": "dev-master",
+                    "horde/yaml": "dev-master",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/test": "*",
+                    "pear-pear.php.net/Archive_Tar": "*",
+                    "pear-pear.php.net/PHP_CodeSniffer": "*",
+                    "pear-pear.phpmd.org/PHP_PMD": "*",
+                    "pear-pear.phpunit.de/PHPUnit": "*",
+                    "pear-pear.phpunit.de/phpcpd": "*",
+                    "pear-pear.phpunit.de/phpdcd": "*",
+                    "pear-pear.phpunit.de/phploc": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2021-02-18T00:00:00+00:00",
+                "bin": [
+                    "bin/horde-components"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Components": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Components\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "contributor"
+                    }
+                ],
+                "description": "Developer tool for managing Horde components",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/components/tree/master"
                 }
             },
             {

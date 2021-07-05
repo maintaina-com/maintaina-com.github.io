@@ -3,63 +3,6 @@
         "horde/controller": [
             {
                 "name": "horde/controller",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Controller.git",
-                    "reference": "f13c2fe0f69af3908b35e22cbb85706313117ec1"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Controller/zipball/f13c2fe0f69af3908b35e22cbb85706313117ec1",
-                    "reference": "f13c2fe0f69af3908b35e22cbb85706313117ec1",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/injector": "dev-master",
-                    "horde/log": "dev-master",
-                    "horde/support": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "ext-mbstring": "*",
-                    "ext-zlib": "*",
-                    "horde/test": "^2.1"
-                },
-                "time": "2020-08-24T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Controller": "lib/"
-                    }
-                },
-                "license": [
-                    "BSD-2-Clause"
-                ],
-                "authors": [
-                    {
-                        "name": "Mike Naberezny",
-                        "email": "mike@naberezny.com",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Controller library",
-                "homepage": "https://www.horde.org/libraries/Horde_Controller",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Controller/tree/master"
-                }
-            },
-            {
-                "name": "horde/controller",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -147,6 +90,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -349,6 +293,63 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Controller",
                 "support": {
                     "source": "https://github.com/maintaina-com/Controller/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/controller",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Controller.git",
+                    "reference": "f13c2fe0f69af3908b35e22cbb85706313117ec1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Controller/zipball/f13c2fe0f69af3908b35e22cbb85706313117ec1",
+                    "reference": "f13c2fe0f69af3908b35e22cbb85706313117ec1",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/injector": "dev-master",
+                    "horde/log": "dev-master",
+                    "horde/support": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "ext-mbstring": "*",
+                    "ext-zlib": "*",
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-08-24T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Controller": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Naberezny",
+                        "email": "mike@naberezny.com",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Controller library",
+                "homepage": "https://www.horde.org/libraries/Horde_Controller",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Controller/tree/master"
                 }
             }
         ]

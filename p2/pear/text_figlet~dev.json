@@ -3,17 +3,17 @@
         "pear/text_figlet": [
             {
                 "name": "pear/text_figlet",
-                "version": "dev-trunk",
-                "version_normalized": "9999999-dev",
+                "version": "dev-topics/composer-for-pear",
+                "version_normalized": "dev-topics/composer-for-pear",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:ralflang/text_figlet.git",
-                    "reference": "a20dab37b74d3ae0c8bfba5ac7911ee2791c36ed"
+                    "url": "https://github.com/ralflang/Text_Figlet.git",
+                    "reference": "2c4002e5bebacdd601de2d16a736af7515d31f41"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/ralflang/text_figlet/zipball/a20dab37b74d3ae0c8bfba5ac7911ee2791c36ed",
-                    "reference": "a20dab37b74d3ae0c8bfba5ac7911ee2791c36ed",
+                    "url": "https://api.github.com/repos/ralflang/Text_Figlet/zipball/2c4002e5bebacdd601de2d16a736af7515d31f41",
+                    "reference": "2c4002e5bebacdd601de2d16a736af7515d31f41",
                     "shasum": ""
                 },
                 "require": {
@@ -22,7 +22,7 @@
                 "require-dev": {
                     "phpunit/phpunit": "*"
                 },
-                "time": "2014-02-18T18:39:56+00:00",
+                "time": "2014-02-18T09:47:45+00:00",
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -50,17 +50,17 @@
             },
             {
                 "name": "pear/text_figlet",
-                "version": "dev-topics/composer-for-pear",
-                "version_normalized": "dev-topics/composer-for-pear",
+                "version": "dev-trunk",
+                "version_normalized": "dev-trunk",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:ralflang/text_figlet.git",
-                    "reference": "2c4002e5bebacdd601de2d16a736af7515d31f41"
+                    "url": "https://github.com/ralflang/Text_Figlet.git",
+                    "reference": "a20dab37b74d3ae0c8bfba5ac7911ee2791c36ed"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/ralflang/text_figlet/zipball/2c4002e5bebacdd601de2d16a736af7515d31f41",
-                    "reference": "2c4002e5bebacdd601de2d16a736af7515d31f41",
+                    "url": "https://api.github.com/repos/ralflang/Text_Figlet/zipball/a20dab37b74d3ae0c8bfba5ac7911ee2791c36ed",
+                    "reference": "a20dab37b74d3ae0c8bfba5ac7911ee2791c36ed",
                     "shasum": ""
                 },
                 "require": {
@@ -69,7 +69,8 @@
                 "require-dev": {
                     "phpunit/phpunit": "*"
                 },
-                "time": "2014-02-18T09:47:45+00:00",
+                "time": "2014-02-18T18:39:56+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {

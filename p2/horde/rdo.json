@@ -319,6 +319,56 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Rdo/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/rdo",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Rdo.git",
+                    "reference": "3c24f4ba34ec3067fc0ab17898614470a0c89442"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/3c24f4ba34ec3067fc0ab17898614470a0c89442",
+                    "reference": "3c24f4ba34ec3067fc0ab17898614470a0c89442",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/db": "^3",
+                    "horde/exception": "^3",
+                    "horde/util": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/test": "^3"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Rdo": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Rdo\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "ORM (object relational-mapping) library",
+                "homepage": "https://www.horde.org/libraries/Horde_Rdo",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rdo/tree/v3.0.0alpha4"
+                }
             }
         ]
     }

@@ -3,71 +3,6 @@
         "horde/passwd": [
             {
                 "name": "horde/passwd",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/passwd.git",
-                    "reference": "3728ef58fbe6b889e1d4e109cb99616fc1386e7e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/passwd/zipball/3728ef58fbe6b889e1d4e109cb99616fc1386e7e",
-                    "reference": "3728ef58fbe6b889e1d4e109cb99616fc1386e7e",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-gettext": "*",
-                    "horde/auth": "dev-master",
-                    "horde/core": "dev-master",
-                    "horde/exception": "dev-master",
-                    "horde/horde": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/injector": "dev-master",
-                    "horde/util": "dev-master",
-                    "horde/view": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "ext-com": "*",
-                    "ext-ldap": "*",
-                    "ext-soap": "*",
-                    "horde/db": "^2",
-                    "horde/http": "^2",
-                    "horde/ldap": "^2",
-                    "horde/vfs": "^2",
-                    "pear-pear.php.net/Crypt_CHAP": "*"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-application",
-                "autoload": {
-                    "psr-0": {
-                        "Passwd": "lib/"
-                    }
-                },
-                "license": [
-                    "GPL-2.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Password changing application",
-                "homepage": "https://www.horde.org/apps/passwd",
-                "support": {
-                    "source": "https://github.com/maintaina-com/passwd/tree/master"
-                }
-            },
-            {
-                "name": "horde/passwd",
                 "version": "dev-FRAMEWORK_5_1",
                 "version_normalized": "dev-FRAMEWORK_5_1",
                 "source": {
@@ -231,6 +166,7 @@
                     "pear/crypt_chap": "^2"
                 },
                 "time": "2021-03-15T00:00:00+00:00",
+                "default-branch": true,
                 "type": "horde-application",
                 "autoload": {
                     "psr-0": {
@@ -457,6 +393,71 @@
                 "homepage": "https://www.horde.org/apps/passwd",
                 "support": {
                     "source": "https://github.com/maintaina-com/passwd/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/passwd",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/passwd.git",
+                    "reference": "3728ef58fbe6b889e1d4e109cb99616fc1386e7e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/passwd/zipball/3728ef58fbe6b889e1d4e109cb99616fc1386e7e",
+                    "reference": "3728ef58fbe6b889e1d4e109cb99616fc1386e7e",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "horde/auth": "dev-master",
+                    "horde/core": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/horde": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/injector": "dev-master",
+                    "horde/util": "dev-master",
+                    "horde/view": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "ext-com": "*",
+                    "ext-ldap": "*",
+                    "ext-soap": "*",
+                    "horde/db": "^2",
+                    "horde/http": "^2",
+                    "horde/ldap": "^2",
+                    "horde/vfs": "^2",
+                    "pear-pear.php.net/Crypt_CHAP": "*"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Passwd": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Password changing application",
+                "homepage": "https://www.horde.org/apps/passwd",
+                "support": {
+                    "source": "https://github.com/maintaina-com/passwd/tree/master"
                 }
             }
         ]

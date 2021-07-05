@@ -1,0 +1,180 @@
+{
+    "packages": {
+        "horde/openxchange": [
+            {
+                "name": "horde/openxchange",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/OpenXchange.git",
+                    "reference": "2b977283aaf48fc969c81cdb983819070ce9241b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/OpenXchange/zipball/2b977283aaf48fc969c81cdb983819070ce9241b",
+                    "reference": "2b977283aaf48fc969c81cdb983819070ce9241b",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_date": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_http": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_perms": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_url": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "time": "2014-05-21T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Open-Xchange Connector",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/OpenXchange/tree/v1.0.0"
+                }
+            },
+            {
+                "name": "horde/openxchange",
+                "version": "1.0.0alpha1",
+                "version_normalized": "1.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/OpenXchange.git",
+                    "reference": "04cb7ef96963f3149988d9f220203f8e958eae19"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/OpenXchange/zipball/04cb7ef96963f3149988d9f220203f8e958eae19",
+                    "reference": "04cb7ef96963f3149988d9f220203f8e958eae19",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_date": ">=2.0.0,<=3.0.0alpha1",
+                    "pear-pear.horde.org/horde_http": ">=2.0.0,<=3.0.0alpha1",
+                    "pear-pear.horde.org/horde_perms": ">=2.0.0,<=3.0.0alpha1",
+                    "pear-pear.horde.org/horde_url": ">=2.0.0,<=3.0.0alpha1",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "time": "2014-05-05T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Open-Xchange Connector",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/OpenXchange/tree/v1.0.0alpha1"
+                }
+            },
+            {
+                "name": "horde/openxchange",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/OpenXchange.git",
+                    "reference": "70fa9058a94623f8da8cfbbed2a3fd1399e31c26"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/OpenXchange/zipball/70fa9058a94623f8da8cfbbed2a3fd1399e31c26",
+                    "reference": "70fa9058a94623f8da8cfbbed2a3fd1399e31c26",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_date": "^2@stable",
+                    "pear-pear.horde.org/horde_http": "^2@stable",
+                    "pear-pear.horde.org/horde_perms": "^2@stable",
+                    "pear-pear.horde.org/horde_url": "^2@stable",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_openxchange": "1.*",
+                    "pear-pear.horde.org/horde_openxchange": "1.*"
+                },
+                "time": "2017-09-19T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_OpenXchange": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Open-Xchange Connector",
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/OpenXchange/tree/v1.0.1"
+                }
+            },
+            {
+                "name": "horde/openxchange",
+                "version": "v2.0.0alpha1",
+                "version_normalized": "2.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/OpenXchange.git",
+                    "reference": "1fe0a5335ae4f826dac8c871b0ec19fe01bfc387"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/OpenXchange/zipball/1fe0a5335ae4f826dac8c871b0ec19fe01bfc387",
+                    "reference": "1fe0a5335ae4f826dac8c871b0ec19fe01bfc387",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/date": "^3",
+                    "horde/http": "^3",
+                    "horde/perms": "^3",
+                    "horde/url": "^3",
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_OpenXchange": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Open-Xchange client library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/OpenXchange/tree/v2.0.0alpha1"
+                }
+            }
+        ]
+    }
+}

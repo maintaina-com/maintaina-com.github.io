@@ -3,57 +3,6 @@
         "horde/cli_modular": [
             {
                 "name": "horde/cli_modular",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Cli_Modular.git",
-                    "reference": "dea6f5ccd21a0f57fb99f1c92b370aa3e5bcf047"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Cli_Modular/zipball/dea6f5ccd21a0f57fb99f1c92b370aa3e5bcf047",
-                    "reference": "dea6f5ccd21a0f57fb99f1c92b370aa3e5bcf047",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/argv": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "horde/test": "^2.1"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Cli_Modular": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Gunnar Wrobel",
-                        "email": "p@rdus.de",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Modular command line interface library",
-                "homepage": "https://www.horde.org/libraries/Horde_Cli_Modular",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Cli_Modular/tree/master"
-                }
-            },
-            {
-                "name": "horde/cli_modular",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -129,6 +78,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -313,6 +263,57 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Cli_Modular",
                 "support": {
                     "source": "https://github.com/maintaina-com/Cli_Modular/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/cli_modular",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Cli_Modular.git",
+                    "reference": "dea6f5ccd21a0f57fb99f1c92b370aa3e5bcf047"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli_Modular/zipball/dea6f5ccd21a0f57fb99f1c92b370aa3e5bcf047",
+                    "reference": "dea6f5ccd21a0f57fb99f1c92b370aa3e5bcf047",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/argv": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Cli_Modular": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Modular command line interface library",
+                "homepage": "https://www.horde.org/libraries/Horde_Cli_Modular",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cli_Modular/tree/master"
                 }
             }
         ]

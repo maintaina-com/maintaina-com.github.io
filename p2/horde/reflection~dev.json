@@ -1,0 +1,270 @@
+{
+    "packages": {
+        "horde/reflection": [
+            {
+                "name": "horde/reflection",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Reflection.git",
+                    "reference": "bd4fdd1265ad4fd9996fc76b5b522a1d0ae24533"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Reflection/zipball/bd4fdd1265ad4fd9996fc76b5b522a1d0ae24533",
+                    "reference": "bd4fdd1265ad4fd9996fc76b5b522a1d0ae24533",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_reflection": "1.*",
+                    "pear-pear.horde.org/horde_reflection": "1.*"
+                },
+                "time": "2017-03-20T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Reflection": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Method reflection and documentation package",
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Reflection/tree/FRAMEWORK_5_2"
+                }
+            },
+            {
+                "name": "horde/reflection",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Reflection.git",
+                    "reference": "7ad57e7eff3000bb006b57d5d64cbcd2c659a94d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Reflection/zipball/7ad57e7eff3000bb006b57d5d64cbcd2c659a94d",
+                    "reference": "7ad57e7eff3000bb006b57d5d64cbcd2c659a94d",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/cli": "* || dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Reflection": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Method reflection and documentation library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Reflection/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/reflection",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Reflection.git",
+                    "reference": "a7a90e8d7cf1556f1e6ec702ed2f0555d8d5eef5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Reflection/zipball/a7a90e8d7cf1556f1e6ec702ed2f0555d8d5eef5",
+                    "reference": "a7a90e8d7cf1556f1e6ec702ed2f0555d8d5eef5",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_reflection": "1.*",
+                    "pear-pear.horde.org/horde_reflection": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Reflection": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Method reflection and documentation library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Reflection/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/reflection",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Reflection.git",
+                    "reference": "a7a90e8d7cf1556f1e6ec702ed2f0555d8d5eef5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Reflection/zipball/a7a90e8d7cf1556f1e6ec702ed2f0555d8d5eef5",
+                    "reference": "a7a90e8d7cf1556f1e6ec702ed2f0555d8d5eef5",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_reflection": "1.*",
+                    "pear-pear.horde.org/horde_reflection": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Reflection": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Method reflection and documentation library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Reflection/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/reflection",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Reflection.git",
+                    "reference": "ff2e703b8bb8f28f6132ce7f2531b70ac9194ce5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Reflection/zipball/ff2e703b8bb8f28f6132ce7f2531b70ac9194ce5",
+                    "reference": "ff2e703b8bb8f28f6132ce7f2531b70ac9194ce5",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Reflection": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Method reflection and documentation library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Reflection/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/reflection",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Reflection.git",
+                    "reference": "ace5cf3947f68d11812266cdc81de6074cb8d104"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Reflection/zipball/ace5cf3947f68d11812266cdc81de6074cb8d104",
+                    "reference": "ace5cf3947f68d11812266cdc81de6074cb8d104",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Reflection": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Method reflection and documentation library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Reflection/tree/master"
+                }
+            }
+        ]
+    }
+}

@@ -3,55 +3,6 @@
         "horde/compress_fast": [
             {
                 "name": "horde/compress_fast",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Compress_Fast.git",
-                    "reference": "5cb48e457c828166917f0516d5f7d00db161a1b4"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Compress_Fast/zipball/5cb48e457c828166917f0516d5f7d00db161a1b4",
-                    "reference": "5cb48e457c828166917f0516d5f7d00db161a1b4",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "ext-horde_lz4": "*",
-                    "ext-lzf": "^1.5.2",
-                    "ext-zlib": "*",
-                    "horde/test": "^2.1"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Compress_Fast": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Fast compression library",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Compress_Fast/tree/master"
-                }
-            },
-            {
-                "name": "horde/compress_fast",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -128,6 +79,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -301,6 +253,55 @@
                 "homepage": "https://www.horde.org",
                 "support": {
                     "source": "https://github.com/maintaina-com/Compress_Fast/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/compress_fast",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Compress_Fast.git",
+                    "reference": "5cb48e457c828166917f0516d5f7d00db161a1b4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Compress_Fast/zipball/5cb48e457c828166917f0516d5f7d00db161a1b4",
+                    "reference": "5cb48e457c828166917f0516d5f7d00db161a1b4",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "ext-horde_lz4": "*",
+                    "ext-lzf": "^1.5.2",
+                    "ext-zlib": "*",
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Compress_Fast": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Fast compression library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Compress_Fast/tree/master"
                 }
             }
         ]

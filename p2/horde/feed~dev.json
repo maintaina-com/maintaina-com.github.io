@@ -3,54 +3,6 @@
         "horde/feed": [
             {
                 "name": "horde/feed",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Feed.git",
-                    "reference": "77d7f381b07fa4422407608849f5835a301dcfde"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Feed/zipball/77d7f381b07fa4422407608849f5835a301dcfde",
-                    "reference": "77d7f381b07fa4422407608849f5835a301dcfde",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-dom": "*",
-                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/http": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/xml_element": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
-                },
-                "suggest": {
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
-                },
-                "time": "2021-03-21T00:00:00+00:00",
-                "type": "library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Feed": "lib/"
-                    }
-                },
-                "license": [
-                    "BSD-2-Clause"
-                ],
-                "authors": [
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Feed client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Feed",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Feed/tree/master"
-                }
-            },
-            {
-                "name": "horde/feed",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -127,6 +79,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-21T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -300,6 +253,54 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Feed",
                 "support": {
                     "source": "https://github.com/maintaina-com/Feed/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/feed",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Feed.git",
+                    "reference": "77d7f381b07fa4422407608849f5835a301dcfde"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Feed/zipball/77d7f381b07fa4422407608849f5835a301dcfde",
+                    "reference": "77d7f381b07fa4422407608849f5835a301dcfde",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/http": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/xml_element": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-03-21T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Feed": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Feed client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Feed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Feed/tree/master"
                 }
             }
         ]

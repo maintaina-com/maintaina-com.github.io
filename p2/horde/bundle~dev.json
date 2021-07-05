@@ -3,55 +3,6 @@
         "horde/bundle": [
             {
                 "name": "horde/bundle",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/horde-deployment.git",
-                    "reference": "25dc5a06b44b20e7548a24b8f30c2ddba30ab620"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/horde-deployment/zipball/25dc5a06b44b20e7548a24b8f30c2ddba30ab620",
-                    "reference": "25dc5a06b44b20e7548a24b8f30c2ddba30ab620",
-                    "shasum": ""
-                },
-                "require": {
-                    "composer-plugin-api": "^1.0 || ^2.0",
-                    "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || dev-master",
-                    "horde/hordectl": "dev-master || ^1 || dev-FRAMEWORK_6_0",
-                    "horde/routes": "^3 || dev-FRAMEWORK_6_0",
-                    "pear/console_color2": "^0.1.2",
-                    "pear/console_table": "^1.3"
-                },
-                "require-dev": {
-                    "horde/test": "dev-master || ^3 || dev-FRAMEWORK_6_0"
-                },
-                "time": "2021-04-30T12:14:36+00:00",
-                "type": "project",
-                "extra": {
-                    "installer-types": [
-                        "horde-library",
-                        "horde-application"
-                    ]
-                },
-                "license": [
-                    "GPL-3.0-only"
-                ],
-                "authors": [
-                    {
-                        "name": "Ralf Lang",
-                        "email": "lang@b1-systems.de"
-                    }
-                ],
-                "description": "A base project for a horde installation",
-                "support": {
-                    "source": "https://github.com/maintaina-com/horde-deployment/tree/master"
-                }
-            },
-            {
-                "name": "horde/bundle",
                 "version": "dev-FRAMEWORK_6_0",
                 "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
@@ -78,6 +29,7 @@
                     "horde/test": "dev-master || ^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-15T21:37:06+00:00",
+                "default-branch": true,
                 "type": "project",
                 "extra": {
                     "installer-types": [
@@ -207,6 +159,55 @@
                 "description": "A bundle of horde",
                 "support": {
                     "source": "https://github.com/maintaina-com/horde-deployment/tree/developer-downstream"
+                }
+            },
+            {
+                "name": "horde/bundle",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/horde-deployment.git",
+                    "reference": "25dc5a06b44b20e7548a24b8f30c2ddba30ab620"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/horde-deployment/zipball/25dc5a06b44b20e7548a24b8f30c2ddba30ab620",
+                    "reference": "25dc5a06b44b20e7548a24b8f30c2ddba30ab620",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer-plugin-api": "^1.0 || ^2.0",
+                    "horde/horde": "^6 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || dev-master",
+                    "horde/hordectl": "dev-master || ^1 || dev-FRAMEWORK_6_0",
+                    "horde/routes": "^3 || dev-FRAMEWORK_6_0",
+                    "pear/console_color2": "^0.1.2",
+                    "pear/console_table": "^1.3"
+                },
+                "require-dev": {
+                    "horde/test": "dev-master || ^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-04-30T12:14:36+00:00",
+                "type": "project",
+                "extra": {
+                    "installer-types": [
+                        "horde-library",
+                        "horde-application"
+                    ]
+                },
+                "license": [
+                    "GPL-3.0-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de"
+                    }
+                ],
+                "description": "A base project for a horde installation",
+                "support": {
+                    "source": "https://github.com/maintaina-com/horde-deployment/tree/master"
                 }
             }
         ]

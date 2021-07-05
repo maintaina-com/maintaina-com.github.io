@@ -3,68 +3,6 @@
         "horde/activesync": [
             {
                 "name": "horde/activesync",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/ActiveSync.git",
-                    "reference": "4396acb4004524b7902eb87c1e4b9df0eee60f9e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/4396acb4004524b7902eb87c1e4b9df0eee60f9e",
-                    "reference": "4396acb4004524b7902eb87c1e4b9df0eee60f9e",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-ctype": "*",
-                    "horde/compress": "dev-master",
-                    "horde/date": "dev-master",
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/icalendar": "dev-master",
-                    "horde/log": "dev-master",
-                    "horde/mapi": "dev-master",
-                    "horde/mime": "dev-master",
-                    "horde/stream": "dev-master",
-                    "horde/support": "dev-master",
-                    "horde/translation": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "horde/db": "^2.1",
-                    "horde/imap_client": "^2.28.1",
-                    "horde/mail": "^2",
-                    "horde/mongo": "^1.0.2",
-                    "horde/test": "^2.1",
-                    "horde/text_filter": "^2"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_ActiveSync": "lib/"
-                    }
-                },
-                "license": [
-                    "GPL-2.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Michael J Rubinsky",
-                        "email": "mrubinsk@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "ActiveSync server library",
-                "homepage": "https://www.horde.org/libraries/Horde_ActiveSync",
-                "support": {
-                    "source": "https://github.com/maintaina-com/ActiveSync/tree/master"
-                }
-            },
-            {
-                "name": "horde/activesync",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -167,6 +105,7 @@
                     "horde/text_filter": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -379,6 +318,68 @@
                 "homepage": "https://www.horde.org/libraries/Horde_ActiveSync",
                 "support": {
                     "source": "https://github.com/maintaina-com/ActiveSync/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/activesync",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/ActiveSync.git",
+                    "reference": "4396acb4004524b7902eb87c1e4b9df0eee60f9e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/4396acb4004524b7902eb87c1e4b9df0eee60f9e",
+                    "reference": "4396acb4004524b7902eb87c1e4b9df0eee60f9e",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "horde/compress": "dev-master",
+                    "horde/date": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/icalendar": "dev-master",
+                    "horde/log": "dev-master",
+                    "horde/mapi": "dev-master",
+                    "horde/mime": "dev-master",
+                    "horde/stream": "dev-master",
+                    "horde/support": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/db": "^2.1",
+                    "horde/imap_client": "^2.28.1",
+                    "horde/mail": "^2",
+                    "horde/mongo": "^1.0.2",
+                    "horde/test": "^2.1",
+                    "horde/text_filter": "^2"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_ActiveSync": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "ActiveSync server library",
+                "homepage": "https://www.horde.org/libraries/Horde_ActiveSync",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ActiveSync/tree/master"
                 }
             },
             {

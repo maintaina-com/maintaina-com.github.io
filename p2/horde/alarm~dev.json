@@ -3,61 +3,6 @@
         "horde/alarm": [
             {
                 "name": "horde/alarm",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Alarm.git",
-                    "reference": "800d19dba92551f9b96a7c7589d1d56c12a6a34c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Alarm/zipball/800d19dba92551f9b96a7c7589d1d56c12a6a34c",
-                    "reference": "800d19dba92551f9b96a7c7589d1d56c12a6a34c",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/date": "dev-master",
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/translation": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "horde/db": "^2.2",
-                    "horde/log": "^2",
-                    "horde/mail": "^2",
-                    "horde/mime": "^2",
-                    "horde/notification": "^2",
-                    "horde/perms": "^2",
-                    "horde/prefs": "^2",
-                    "horde/test": "^2.1"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Alarm": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Alarm library",
-                "homepage": "https://www.horde.org/libraries/Horde_Alarm",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Alarm/tree/master"
-                }
-            },
-            {
-                "name": "horde/alarm",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -146,6 +91,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -337,6 +283,61 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Alarm",
                 "support": {
                     "source": "https://github.com/maintaina-com/Alarm/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/alarm",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Alarm.git",
+                    "reference": "800d19dba92551f9b96a7c7589d1d56c12a6a34c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Alarm/zipball/800d19dba92551f9b96a7c7589d1d56c12a6a34c",
+                    "reference": "800d19dba92551f9b96a7c7589d1d56c12a6a34c",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/date": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/translation": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/db": "^2.2",
+                    "horde/log": "^2",
+                    "horde/mail": "^2",
+                    "horde/mime": "^2",
+                    "horde/notification": "^2",
+                    "horde/perms": "^2",
+                    "horde/prefs": "^2",
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Alarm": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Alarm library",
+                "homepage": "https://www.horde.org/libraries/Horde_Alarm",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Alarm/tree/master"
                 }
             }
         ]

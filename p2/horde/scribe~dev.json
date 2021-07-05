@@ -1,0 +1,273 @@
+{
+    "packages": {
+        "horde/scribe": [
+            {
+                "name": "horde/scribe",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Scribe.git",
+                    "reference": "97b765969b0e67903ba17eec8574e54cdc0a0d6a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Scribe/zipball/97b765969b0e67903ba17eec8574e54cdc0a0d6a",
+                    "reference": "97b765969b0e67903ba17eec8574e54cdc0a0d6a",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_thrift": "*",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_scribe": "2.*",
+                    "pear-pear.horde.org/horde_scribe": "2.*"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Scribe": "lib/"
+                    }
+                },
+                "license": [
+                    "Apache 2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Scribe client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Scribe",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Scribe/tree/FRAMEWORK_5_2"
+                }
+            },
+            {
+                "name": "horde/scribe",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Scribe.git",
+                    "reference": "22e25230f5c3af1751a12b8d4d4467ef5f70a838"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Scribe/zipball/22e25230f5c3af1751a12b8d4d4467ef5f70a838",
+                    "reference": "22e25230f5c3af1751a12b8d4d4467ef5f70a838",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/thrift": "* || dev-FRAMEWORK_6_0",
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Scribe": "lib/"
+                    }
+                },
+                "license": [
+                    "Apache 2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Scribe client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Scribe",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Scribe/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/scribe",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Scribe.git",
+                    "reference": "8cd3a6445b52561f4d8db4af3e7345e80134ad58"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Scribe/zipball/8cd3a6445b52561f4d8db4af3e7345e80134ad58",
+                    "reference": "8cd3a6445b52561f4d8db4af3e7345e80134ad58",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_thrift": "*",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_scribe": "2.*",
+                    "pear-pear.horde.org/horde_scribe": "2.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Scribe": "lib/"
+                    }
+                },
+                "license": [
+                    "Apache 2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Scribe client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Scribe",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Scribe/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/scribe",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Scribe.git",
+                    "reference": "8cd3a6445b52561f4d8db4af3e7345e80134ad58"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Scribe/zipball/8cd3a6445b52561f4d8db4af3e7345e80134ad58",
+                    "reference": "8cd3a6445b52561f4d8db4af3e7345e80134ad58",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_thrift": "*",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_scribe": "2.*",
+                    "pear-pear.horde.org/horde_scribe": "2.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Scribe": "lib/"
+                    }
+                },
+                "license": [
+                    "Apache 2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Scribe client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Scribe",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Scribe/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/scribe",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Scribe.git",
+                    "reference": "41a909c254df8d36c48d2f614bafe58899bfa2f9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Scribe/zipball/41a909c254df8d36c48d2f614bafe58899bfa2f9",
+                    "reference": "41a909c254df8d36c48d2f614bafe58899bfa2f9",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/thrift": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Scribe": "lib/"
+                    }
+                },
+                "license": [
+                    "Apache 2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Scribe client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Scribe",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Scribe/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/scribe",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Scribe.git",
+                    "reference": "bd230596a90143fcb4a6a0fddccd4e309348511a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Scribe/zipball/bd230596a90143fcb4a6a0fddccd4e309348511a",
+                    "reference": "bd230596a90143fcb4a6a0fddccd4e309348511a",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/thrift": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Scribe": "lib/"
+                    }
+                },
+                "license": [
+                    "Apache 2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Scribe client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Scribe",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Scribe/tree/master"
+                }
+            }
+        ]
+    }
+}

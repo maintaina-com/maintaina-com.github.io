@@ -1,0 +1,137 @@
+{
+    "packages": {
+        "horde/service_urlshortener": [
+            {
+                "name": "horde/service_urlshortener",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Service_UrlShortener.git",
+                    "reference": "b5ff9dcb9ac167d341645020ea3850422dca4be9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_UrlShortener/zipball/b5ff9dcb9ac167d341645020ea3850422dca4be9",
+                    "reference": "b5ff9dcb9ac167d341645020ea3850422dca4be9",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_http": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_url": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "time": "2015-01-09T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Horde_Service_UrlShortener Class",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_UrlShortener/tree/v2.0.2"
+                }
+            },
+            {
+                "name": "horde/service_urlshortener",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Service_UrlShortener.git",
+                    "reference": "6ea1d5ad66a6996920f2e8c70cd477f408057419"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_UrlShortener/zipball/6ea1d5ad66a6996920f2e8c70cd477f408057419",
+                    "reference": "6ea1d5ad66a6996920f2e8c70cd477f408057419",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": "^2@stable",
+                    "pear-pear.horde.org/horde_http": "^2@stable",
+                    "pear-pear.horde.org/horde_url": "^2@stable",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_service_urlshortener": "2.*",
+                    "pear-pear.horde.org/horde_service_urlshortener": "2.*"
+                },
+                "time": "2017-09-19T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Service_UrlShortener": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Horde_Service_UrlShortener Class",
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_UrlShortener/tree/v2.0.3"
+                }
+            },
+            {
+                "name": "horde/service_urlshortener",
+                "version": "v3.0.0alpha1",
+                "version_normalized": "3.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Service_UrlShortener.git",
+                    "reference": "a509f8194a4942d6fea418ee7f498717920dfb12"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_UrlShortener/zipball/a509f8194a4942d6fea418ee7f498717920dfb12",
+                    "reference": "a509f8194a4942d6fea418ee7f498717920dfb12",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3",
+                    "horde/http": "^3",
+                    "horde/url": "^3",
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Service_UrlShortener": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "URL shortening library",
+                "homepage": "https://www.horde.org/libraries/Horde_Service_UrlShortener",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_UrlShortener/tree/v3.0.0alpha1"
+                }
+            }
+        ]
+    }
+}

@@ -4,15 +4,15 @@
             {
                 "name": "pear/file_fstab",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:ralflang/file_fstab.git",
+                    "url": "https://github.com/ralflang/File_Fstab.git",
                     "reference": "94abdbd6d4b9295438dac509641de64f58af25bb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/ralflang/file_fstab/zipball/94abdbd6d4b9295438dac509641de64f58af25bb",
+                    "url": "https://api.github.com/repos/ralflang/File_Fstab/zipball/94abdbd6d4b9295438dac509641de64f58af25bb",
                     "reference": "94abdbd6d4b9295438dac509641de64f58af25bb",
                     "shasum": ""
                 },
@@ -24,6 +24,7 @@
                     "phpunit/phpunit": "*"
                 },
                 "time": "2018-10-24T20:44:36+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -55,12 +56,12 @@
                 "version_normalized": "dev-topics/composer-for-pear",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:ralflang/file_fstab.git",
+                    "url": "https://github.com/ralflang/File_Fstab.git",
                     "reference": "965f15b094d46fdb99fb5f586ec9305bc5d9f328"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/ralflang/file_fstab/zipball/965f15b094d46fdb99fb5f586ec9305bc5d9f328",
+                    "url": "https://api.github.com/repos/ralflang/File_Fstab/zipball/965f15b094d46fdb99fb5f586ec9305bc5d9f328",
                     "reference": "965f15b094d46fdb99fb5f586ec9305bc5d9f328",
                     "shasum": ""
                 },

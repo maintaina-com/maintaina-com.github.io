@@ -3,52 +3,6 @@
         "horde/injector": [
             {
                 "name": "horde/injector",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Injector.git",
-                    "reference": "6907c5b25a820bb4e5d430930de4c7f114725e8b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/6907c5b25a820bb4e5d430930de4c7f114725e8b",
-                    "reference": "6907c5b25a820bb4e5d430930de4c7f114725e8b",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "horde/test": "^2.1"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Injector": "lib/"
-                    }
-                },
-                "license": [
-                    "BSD-2-Clause"
-                ],
-                "authors": [
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Dependency injection container library",
-                "homepage": "https://www.horde.org/libraries/Horde_Injector",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Injector/tree/master"
-                }
-            },
-            {
-                "name": "horde/injector",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -103,26 +57,31 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Injector.git",
-                    "reference": "744bdbc5f3ec746bfee130eae420eebc98859c00"
+                    "reference": "17ef3c1405ba6b20d31a2e4de2d42318cafd399d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/744bdbc5f3ec746bfee130eae420eebc98859c00",
-                    "reference": "744bdbc5f3ec746bfee130eae420eebc98859c00",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/17ef3c1405ba6b20d31a2e4de2d42318cafd399d",
+                    "reference": "17ef3c1405ba6b20d31a2e4de2d42318cafd399d",
                     "shasum": ""
                 },
                 "require": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7",
+                    "psr/container": "^1"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2021-07-04T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Injector": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Injector\\": "src/"
                     }
                 },
                 "license": [
@@ -283,6 +242,52 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Injector",
                 "support": {
                     "source": "https://github.com/maintaina-com/Injector/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/injector",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Injector.git",
+                    "reference": "6907c5b25a820bb4e5d430930de4c7f114725e8b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/6907c5b25a820bb4e5d430930de4c7f114725e8b",
+                    "reference": "6907c5b25a820bb4e5d430930de4c7f114725e8b",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Injector": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Dependency injection container library",
+                "homepage": "https://www.horde.org/libraries/Horde_Injector",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Injector/tree/master"
                 }
             },
             {

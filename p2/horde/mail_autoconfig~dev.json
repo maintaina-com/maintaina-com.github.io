@@ -3,55 +3,6 @@
         "horde/mail_autoconfig": [
             {
                 "name": "horde/mail_autoconfig",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Mail_Autoconfig.git",
-                    "reference": "6970fad6ea0ebb09e2b12970e26cb56c15a4d410"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mail_Autoconfig/zipball/6970fad6ea0ebb09e2b12970e26cb56c15a4d410",
-                    "reference": "6970fad6ea0ebb09e2b12970e26cb56c15a4d410",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-simplexml": "*",
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/http": "dev-master",
-                    "horde/imap_client": "dev-master",
-                    "horde/mail": "dev-master",
-                    "horde/smtp": "dev-master",
-                    "pear/net_dns2": "^1.5",
-                    "php": "^5.3 || ^7"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Mail_Autoconfig": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Mail server autoconfiguration library",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Mail_Autoconfig/tree/master"
-                }
-            },
-            {
-                "name": "horde/mail_autoconfig",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -128,6 +79,7 @@
                     "php": "^7"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -301,6 +253,55 @@
                 "homepage": "https://www.horde.org",
                 "support": {
                     "source": "https://github.com/maintaina-com/Mail_Autoconfig/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/mail_autoconfig",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Mail_Autoconfig.git",
+                    "reference": "6970fad6ea0ebb09e2b12970e26cb56c15a4d410"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Mail_Autoconfig/zipball/6970fad6ea0ebb09e2b12970e26cb56c15a4d410",
+                    "reference": "6970fad6ea0ebb09e2b12970e26cb56c15a4d410",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-simplexml": "*",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/http": "dev-master",
+                    "horde/imap_client": "dev-master",
+                    "horde/mail": "dev-master",
+                    "horde/smtp": "dev-master",
+                    "pear/net_dns2": "^1.5",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Mail_Autoconfig": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Mail server autoconfiguration library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mail_Autoconfig/tree/master"
                 }
             }
         ]

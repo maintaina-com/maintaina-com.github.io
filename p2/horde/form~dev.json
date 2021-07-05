@@ -3,63 +3,6 @@
         "horde/form": [
             {
                 "name": "horde/form",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Form.git",
-                    "reference": "bf52c8f426b1f1a7b2a43160b2754021f2bf7a8f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Form/zipball/bf52c8f426b1f1a7b2a43160b2754021f2bf7a8f",
-                    "reference": "bf52c8f426b1f1a7b2a43160b2754021f2bf7a8f",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-json": "*",
-                    "horde/core": "dev-master",
-                    "horde/date": "dev-master",
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/mail": "dev-master",
-                    "horde/mime": "dev-master",
-                    "horde/nls": "dev-master",
-                    "horde/token": "dev-master",
-                    "horde/translation": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "classmap": [
-                        "lib/"
-                    ]
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Form library",
-                "homepage": "https://www.horde.org/libraries/Horde_Form",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Form/tree/master"
-                }
-            },
-            {
-                "name": "horde/form",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -150,6 +93,7 @@
                     "horde/core": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "classmap": [
@@ -352,6 +296,63 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Form",
                 "support": {
                     "source": "https://github.com/maintaina-com/Form/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/form",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Form.git",
+                    "reference": "bf52c8f426b1f1a7b2a43160b2754021f2bf7a8f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Form/zipball/bf52c8f426b1f1a7b2a43160b2754021f2bf7a8f",
+                    "reference": "bf52c8f426b1f1a7b2a43160b2754021f2bf7a8f",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "horde/core": "dev-master",
+                    "horde/date": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/mail": "dev-master",
+                    "horde/mime": "dev-master",
+                    "horde/nls": "dev-master",
+                    "horde/token": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "classmap": [
+                        "lib/"
+                    ]
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Form library",
+                "homepage": "https://www.horde.org/libraries/Horde_Form",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Form/tree/master"
                 }
             },
             {

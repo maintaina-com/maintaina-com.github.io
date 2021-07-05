@@ -3,65 +3,6 @@
         "horde/argv": [
             {
                 "name": "horde/argv",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Argv.git",
-                    "reference": "7252f77c53453999ce6f9fbf9a4a4d2a8e9ae1ac"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Argv/zipball/7252f77c53453999ce6f9fbf9a4a4d2a8e9ae1ac",
-                    "reference": "7252f77c53453999ce6f9fbf9a4a4d2a8e9ae1ac",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/cli": "dev-master",
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/translation": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "horde/test": "^2.1"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Argv": "lib/"
-                    }
-                },
-                "license": [
-                    "BSD-2-Clause"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Mike Naberezny",
-                        "email": "mike@maintainable.com",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Command-line argument parsing library",
-                "homepage": "https://www.horde.org/libraries/Horde_Argv",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Argv/tree/master"
-                }
-            },
-            {
-                "name": "horde/argv",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -151,6 +92,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-04-06T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -364,6 +306,65 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Argv",
                 "support": {
                     "source": "https://github.com/maintaina-com/Argv/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/argv",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Argv.git",
+                    "reference": "7252f77c53453999ce6f9fbf9a4a4d2a8e9ae1ac"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Argv/zipball/7252f77c53453999ce6f9fbf9a4a4d2a8e9ae1ac",
+                    "reference": "7252f77c53453999ce6f9fbf9a4a4d2a8e9ae1ac",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/cli": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Argv": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Mike Naberezny",
+                        "email": "mike@maintainable.com",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Command-line argument parsing library",
+                "homepage": "https://www.horde.org/libraries/Horde_Argv",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Argv/tree/master"
                 }
             }
         ]

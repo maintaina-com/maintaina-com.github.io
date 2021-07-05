@@ -1,0 +1,270 @@
+{
+    "packages": {
+        "horde/service_twitter": [
+            {
+                "name": "horde/service_twitter",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Service_Twitter.git",
+                    "reference": "b2e50e80e86920629acadf73c4b7e0b38db17e14"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Twitter/zipball/b2e50e80e86920629acadf73c4b7e0b38db17e14",
+                    "reference": "b2e50e80e86920629acadf73c4b7e0b38db17e14",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_controller": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_http": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_oauth": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_url": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "time": "2015-01-09T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Horde Twitter client",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Twitter/tree/v2.1.2"
+                }
+            },
+            {
+                "name": "horde/service_twitter",
+                "version": "2.1.3",
+                "version_normalized": "2.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Service_Twitter.git",
+                    "reference": "0273f87f0491e862b6fd52a305ec2a341e8f4569"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Twitter/zipball/0273f87f0491e862b6fd52a305ec2a341e8f4569",
+                    "reference": "0273f87f0491e862b6fd52a305ec2a341e8f4569",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_controller": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_http": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_oauth": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_url": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "time": "2015-03-04T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Horde Twitter client",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Twitter/tree/v2.1.3"
+                }
+            },
+            {
+                "name": "horde/service_twitter",
+                "version": "2.1.4",
+                "version_normalized": "2.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Service_Twitter.git",
+                    "reference": "5b95be9eafa8273ce1f267edaf6d77e2c37d6efc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Twitter/zipball/5b95be9eafa8273ce1f267edaf6d77e2c37d6efc",
+                    "reference": "5b95be9eafa8273ce1f267edaf6d77e2c37d6efc",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_controller": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_http": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_oauth": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_url": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_util": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "time": "2015-04-28T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Horde Twitter client",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Twitter/tree/v2.1.4"
+                }
+            },
+            {
+                "name": "horde/service_twitter",
+                "version": "2.1.5",
+                "version_normalized": "2.1.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Service_Twitter.git",
+                    "reference": "e5ca8eda6604fc1cdaf4e4d292fa249021468887"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Twitter/zipball/e5ca8eda6604fc1cdaf4e4d292fa249021468887",
+                    "reference": "e5ca8eda6604fc1cdaf4e4d292fa249021468887",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_controller": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_http": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_oauth": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_url": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_util": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "time": "2015-06-09T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Horde Twitter client",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Twitter/tree/v2.1.5"
+                }
+            },
+            {
+                "name": "horde/service_twitter",
+                "version": "2.1.6",
+                "version_normalized": "2.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Service_Twitter.git",
+                    "reference": "18619a492958f0c08c581dd2c1e313f67abe5b89"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Twitter/zipball/18619a492958f0c08c581dd2c1e313f67abe5b89",
+                    "reference": "18619a492958f0c08c581dd2c1e313f67abe5b89",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_controller": "^2@stable",
+                    "pear-pear.horde.org/horde_exception": "^2@stable",
+                    "pear-pear.horde.org/horde_http": "^2@stable",
+                    "pear-pear.horde.org/horde_oauth": "^2@stable",
+                    "pear-pear.horde.org/horde_url": "^2@stable",
+                    "pear-pear.horde.org/horde_util": "^2@stable",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_service_twitter": "2.*",
+                    "pear-pear.horde.org/horde_service_twitter": "2.*"
+                },
+                "time": "2017-09-19T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Service_Twitter": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Horde Twitter client",
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Twitter/tree/v2.1.6"
+                }
+            },
+            {
+                "name": "horde/service_twitter",
+                "version": "v3.0.0alpha1",
+                "version_normalized": "3.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Service_Twitter.git",
+                    "reference": "b0e060e874c803428555efa7992bc7d7c12a2ac1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Twitter/zipball/b0e060e874c803428555efa7992bc7d7c12a2ac1",
+                    "reference": "b0e060e874c803428555efa7992bc7d7c12a2ac1",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/controller": "^3",
+                    "horde/exception": "^3",
+                    "horde/http": "^3",
+                    "horde/oauth": "^3",
+                    "horde/url": "^3",
+                    "horde/util": "^3",
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Service_Twitter": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Twitter client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Service_Twitter",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Twitter/tree/v3.0.0alpha1"
+                }
+            }
+        ]
+    }
+}

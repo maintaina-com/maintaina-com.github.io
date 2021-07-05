@@ -3,62 +3,6 @@
         "horde/group": [
             {
                 "name": "horde/group",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Group.git",
-                    "reference": "8751eb7732d9f0567327390e43e6ffda6c99724f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Group/zipball/8751eb7732d9f0567327390e43e6ffda6c99724f",
-                    "reference": "8751eb7732d9f0567327390e43e6ffda6c99724f",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/support": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "horde/cache": "^2",
-                    "horde/db": "^2",
-                    "horde/ldap": "^2",
-                    "horde/test": "^2.1"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Group": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "User groups library",
-                "homepage": "https://www.horde.org/libraries/Horde_Group",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Group/tree/master"
-                }
-            },
-            {
-                "name": "horde/group",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -144,6 +88,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -343,6 +288,62 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Group",
                 "support": {
                     "source": "https://github.com/maintaina-com/Group/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/group",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Group.git",
+                    "reference": "8751eb7732d9f0567327390e43e6ffda6c99724f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Group/zipball/8751eb7732d9f0567327390e43e6ffda6c99724f",
+                    "reference": "8751eb7732d9f0567327390e43e6ffda6c99724f",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/support": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/cache": "^2",
+                    "horde/db": "^2",
+                    "horde/ldap": "^2",
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Group": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "User groups library",
+                "homepage": "https://www.horde.org/libraries/Horde_Group",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Group/tree/master"
                 }
             }
         ]

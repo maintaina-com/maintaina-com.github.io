@@ -1,0 +1,318 @@
+{
+    "packages": {
+        "horde/sam": [
+            {
+                "name": "horde/sam",
+                "version": "dev-FRAMEWORK_5_1",
+                "version_normalized": "dev-FRAMEWORK_5_1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/sam.git",
+                    "reference": "95ac06342357942bee75f7b6dd57d2643afff2fa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/sam/zipball/95ac06342357942bee75f7b6dd57d2643afff2fa",
+                    "reference": "95ac06342357942bee75f7b6dd57d2643afff2fa",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde": ">=5.0.0,<=6.0.0alpha1",
+                    "pear-pear.horde.org/horde_core": ">=2.0.0,<=3.0.0alpha1",
+                    "php": ">=5.3.0"
+                },
+                "time": "2012-07-19T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Sam is short for Spam Assassin Module.",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/sam/tree/FRAMEWORK_5_1"
+                }
+            },
+            {
+                "name": "horde/sam",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/sam.git",
+                    "reference": "4f59531559028928715ede19e8313b1b53e51cf2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/sam/zipball/4f59531559028928715ede19e8313b1b53e51cf2",
+                    "reference": "4f59531559028928715ede19e8313b1b53e51cf2",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde": "^5",
+                    "pear-pear.horde.org/horde_core": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/sam": "1.*",
+                    "pear-pear.horde.org/sam": "1.*"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "project",
+                "autoload": {
+                    "psr-0": {
+                        "Sam": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Anti-spam user preferences application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/sam/tree/FRAMEWORK_5_2"
+                }
+            },
+            {
+                "name": "horde/sam",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/sam.git",
+                    "reference": "5c80a1893474efd96a2cacc36567a8207bf91164"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/sam/zipball/5c80a1893474efd96a2cacc36567a8207bf91164",
+                    "reference": "5c80a1893474efd96a2cacc36567a8207bf91164",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde": "^6 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "default-branch": true,
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Sam": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Anti-spam user preferences application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/sam/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/sam",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/sam.git",
+                    "reference": "d1ae25b70458eb09160adf794032bf51052f51b4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/sam/zipball/d1ae25b70458eb09160adf794032bf51052f51b4",
+                    "reference": "d1ae25b70458eb09160adf794032bf51052f51b4",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde": "^5",
+                    "pear-pear.horde.org/horde_core": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/sam": "1.*",
+                    "pear-pear.horde.org/sam": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "project",
+                "autoload": {
+                    "psr-0": {
+                        "Sam": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Anti-spam user preferences application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/sam/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/sam",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/sam.git",
+                    "reference": "d1ae25b70458eb09160adf794032bf51052f51b4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/sam/zipball/d1ae25b70458eb09160adf794032bf51052f51b4",
+                    "reference": "d1ae25b70458eb09160adf794032bf51052f51b4",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde": "^5",
+                    "pear-pear.horde.org/horde_core": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/sam": "1.*",
+                    "pear-pear.horde.org/sam": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "project",
+                "autoload": {
+                    "psr-0": {
+                        "Sam": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Anti-spam user preferences application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/sam/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/sam",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/sam.git",
+                    "reference": "d89c4e206ad15668c821aa7bf26312fee4a2dcef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/sam/zipball/d89c4e206ad15668c821aa7bf26312fee4a2dcef",
+                    "reference": "d89c4e206ad15668c821aa7bf26312fee4a2dcef",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/core": "dev-master",
+                    "horde/horde": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Sam": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Anti-spam user preferences application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/sam/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/sam",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/sam.git",
+                    "reference": "8fd1272456758419e409b285c60cc049dea1c1e9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/sam/zipball/8fd1272456758419e409b285c60cc049dea1c1e9",
+                    "reference": "8fd1272456758419e409b285c60cc049dea1c1e9",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/core": "dev-master",
+                    "horde/horde": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Sam": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Anti-spam user preferences application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/sam/tree/master"
+                }
+            }
+        ]
+    }
+}

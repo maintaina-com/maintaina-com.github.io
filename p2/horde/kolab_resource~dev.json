@@ -1,0 +1,309 @@
+{
+    "packages": {
+        "horde/kolab_resource": [
+            {
+                "name": "horde/kolab_resource",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Resource.git",
+                    "reference": "9b0826452fc759b76dd33ba81aab0e934c5cf8bd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Resource/zipball/9b0826452fc759b76dd33ba81aab0e934c5cf8bd",
+                    "reference": "9b0826452fc759b76dd33ba81aab0e934c5cf8bd",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_icalendar": "^2",
+                    "pear-pear.horde.org/horde_kolab_server": "^2",
+                    "pear-pear.horde.org/horde_kolab_storage": "^2",
+                    "pear-pear.horde.org/horde_mime": "^2",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "pear-pear.php.net/http_request": "*",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_kolab_resource": "1.*",
+                    "pear-pear.horde.org/horde_kolab_resource": "1.*"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Resource": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab resource management library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Resource/tree/FRAMEWORK_5_2"
+                }
+            },
+            {
+                "name": "horde/kolab_resource",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Resource.git",
+                    "reference": "b8f2393cbc5b6b885cb0129008978076b8464104"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Resource/zipball/b8f2393cbc5b6b885cb0129008978076b8464104",
+                    "reference": "b8f2393cbc5b6b885cb0129008978076b8464104",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/kolab_server": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/kolab_storage": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mime": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "pear/http_request": "*",
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Resource": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab resource management library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Resource/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/kolab_resource",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Resource.git",
+                    "reference": "4d12dbbd4a23405f40b4d21cad546054768c4ccb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Resource/zipball/4d12dbbd4a23405f40b4d21cad546054768c4ccb",
+                    "reference": "4d12dbbd4a23405f40b4d21cad546054768c4ccb",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_icalendar": "^2",
+                    "pear-pear.horde.org/horde_kolab_server": "^2",
+                    "pear-pear.horde.org/horde_kolab_storage": "^2",
+                    "pear-pear.horde.org/horde_mime": "^2",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "pear-pear.php.net/http_request": "*",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_kolab_resource": "1.*",
+                    "pear-pear.horde.org/horde_kolab_resource": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Resource": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab resource management library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Resource/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/kolab_resource",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Resource.git",
+                    "reference": "4d12dbbd4a23405f40b4d21cad546054768c4ccb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Resource/zipball/4d12dbbd4a23405f40b4d21cad546054768c4ccb",
+                    "reference": "4d12dbbd4a23405f40b4d21cad546054768c4ccb",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_icalendar": "^2",
+                    "pear-pear.horde.org/horde_kolab_server": "^2",
+                    "pear-pear.horde.org/horde_kolab_storage": "^2",
+                    "pear-pear.horde.org/horde_mime": "^2",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "pear-pear.php.net/http_request": "*",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_kolab_resource": "1.*",
+                    "pear-pear.horde.org/horde_kolab_resource": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Resource": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab resource management library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Resource/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/kolab_resource",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Resource.git",
+                    "reference": "3a4bcd9535d9b0ebfb1bcc9cbe50fafc99e4d12f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Resource/zipball/3a4bcd9535d9b0ebfb1bcc9cbe50fafc99e4d12f",
+                    "reference": "3a4bcd9535d9b0ebfb1bcc9cbe50fafc99e4d12f",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/icalendar": "dev-master",
+                    "horde/kolab_server": "dev-master",
+                    "horde/kolab_storage": "dev-master",
+                    "horde/mime": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/util": "dev-master",
+                    "pear-pear.php.net/http_request": "*",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Resource": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab resource management library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Resource/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/kolab_resource",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Resource.git",
+                    "reference": "2d7af6c1fa2ad687203f7021be9bb0b50f80e538"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Resource/zipball/2d7af6c1fa2ad687203f7021be9bb0b50f80e538",
+                    "reference": "2d7af6c1fa2ad687203f7021be9bb0b50f80e538",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/icalendar": "dev-master",
+                    "horde/kolab_server": "dev-master",
+                    "horde/kolab_storage": "dev-master",
+                    "horde/mime": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/util": "dev-master",
+                    "pear-pear.php.net/http_request": "*",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Resource": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab resource management library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Resource/tree/master"
+                }
+            }
+        ]
+    }
+}

@@ -3,48 +3,6 @@
         "horde/queue": [
             {
                 "name": "horde/queue",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Queue.git",
-                    "reference": "6b778e8d24f0546251a398e1df31811208a4be26"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Queue/zipball/6b778e8d24f0546251a398e1df31811208a4be26",
-                    "reference": "6b778e8d24f0546251a398e1df31811208a4be26",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/horde-installer-plugin": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Queue": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Message and data queuing client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Queue",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Queue/tree/master"
-                }
-            },
-            {
-                "name": "horde/queue",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -107,6 +65,7 @@
                     "php": "^7"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -259,6 +218,48 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Queue",
                 "support": {
                     "source": "https://github.com/maintaina-com/Queue/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/queue",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Queue.git",
+                    "reference": "6b778e8d24f0546251a398e1df31811208a4be26"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Queue/zipball/6b778e8d24f0546251a398e1df31811208a4be26",
+                    "reference": "6b778e8d24f0546251a398e1df31811208a4be26",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Queue": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Message and data queuing client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Queue",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Queue/tree/master"
                 }
             }
         ]

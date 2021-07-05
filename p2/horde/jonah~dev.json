@@ -3,56 +3,6 @@
         "horde/jonah": [
             {
                 "name": "horde/jonah",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/jonah.git",
-                    "reference": "f9fa3dfdfed74b2f8d898954bd8d0710ec6aea9c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/jonah/zipball/f9fa3dfdfed74b2f8d898954bd8d0710ec6aea9c",
-                    "reference": "f9fa3dfdfed74b2f8d898954bd8d0710ec6aea9c",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/core": "^3",
-                    "horde/db": "^3",
-                    "horde/horde": "^6",
-                    "horde/horde-installer-plugin": "*",
-                    "php": "^7"
-                },
-                "time": "2021-03-21T00:00:00+00:00",
-                "type": "horde-application",
-                "autoload": {
-                    "psr-0": {
-                        "Jonah": "lib/"
-                    }
-                },
-                "license": [
-                    "BSD-2-Clause"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Newsfeed application",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/jonah/tree/FRAMEWORK_6_0"
-                }
-            },
-            {
-                "name": "horde/jonah",
                 "version": "dev-FRAMEWORK_5_1",
                 "version_normalized": "dev-FRAMEWORK_5_1",
                 "source": {
@@ -167,6 +117,7 @@
                     "php": "^7"
                 },
                 "time": "2021-03-21T00:00:00+00:00",
+                "default-branch": true,
                 "type": "horde-application",
                 "autoload": {
                     "psr-0": {
@@ -342,6 +293,56 @@
                 "homepage": "https://www.horde.org",
                 "support": {
                     "source": "https://github.com/maintaina-com/jonah/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/jonah",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/jonah.git",
+                    "reference": "f9fa3dfdfed74b2f8d898954bd8d0710ec6aea9c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/jonah/zipball/f9fa3dfdfed74b2f8d898954bd8d0710ec6aea9c",
+                    "reference": "f9fa3dfdfed74b2f8d898954bd8d0710ec6aea9c",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/core": "^3",
+                    "horde/db": "^3",
+                    "horde/horde": "^6",
+                    "horde/horde-installer-plugin": "*",
+                    "php": "^7"
+                },
+                "time": "2021-03-21T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Jonah": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Newsfeed application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/jonah/tree/FRAMEWORK_6_0"
                 }
             }
         ]

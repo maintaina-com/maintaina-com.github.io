@@ -1,0 +1,54 @@
+{
+    "packages": {
+        "horde/operator": [
+            {
+                "name": "horde/operator",
+                "version": "v1.0.0alpha1",
+                "version_normalized": "1.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/operator.git",
+                    "reference": "53d51655fe60d3c084a68ad2e0506069d4de9e49"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/operator/zipball/53d51655fe60d3c084a68ad2e0506069d4de9e49",
+                    "reference": "53d51655fe60d3c084a68ad2e0506069d4de9e49",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde": "^6",
+                    "horde/horde-installer-plugin": "*",
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Operator": "lib/"
+                    }
+                },
+                "license": [
+                    "TODO"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Call records viewer application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/operator/tree/v1.0.0alpha1"
+                }
+            }
+        ]
+    }
+}

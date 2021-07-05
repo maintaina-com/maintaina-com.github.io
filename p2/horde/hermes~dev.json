@@ -3,82 +3,6 @@
         "horde/hermes": [
             {
                 "name": "horde/hermes",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/hermes.git",
-                    "reference": "4a41e7e3ab1a1faacf8c744eaaaa035adef89013"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/hermes/zipball/4a41e7e3ab1a1faacf8c744eaaaa035adef89013",
-                    "reference": "4a41e7e3ab1a1faacf8c744eaaaa035adef89013",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-gettext": "*",
-                    "ext-json": "*",
-                    "ext-simplexml": "*",
-                    "horde/auth": "^3",
-                    "horde/autoloader": "^3",
-                    "horde/core": "^3",
-                    "horde/data": "^3",
-                    "horde/date": "^3",
-                    "horde/db": "^3",
-                    "horde/exception": "^3",
-                    "horde/form": "^3",
-                    "horde/horde": "^6",
-                    "horde/horde-installer-plugin": "*",
-                    "horde/nls": "^3",
-                    "horde/notification": "^3",
-                    "horde/perms": "^3",
-                    "horde/url": "^3",
-                    "horde/util": "^3",
-                    "php": "^7"
-                },
-                "suggest": {
-                    "horde/nag": "^5",
-                    "horde/turba": "^5"
-                },
-                "time": "2021-03-21T00:00:00+00:00",
-                "bin": [
-                    "bin/hermes-purge"
-                ],
-                "type": "horde-application",
-                "autoload": {
-                    "psr-0": {
-                        "Hermes": "lib/"
-                    }
-                },
-                "license": [
-                    "BSD-2-Clause"
-                ],
-                "authors": [
-                    {
-                        "name": "Michael J Rubinsky",
-                        "email": "mrubinsk@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Time tracking application",
-                "homepage": "https://www.horde.org/apps/hermes",
-                "support": {
-                    "source": "https://github.com/maintaina-com/hermes/tree/FRAMEWORK_6_0"
-                }
-            },
-            {
-                "name": "horde/hermes",
                 "version": "dev-FRAMEWORK_5_1",
                 "version_normalized": "dev-FRAMEWORK_5_1",
                 "source": {
@@ -261,6 +185,7 @@
                     "horde/turba": "^5"
                 },
                 "time": "2021-03-21T00:00:00+00:00",
+                "default-branch": true,
                 "bin": [
                     "bin/hermes-purge"
                 ],
@@ -522,6 +447,82 @@
                 "homepage": "https://www.horde.org/apps/hermes",
                 "support": {
                     "source": "https://github.com/maintaina-com/hermes/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/hermes",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/hermes.git",
+                    "reference": "4a41e7e3ab1a1faacf8c744eaaaa035adef89013"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/hermes/zipball/4a41e7e3ab1a1faacf8c744eaaaa035adef89013",
+                    "reference": "4a41e7e3ab1a1faacf8c744eaaaa035adef89013",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "horde/auth": "^3",
+                    "horde/autoloader": "^3",
+                    "horde/core": "^3",
+                    "horde/data": "^3",
+                    "horde/date": "^3",
+                    "horde/db": "^3",
+                    "horde/exception": "^3",
+                    "horde/form": "^3",
+                    "horde/horde": "^6",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/nls": "^3",
+                    "horde/notification": "^3",
+                    "horde/perms": "^3",
+                    "horde/url": "^3",
+                    "horde/util": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/nag": "^5",
+                    "horde/turba": "^5"
+                },
+                "time": "2021-03-21T00:00:00+00:00",
+                "bin": [
+                    "bin/hermes-purge"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Hermes": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Time tracking application",
+                "homepage": "https://www.horde.org/apps/hermes",
+                "support": {
+                    "source": "https://github.com/maintaina-com/hermes/tree/FRAMEWORK_6_0"
                 }
             }
         ]

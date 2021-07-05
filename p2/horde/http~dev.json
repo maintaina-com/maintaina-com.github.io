@@ -3,59 +3,6 @@
         "horde/http": [
             {
                 "name": "horde/http",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Http.git",
-                    "reference": "ad402a72738d9fbcf12cc3e84e2adb3e775a2570"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Http/zipball/ad402a72738d9fbcf12cc3e84e2adb3e775a2570",
-                    "reference": "ad402a72738d9fbcf12cc3e84e2adb3e775a2570",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
-                },
-                "suggest": {
-                    "ext-curl": "*",
-                    "ext-http": "*",
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
-                },
-                "time": "2021-03-13T00:00:00+00:00",
-                "type": "library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Http": "lib/"
-                    }
-                },
-                "license": [
-                    "BSD-2-Clause"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "HTTP client library",
-                "homepage": "https://www.horde.org/libraries/Horde_Http",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Http/tree/master"
-                }
-            },
-            {
-                "name": "horde/http",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -137,6 +84,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -330,6 +278,59 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Http",
                 "support": {
                     "source": "https://github.com/maintaina-com/Http/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/http",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Http.git",
+                    "reference": "ad402a72738d9fbcf12cc3e84e2adb3e775a2570"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Http/zipball/ad402a72738d9fbcf12cc3e84e2adb3e775a2570",
+                    "reference": "ad402a72738d9fbcf12cc3e84e2adb3e775a2570",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "ext-curl": "*",
+                    "ext-http": "*",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-03-13T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Http": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "HTTP client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Http",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Http/tree/master"
                 }
             }
         ]

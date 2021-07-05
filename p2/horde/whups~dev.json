@@ -3,89 +3,6 @@
         "horde/whups": [
             {
                 "name": "horde/whups",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/whups.git",
-                    "reference": "73aafc60ef722addade459ebf2aee0a804e803d5"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/73aafc60ef722addade459ebf2aee0a804e803d5",
-                    "reference": "73aafc60ef722addade459ebf2aee0a804e803d5",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-gettext": "*",
-                    "ext-json": "*",
-                    "horde/auth": "dev-master",
-                    "horde/autoloader": "dev-master",
-                    "horde/compress": "dev-master",
-                    "horde/core": "dev-master",
-                    "horde/date": "dev-master",
-                    "horde/db": "dev-master",
-                    "horde/exception": "dev-master",
-                    "horde/form": "dev-master",
-                    "horde/group": "dev-master",
-                    "horde/horde": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/mail": "dev-master",
-                    "horde/mime": "dev-master",
-                    "horde/mime_viewer": "dev-master",
-                    "horde/notification": "dev-master",
-                    "horde/perms": "dev-master",
-                    "horde/prefs": "dev-master",
-                    "horde/scheduler": "dev-master",
-                    "horde/share": "dev-master",
-                    "horde/support": "dev-master",
-                    "horde/text_filter": "dev-master",
-                    "horde/util": "dev-master",
-                    "horde/vfs": "dev-master",
-                    "horde/view": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "bin": [
-                    "bin/whups-svn-hook",
-                    "bin/whups-convert-to-utf8",
-                    "bin/whups-mail-filter",
-                    "bin/whups-git-hook",
-                    "bin/whups-convert-sql-shares-to-sqlng",
-                    "bin/whups-bugzilla-import",
-                    "bin/whups-obliterate",
-                    "bin/whups-convert-datatree-shares-to-sql",
-                    "bin/whups-reminders"
-                ],
-                "type": "horde-application",
-                "autoload": {
-                    "psr-0": {
-                        "Whups": "lib/"
-                    }
-                },
-                "license": [
-                    "BSD-2-Clause"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Ticket-tracking application",
-                "homepage": "https://www.horde.org/apps/whups",
-                "support": {
-                    "source": "https://github.com/maintaina-com/whups/tree/master"
-                }
-            },
-            {
-                "name": "horde/whups",
                 "version": "dev-FRAMEWORK_5_1",
                 "version_normalized": "dev-FRAMEWORK_5_1",
                 "source": {
@@ -270,6 +187,7 @@
                     "php": "^7"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "bin": [
                     "bin/whups-bugzilla-import",
                     "bin/whups-convert-datatree-shares-to-sql",
@@ -539,6 +457,89 @@
                 "homepage": "https://www.horde.org/apps/whups",
                 "support": {
                     "source": "https://github.com/maintaina-com/whups/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/whups",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/whups.git",
+                    "reference": "73aafc60ef722addade459ebf2aee0a804e803d5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/73aafc60ef722addade459ebf2aee0a804e803d5",
+                    "reference": "73aafc60ef722addade459ebf2aee0a804e803d5",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "ext-json": "*",
+                    "horde/auth": "dev-master",
+                    "horde/autoloader": "dev-master",
+                    "horde/compress": "dev-master",
+                    "horde/core": "dev-master",
+                    "horde/date": "dev-master",
+                    "horde/db": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/form": "dev-master",
+                    "horde/group": "dev-master",
+                    "horde/horde": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/mail": "dev-master",
+                    "horde/mime": "dev-master",
+                    "horde/mime_viewer": "dev-master",
+                    "horde/notification": "dev-master",
+                    "horde/perms": "dev-master",
+                    "horde/prefs": "dev-master",
+                    "horde/scheduler": "dev-master",
+                    "horde/share": "dev-master",
+                    "horde/support": "dev-master",
+                    "horde/text_filter": "dev-master",
+                    "horde/util": "dev-master",
+                    "horde/vfs": "dev-master",
+                    "horde/view": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "bin": [
+                    "bin/whups-svn-hook",
+                    "bin/whups-convert-to-utf8",
+                    "bin/whups-mail-filter",
+                    "bin/whups-git-hook",
+                    "bin/whups-convert-sql-shares-to-sqlng",
+                    "bin/whups-bugzilla-import",
+                    "bin/whups-obliterate",
+                    "bin/whups-convert-datatree-shares-to-sql",
+                    "bin/whups-reminders"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Whups": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Ticket-tracking application",
+                "homepage": "https://www.horde.org/apps/whups",
+                "support": {
+                    "source": "https://github.com/maintaina-com/whups/tree/master"
                 }
             }
         ]

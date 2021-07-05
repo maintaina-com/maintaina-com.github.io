@@ -3,97 +3,6 @@
         "horde/ansel": [
             {
                 "name": "horde/ansel",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/ansel.git",
-                    "reference": "125e83493777c5b5ee335a98881e55850e9bf787"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ansel/zipball/125e83493777c5b5ee335a98881e55850e9bf787",
-                    "reference": "125e83493777c5b5ee335a98881e55850e9bf787",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-gettext": "*",
-                    "ext-hash": "*",
-                    "horde/auth": "dev-master",
-                    "horde/autoloader": "dev-master",
-                    "horde/content": "dev-master",
-                    "horde/core": "dev-master",
-                    "horde/date": "dev-master",
-                    "horde/db": "dev-master",
-                    "horde/exception": "dev-master",
-                    "horde/form": "dev-master",
-                    "horde/group": "dev-master",
-                    "horde/horde": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/image": "dev-master",
-                    "horde/mime": "dev-master",
-                    "horde/nls": "dev-master",
-                    "horde/perms": "dev-master",
-                    "horde/prefs": "dev-master",
-                    "horde/serialize": "dev-master",
-                    "horde/share": "dev-master",
-                    "horde/support": "dev-master",
-                    "horde/text_filter": "dev-master",
-                    "horde/url": "dev-master",
-                    "horde/util": "dev-master",
-                    "horde/vfs": "dev-master",
-                    "horde/view": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "ext-gd": "*",
-                    "ext-imagick": "*",
-                    "ext-libpuzzle": "*",
-                    "ext-php-facedetect": "*",
-                    "horde/service_facebook": "^2",
-                    "horde/service_twitter": "^2",
-                    "horde/service_urlshortener": "^2"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "bin": [
-                    "bin/ansel",
-                    "bin/ansel-convert-sql-shares-to-sqlng",
-                    "bin/ansel-garbage-collection"
-                ],
-                "type": "horde-application",
-                "autoload": {
-                    "psr-0": {
-                        "Ansel": "lib/"
-                    }
-                },
-                "license": [
-                    "GPL-2.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Michael J Rubinsky",
-                        "email": "mrubinsk@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Photo gallery application",
-                "homepage": "https://www.horde.org/apps/ansel",
-                "support": {
-                    "source": "https://github.com/maintaina-com/ansel/tree/master"
-                }
-            },
-            {
-                "name": "horde/ansel",
                 "version": "dev-ANSEL_4_0",
                 "version_normalized": "dev-ANSEL_4_0",
                 "source": {
@@ -397,6 +306,7 @@
                     "horde/service_urlShortener": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "bin": [
                     "bin/ansel",
                     "bin/ansel-convert-sql-shares-to-sqlng",
@@ -701,6 +611,97 @@
                 "homepage": "https://www.horde.org/apps/ansel",
                 "support": {
                     "source": "https://github.com/maintaina-com/ansel/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/ansel",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/ansel.git",
+                    "reference": "125e83493777c5b5ee335a98881e55850e9bf787"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/ansel/zipball/125e83493777c5b5ee335a98881e55850e9bf787",
+                    "reference": "125e83493777c5b5ee335a98881e55850e9bf787",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "ext-hash": "*",
+                    "horde/auth": "dev-master",
+                    "horde/autoloader": "dev-master",
+                    "horde/content": "dev-master",
+                    "horde/core": "dev-master",
+                    "horde/date": "dev-master",
+                    "horde/db": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/form": "dev-master",
+                    "horde/group": "dev-master",
+                    "horde/horde": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/image": "dev-master",
+                    "horde/mime": "dev-master",
+                    "horde/nls": "dev-master",
+                    "horde/perms": "dev-master",
+                    "horde/prefs": "dev-master",
+                    "horde/serialize": "dev-master",
+                    "horde/share": "dev-master",
+                    "horde/support": "dev-master",
+                    "horde/text_filter": "dev-master",
+                    "horde/url": "dev-master",
+                    "horde/util": "dev-master",
+                    "horde/vfs": "dev-master",
+                    "horde/view": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "ext-gd": "*",
+                    "ext-imagick": "*",
+                    "ext-libpuzzle": "*",
+                    "ext-php-facedetect": "*",
+                    "horde/service_facebook": "^2",
+                    "horde/service_twitter": "^2",
+                    "horde/service_urlshortener": "^2"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "bin": [
+                    "bin/ansel",
+                    "bin/ansel-convert-sql-shares-to-sqlng",
+                    "bin/ansel-garbage-collection"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Ansel": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Photo gallery application",
+                "homepage": "https://www.horde.org/apps/ansel",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ansel/tree/master"
                 }
             }
         ]

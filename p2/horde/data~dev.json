@@ -3,62 +3,6 @@
         "horde/data": [
             {
                 "name": "horde/data",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Data.git",
-                    "reference": "713b0f79ced2fbe04278b265bb8302882570c51d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Data/zipball/713b0f79ced2fbe04278b265bb8302882570c51d",
-                    "reference": "713b0f79ced2fbe04278b265bb8302882570c51d",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/browser": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/mail": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/mime": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
-                },
-                "suggest": {
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
-                },
-                "time": "2021-03-13T00:00:00+00:00",
-                "type": "library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Data": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "developer"
-                    }
-                ],
-                "description": "Data import and export library",
-                "homepage": "https://www.horde.org/libraries/Horde_Data",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Data/tree/master"
-                }
-            },
-            {
-                "name": "horde/data",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -146,6 +90,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -348,6 +293,62 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Data",
                 "support": {
                     "source": "https://github.com/maintaina-com/Data/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/data",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Data.git",
+                    "reference": "713b0f79ced2fbe04278b265bb8302882570c51d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Data/zipball/713b0f79ced2fbe04278b265bb8302882570c51d",
+                    "reference": "713b0f79ced2fbe04278b265bb8302882570c51d",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/browser": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mail": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mime": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-03-13T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Data": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Data import and export library",
+                "homepage": "https://www.horde.org/libraries/Horde_Data",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Data/tree/master"
                 }
             }
         ]

@@ -3,67 +3,6 @@
         "horde/cache": [
             {
                 "name": "horde/cache",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Cache.git",
-                    "reference": "5865209272379d0d5430d01da6c4a68e95987c97"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Cache/zipball/5865209272379d0d5430d01da6c4a68e95987c97",
-                    "reference": "5865209272379d0d5430d01da6c4a68e95987c97",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-hash": "*",
-                    "horde/compress_fast": "dev-master",
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "ext-APC": "^3.1.1",
-                    "ext-eaccelerator": "0.9.5",
-                    "ext-xcache": "*",
-                    "horde/db": "^2.1",
-                    "horde/hashtable": "^1",
-                    "horde/log": "^2",
-                    "horde/memcache": "^2",
-                    "horde/mongo": "^1"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Cache": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Caching library",
-                "homepage": "https://www.horde.org/libraries/Horde_Cache",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Cache/tree/master"
-                }
-            },
-            {
-                "name": "horde/cache",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -159,6 +98,7 @@
                     "horde/mongo": "^2 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -373,6 +313,67 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Cache",
                 "support": {
                     "source": "https://github.com/maintaina-com/Cache/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/cache",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Cache.git",
+                    "reference": "5865209272379d0d5430d01da6c4a68e95987c97"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Cache/zipball/5865209272379d0d5430d01da6c4a68e95987c97",
+                    "reference": "5865209272379d0d5430d01da6c4a68e95987c97",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "horde/compress_fast": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "ext-APC": "^3.1.1",
+                    "ext-eaccelerator": "0.9.5",
+                    "ext-xcache": "*",
+                    "horde/db": "^2.1",
+                    "horde/hashtable": "^1",
+                    "horde/log": "^2",
+                    "horde/memcache": "^2",
+                    "horde/mongo": "^1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Cache": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Caching library",
+                "homepage": "https://www.horde.org/libraries/Horde_Cache",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cache/tree/master"
                 }
             }
         ]

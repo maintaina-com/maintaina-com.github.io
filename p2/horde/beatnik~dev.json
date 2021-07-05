@@ -3,49 +3,6 @@
         "horde/beatnik": [
             {
                 "name": "horde/beatnik",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/beatnik.git",
-                    "reference": "b1a86ff3a336508083f264e2283bfa93fecd038a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/beatnik/zipball/b1a86ff3a336508083f264e2283bfa93fecd038a",
-                    "reference": "b1a86ff3a336508083f264e2283bfa93fecd038a",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/horde": "^6",
-                    "horde/horde-installer-plugin": "*",
-                    "php": "^7"
-                },
-                "time": "2021-03-20T00:00:00+00:00",
-                "type": "horde-application",
-                "autoload": {
-                    "psr-0": {
-                        "Beatnik": "lib/"
-                    }
-                },
-                "license": [
-                    "GPL"
-                ],
-                "authors": [
-                    {
-                        "name": "Ben Klang",
-                        "email": "bklang@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "DNS record management application",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/beatnik/tree/FRAMEWORK_6_0"
-                }
-            },
-            {
-                "name": "horde/beatnik",
                 "version": "dev-FRAMEWORK_5_1",
                 "version_normalized": "dev-FRAMEWORK_5_1",
                 "source": {
@@ -148,6 +105,7 @@
                     "php": "^7"
                 },
                 "time": "2021-03-20T00:00:00+00:00",
+                "default-branch": true,
                 "type": "horde-application",
                 "autoload": {
                     "psr-0": {
@@ -303,6 +261,49 @@
                 "homepage": "https://www.horde.org",
                 "support": {
                     "source": "https://github.com/maintaina-com/beatnik/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/beatnik",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/beatnik.git",
+                    "reference": "b1a86ff3a336508083f264e2283bfa93fecd038a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/beatnik/zipball/b1a86ff3a336508083f264e2283bfa93fecd038a",
+                    "reference": "b1a86ff3a336508083f264e2283bfa93fecd038a",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde": "^6",
+                    "horde/horde-installer-plugin": "*",
+                    "php": "^7"
+                },
+                "time": "2021-03-20T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Beatnik": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Ben Klang",
+                        "email": "bklang@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "DNS record management application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/beatnik/tree/FRAMEWORK_6_0"
                 }
             }
         ]

@@ -1,0 +1,309 @@
+{
+    "packages": {
+        "horde/service_facebook": [
+            {
+                "name": "horde/service_facebook",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Service_Facebook.git",
+                    "reference": "02cffd3d461e131653c738174c9ee73d28f98a48"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Facebook/zipball/02cffd3d461e131653c738174c9ee73d28f98a48",
+                    "reference": "02cffd3d461e131653c738174c9ee73d28f98a48",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_http": "^2",
+                    "pear-pear.horde.org/horde_support": "^2",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_service_facebook": "2.*",
+                    "pear-pear.horde.org/horde_service_facebook": "2.*"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Service_Facebook": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Facebook client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Service_Facebook",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Facebook/tree/FRAMEWORK_5_2"
+                }
+            },
+            {
+                "name": "horde/service_facebook",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Service_Facebook.git",
+                    "reference": "909075e9e8146142326e0e4e3002c4a48bf74b7f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Facebook/zipball/909075e9e8146142326e0e4e3002c4a48bf74b7f",
+                    "reference": "909075e9e8146142326e0e4e3002c4a48bf74b7f",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/http": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Service_Facebook": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Facebook client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Service_Facebook",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Facebook/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/service_facebook",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Service_Facebook.git",
+                    "reference": "e10e0ea5f97d08022dc5d792e8618c43335e743a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Facebook/zipball/e10e0ea5f97d08022dc5d792e8618c43335e743a",
+                    "reference": "e10e0ea5f97d08022dc5d792e8618c43335e743a",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_http": "^2",
+                    "pear-pear.horde.org/horde_support": "^2",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_service_facebook": "2.*",
+                    "pear-pear.horde.org/horde_service_facebook": "2.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Service_Facebook": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Facebook client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Service_Facebook",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Facebook/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/service_facebook",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Service_Facebook.git",
+                    "reference": "e10e0ea5f97d08022dc5d792e8618c43335e743a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Facebook/zipball/e10e0ea5f97d08022dc5d792e8618c43335e743a",
+                    "reference": "e10e0ea5f97d08022dc5d792e8618c43335e743a",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_http": "^2",
+                    "pear-pear.horde.org/horde_support": "^2",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_service_facebook": "2.*",
+                    "pear-pear.horde.org/horde_service_facebook": "2.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Service_Facebook": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Facebook client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Service_Facebook",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Facebook/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/service_facebook",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Service_Facebook.git",
+                    "reference": "102611a6779328cabc0ad23bb2d2c21f4c1e64ae"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Facebook/zipball/102611a6779328cabc0ad23bb2d2c21f4c1e64ae",
+                    "reference": "102611a6779328cabc0ad23bb2d2c21f4c1e64ae",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/http": "dev-master",
+                    "horde/support": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Service_Facebook": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Facebook client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Service_Facebook",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Facebook/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/service_facebook",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Service_Facebook.git",
+                    "reference": "9c2a3876af3814ff566083d8bbf4eb636ba41373"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Facebook/zipball/9c2a3876af3814ff566083d8bbf4eb636ba41373",
+                    "reference": "9c2a3876af3814ff566083d8bbf4eb636ba41373",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/http": "dev-master",
+                    "horde/support": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Service_Facebook": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Facebook client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Service_Facebook",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Facebook/tree/master"
+                }
+            }
+        ]
+    }
+}

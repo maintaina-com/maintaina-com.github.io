@@ -1,0 +1,50 @@
+{
+    "packages": {
+        "horde/reflection": [
+            {
+                "name": "horde/reflection",
+                "version": "v1.0.0alpha1",
+                "version_normalized": "1.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Reflection.git",
+                    "reference": "28f018f893ac11122aafbed36e9dd7877ea9d6ad"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Reflection/zipball/28f018f893ac11122aafbed36e9dd7877ea9d6ad",
+                    "reference": "28f018f893ac11122aafbed36e9dd7877ea9d6ad",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/cli": "*"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Reflection": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Method reflection and documentation library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Reflection/tree/v1.0.0alpha1"
+                }
+            }
+        ]
+    }
+}

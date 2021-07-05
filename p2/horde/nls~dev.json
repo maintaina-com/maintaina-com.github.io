@@ -3,59 +3,6 @@
         "horde/nls": [
             {
                 "name": "horde/nls",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Nls.git",
-                    "reference": "a7359c01a1e81083d2bdc1eed11a3f8913f847db"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Nls/zipball/a7359c01a1e81083d2bdc1eed11a3f8913f847db",
-                    "reference": "a7359c01a1e81083d2bdc1eed11a3f8913f847db",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/translation": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "ext-geoip": "*",
-                    "pear-pear.php.net/Net_DNS2": "*"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Nls": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Native language support library",
-                "homepage": "https://www.horde.org/libraries/Horde_Nls",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Nls/tree/master"
-                }
-            },
-            {
-                "name": "horde/nls",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -135,6 +82,7 @@
                     "pear/net_dns2": "*"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -325,6 +273,59 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Nls",
                 "support": {
                     "source": "https://github.com/maintaina-com/Nls/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/nls",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Nls.git",
+                    "reference": "a7359c01a1e81083d2bdc1eed11a3f8913f847db"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Nls/zipball/a7359c01a1e81083d2bdc1eed11a3f8913f847db",
+                    "reference": "a7359c01a1e81083d2bdc1eed11a3f8913f847db",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "ext-geoip": "*",
+                    "pear-pear.php.net/Net_DNS2": "*"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Nls": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Native language support library",
+                "homepage": "https://www.horde.org/libraries/Horde_Nls",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Nls/tree/master"
                 }
             },
             {

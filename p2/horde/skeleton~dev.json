@@ -1,0 +1,251 @@
+{
+    "packages": {
+        "horde/skeleton": [
+            {
+                "name": "horde/skeleton",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/skeleton.git",
+                    "reference": "d7b30e25f29ed5cda26b33a9b4ca71fbd6fcda43"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/skeleton/zipball/d7b30e25f29ed5cda26b33a9b4ca71fbd6fcda43",
+                    "reference": "d7b30e25f29ed5cda26b33a9b4ca71fbd6fcda43",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/horde": "^6 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "default-branch": true,
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Skeleton": "lib/"
+                    }
+                },
+                "license": [
+                    "TODO"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Skeleton for new Horde applications",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/skeleton/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/skeleton",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/skeleton.git",
+                    "reference": "82828e349fb5beaac2cb8432fb1ecf8b8653ceda"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/skeleton/zipball/82828e349fb5beaac2cb8432fb1ecf8b8653ceda",
+                    "reference": "82828e349fb5beaac2cb8432fb1ecf8b8653ceda",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3"
+                },
+                "replace": {
+                    "pear-horde/skeleton": "1.*",
+                    "pear-pear.horde.org/skeleton": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "project",
+                "autoload": {
+                    "psr-0": {
+                        "Skeleton": "lib/"
+                    }
+                },
+                "license": [
+                    "TODO"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Skeleton for new Horde applications",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/skeleton/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/skeleton",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/skeleton.git",
+                    "reference": "82828e349fb5beaac2cb8432fb1ecf8b8653ceda"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/skeleton/zipball/82828e349fb5beaac2cb8432fb1ecf8b8653ceda",
+                    "reference": "82828e349fb5beaac2cb8432fb1ecf8b8653ceda",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3"
+                },
+                "replace": {
+                    "pear-horde/skeleton": "1.*",
+                    "pear-pear.horde.org/skeleton": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "project",
+                "autoload": {
+                    "psr-0": {
+                        "Skeleton": "lib/"
+                    }
+                },
+                "license": [
+                    "TODO"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Skeleton for new Horde applications",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/skeleton/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/skeleton",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/skeleton.git",
+                    "reference": "f0501d475184f0d8c36c30b9110f9a3aae4cc088"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/skeleton/zipball/f0501d475184f0d8c36c30b9110f9a3aae4cc088",
+                    "reference": "f0501d475184f0d8c36c30b9110f9a3aae4cc088",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Skeleton": "lib/"
+                    }
+                },
+                "license": [
+                    "TODO"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Skeleton for new Horde applications",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/skeleton/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/skeleton",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/skeleton.git",
+                    "reference": "87e30eecd5260c58d60fba337f630922f4d9a618"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/skeleton/zipball/87e30eecd5260c58d60fba337f630922f4d9a618",
+                    "reference": "87e30eecd5260c58d60fba337f630922f4d9a618",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Skeleton": "lib/"
+                    }
+                },
+                "license": [
+                    "TODO"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Skeleton for new Horde applications",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/skeleton/tree/master"
+                }
+            }
+        ]
+    }
+}

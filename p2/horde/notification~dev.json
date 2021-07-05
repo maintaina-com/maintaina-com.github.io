@@ -3,56 +3,6 @@
         "horde/notification": [
             {
                 "name": "horde/notification",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Notification.git",
-                    "reference": "c9693ac6d2f464068b0a2747d69b50d7de74286a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Notification/zipball/c9693ac6d2f464068b0a2747d69b50d7de74286a",
-                    "reference": "c9693ac6d2f464068b0a2747d69b50d7de74286a",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-gettext": "*",
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "horde/alarm": "^2",
-                    "horde/nls": "^2",
-                    "horde/test": "^2.1"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Notification": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Notification library implementing subject-observer pattern",
-                "homepage": "https://www.horde.org/libraries/Horde_Notification",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Notification/tree/master"
-                }
-            },
-            {
-                "name": "horde/notification",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -131,6 +81,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -307,6 +258,56 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Notification",
                 "support": {
                     "source": "https://github.com/maintaina-com/Notification/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/notification",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Notification.git",
+                    "reference": "c9693ac6d2f464068b0a2747d69b50d7de74286a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Notification/zipball/c9693ac6d2f464068b0a2747d69b50d7de74286a",
+                    "reference": "c9693ac6d2f464068b0a2747d69b50d7de74286a",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/alarm": "^2",
+                    "horde/nls": "^2",
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Notification": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Notification library implementing subject-observer pattern",
+                "homepage": "https://www.horde.org/libraries/Horde_Notification",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Notification/tree/master"
                 }
             }
         ]

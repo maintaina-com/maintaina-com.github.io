@@ -3,11 +3,11 @@
         "horde/theme-hochschule": [
             {
                 "name": "horde/theme-hochschule",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:maintaina-com/theme-hochschule.git",
+                    "url": "https://github.com/maintaina-com/theme-hochschule.git",
                     "reference": "f8c2ba48bef516876e1bb58fbc9638a47f6ab115"
                 },
                 "dist": {
@@ -22,6 +22,7 @@
                     "php": "^7"
                 },
                 "time": "2021-06-09T00:00:00+00:00",
+                "default-branch": true,
                 "type": "horde-theme",
                 "license": [
                     "LGPL-2"
@@ -34,7 +35,11 @@
                     }
                 ],
                 "description": "Horde Hochschule Theme",
-                "homepage": "https://www.horde.org/apps/horde"
+                "homepage": "https://www.horde.org/apps/horde",
+                "support": {
+                    "source": "https://github.com/maintaina-com/theme-hochschule/tree/FRAMEWORK_6_0",
+                    "issues": "https://github.com/maintaina-com/theme-hochschule/issues"
+                }
             }
         ]
     }

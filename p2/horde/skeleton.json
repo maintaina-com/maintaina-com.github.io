@@ -1,0 +1,56 @@
+{
+    "packages": {
+        "horde/skeleton": [
+            {
+                "name": "horde/skeleton",
+                "version": "v1.0.0alpha1",
+                "version_normalized": "1.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/skeleton.git",
+                    "reference": "b7c0d996c494d3704f1fa1edf0bb9286dcd7a1c4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/skeleton/zipball/b7c0d996c494d3704f1fa1edf0bb9286dcd7a1c4",
+                    "reference": "b7c0d996c494d3704f1fa1edf0bb9286dcd7a1c4",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "*",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/horde": "^6"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Skeleton": "lib/"
+                    }
+                },
+                "license": [
+                    "TODO"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Skeleton for new Horde applications",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/skeleton/tree/v1.0.0alpha1"
+                }
+            }
+        ]
+    }
+}

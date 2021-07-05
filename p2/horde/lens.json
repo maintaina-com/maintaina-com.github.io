@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "horde/lens": [
+            {
+                "name": "horde/lens",
+                "version": "v1.0.0alpha1",
+                "version_normalized": "1.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Lens.git",
+                    "reference": "0bb3bf17e42b9d912a5d6df5351736405160fe4a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Lens/zipball/0bb3bf17e42b9d912a5d6df5351736405160fe4a",
+                    "reference": "0bb3bf17e42b9d912a5d6df5351736405160fe4a",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Lens": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Lens decorating iterator/flyweight library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Lens/tree/v1.0.0alpha1"
+                }
+            }
+        ]
+    }
+}

@@ -3,55 +3,6 @@
         "horde/backup": [
             {
                 "name": "horde/backup",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Backup.git",
-                    "reference": "428fbbf8f60eee4bffc3c8c70d83804f37d3f19e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Backup/zipball/428fbbf8f60eee4bffc3c8c70d83804f37d3f19e",
-                    "reference": "428fbbf8f60eee4bffc3c8c70d83804f37d3f19e",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/compress": "dev-master",
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/pack": "dev-master",
-                    "horde/translation": "dev-master",
-                    "php": "^5.4 || ^7"
-                },
-                "suggest": {
-                    "horde/test": "^2"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Backup": "lib/"
-                    }
-                },
-                "license": [
-                    "BSD"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Backup and restore library",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Backup/tree/master"
-                }
-            },
-            {
-                "name": "horde/backup",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -128,6 +79,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -301,6 +253,55 @@
                 "homepage": "https://www.horde.org",
                 "support": {
                     "source": "https://github.com/maintaina-com/Backup/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/backup",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Backup.git",
+                    "reference": "428fbbf8f60eee4bffc3c8c70d83804f37d3f19e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Backup/zipball/428fbbf8f60eee4bffc3c8c70d83804f37d3f19e",
+                    "reference": "428fbbf8f60eee4bffc3c8c70d83804f37d3f19e",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/compress": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/pack": "dev-master",
+                    "horde/translation": "dev-master",
+                    "php": "^5.4 || ^7"
+                },
+                "suggest": {
+                    "horde/test": "^2"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Backup": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Backup and restore library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Backup/tree/master"
                 }
             }
         ]

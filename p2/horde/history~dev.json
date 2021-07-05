@@ -3,54 +3,6 @@
         "horde/history": [
             {
                 "name": "horde/history",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/History.git",
-                    "reference": "cefe3442ed9c318bd6d8bcbf4d0ce3449e7388d1"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/History/zipball/cefe3442ed9c318bd6d8bcbf4d0ce3449e7388d1",
-                    "reference": "cefe3442ed9c318bd6d8bcbf4d0ce3449e7388d1",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
-                },
-                "suggest": {
-                    "horde/hashtable": "^2 || dev-FRAMEWORK_6_0",
-                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
-                },
-                "time": "2021-03-13T00:00:00+00:00",
-                "type": "library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_History": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "History tracking library",
-                "homepage": "https://www.horde.org/libraries/Horde_History",
-                "support": {
-                    "source": "https://github.com/maintaina-com/History/tree/master"
-                }
-            },
-            {
-                "name": "horde/history",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -127,6 +79,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -300,6 +253,54 @@
                 "homepage": "https://www.horde.org/libraries/Horde_History",
                 "support": {
                     "source": "https://github.com/maintaina-com/History/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/history",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/History.git",
+                    "reference": "cefe3442ed9c318bd6d8bcbf4d0ce3449e7388d1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/History/zipball/cefe3442ed9c318bd6d8bcbf4d0ce3449e7388d1",
+                    "reference": "cefe3442ed9c318bd6d8bcbf4d0ce3449e7388d1",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/hashtable": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-03-13T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_History": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "History tracking library",
+                "homepage": "https://www.horde.org/libraries/Horde_History",
+                "support": {
+                    "source": "https://github.com/maintaina-com/History/tree/master"
                 }
             }
         ]

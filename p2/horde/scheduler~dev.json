@@ -3,51 +3,6 @@
         "horde/scheduler": [
             {
                 "name": "horde/scheduler",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Scheduler.git",
-                    "reference": "bea0049b45568e4a4cc88639b550d994820d9d3a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Scheduler/zipball/bea0049b45568e4a4cc88639b550d994820d9d3a",
-                    "reference": "bea0049b45568e4a4cc88639b550d994820d9d3a",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/core": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/util": "dev-master",
-                    "horde/vfs": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Scheduler": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Scheduling library",
-                "homepage": "https://www.horde.org/libraries/Horde_Scheduler",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Scheduler/tree/master"
-                }
-            },
-            {
-                "name": "horde/scheduler",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -116,6 +71,7 @@
                     "php": "^7"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -277,6 +233,51 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Scheduler",
                 "support": {
                     "source": "https://github.com/maintaina-com/Scheduler/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/scheduler",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Scheduler.git",
+                    "reference": "bea0049b45568e4a4cc88639b550d994820d9d3a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Scheduler/zipball/bea0049b45568e4a4cc88639b550d994820d9d3a",
+                    "reference": "bea0049b45568e4a4cc88639b550d994820d9d3a",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/core": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/util": "dev-master",
+                    "horde/vfs": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Scheduler": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Scheduling library",
+                "homepage": "https://www.horde.org/libraries/Horde_Scheduler",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Scheduler/tree/master"
                 }
             }
         ]

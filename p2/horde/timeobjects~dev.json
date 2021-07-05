@@ -3,63 +3,6 @@
         "horde/timeobjects": [
             {
                 "name": "horde/timeobjects",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/timeobjects.git",
-                    "reference": "b58addfd8986cc0baff0e41e112085bfb195d9f9"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/timeobjects/zipball/b58addfd8986cc0baff0e41e112085bfb195d9f9",
-                    "reference": "b58addfd8986cc0baff0e41e112085bfb195d9f9",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-gettext": "*",
-                    "horde/core": "dev-master",
-                    "horde/date": "dev-master",
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/url": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "horde/service_facebook": "^2",
-                    "horde/service_weather": "^2"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-application",
-                "autoload": {
-                    "psr-0": {
-                        "Timeobjects": "lib/"
-                    }
-                },
-                "license": [
-                    "BSD-2-Clause"
-                ],
-                "authors": [
-                    {
-                        "name": "Michael J Rubinsky",
-                        "email": "mrubinsk@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Time-based objects application",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/timeobjects/tree/master"
-                }
-            },
-            {
-                "name": "horde/timeobjects",
                 "version": "dev-FRAMEWORK_5_1",
                 "version_normalized": "dev-FRAMEWORK_5_1",
                 "source": {
@@ -199,6 +142,7 @@
                     "horde/service_weather": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "horde-application",
                 "autoload": {
                     "psr-0": {
@@ -401,6 +345,63 @@
                 "homepage": "https://www.horde.org",
                 "support": {
                     "source": "https://github.com/maintaina-com/timeobjects/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/timeobjects",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/timeobjects.git",
+                    "reference": "b58addfd8986cc0baff0e41e112085bfb195d9f9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/timeobjects/zipball/b58addfd8986cc0baff0e41e112085bfb195d9f9",
+                    "reference": "b58addfd8986cc0baff0e41e112085bfb195d9f9",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "horde/core": "dev-master",
+                    "horde/date": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/url": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/service_facebook": "^2",
+                    "horde/service_weather": "^2"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Timeobjects": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Time-based objects application",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/timeobjects/tree/master"
                 }
             }
         ]

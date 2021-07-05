@@ -3,54 +3,6 @@
         "horde/rdo": [
             {
                 "name": "horde/rdo",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Rdo.git",
-                    "reference": "44d72d4fbdcc9123a8f058311599c1d584fa8b24"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/44d72d4fbdcc9123a8f058311599c1d584fa8b24",
-                    "reference": "44d72d4fbdcc9123a8f058311599c1d584fa8b24",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/db": "dev-master",
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "horde/test": "^2.1"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Rdo": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "ORM (object relational-mapping) library",
-                "homepage": "https://www.horde.org/libraries/Horde_Rdo",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Rdo/tree/master"
-                }
-            },
-            {
-                "name": "horde/rdo",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -107,12 +59,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Rdo.git",
-                    "reference": "ceddc6f38826e9450d7c37a0201046d108fb7ab5"
+                    "reference": "6ffe177efa70228ac86b8d55eec4761cb701ee04"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/ceddc6f38826e9450d7c37a0201046d108fb7ab5",
-                    "reference": "ceddc6f38826e9450d7c37a0201046d108fb7ab5",
+                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/6ffe177efa70228ac86b8d55eec4761cb701ee04",
+                    "reference": "6ffe177efa70228ac86b8d55eec4761cb701ee04",
                     "shasum": ""
                 },
                 "require": {
@@ -124,7 +76,8 @@
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2021-07-04T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -298,6 +251,54 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Rdo",
                 "support": {
                     "source": "https://github.com/maintaina-com/Rdo/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/rdo",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Rdo.git",
+                    "reference": "44d72d4fbdcc9123a8f058311599c1d584fa8b24"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/44d72d4fbdcc9123a8f058311599c1d584fa8b24",
+                    "reference": "44d72d4fbdcc9123a8f058311599c1d584fa8b24",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/db": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Rdo": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "ORM (object relational-mapping) library",
+                "homepage": "https://www.horde.org/libraries/Horde_Rdo",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rdo/tree/master"
                 }
             }
         ]

@@ -3,60 +3,6 @@
         "horde/itip": [
             {
                 "name": "horde/itip",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Itip.git",
-                    "reference": "6ef99a89190571422b6bdc011002e9f204aac582"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Itip/zipball/6ef99a89190571422b6bdc011002e9f204aac582",
-                    "reference": "6ef99a89190571422b6bdc011002e9f204aac582",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/icalendar": "dev-master",
-                    "horde/mime": "dev-master",
-                    "horde/translation": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "horde/prefs": "^2.3",
-                    "horde/test": "^2.1"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Itip": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Gunnar Wrobel",
-                        "email": "p@rdus.de",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "iTip invitation response library",
-                "homepage": "https://www.horde.org/libraries/Horde_Itip",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Itip/tree/master"
-                }
-            },
-            {
-                "name": "horde/itip",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -138,6 +84,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -331,6 +278,60 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Itip",
                 "support": {
                     "source": "https://github.com/maintaina-com/Itip/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/itip",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Itip.git",
+                    "reference": "6ef99a89190571422b6bdc011002e9f204aac582"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Itip/zipball/6ef99a89190571422b6bdc011002e9f204aac582",
+                    "reference": "6ef99a89190571422b6bdc011002e9f204aac582",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/icalendar": "dev-master",
+                    "horde/mime": "dev-master",
+                    "horde/translation": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/prefs": "^2.3",
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Itip": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "iTip invitation response library",
+                "homepage": "https://www.horde.org/libraries/Horde_Itip",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Itip/tree/master"
                 }
             }
         ]

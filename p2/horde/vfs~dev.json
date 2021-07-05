@@ -3,68 +3,6 @@
         "horde/vfs": [
             {
                 "name": "horde/vfs",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Vfs.git",
-                    "reference": "10d890be561622c46e5708ff1c0c5afd8cf8b039"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/10d890be561622c46e5708ff1c0c5afd8cf8b039",
-                    "reference": "10d890be561622c46e5708ff1c0c5afd8cf8b039",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/translation": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "ext-ftp": "*",
-                    "ext-ssh2": "^0.12 || ^1",
-                    "horde/auth": "^2",
-                    "horde/core": "^2",
-                    "horde/db": "^2.4",
-                    "horde/kolab_session": "^2",
-                    "horde/mime": "^2",
-                    "horde/mongo": "^1",
-                    "horde/perms": "^2",
-                    "horde/test": "^2.1"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Vfs": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Virtual file system library",
-                "homepage": "https://www.horde.org/libraries/Horde_Vfs",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Vfs/tree/master"
-                }
-            },
-            {
-                "name": "horde/vfs",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -162,6 +100,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -379,6 +318,68 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Vfs",
                 "support": {
                     "source": "https://github.com/maintaina-com/Vfs/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/vfs",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
+                    "reference": "10d890be561622c46e5708ff1c0c5afd8cf8b039"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/10d890be561622c46e5708ff1c0c5afd8cf8b039",
+                    "reference": "10d890be561622c46e5708ff1c0c5afd8cf8b039",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "ext-ftp": "*",
+                    "ext-ssh2": "^0.12 || ^1",
+                    "horde/auth": "^2",
+                    "horde/core": "^2",
+                    "horde/db": "^2.4",
+                    "horde/kolab_session": "^2",
+                    "horde/mime": "^2",
+                    "horde/mongo": "^1",
+                    "horde/perms": "^2",
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Vfs": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Virtual file system library",
+                "homepage": "https://www.horde.org/libraries/Horde_Vfs",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/master"
                 }
             }
         ]

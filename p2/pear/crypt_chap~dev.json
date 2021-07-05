@@ -4,10 +4,10 @@
             {
                 "name": "pear/crypt_chap",
                 "version": "dev-trunk",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-trunk",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:ralflang/Crypt_CHAP.git",
+                    "url": "https://github.com/ralflang/Crypt_CHAP.git",
                     "reference": "5a2549c42f065a91f8d33ffbfb39d53329c73141"
                 },
                 "dist": {
@@ -26,6 +26,7 @@
                     "phpunit/phpunit": "*"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -43,7 +44,10 @@
                     }
                 ],
                 "description": "Library for generating CHAP packets",
-                "homepage": "https://pear.php.net/package/Crypt_CHAP"
+                "homepage": "https://pear.php.net/package/Crypt_CHAP",
+                "support": {
+                    "source": "https://github.com/ralflang/Crypt_CHAP/tree/v2.0.0"
+                }
             }
         ]
     }

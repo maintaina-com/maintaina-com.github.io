@@ -3,86 +3,6 @@
         "horde/mnemo": [
             {
                 "name": "horde/mnemo",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/mnemo.git",
-                    "reference": "cde2e8c9859bb974c63010354e46da46f8b640a3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/cde2e8c9859bb974c63010354e46da46f8b640a3",
-                    "reference": "cde2e8c9859bb974c63010354e46da46f8b640a3",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-gettext": "*",
-                    "horde/auth": "dev-master",
-                    "horde/content": "dev-master",
-                    "horde/core": "dev-master",
-                    "horde/data": "dev-master",
-                    "horde/exception": "dev-master",
-                    "horde/form": "dev-master",
-                    "horde/group": "dev-master",
-                    "horde/history": "dev-master",
-                    "horde/horde": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/icalendar": "dev-master",
-                    "horde/injector": "dev-master",
-                    "horde/perms": "dev-master",
-                    "horde/prefs": "dev-master",
-                    "horde/share": "dev-master",
-                    "horde/support": "dev-master",
-                    "horde/text_filter": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "horde/activesync": "^2.4",
-                    "horde/backup": "^1",
-                    "horde/cli": "^2",
-                    "horde/crypt": "^2",
-                    "horde/db": "^2.1",
-                    "horde/pdf": "^2",
-                    "horde/test": "^2"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "bin": [
-                    "bin/mnemo-convert-to-utf8",
-                    "bin/mnemo-convert-sql-shares-to-sqlng",
-                    "bin/mnemo-import-text-note",
-                    "bin/mnemo-convert-datatree-shares-to-sql"
-                ],
-                "type": "horde-application",
-                "autoload": {
-                    "psr-0": {
-                        "Mnemo": "lib/"
-                    }
-                },
-                "license": [
-                    "ASL"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Notes application",
-                "homepage": "https://www.horde.org/apps/mnemo",
-                "support": {
-                    "source": "https://github.com/maintaina-com/mnemo/tree/master"
-                }
-            },
-            {
-                "name": "horde/mnemo",
                 "version": "dev-FRAMEWORK_5_1",
                 "version_normalized": "dev-FRAMEWORK_5_1",
                 "source": {
@@ -270,6 +190,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "bin": [
                     "bin/mnemo-convert-datatree-shares-to-sql",
                     "bin/mnemo-convert-sql-shares-to-sqlng",
@@ -535,6 +456,86 @@
                 "homepage": "https://www.horde.org/apps/mnemo",
                 "support": {
                     "source": "https://github.com/maintaina-com/mnemo/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/mnemo",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/mnemo.git",
+                    "reference": "cde2e8c9859bb974c63010354e46da46f8b640a3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/cde2e8c9859bb974c63010354e46da46f8b640a3",
+                    "reference": "cde2e8c9859bb974c63010354e46da46f8b640a3",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "horde/auth": "dev-master",
+                    "horde/content": "dev-master",
+                    "horde/core": "dev-master",
+                    "horde/data": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/form": "dev-master",
+                    "horde/group": "dev-master",
+                    "horde/history": "dev-master",
+                    "horde/horde": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/icalendar": "dev-master",
+                    "horde/injector": "dev-master",
+                    "horde/perms": "dev-master",
+                    "horde/prefs": "dev-master",
+                    "horde/share": "dev-master",
+                    "horde/support": "dev-master",
+                    "horde/text_filter": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/activesync": "^2.4",
+                    "horde/backup": "^1",
+                    "horde/cli": "^2",
+                    "horde/crypt": "^2",
+                    "horde/db": "^2.1",
+                    "horde/pdf": "^2",
+                    "horde/test": "^2"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "bin": [
+                    "bin/mnemo-convert-to-utf8",
+                    "bin/mnemo-convert-sql-shares-to-sqlng",
+                    "bin/mnemo-import-text-note",
+                    "bin/mnemo-convert-datatree-shares-to-sql"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Mnemo": "lib/"
+                    }
+                },
+                "license": [
+                    "ASL"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Notes application",
+                "homepage": "https://www.horde.org/apps/mnemo",
+                "support": {
+                    "source": "https://github.com/maintaina-com/mnemo/tree/master"
                 }
             }
         ]

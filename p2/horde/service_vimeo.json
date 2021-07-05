@@ -1,0 +1,49 @@
+{
+    "packages": {
+        "horde/service_vimeo": [
+            {
+                "name": "horde/service_vimeo",
+                "version": "v1.0.0alpha1",
+                "version_normalized": "1.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Service_Vimeo.git",
+                    "reference": "b93254e160a1703ff59d045d2d7f97ae22b3437b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Vimeo/zipball/b93254e160a1703ff59d045d2d7f97ae22b3437b",
+                    "reference": "b93254e160a1703ff59d045d2d7f97ae22b3437b",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3",
+                    "horde/http": "^3",
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Service_Vimeo": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J. Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Vimeo client library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Service_Vimeo/tree/v1.0.0alpha1"
+                }
+            }
+        ]
+    }
+}

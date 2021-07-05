@@ -3,56 +3,6 @@
         "horde/pear": [
             {
                 "name": "horde/pear",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Pear.git",
-                    "reference": "8933e51314f94c54b08937a38dc4328b9ae7736f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Pear/zipball/8933e51314f94c54b08937a38dc4328b9ae7736f",
-                    "reference": "8933e51314f94c54b08937a38dc4328b9ae7736f",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/util": "dev-master",
-                    "horde/xml_element": "dev-master",
-                    "horde/yaml": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "horde/http": "^2",
-                    "horde/test": "^2.1"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Pear": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Gunnar Wrobel",
-                        "email": "p@rdus.de",
-                        "role": "lead"
-                    }
-                ],
-                "description": "PEAR infrastructure library",
-                "homepage": "https://www.horde.org/libraries/Horde_Pear",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Pear/tree/master"
-                }
-            },
-            {
-                "name": "horde/pear",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -131,6 +81,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -307,6 +258,56 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Pear",
                 "support": {
                     "source": "https://github.com/maintaina-com/Pear/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/pear",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Pear.git",
+                    "reference": "8933e51314f94c54b08937a38dc4328b9ae7736f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Pear/zipball/8933e51314f94c54b08937a38dc4328b9ae7736f",
+                    "reference": "8933e51314f94c54b08937a38dc4328b9ae7736f",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/util": "dev-master",
+                    "horde/xml_element": "dev-master",
+                    "horde/yaml": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/http": "^2",
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Pear": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "PEAR infrastructure library",
+                "homepage": "https://www.horde.org/libraries/Horde_Pear",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pear/tree/master"
                 }
             }
         ]

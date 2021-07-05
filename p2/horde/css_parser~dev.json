@@ -3,51 +3,6 @@
         "horde/css_parser": [
             {
                 "name": "horde/css_parser",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Css_Parser.git",
-                    "reference": "bd9bd719a2eb72d0146f39a790ed74808f0f380a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Css_Parser/zipball/bd9bd719a2eb72d0146f39a790ed74808f0f380a",
-                    "reference": "bd9bd719a2eb72d0146f39a790ed74808f0f380a",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/horde-installer-plugin": "dev-master",
-                    "php": "^5.3.2 || ^7"
-                },
-                "suggest": {
-                    "ext-mbstring": "*"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Css_Parser": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "CSS parser library",
-                "homepage": "https://www.horde.org",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Css_Parser/tree/master"
-                }
-            },
-            {
-                "name": "horde/css_parser",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -116,6 +71,7 @@
                     "ext-mbstring": "*"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -277,6 +233,51 @@
                 "homepage": "https://www.horde.org",
                 "support": {
                     "source": "https://github.com/maintaina-com/Css_Parser/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/css_parser",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Css_Parser.git",
+                    "reference": "bd9bd719a2eb72d0146f39a790ed74808f0f380a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Css_Parser/zipball/bd9bd719a2eb72d0146f39a790ed74808f0f380a",
+                    "reference": "bd9bd719a2eb72d0146f39a790ed74808f0f380a",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3.2 || ^7"
+                },
+                "suggest": {
+                    "ext-mbstring": "*"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Css_Parser": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "CSS parser library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Css_Parser/tree/master"
                 }
             }
         ]

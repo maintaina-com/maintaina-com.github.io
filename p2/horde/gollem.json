@@ -755,6 +755,79 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/gollem/tree/v3.0.9"
                 }
+            },
+            {
+                "name": "horde/gollem",
+                "version": "v5.0.0alpha1",
+                "version_normalized": "5.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/gollem.git",
+                    "reference": "5898804bfa7f0406eb937e1f077b651a755e21fe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/gollem/zipball/5898804bfa7f0406eb937e1f077b651a755e21fe",
+                    "reference": "5898804bfa7f0406eb937e1f077b651a755e21fe",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "ext-json": "*",
+                    "horde/auth": "^3",
+                    "horde/cache": "^3",
+                    "horde/core": "^3",
+                    "horde/editor": "^3",
+                    "horde/exception": "^3",
+                    "horde/horde": "^6",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/mime": "^3",
+                    "horde/mime_viewer": "^3",
+                    "horde/perms": "^3",
+                    "horde/serialize": "^3",
+                    "horde/support": "^3",
+                    "horde/url": "^3",
+                    "horde/util": "^3",
+                    "horde/vfs": "^3",
+                    "horde/view": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/db": "^3",
+                    "horde/share": "^3"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Gollem": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "File manager application",
+                "homepage": "https://www.horde.org/apps/gollem",
+                "support": {
+                    "source": "https://github.com/maintaina-com/gollem/tree/v5.0.0alpha1"
+                }
             }
         ]
     }

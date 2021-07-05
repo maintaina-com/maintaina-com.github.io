@@ -3,114 +3,6 @@
         "horde/imp": [
             {
                 "name": "horde/imp",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/imp.git",
-                    "reference": "b50a999cdb4e27d7b4dd8b939f47de5756d2ee47"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/b50a999cdb4e27d7b4dd8b939f47de5756d2ee47",
-                    "reference": "b50a999cdb4e27d7b4dd8b939f47de5756d2ee47",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-dom": "*",
-                    "ext-gettext": "*",
-                    "ext-hash": "*",
-                    "ext-json": "*",
-                    "horde/auth": "dev-master",
-                    "horde/browser": "dev-master",
-                    "horde/cache": "dev-master",
-                    "horde/compress": "dev-master",
-                    "horde/core": "dev-master",
-                    "horde/crypt": "dev-master",
-                    "horde/crypt_blowfish": "dev-master",
-                    "horde/css_parser": "dev-master",
-                    "horde/date": "dev-master",
-                    "horde/editor": "dev-master",
-                    "horde/exception": "dev-master",
-                    "horde/horde": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/icalendar": "dev-master",
-                    "horde/image": "dev-master",
-                    "horde/imap_client": "dev-master",
-                    "horde/itip": "dev-master",
-                    "horde/listheaders": "dev-master",
-                    "horde/logintasks": "dev-master",
-                    "horde/mail": "dev-master",
-                    "horde/mail_autoconfig": "dev-master",
-                    "horde/mime": "dev-master",
-                    "horde/mime_viewer": "dev-master",
-                    "horde/nls": "dev-master",
-                    "horde/notification": "dev-master",
-                    "horde/pack": "dev-master",
-                    "horde/perms": "dev-master",
-                    "horde/spellchecker": "dev-master",
-                    "horde/stream": "dev-master",
-                    "horde/stream_filter": "dev-master",
-                    "horde/stream_wrapper": "dev-master",
-                    "horde/support": "dev-master",
-                    "horde/text_filter": "dev-master",
-                    "horde/text_flowed": "dev-master",
-                    "horde/tree": "dev-master",
-                    "horde/url": "dev-master",
-                    "horde/util": "dev-master",
-                    "horde/vfs": "dev-master",
-                    "horde/view": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "ext-openssl": "*",
-                    "horde/history": "^2",
-                    "horde/http": "^2",
-                    "horde/mongo": "^1",
-                    "horde/service_gravatar": "^1",
-                    "pear-phpseclib.sourceforge.net/File_ASN1": "*"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "bin": [
-                    "bin/imp-mailbox-decode",
-                    "bin/imp-admin-upgrade",
-                    "bin/imp-query-imap-cache",
-                    "bin/imp-bounce-spam"
-                ],
-                "type": "horde-application",
-                "autoload": {
-                    "psr-0": {
-                        "IMP": "lib/"
-                    }
-                },
-                "license": [
-                    "GPL-2.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Webmail application",
-                "homepage": "https://www.horde.org/apps/imp",
-                "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/master"
-                }
-            },
-            {
-                "name": "horde/imp",
                 "version": "dev-FRAMEWORK_5_1",
                 "version_normalized": "dev-FRAMEWORK_5_1",
                 "source": {
@@ -374,6 +266,7 @@
                     "pear-phpseclib.sourceforge.net/File_ASN1": "*"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "bin": [
                     "bin/imp-admin-upgrade",
                     "bin/imp-bounce-spam",
@@ -728,6 +621,114 @@
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
                     "source": "https://github.com/maintaina-com/imp/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/imp",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/imp.git",
+                    "reference": "b50a999cdb4e27d7b4dd8b939f47de5756d2ee47"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/b50a999cdb4e27d7b4dd8b939f47de5756d2ee47",
+                    "reference": "b50a999cdb4e27d7b4dd8b939f47de5756d2ee47",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "ext-gettext": "*",
+                    "ext-hash": "*",
+                    "ext-json": "*",
+                    "horde/auth": "dev-master",
+                    "horde/browser": "dev-master",
+                    "horde/cache": "dev-master",
+                    "horde/compress": "dev-master",
+                    "horde/core": "dev-master",
+                    "horde/crypt": "dev-master",
+                    "horde/crypt_blowfish": "dev-master",
+                    "horde/css_parser": "dev-master",
+                    "horde/date": "dev-master",
+                    "horde/editor": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/horde": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/icalendar": "dev-master",
+                    "horde/image": "dev-master",
+                    "horde/imap_client": "dev-master",
+                    "horde/itip": "dev-master",
+                    "horde/listheaders": "dev-master",
+                    "horde/logintasks": "dev-master",
+                    "horde/mail": "dev-master",
+                    "horde/mail_autoconfig": "dev-master",
+                    "horde/mime": "dev-master",
+                    "horde/mime_viewer": "dev-master",
+                    "horde/nls": "dev-master",
+                    "horde/notification": "dev-master",
+                    "horde/pack": "dev-master",
+                    "horde/perms": "dev-master",
+                    "horde/spellchecker": "dev-master",
+                    "horde/stream": "dev-master",
+                    "horde/stream_filter": "dev-master",
+                    "horde/stream_wrapper": "dev-master",
+                    "horde/support": "dev-master",
+                    "horde/text_filter": "dev-master",
+                    "horde/text_flowed": "dev-master",
+                    "horde/tree": "dev-master",
+                    "horde/url": "dev-master",
+                    "horde/util": "dev-master",
+                    "horde/vfs": "dev-master",
+                    "horde/view": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "ext-openssl": "*",
+                    "horde/history": "^2",
+                    "horde/http": "^2",
+                    "horde/mongo": "^1",
+                    "horde/service_gravatar": "^1",
+                    "pear-phpseclib.sourceforge.net/File_ASN1": "*"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "bin": [
+                    "bin/imp-mailbox-decode",
+                    "bin/imp-admin-upgrade",
+                    "bin/imp-query-imap-cache",
+                    "bin/imp-bounce-spam"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "IMP": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Webmail application",
+                "homepage": "https://www.horde.org/apps/imp",
+                "support": {
+                    "source": "https://github.com/maintaina-com/imp/tree/master"
                 }
             }
         ]

@@ -1,0 +1,417 @@
+{
+    "packages": {
+        "horde/sesha": [
+            {
+                "name": "horde/sesha",
+                "version": "dev-FRAMEWORK_5_1",
+                "version_normalized": "dev-FRAMEWORK_5_1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/sesha.git",
+                    "reference": "2ad5d0b01e3d80c0a5e48292ae998cf7416ed065"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/sesha/zipball/2ad5d0b01e3d80c0a5e48292ae998cf7416ed065",
+                    "reference": "2ad5d0b01e3d80c0a5e48292ae998cf7416ed065",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde": ">=5.0.0,<=6.0.0alpha1",
+                    "pear-pear.horde.org/horde_auth": ">=2.0.0,<=3.0.0alpha1",
+                    "pear-pear.horde.org/horde_autoloader": ">=2.0.0,<=3.0.0alpha1",
+                    "pear-pear.horde.org/horde_core": ">=2.0.0,<=3.0.0alpha1",
+                    "pear-pear.horde.org/horde_db": ">=2.0.0,<=3.0.0alpha1",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0,<=3.0.0alpha1",
+                    "pear-pear.horde.org/horde_form": ">=2.0.0,<=3.0.0alpha1",
+                    "pear-pear.horde.org/horde_perms": ">=2.0.0,<=3.0.0alpha1",
+                    "pear-pear.horde.org/horde_prefs": ">=2.0.0,<=3.0.0alpha1",
+                    "pear-pear.horde.org/horde_rdo": ">=2.0.0,<=3.0.0alpha1",
+                    "php": ">=5.3.0"
+                },
+                "time": "2013-01-10T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A simple Inventory App for Horde",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/sesha/tree/FRAMEWORK_5_1"
+                }
+            },
+            {
+                "name": "horde/sesha",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/sesha.git",
+                    "reference": "d8f87b3ed76e80e7c4a824bbdfff5a92cfa264da"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/sesha/zipball/d8f87b3ed76e80e7c4a824bbdfff5a92cfa264da",
+                    "reference": "d8f87b3ed76e80e7c4a824bbdfff5a92cfa264da",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde": "^5",
+                    "pear-pear.horde.org/horde_auth": "^2",
+                    "pear-pear.horde.org/horde_autoloader": "^2",
+                    "pear-pear.horde.org/horde_core": "^2",
+                    "pear-pear.horde.org/horde_db": "^2",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_form": "^2",
+                    "pear-pear.horde.org/horde_perms": "^2",
+                    "pear-pear.horde.org/horde_prefs": "^2",
+                    "pear-pear.horde.org/horde_rdo": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/sesha": "1.*",
+                    "pear-pear.horde.org/sesha": "1.*"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "project",
+                "autoload": {
+                    "psr-0": {
+                        "Sesha": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Inventory application",
+                "homepage": "https://www.horde.org/apps/sesha",
+                "support": {
+                    "source": "https://github.com/maintaina-com/sesha/tree/FRAMEWORK_5_2"
+                }
+            },
+            {
+                "name": "horde/sesha",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/sesha.git",
+                    "reference": "401fd36121880404e07f6ceeaf7caa80e6b971c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/sesha/zipball/401fd36121880404e07f6ceeaf7caa80e6b971c9",
+                    "reference": "401fd36121880404e07f6ceeaf7caa80e6b971c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/auth": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/form": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde": "^6 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "horde/perms": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/prefs": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/rdo": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "default-branch": true,
+                "bin": [
+                    "bin/sesha-add-stock"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Sesha": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Inventory application",
+                "homepage": "https://www.horde.org/apps/sesha",
+                "support": {
+                    "source": "https://github.com/maintaina-com/sesha/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/sesha",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/sesha.git",
+                    "reference": "8d791455090bf6e9f99a0115c84ae98d37941bf3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/sesha/zipball/8d791455090bf6e9f99a0115c84ae98d37941bf3",
+                    "reference": "8d791455090bf6e9f99a0115c84ae98d37941bf3",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde": "^5",
+                    "pear-pear.horde.org/horde_auth": "^2",
+                    "pear-pear.horde.org/horde_autoloader": "^2",
+                    "pear-pear.horde.org/horde_core": "^2",
+                    "pear-pear.horde.org/horde_db": "^2",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_form": "^2",
+                    "pear-pear.horde.org/horde_perms": "^2",
+                    "pear-pear.horde.org/horde_prefs": "^2",
+                    "pear-pear.horde.org/horde_rdo": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/sesha": "1.*",
+                    "pear-pear.horde.org/sesha": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "project",
+                "autoload": {
+                    "psr-0": {
+                        "Sesha": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Inventory application",
+                "homepage": "https://www.horde.org/apps/sesha",
+                "support": {
+                    "source": "https://github.com/maintaina-com/sesha/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/sesha",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/sesha.git",
+                    "reference": "8d791455090bf6e9f99a0115c84ae98d37941bf3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/sesha/zipball/8d791455090bf6e9f99a0115c84ae98d37941bf3",
+                    "reference": "8d791455090bf6e9f99a0115c84ae98d37941bf3",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde": "^5",
+                    "pear-pear.horde.org/horde_auth": "^2",
+                    "pear-pear.horde.org/horde_autoloader": "^2",
+                    "pear-pear.horde.org/horde_core": "^2",
+                    "pear-pear.horde.org/horde_db": "^2",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_form": "^2",
+                    "pear-pear.horde.org/horde_perms": "^2",
+                    "pear-pear.horde.org/horde_prefs": "^2",
+                    "pear-pear.horde.org/horde_rdo": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/sesha": "1.*",
+                    "pear-pear.horde.org/sesha": "1.*"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "project",
+                "autoload": {
+                    "psr-0": {
+                        "Sesha": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Inventory application",
+                "homepage": "https://www.horde.org/apps/sesha",
+                "support": {
+                    "source": "https://github.com/maintaina-com/sesha/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/sesha",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/sesha.git",
+                    "reference": "3899c9470e94ad848231bff7a9ed549f368dd00c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/sesha/zipball/3899c9470e94ad848231bff7a9ed549f368dd00c",
+                    "reference": "3899c9470e94ad848231bff7a9ed549f368dd00c",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/auth": "dev-master",
+                    "horde/autoloader": "dev-master",
+                    "horde/core": "dev-master",
+                    "horde/db": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/form": "dev-master",
+                    "horde/horde": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/perms": "dev-master",
+                    "horde/prefs": "dev-master",
+                    "horde/rdo": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "bin": [
+                    "bin/sesha-add-stock"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Sesha": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Inventory application",
+                "homepage": "https://www.horde.org/apps/sesha",
+                "support": {
+                    "source": "https://github.com/maintaina-com/sesha/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/sesha",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/sesha.git",
+                    "reference": "ef5e475997933cdf87191e41b7ed51d8e3a17c34"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/sesha/zipball/ef5e475997933cdf87191e41b7ed51d8e3a17c34",
+                    "reference": "ef5e475997933cdf87191e41b7ed51d8e3a17c34",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/auth": "dev-master",
+                    "horde/autoloader": "dev-master",
+                    "horde/core": "dev-master",
+                    "horde/db": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/form": "dev-master",
+                    "horde/horde": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/perms": "dev-master",
+                    "horde/prefs": "dev-master",
+                    "horde/rdo": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "bin": [
+                    "bin/sesha-add-stock"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Sesha": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Inventory application",
+                "homepage": "https://www.horde.org/apps/sesha",
+                "support": {
+                    "source": "https://github.com/maintaina-com/sesha/tree/master"
+                }
+            }
+        ]
+    }
+}

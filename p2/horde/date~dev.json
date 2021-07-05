@@ -3,60 +3,6 @@
         "horde/date": [
             {
                 "name": "horde/date",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Date.git",
-                    "reference": "a690d59ae294b375c0ea6951a444ad4b00e9f03c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Date/zipball/a690d59ae294b375c0ea6951a444ad4b00e9f03c",
-                    "reference": "a690d59ae294b375c0ea6951a444ad4b00e9f03c",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/nls": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
-                },
-                "suggest": {
-                    "ext-calendar": "*",
-                    "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
-                },
-                "time": "2021-03-13T00:00:00+00:00",
-                "type": "library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Date": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Date library",
-                "homepage": "https://www.horde.org/libraries/Horde_Date",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Date/tree/master"
-                }
-            },
-            {
-                "name": "horde/date",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -140,6 +86,7 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -336,6 +283,60 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Date",
                 "support": {
                     "source": "https://github.com/maintaina-com/Date/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/date",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Date.git",
+                    "reference": "a690d59ae294b375c0ea6951a444ad4b00e9f03c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Date/zipball/a690d59ae294b375c0ea6951a444ad4b00e9f03c",
+                    "reference": "a690d59ae294b375c0ea6951a444ad4b00e9f03c",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/nls": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "ext-calendar": "*",
+                    "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-03-13T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Date": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Date library",
+                "homepage": "https://www.horde.org/libraries/Horde_Date",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/master"
                 }
             }
         ]

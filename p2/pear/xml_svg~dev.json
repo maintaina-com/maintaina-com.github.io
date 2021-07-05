@@ -4,15 +4,15 @@
             {
                 "name": "pear/xml_svg",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:ralflang/xml_svg.git",
+                    "url": "https://github.com/ralflang/XML_SVG.git",
                     "reference": "98d04c32d32bff87ba15a8270fe3e91ca1a4e9f8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/ralflang/xml_svg/zipball/98d04c32d32bff87ba15a8270fe3e91ca1a4e9f8",
+                    "url": "https://api.github.com/repos/ralflang/XML_SVG/zipball/98d04c32d32bff87ba15a8270fe3e91ca1a4e9f8",
                     "reference": "98d04c32d32bff87ba15a8270fe3e91ca1a4e9f8",
                     "shasum": ""
                 },
@@ -23,6 +23,7 @@
                     "phpunit/phpunit": "*"
                 },
                 "time": "2014-02-20T19:23:55+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {

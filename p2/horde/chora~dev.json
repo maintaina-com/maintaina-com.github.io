@@ -3,54 +3,6 @@
         "horde/chora": [
             {
                 "name": "horde/chora",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/chora.git",
-                    "reference": "7ed315526bcf95c8e440a2ffa28bf065c7bb991b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/chora/zipball/7ed315526bcf95c8e440a2ffa28bf065c7bb991b",
-                    "reference": "7ed315526bcf95c8e440a2ffa28bf065c7bb991b",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/horde": "^6",
-                    "horde/horde-installer-plugin": "*",
-                    "php": "^7"
-                },
-                "time": "2021-03-20T00:00:00+00:00",
-                "type": "horde-application",
-                "autoload": {
-                    "psr-0": {
-                        "Chora": "lib/"
-                    }
-                },
-                "license": [
-                    "GPL"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "VCS (Version Control System) repository viewer application",
-                "homepage": "https://www.horde.org/apps/chora",
-                "support": {
-                    "source": "https://github.com/maintaina-com/chora/tree/FRAMEWORK_6_0"
-                }
-            },
-            {
-                "name": "horde/chora",
                 "version": "dev-FRAMEWORK_5_1",
                 "version_normalized": "dev-FRAMEWORK_5_1",
                 "source": {
@@ -161,6 +113,7 @@
                     "php": "^7"
                 },
                 "time": "2021-03-20T00:00:00+00:00",
+                "default-branch": true,
                 "type": "horde-application",
                 "autoload": {
                     "psr-0": {
@@ -333,6 +286,54 @@
                 "homepage": "https://www.horde.org/apps/chora",
                 "support": {
                     "source": "https://github.com/maintaina-com/chora/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/chora",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/chora.git",
+                    "reference": "7ed315526bcf95c8e440a2ffa28bf065c7bb991b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/chora/zipball/7ed315526bcf95c8e440a2ffa28bf065c7bb991b",
+                    "reference": "7ed315526bcf95c8e440a2ffa28bf065c7bb991b",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde": "^6",
+                    "horde/horde-installer-plugin": "*",
+                    "php": "^7"
+                },
+                "time": "2021-03-20T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Chora": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "VCS (Version Control System) repository viewer application",
+                "homepage": "https://www.horde.org/apps/chora",
+                "support": {
+                    "source": "https://github.com/maintaina-com/chora/tree/FRAMEWORK_6_0"
                 }
             }
         ]

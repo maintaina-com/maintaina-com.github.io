@@ -1,0 +1,128 @@
+{
+    "packages": {
+        "horde/thrift": [
+            {
+                "name": "horde/thrift",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Thrift.git",
+                    "reference": "54c2963481871eb1ed509bec4a06ab2d0d772707"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Thrift/zipball/54c2963481871eb1ed509bec4a06ab2d0d772707",
+                    "reference": "54c2963481871eb1ed509bec4a06ab2d0d772707",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "time": "2015-01-09T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "Apache 2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Thrift",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Thrift/tree/v2.0.2"
+                }
+            },
+            {
+                "name": "horde/thrift",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Thrift.git",
+                    "reference": "a8c8567eb73b75ae89fc2ceb1eb29ac1f82bc69d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Thrift/zipball/a8c8567eb73b75ae89fc2ceb1eb29ac1f82bc69d",
+                    "reference": "a8c8567eb73b75ae89fc2ceb1eb29ac1f82bc69d",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_thrift": "2.*",
+                    "pear-pear.horde.org/horde_thrift": "2.*"
+                },
+                "time": "2017-09-19T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Thrift": "lib/"
+                    }
+                },
+                "license": [
+                    "Apache 2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Thrift",
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Thrift/tree/v2.0.3"
+                }
+            },
+            {
+                "name": "horde/thrift",
+                "version": "v3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Thrift.git",
+                    "reference": "b845ac51caf3f7f1012175c0b3e1fcbadcf21d9d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Thrift/zipball/b845ac51caf3f7f1012175c0b3e1fcbadcf21d9d",
+                    "reference": "b845ac51caf3f7f1012175c0b3e1fcbadcf21d9d",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Thrift": "lib/"
+                    }
+                },
+                "license": [
+                    "Apache 2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Thrift client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Thrift",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Thrift/tree/v3.0.0"
+                }
+            }
+        ]
+    }
+}

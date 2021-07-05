@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "horde/rampage": [
+            {
+                "name": "horde/rampage",
+                "version": "v1.0.0alpha1",
+                "version_normalized": "1.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Rampage.git",
+                    "reference": "af80d6a3d73df5e05ba1f91751e5c72b5440475c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Rampage/zipball/af80d6a3d73df5e05ba1f91751e5c72b5440475c",
+                    "reference": "af80d6a3d73df5e05ba1f91751e5c72b5440475c",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Rampage": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Rampage application server library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rampage/tree/v1.0.0alpha1"
+                }
+            }
+        ]
+    }
+}

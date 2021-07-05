@@ -3,79 +3,6 @@
         "horde/gollem": [
             {
                 "name": "horde/gollem",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/gollem.git",
-                    "reference": "d10742deb649aadc9ea13781a9b6d1feaae1322a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/gollem/zipball/d10742deb649aadc9ea13781a9b6d1feaae1322a",
-                    "reference": "d10742deb649aadc9ea13781a9b6d1feaae1322a",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-gettext": "*",
-                    "ext-json": "*",
-                    "horde/auth": "^3",
-                    "horde/cache": "^3",
-                    "horde/core": "^3",
-                    "horde/editor": "^3",
-                    "horde/exception": "^3",
-                    "horde/horde": "^6",
-                    "horde/horde-installer-plugin": "*",
-                    "horde/mime": "^3",
-                    "horde/mime_viewer": "^3",
-                    "horde/perms": "^3",
-                    "horde/serialize": "^3",
-                    "horde/support": "^3",
-                    "horde/url": "^3",
-                    "horde/util": "^3",
-                    "horde/vfs": "^3",
-                    "horde/view": "^3",
-                    "php": "^7"
-                },
-                "suggest": {
-                    "horde/db": "^3",
-                    "horde/share": "^3"
-                },
-                "time": "2021-03-21T00:00:00+00:00",
-                "type": "horde-application",
-                "autoload": {
-                    "psr-0": {
-                        "Gollem": "lib/"
-                    }
-                },
-                "license": [
-                    "GPL-2.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "File manager application",
-                "homepage": "https://www.horde.org/apps/gollem",
-                "support": {
-                    "source": "https://github.com/maintaina-com/gollem/tree/master"
-                }
-            },
-            {
-                "name": "horde/gollem",
                 "version": "dev-FRAMEWORK_5_1",
                 "version_normalized": "dev-FRAMEWORK_5_1",
                 "source": {
@@ -224,12 +151,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/gollem.git",
-                    "reference": "04a9a66620dbd988b3dcdc3a681a5229607fad52"
+                    "reference": "ce0944f38dd624ec192b7f07aa06c0a39f3988c9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/gollem/zipball/04a9a66620dbd988b3dcdc3a681a5229607fad52",
-                    "reference": "04a9a66620dbd988b3dcdc3a681a5229607fad52",
+                    "url": "https://api.github.com/repos/maintaina-com/gollem/zipball/ce0944f38dd624ec192b7f07aa06c0a39f3988c9",
+                    "reference": "ce0944f38dd624ec192b7f07aa06c0a39f3988c9",
                     "shasum": ""
                 },
                 "require": {
@@ -241,7 +168,7 @@
                     "horde/editor": "^3 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "*",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
                     "horde/mime": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mime_viewer": "^3 || dev-FRAMEWORK_6_0",
                     "horde/perms": "^3 || dev-FRAMEWORK_6_0",
@@ -257,7 +184,8 @@
                     "horde/db": "^3 || dev-FRAMEWORK_6_0",
                     "horde/share": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-21T00:00:00+00:00",
+                "time": "2021-07-04T00:00:00+00:00",
+                "default-branch": true,
                 "type": "horde-application",
                 "autoload": {
                     "psr-0": {
@@ -513,6 +441,79 @@
                 "homepage": "https://www.horde.org/apps/gollem",
                 "support": {
                     "source": "https://github.com/maintaina-com/gollem/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/gollem",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/gollem.git",
+                    "reference": "d10742deb649aadc9ea13781a9b6d1feaae1322a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/gollem/zipball/d10742deb649aadc9ea13781a9b6d1feaae1322a",
+                    "reference": "d10742deb649aadc9ea13781a9b6d1feaae1322a",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "ext-json": "*",
+                    "horde/auth": "^3",
+                    "horde/cache": "^3",
+                    "horde/core": "^3",
+                    "horde/editor": "^3",
+                    "horde/exception": "^3",
+                    "horde/horde": "^6",
+                    "horde/horde-installer-plugin": "*",
+                    "horde/mime": "^3",
+                    "horde/mime_viewer": "^3",
+                    "horde/perms": "^3",
+                    "horde/serialize": "^3",
+                    "horde/support": "^3",
+                    "horde/url": "^3",
+                    "horde/util": "^3",
+                    "horde/vfs": "^3",
+                    "horde/view": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/db": "^3",
+                    "horde/share": "^3"
+                },
+                "time": "2021-03-21T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Gollem": "lib/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "File manager application",
+                "homepage": "https://www.horde.org/apps/gollem",
+                "support": {
+                    "source": "https://github.com/maintaina-com/gollem/tree/master"
                 }
             }
         ]

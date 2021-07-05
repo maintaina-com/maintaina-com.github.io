@@ -1,0 +1,54 @@
+{
+    "packages": {
+        "horde/refactor": [
+            {
+                "name": "horde/refactor",
+                "version": "v1.0.0alpha1",
+                "version_normalized": "1.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Refactor.git",
+                    "reference": "113ede74f0d1de09c0c5df424352509a1d259ce9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Refactor/zipball/113ede74f0d1de09c0c5df424352509a1d259ce9",
+                    "reference": "113ede74f0d1de09c0c5df424352509a1d259ce9",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-horde/cli": "^3",
+                    "pear-horde/exception": "^3",
+                    "pear-horde/text_diff": "^3",
+                    "pear-horde/translation": "^3",
+                    "php": "^7"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "bin": [
+                    "bin/horde-refactor"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Horde\\Refactor\\": "src/"
+                    }
+                },
+                "license": [
+                    "BSD"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "PHP code refactoring library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Refactor/tree/v1.0.0alpha1"
+                }
+            }
+        ]
+    }
+}

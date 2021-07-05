@@ -1,0 +1,345 @@
+{
+    "packages": {
+        "horde/pgp": [
+            {
+                "name": "horde/pgp",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Pgp.git",
+                    "reference": "c782c7d6b96723dab37953fbd249d8b4fd6abb0f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Pgp/zipball/c782c7d6b96723dab37953fbd249d8b4fd6abb0f",
+                    "reference": "c782c7d6b96723dab37953fbd249d8b4fd6abb0f",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_http": "^2",
+                    "pear-pear.horde.org/horde_mime": "^2.8",
+                    "pear-pear.horde.org/horde_stream": "^1.5",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_url": "^2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_pgp": "1.*",
+                    "pear-pear.horde.org/horde_pgp": "1.*"
+                },
+                "suggest": {
+                    "ext-openssl": "*",
+                    "ext-zlib": "*",
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Pgp": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "PGP library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pgp/tree/FRAMEWORK_5_2"
+                }
+            },
+            {
+                "name": "horde/pgp",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Pgp.git",
+                    "reference": "065dc704597af56588783ffc32c7d86da846a4bb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Pgp/zipball/065dc704597af56588783ffc32c7d86da846a4bb",
+                    "reference": "065dc704597af56588783ffc32c7d86da846a4bb",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/http": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mime": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/stream": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/url": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "ext-openssl": "*",
+                    "ext-zlib": "*",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Pgp": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "PGP library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pgp/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/pgp",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Pgp.git",
+                    "reference": "1c1a1714f1c2d7c119d847700a0ece0a359999c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Pgp/zipball/1c1a1714f1c2d7c119d847700a0ece0a359999c9",
+                    "reference": "1c1a1714f1c2d7c119d847700a0ece0a359999c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_http": "^2",
+                    "pear-pear.horde.org/horde_mime": "^2.8",
+                    "pear-pear.horde.org/horde_stream": "^1.5",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_url": "^2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_pgp": "1.*",
+                    "pear-pear.horde.org/horde_pgp": "1.*"
+                },
+                "suggest": {
+                    "ext-openssl": "*",
+                    "ext-zlib": "*",
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Pgp": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "PGP library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pgp/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/pgp",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Pgp.git",
+                    "reference": "1c1a1714f1c2d7c119d847700a0ece0a359999c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Pgp/zipball/1c1a1714f1c2d7c119d847700a0ece0a359999c9",
+                    "reference": "1c1a1714f1c2d7c119d847700a0ece0a359999c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_http": "^2",
+                    "pear-pear.horde.org/horde_mime": "^2.8",
+                    "pear-pear.horde.org/horde_stream": "^1.5",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_url": "^2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_pgp": "1.*",
+                    "pear-pear.horde.org/horde_pgp": "1.*"
+                },
+                "suggest": {
+                    "ext-openssl": "*",
+                    "ext-zlib": "*",
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Pgp": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "PGP library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pgp/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/pgp",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Pgp.git",
+                    "reference": "0b9015be06cb121edf2cba987c6b7a2880588b27"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Pgp/zipball/0b9015be06cb121edf2cba987c6b7a2880588b27",
+                    "reference": "0b9015be06cb121edf2cba987c6b7a2880588b27",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/http": "dev-master",
+                    "horde/mime": "dev-master",
+                    "horde/stream": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/url": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3.3 || ^7"
+                },
+                "suggest": {
+                    "ext-openssl": "*",
+                    "ext-zlib": "*",
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Pgp": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "PGP library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pgp/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/pgp",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Pgp.git",
+                    "reference": "141bfa1259d1bdfe3bc307ca6602da7e17e219e4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Pgp/zipball/141bfa1259d1bdfe3bc307ca6602da7e17e219e4",
+                    "reference": "141bfa1259d1bdfe3bc307ca6602da7e17e219e4",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/http": "dev-master",
+                    "horde/mime": "dev-master",
+                    "horde/stream": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/url": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3.3 || ^7"
+                },
+                "suggest": {
+                    "ext-openssl": "*",
+                    "ext-zlib": "*",
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Pgp": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "PGP library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pgp/tree/master"
+                }
+            }
+        ]
+    }
+}

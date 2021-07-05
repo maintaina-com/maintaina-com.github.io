@@ -3,65 +3,6 @@
         "horde/autoloader_cache": [
             {
                 "name": "horde/autoloader_cache",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Autoloader_Cache.git",
-                    "reference": "6b63a4a3f55cf66bf08a272ee4ea3412700532fa"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Autoloader_Cache/zipball/6b63a4a3f55cf66bf08a272ee4ea3412700532fa",
-                    "reference": "6b63a4a3f55cf66bf08a272ee4ea3412700532fa",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-json": "*",
-                    "horde/autoloader": "^3",
-                    "php": "^7"
-                },
-                "suggest": {
-                    "ext-apc": "*",
-                    "ext-eaccelerator": "*",
-                    "ext-horde_lz4": "*",
-                    "ext-lzf": "*",
-                    "ext-msgpack": "*",
-                    "ext-xcache": "*"
-                },
-                "time": "2021-03-20T00:00:00+00:00",
-                "bin": [
-                    "bin/horde-autoloader-cache-prune"
-                ],
-                "type": "library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Autoloader_Cache": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "developer"
-                    }
-                ],
-                "description": "Caching library for Horde_Autoloader",
-                "homepage": "https://www.horde.org/libraries/Horde_Autoloader_Cache",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Autoloader_Cache/tree/FRAMEWORK_6_0"
-                }
-            },
-            {
-                "name": "horde/autoloader_cache",
                 "version": "dev-FRAMEWORK_5_2",
                 "version_normalized": "dev-FRAMEWORK_5_2",
                 "source": {
@@ -149,6 +90,7 @@
                     "ext-xcache": "*"
                 },
                 "time": "2021-03-20T00:00:00+00:00",
+                "default-branch": true,
                 "bin": [
                     "bin/horde-autoloader-cache-prune"
                 ],
@@ -357,6 +299,65 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Autoloader_Cache",
                 "support": {
                     "source": "https://github.com/maintaina-com/Autoloader_Cache/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/autoloader_cache",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Autoloader_Cache.git",
+                    "reference": "6b63a4a3f55cf66bf08a272ee4ea3412700532fa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Autoloader_Cache/zipball/6b63a4a3f55cf66bf08a272ee4ea3412700532fa",
+                    "reference": "6b63a4a3f55cf66bf08a272ee4ea3412700532fa",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "horde/autoloader": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "ext-apc": "*",
+                    "ext-eaccelerator": "*",
+                    "ext-horde_lz4": "*",
+                    "ext-lzf": "*",
+                    "ext-msgpack": "*",
+                    "ext-xcache": "*"
+                },
+                "time": "2021-03-20T00:00:00+00:00",
+                "bin": [
+                    "bin/horde-autoloader-cache-prune"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Autoloader_Cache": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Caching library for Horde_Autoloader",
+                "homepage": "https://www.horde.org/libraries/Horde_Autoloader_Cache",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Autoloader_Cache/tree/FRAMEWORK_6_0"
                 }
             }
         ]
