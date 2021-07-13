@@ -147,12 +147,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Core.git",
-                    "reference": "fdcc6c518bfcfa4db1004a5c2ce1bb9694eb9347"
+                    "reference": "2786e1cc0dd83867a729a39d4826ee537f098f5c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Core/zipball/fdcc6c518bfcfa4db1004a5c2ce1bb9694eb9347",
-                    "reference": "fdcc6c518bfcfa4db1004a5c2ce1bb9694eb9347",
+                    "url": "https://api.github.com/repos/maintaina-com/Core/zipball/2786e1cc0dd83867a729a39d4826ee537f098f5c",
+                    "reference": "2786e1cc0dd83867a729a39d4826ee537f098f5c",
                     "shasum": ""
                 },
                 "require": {
@@ -199,6 +199,9 @@
                     "horde/view": "^3 || dev-FRAMEWORK_6_0",
                     "pear/pear": "*",
                     "php": "^7"
+                },
+                "require-dev": {
+                    "horde/test": "dev-FRAMEWORK_6_0 || ^3"
                 },
                 "suggest": {
                     "ext-SimpleXML": "*",
@@ -674,12 +677,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Core.git",
-                    "reference": "7b6c589481e93ec6186fc30b2c4cece0eb3eaf12"
+                    "reference": "f2c34c42efb968777bf7a8fa40fff17d08a3dd47"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Core/zipball/7b6c589481e93ec6186fc30b2c4cece0eb3eaf12",
-                    "reference": "7b6c589481e93ec6186fc30b2c4cece0eb3eaf12",
+                    "url": "https://api.github.com/repos/maintaina-com/Core/zipball/f2c34c42efb968777bf7a8fa40fff17d08a3dd47",
+                    "reference": "f2c34c42efb968777bf7a8fa40fff17d08a3dd47",
                     "shasum": ""
                 },
                 "require": {

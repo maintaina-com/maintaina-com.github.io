@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/horde-deployment.git",
-                    "reference": "d5300867b6df048ded8ffdffe109a5284eaae0d2"
+                    "reference": "6791e18f83d5d2881fe80052fc345fdc6b4a1d50"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/horde-deployment/zipball/d5300867b6df048ded8ffdffe109a5284eaae0d2",
-                    "reference": "d5300867b6df048ded8ffdffe109a5284eaae0d2",
+                    "url": "https://api.github.com/repos/maintaina-com/horde-deployment/zipball/6791e18f83d5d2881fe80052fc345fdc6b4a1d50",
+                    "reference": "6791e18f83d5d2881fe80052fc345fdc6b4a1d50",
                     "shasum": ""
                 },
                 "require": {
@@ -28,7 +28,7 @@
                 "require-dev": {
                     "horde/test": "dev-master || ^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-15T21:37:06+00:00",
+                "time": "2021-07-05T10:00:07+00:00",
                 "default-branch": true,
                 "type": "project",
                 "extra": {

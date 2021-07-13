@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/theme-hochschule.git",
-                    "reference": "f8c2ba48bef516876e1bb58fbc9638a47f6ab115"
+                    "reference": "9f2477bfcbe79005ca0865bc526bd90222d09bc6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/theme-hochschule/zipball/f8c2ba48bef516876e1bb58fbc9638a47f6ab115",
-                    "reference": "f8c2ba48bef516876e1bb58fbc9638a47f6ab115",
+                    "url": "https://api.github.com/repos/maintaina-com/theme-hochschule/zipball/9f2477bfcbe79005ca0865bc526bd90222d09bc6",
+                    "reference": "9f2477bfcbe79005ca0865bc526bd90222d09bc6",
                     "shasum": ""
                 },
                 "require": {
