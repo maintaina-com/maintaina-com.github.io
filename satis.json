@@ -9,7 +9,7 @@
         {"name": "horde/horde-deployment", "url": "https://github.com/maintaina-com/horde-deployment", "type": "vcs"},
         {"name": "horde/horde-installer-plugin", "url": "https://github.com/maintaina-com/horde-installer-plugin", "type": "vcs"},
 
-        {"name": "horde/base", "url": "https://github.com/maintaina-com/base", "type": "vcs"},
+        {"name": "horde/horde", "url": "https://github.com/maintaina-com/base", "type": "vcs"},
         {"name": "horde/hordectl", "url": "https://github.com/maintaina-com/hordectl", "type": "vcs"},
         {"name": "horde/ansel", "url": "https://github.com/maintaina-com/ansel", "type": "vcs"},
         {"name": "horde/content", "url": "https://github.com/maintaina-com/content", "type": "vcs"},
