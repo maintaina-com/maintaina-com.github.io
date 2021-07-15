@@ -64,12 +64,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Date_Parser.git",
-                    "reference": "678aa5f1ae4dbb3c7ac6b1cb4ee2ecd7f6651b6e"
+                    "reference": "6e08d5da76095c4032403cfa6214c380189d3ff5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Date_Parser/zipball/678aa5f1ae4dbb3c7ac6b1cb4ee2ecd7f6651b6e",
-                    "reference": "678aa5f1ae4dbb3c7ac6b1cb4ee2ecd7f6651b6e",
+                    "url": "https://api.github.com/repos/maintaina-com/Date_Parser/zipball/6e08d5da76095c4032403cfa6214c380189d3ff5",
+                    "reference": "6e08d5da76095c4032403cfa6214c380189d3ff5",
                     "shasum": ""
                 },
                 "require": {
