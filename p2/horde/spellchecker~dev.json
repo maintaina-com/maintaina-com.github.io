@@ -60,12 +60,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/SpellChecker.git",
-                    "reference": "25832208a68d096abdb27d03741d501db25a4897"
+                    "reference": "70f203afeeb1169e774b010f5394c1b7a9b53d04"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/SpellChecker/zipball/25832208a68d096abdb27d03741d501db25a4897",
-                    "reference": "25832208a68d096abdb27d03741d501db25a4897",
+                    "url": "https://api.github.com/repos/maintaina-com/SpellChecker/zipball/70f203afeeb1169e774b010f5394c1b7a9b53d04",
+                    "reference": "70f203afeeb1169e774b010f5394c1b7a9b53d04",
                     "shasum": ""
                 },
                 "require": {
