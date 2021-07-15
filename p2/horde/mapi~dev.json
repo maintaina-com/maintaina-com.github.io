@@ -56,12 +56,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Mapi.git",
-                    "reference": "51da934a2d663d443e145bc33dcd01feeb432ba1"
+                    "reference": "0c4fb83b6a2dd544aca4077cb3ed529b29f0a561"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mapi/zipball/51da934a2d663d443e145bc33dcd01feeb432ba1",
-                    "reference": "51da934a2d663d443e145bc33dcd01feeb432ba1",
+                    "url": "https://api.github.com/repos/maintaina-com/Mapi/zipball/0c4fb83b6a2dd544aca4077cb3ed529b29f0a561",
+                    "reference": "0c4fb83b6a2dd544aca4077cb3ed529b29f0a561",
                     "shasum": ""
                 },
                 "require": {
