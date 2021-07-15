@@ -66,12 +66,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Pgp.git",
-                    "reference": "065dc704597af56588783ffc32c7d86da846a4bb"
+                    "reference": "ef024673b9b39d27bf72e72c3a34a3b90d36d680"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Pgp/zipball/065dc704597af56588783ffc32c7d86da846a4bb",
-                    "reference": "065dc704597af56588783ffc32c7d86da846a4bb",
+                    "url": "https://api.github.com/repos/maintaina-com/Pgp/zipball/ef024673b9b39d27bf72e72c3a34a3b90d36d680",
+                    "reference": "ef024673b9b39d27bf72e72c3a34a3b90d36d680",
                     "shasum": ""
                 },
                 "require": {
