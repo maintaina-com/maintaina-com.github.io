@@ -56,12 +56,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Css_Parser.git",
-                    "reference": "352ba487fea41b2fed63574feeafaf3da08cf626"
+                    "reference": "e1e30ba707df6ed25ebb233fda9d2c1bc1f8339a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Css_Parser/zipball/352ba487fea41b2fed63574feeafaf3da08cf626",
-                    "reference": "352ba487fea41b2fed63574feeafaf3da08cf626",
+                    "url": "https://api.github.com/repos/maintaina-com/Css_Parser/zipball/e1e30ba707df6ed25ebb233fda9d2c1bc1f8339a",
+                    "reference": "e1e30ba707df6ed25ebb233fda9d2c1bc1f8339a",
                     "shasum": ""
                 },
                 "require": {
