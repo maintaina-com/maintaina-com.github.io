@@ -55,12 +55,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Stringprep.git",
-                    "reference": "32b3b36b2e7ea9f387413b9f4a7c4349eb4b57a6"
+                    "reference": "3c47c4a9e4b07ded51cefc079088fef6b6840d46"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Stringprep/zipball/32b3b36b2e7ea9f387413b9f4a7c4349eb4b57a6",
-                    "reference": "32b3b36b2e7ea9f387413b9f4a7c4349eb4b57a6",
+                    "url": "https://api.github.com/repos/maintaina-com/Stringprep/zipball/3c47c4a9e4b07ded51cefc079088fef6b6840d46",
+                    "reference": "3c47c4a9e4b07ded51cefc079088fef6b6840d46",
                     "shasum": ""
                 },
                 "require": {
