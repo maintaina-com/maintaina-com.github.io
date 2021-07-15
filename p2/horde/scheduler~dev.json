@@ -56,12 +56,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Scheduler.git",
-                    "reference": "08b12e17088d0992c4de3ec3c5a104e779ea65d5"
+                    "reference": "e4d972bc6c8d08d27fb265839e43549345aabadd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Scheduler/zipball/08b12e17088d0992c4de3ec3c5a104e779ea65d5",
-                    "reference": "08b12e17088d0992c4de3ec3c5a104e779ea65d5",
+                    "url": "https://api.github.com/repos/maintaina-com/Scheduler/zipball/e4d972bc6c8d08d27fb265839e43549345aabadd",
+                    "reference": "e4d972bc6c8d08d27fb265839e43549345aabadd",
                     "shasum": ""
                 },
                 "require": {
