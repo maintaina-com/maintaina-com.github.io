@@ -60,12 +60,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Compress_Fast.git",
-                    "reference": "daf9291b02bc7a92ecefa73aa402bd6b0143da64"
+                    "reference": "e1545260414ec6d61ebfea876379c73834ba1194"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Compress_Fast/zipball/daf9291b02bc7a92ecefa73aa402bd6b0143da64",
-                    "reference": "daf9291b02bc7a92ecefa73aa402bd6b0143da64",
+                    "url": "https://api.github.com/repos/maintaina-com/Compress_Fast/zipball/e1545260414ec6d61ebfea876379c73834ba1194",
+                    "reference": "e1545260414ec6d61ebfea876379c73834ba1194",
                     "shasum": ""
                 },
                 "require": {
