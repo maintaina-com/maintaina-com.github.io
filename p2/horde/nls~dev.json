@@ -64,12 +64,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Nls.git",
-                    "reference": "72035fbccba85905e8ba96dfc54395c983e4b713"
+                    "reference": "1635f8ed5796f931223c21127575eea486a98dbb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Nls/zipball/72035fbccba85905e8ba96dfc54395c983e4b713",
-                    "reference": "72035fbccba85905e8ba96dfc54395c983e4b713",
+                    "url": "https://api.github.com/repos/maintaina-com/Nls/zipball/1635f8ed5796f931223c21127575eea486a98dbb",
+                    "reference": "1635f8ed5796f931223c21127575eea486a98dbb",
                     "shasum": ""
                 },
                 "require": {
