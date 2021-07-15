@@ -58,12 +58,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Stream_Wrapper.git",
-                    "reference": "48ff6ce3cec79d22fdf5b0756d0165aaf5176391"
+                    "reference": "74fbc7fa848576856625a366e4435828eb5a34c9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Stream_Wrapper/zipball/48ff6ce3cec79d22fdf5b0756d0165aaf5176391",
-                    "reference": "48ff6ce3cec79d22fdf5b0756d0165aaf5176391",
+                    "url": "https://api.github.com/repos/maintaina-com/Stream_Wrapper/zipball/74fbc7fa848576856625a366e4435828eb5a34c9",
+                    "reference": "74fbc7fa848576856625a366e4435828eb5a34c9",
                     "shasum": ""
                 },
                 "require": {
