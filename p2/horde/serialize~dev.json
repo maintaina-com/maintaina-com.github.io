@@ -75,12 +75,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Serialize.git",
-                    "reference": "4761db1d1f5dc1e4b12464d728248d5d3db06941"
+                    "reference": "4a6b8f28e24dd9e0d6a99f855f064736e7913d91"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Serialize/zipball/4761db1d1f5dc1e4b12464d728248d5d3db06941",
-                    "reference": "4761db1d1f5dc1e4b12464d728248d5d3db06941",
+                    "url": "https://api.github.com/repos/maintaina-com/Serialize/zipball/4a6b8f28e24dd9e0d6a99f855f064736e7913d91",
+                    "reference": "4a6b8f28e24dd9e0d6a99f855f064736e7913d91",
                     "shasum": ""
                 },
                 "require": {
