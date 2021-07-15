@@ -60,12 +60,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Crypt_Blowfish.git",
-                    "reference": "e0725db33d70580e6fd3c487024a4c907ae1f59d"
+                    "reference": "efee3e6bf2b426bbc8de6de1497be50ab83ab92c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Crypt_Blowfish/zipball/e0725db33d70580e6fd3c487024a4c907ae1f59d",
-                    "reference": "e0725db33d70580e6fd3c487024a4c907ae1f59d",
+                    "url": "https://api.github.com/repos/maintaina-com/Crypt_Blowfish/zipball/efee3e6bf2b426bbc8de6de1497be50ab83ab92c",
+                    "reference": "efee3e6bf2b426bbc8de6de1497be50ab83ab92c",
                     "shasum": ""
                 },
                 "require": {
