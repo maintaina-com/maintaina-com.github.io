@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/agora.git",
-                    "reference": "6757aa933848b40cb52da6db73a9f5214aa69a95"
+                    "reference": "b55c688539e80daa3ab17ada7f9f51bd156166b3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/agora/zipball/6757aa933848b40cb52da6db73a9f5214aa69a95",
-                    "reference": "6757aa933848b40cb52da6db73a9f5214aa69a95",
+                    "url": "https://api.github.com/repos/maintaina-com/agora/zipball/b55c688539e80daa3ab17ada7f9f51bd156166b3",
+                    "reference": "b55c688539e80daa3ab17ada7f9f51bd156166b3",
                     "shasum": ""
                 },
                 "require": {
@@ -221,7 +221,7 @@
                 "description": "Forum application",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/agora/tree/FRAMEWORK_6_0"
+                    "source": "https://github.com/maintaina-com/agora/tree/master"
                 }
             }
         ]
