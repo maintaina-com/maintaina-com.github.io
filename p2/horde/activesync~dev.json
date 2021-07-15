@@ -73,12 +73,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ActiveSync.git",
-                    "reference": "39c1aa8ff278f0b69eecf0a0924656f5e8d4745f"
+                    "reference": "39e8bba0c124b08a3954dfbcfeb5194627c821df"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/39c1aa8ff278f0b69eecf0a0924656f5e8d4745f",
-                    "reference": "39c1aa8ff278f0b69eecf0a0924656f5e8d4745f",
+                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/39e8bba0c124b08a3954dfbcfeb5194627c821df",
+                    "reference": "39e8bba0c124b08a3954dfbcfeb5194627c821df",
                     "shasum": ""
                 },
                 "require": {
