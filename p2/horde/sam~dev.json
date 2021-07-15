@@ -93,12 +93,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/sam.git",
-                    "reference": "5c80a1893474efd96a2cacc36567a8207bf91164"
+                    "reference": "c88a890d7fbc129584c45a49b2d3b07cca8b3968"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/sam/zipball/5c80a1893474efd96a2cacc36567a8207bf91164",
-                    "reference": "5c80a1893474efd96a2cacc36567a8207bf91164",
+                    "url": "https://api.github.com/repos/maintaina-com/sam/zipball/c88a890d7fbc129584c45a49b2d3b07cca8b3968",
+                    "reference": "c88a890d7fbc129584c45a49b2d3b07cca8b3968",
                     "shasum": ""
                 },
                 "require": {
