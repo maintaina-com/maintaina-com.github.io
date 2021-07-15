@@ -54,12 +54,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Service_Vimeo.git",
-                    "reference": "20cc4922b4ac8b003d78544c012794058aecd283"
+                    "reference": "64aa8816d4b6bf136d8da45ad32f176058ff5006"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Service_Vimeo/zipball/20cc4922b4ac8b003d78544c012794058aecd283",
-                    "reference": "20cc4922b4ac8b003d78544c012794058aecd283",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Vimeo/zipball/64aa8816d4b6bf136d8da45ad32f176058ff5006",
+                    "reference": "64aa8816d4b6bf136d8da45ad32f176058ff5006",
                     "shasum": ""
                 },
                 "require": {
