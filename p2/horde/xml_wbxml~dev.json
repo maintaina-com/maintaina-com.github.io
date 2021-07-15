@@ -62,12 +62,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Xml_Wbxml.git",
-                    "reference": "25ea32dc00c9d4b7ed8118b4dc5c90d105e37eb6"
+                    "reference": "645490b4e5153dfbeaf7b390f5032f8728ab0fce"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Xml_Wbxml/zipball/25ea32dc00c9d4b7ed8118b4dc5c90d105e37eb6",
-                    "reference": "25ea32dc00c9d4b7ed8118b4dc5c90d105e37eb6",
+                    "url": "https://api.github.com/repos/maintaina-com/Xml_Wbxml/zipball/645490b4e5153dfbeaf7b390f5032f8728ab0fce",
+                    "reference": "645490b4e5153dfbeaf7b390f5032f8728ab0fce",
                     "shasum": ""
                 },
                 "require": {
