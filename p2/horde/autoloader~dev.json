@@ -61,12 +61,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Autoloader.git",
-                    "reference": "662e354e6835cb278eaadbb762b982d04fb4a0b0"
+                    "reference": "f0639c8e611fc931772d00a6a57b6d8cb3dd699a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Autoloader/zipball/662e354e6835cb278eaadbb762b982d04fb4a0b0",
-                    "reference": "662e354e6835cb278eaadbb762b982d04fb4a0b0",
+                    "url": "https://api.github.com/repos/maintaina-com/Autoloader/zipball/f0639c8e611fc931772d00a6a57b6d8cb3dd699a",
+                    "reference": "f0639c8e611fc931772d00a6a57b6d8cb3dd699a",
                     "shasum": ""
                 },
                 "require": {
