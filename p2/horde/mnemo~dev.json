@@ -150,12 +150,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/mnemo.git",
-                    "reference": "728c4d1b78857a9190eb024403a35ee0764871f5"
+                    "reference": "1189a40d397f269d62932ae351243034117e780e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/728c4d1b78857a9190eb024403a35ee0764871f5",
-                    "reference": "728c4d1b78857a9190eb024403a35ee0764871f5",
+                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/1189a40d397f269d62932ae351243034117e780e",
+                    "reference": "1189a40d397f269d62932ae351243034117e780e",
                     "shasum": ""
                 },
                 "require": {
