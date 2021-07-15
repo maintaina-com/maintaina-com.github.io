@@ -53,12 +53,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Thrift.git",
-                    "reference": "b5b00755a87ac4fe9e2bb92e283c87788e95e2aa"
+                    "reference": "5ee0bed3cfcbdd4e544292abbc67579a02d8f77f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Thrift/zipball/b5b00755a87ac4fe9e2bb92e283c87788e95e2aa",
-                    "reference": "b5b00755a87ac4fe9e2bb92e283c87788e95e2aa",
+                    "url": "https://api.github.com/repos/maintaina-com/Thrift/zipball/5ee0bed3cfcbdd4e544292abbc67579a02d8f77f",
+                    "reference": "5ee0bed3cfcbdd4e544292abbc67579a02d8f77f",
                     "shasum": ""
                 },
                 "require": {
