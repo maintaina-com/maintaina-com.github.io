@@ -95,12 +95,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ulaform.git",
-                    "reference": "7c59334f06d19d275791be8b723520be21373358"
+                    "reference": "2b9c7961d21d351bbe48eabfa8cce4345ac25a09"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ulaform/zipball/7c59334f06d19d275791be8b723520be21373358",
-                    "reference": "7c59334f06d19d275791be8b723520be21373358",
+                    "url": "https://api.github.com/repos/maintaina-com/ulaform/zipball/2b9c7961d21d351bbe48eabfa8cce4345ac25a09",
+                    "reference": "2b9c7961d21d351bbe48eabfa8cce4345ac25a09",
                     "shasum": ""
                 },
                 "require": {
