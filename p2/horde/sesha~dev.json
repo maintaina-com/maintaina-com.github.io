@@ -119,12 +119,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/sesha.git",
-                    "reference": "401fd36121880404e07f6ceeaf7caa80e6b971c9"
+                    "reference": "be8b43aa7da62aa651e934a40ea539ecd47ee455"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/sesha/zipball/401fd36121880404e07f6ceeaf7caa80e6b971c9",
-                    "reference": "401fd36121880404e07f6ceeaf7caa80e6b971c9",
+                    "url": "https://api.github.com/repos/maintaina-com/sesha/zipball/be8b43aa7da62aa651e934a40ea539ecd47ee455",
+                    "reference": "be8b43aa7da62aa651e934a40ea539ecd47ee455",
                     "shasum": ""
                 },
                 "require": {
