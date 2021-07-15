@@ -91,12 +91,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/beatnik.git",
-                    "reference": "b1a86ff3a336508083f264e2283bfa93fecd038a"
+                    "reference": "c50f51107e321dfef586da6e662508b18cfd8c30"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/beatnik/zipball/b1a86ff3a336508083f264e2283bfa93fecd038a",
-                    "reference": "b1a86ff3a336508083f264e2283bfa93fecd038a",
+                    "url": "https://api.github.com/repos/maintaina-com/beatnik/zipball/c50f51107e321dfef586da6e662508b18cfd8c30",
+                    "reference": "c50f51107e321dfef586da6e662508b18cfd8c30",
                     "shasum": ""
                 },
                 "require": {
@@ -303,7 +303,7 @@
                 "description": "DNS record management application",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/beatnik/tree/FRAMEWORK_6_0"
+                    "source": "https://github.com/maintaina-com/beatnik/tree/master"
                 }
             }
         ]
