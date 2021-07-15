@@ -82,12 +82,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Auth.git",
-                    "reference": "5b1a7c10100462b1cbdb828a5aa911c7a66b4947"
+                    "reference": "86c4ee9be626bc264b0b38a6ed588ae01ad34d7b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Auth/zipball/5b1a7c10100462b1cbdb828a5aa911c7a66b4947",
-                    "reference": "5b1a7c10100462b1cbdb828a5aa911c7a66b4947",
+                    "url": "https://api.github.com/repos/maintaina-com/Auth/zipball/86c4ee9be626bc264b0b38a6ed588ae01ad34d7b",
+                    "reference": "86c4ee9be626bc264b0b38a6ed588ae01ad34d7b",
                     "shasum": ""
                 },
                 "require": {
