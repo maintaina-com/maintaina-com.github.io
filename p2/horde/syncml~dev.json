@@ -64,12 +64,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/SyncMl.git",
-                    "reference": "4a7d14a0fe0b75858d84cdba227ca44fea031e64"
+                    "reference": "74246f4d000df5ae52c36be1d6a484ee702d7024"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/SyncMl/zipball/4a7d14a0fe0b75858d84cdba227ca44fea031e64",
-                    "reference": "4a7d14a0fe0b75858d84cdba227ca44fea031e64",
+                    "url": "https://api.github.com/repos/maintaina-com/SyncMl/zipball/74246f4d000df5ae52c36be1d6a484ee702d7024",
+                    "reference": "74246f4d000df5ae52c36be1d6a484ee702d7024",
                     "shasum": ""
                 },
                 "require": {
