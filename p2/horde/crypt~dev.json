@@ -71,12 +71,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Crypt.git",
-                    "reference": "e16f2a23e94b04cab651dd5bdfd1e3ae14f04983"
+                    "reference": "cd96a364b918de197f749ec8d8a320a6eca232e1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Crypt/zipball/e16f2a23e94b04cab651dd5bdfd1e3ae14f04983",
-                    "reference": "e16f2a23e94b04cab651dd5bdfd1e3ae14f04983",
+                    "url": "https://api.github.com/repos/maintaina-com/Crypt/zipball/cd96a364b918de197f749ec8d8a320a6eca232e1",
+                    "reference": "cd96a364b918de197f749ec8d8a320a6eca232e1",
                     "shasum": ""
                 },
                 "require": {
