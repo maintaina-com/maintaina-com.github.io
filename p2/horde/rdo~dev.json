@@ -59,12 +59,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Rdo.git",
-                    "reference": "6ffe177efa70228ac86b8d55eec4761cb701ee04"
+                    "reference": "08bf8d54ed529e6c6eac6a402a4f9257e83a7d48"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/6ffe177efa70228ac86b8d55eec4761cb701ee04",
-                    "reference": "6ffe177efa70228ac86b8d55eec4761cb701ee04",
+                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/08bf8d54ed529e6c6eac6a402a4f9257e83a7d48",
+                    "reference": "08bf8d54ed529e6c6eac6a402a4f9257e83a7d48",
                     "shasum": ""
                 },
                 "require": {
