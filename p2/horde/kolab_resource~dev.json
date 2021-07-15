@@ -60,12 +60,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Kolab_Resource.git",
-                    "reference": "b8f2393cbc5b6b885cb0129008978076b8464104"
+                    "reference": "b12318903b436a8237e0728f0b4b9aa57ffba7a4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Resource/zipball/b8f2393cbc5b6b885cb0129008978076b8464104",
-                    "reference": "b8f2393cbc5b6b885cb0129008978076b8464104",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Resource/zipball/b12318903b436a8237e0728f0b4b9aa57ffba7a4",
+                    "reference": "b12318903b436a8237e0728f0b4b9aa57ffba7a4",
                     "shasum": ""
                 },
                 "require": {
