@@ -59,12 +59,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Service_Twitter.git",
-                    "reference": "61c445383a3986aca97a736cc8ac944bbe242e19"
+                    "reference": "7c63ccf5a02a4da72b1f961bc3d6af87b0e1f7fb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Service_Twitter/zipball/61c445383a3986aca97a736cc8ac944bbe242e19",
-                    "reference": "61c445383a3986aca97a736cc8ac944bbe242e19",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Twitter/zipball/7c63ccf5a02a4da72b1f961bc3d6af87b0e1f7fb",
+                    "reference": "7c63ccf5a02a4da72b1f961bc3d6af87b0e1f7fb",
                     "shasum": ""
                 },
                 "require": {
