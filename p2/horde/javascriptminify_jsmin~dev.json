@@ -54,12 +54,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/JavascriptMinify_Jsmin.git",
-                    "reference": "7a4bbc44aeb1340b06cb09e5485389110986a714"
+                    "reference": "7c8f567305ca6fd292ff3793138b475ce6d319fa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/JavascriptMinify_Jsmin/zipball/7a4bbc44aeb1340b06cb09e5485389110986a714",
-                    "reference": "7a4bbc44aeb1340b06cb09e5485389110986a714",
+                    "url": "https://api.github.com/repos/maintaina-com/JavascriptMinify_Jsmin/zipball/7c8f567305ca6fd292ff3793138b475ce6d319fa",
+                    "reference": "7c8f567305ca6fd292ff3793138b475ce6d319fa",
                     "shasum": ""
                 },
                 "require": {
