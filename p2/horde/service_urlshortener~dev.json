@@ -56,12 +56,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Service_UrlShortener.git",
-                    "reference": "563cc839570a7a5125d18748e763b643beb65400"
+                    "reference": "9dbc46be59f9dd2d39522e05feb69b263a486f01"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Service_UrlShortener/zipball/563cc839570a7a5125d18748e763b643beb65400",
-                    "reference": "563cc839570a7a5125d18748e763b643beb65400",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_UrlShortener/zipball/9dbc46be59f9dd2d39522e05feb69b263a486f01",
+                    "reference": "9dbc46be59f9dd2d39522e05feb69b263a486f01",
                     "shasum": ""
                 },
                 "require": {
