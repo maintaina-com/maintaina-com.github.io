@@ -119,12 +119,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/timeobjects.git",
-                    "reference": "752b89da254718bea417723c62bd1e5f7b415e67"
+                    "reference": "e9fafcf1bfb7297fee7ff0428aa42128363e5042"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/timeobjects/zipball/752b89da254718bea417723c62bd1e5f7b415e67",
-                    "reference": "752b89da254718bea417723c62bd1e5f7b415e67",
+                    "url": "https://api.github.com/repos/maintaina-com/timeobjects/zipball/e9fafcf1bfb7297fee7ff0428aa42128363e5042",
+                    "reference": "e9fafcf1bfb7297fee7ff0428aa42128363e5042",
                     "shasum": ""
                 },
                 "require": {
