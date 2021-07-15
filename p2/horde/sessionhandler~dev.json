@@ -72,12 +72,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/SessionHandler.git",
-                    "reference": "20cdecabd5cb4b7630c43a12079dd69ad23934dd"
+                    "reference": "225491e6d123f323f1a5603a81b718851c1d86b1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/SessionHandler/zipball/20cdecabd5cb4b7630c43a12079dd69ad23934dd",
-                    "reference": "20cdecabd5cb4b7630c43a12079dd69ad23934dd",
+                    "url": "https://api.github.com/repos/maintaina-com/SessionHandler/zipball/225491e6d123f323f1a5603a81b718851c1d86b1",
+                    "reference": "225491e6d123f323f1a5603a81b718851c1d86b1",
                     "shasum": ""
                 },
                 "require": {
