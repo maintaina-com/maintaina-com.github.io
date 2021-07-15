@@ -70,12 +70,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Dav.git",
-                    "reference": "a78ec9ee8fcf0a6ee3a5ef8e63045fd6ca5cdf7e"
+                    "reference": "cc1a0b7f3b92db6464e0205aa7f4420bb5c62b0c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Dav/zipball/a78ec9ee8fcf0a6ee3a5ef8e63045fd6ca5cdf7e",
-                    "reference": "a78ec9ee8fcf0a6ee3a5ef8e63045fd6ca5cdf7e",
+                    "url": "https://api.github.com/repos/maintaina-com/Dav/zipball/cc1a0b7f3b92db6464e0205aa7f4420bb5c62b0c",
+                    "reference": "cc1a0b7f3b92db6464e0205aa7f4420bb5c62b0c",
                     "shasum": ""
                 },
                 "require": {
