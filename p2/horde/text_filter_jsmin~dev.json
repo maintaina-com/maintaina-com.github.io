@@ -54,12 +54,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Text_Filter_Jsmin.git",
-                    "reference": "ad92b57db860bde714349613de0db2847139c443"
+                    "reference": "667326d5af678f8ce3f15a5f16b7af6c90d289a6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Filter_Jsmin/zipball/ad92b57db860bde714349613de0db2847139c443",
-                    "reference": "ad92b57db860bde714349613de0db2847139c443",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Filter_Jsmin/zipball/667326d5af678f8ce3f15a5f16b7af6c90d289a6",
+                    "reference": "667326d5af678f8ce3f15a5f16b7af6c90d289a6",
                     "shasum": ""
                 },
                 "require": {
