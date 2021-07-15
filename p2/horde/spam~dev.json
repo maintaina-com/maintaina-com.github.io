@@ -61,12 +61,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Spam.git",
-                    "reference": "57da3db756e54ff5f3c67e07b9dde4943e472903"
+                    "reference": "0a9a2532c2174d47d8c0d1fc23a9dac8a1c40c4b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Spam/zipball/57da3db756e54ff5f3c67e07b9dde4943e472903",
-                    "reference": "57da3db756e54ff5f3c67e07b9dde4943e472903",
+                    "url": "https://api.github.com/repos/maintaina-com/Spam/zipball/0a9a2532c2174d47d8c0d1fc23a9dac8a1c40c4b",
+                    "reference": "0a9a2532c2174d47d8c0d1fc23a9dac8a1c40c4b",
                     "shasum": ""
                 },
                 "require": {
