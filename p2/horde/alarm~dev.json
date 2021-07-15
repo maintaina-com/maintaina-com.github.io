@@ -66,12 +66,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Alarm.git",
-                    "reference": "c14f6525ec5639548127849a74498567abd78915"
+                    "reference": "af639238402a110bcb732d8b1291a59d5aeebf8e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Alarm/zipball/c14f6525ec5639548127849a74498567abd78915",
-                    "reference": "c14f6525ec5639548127849a74498567abd78915",
+                    "url": "https://api.github.com/repos/maintaina-com/Alarm/zipball/af639238402a110bcb732d8b1291a59d5aeebf8e",
+                    "reference": "af639238402a110bcb732d8b1291a59d5aeebf8e",
                     "shasum": ""
                 },
                 "require": {
