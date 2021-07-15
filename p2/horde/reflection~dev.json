@@ -53,12 +53,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Reflection.git",
-                    "reference": "7ad57e7eff3000bb006b57d5d64cbcd2c659a94d"
+                    "reference": "c45b1d744d466b687c52cb8cbaf85e88cf265919"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Reflection/zipball/7ad57e7eff3000bb006b57d5d64cbcd2c659a94d",
-                    "reference": "7ad57e7eff3000bb006b57d5d64cbcd2c659a94d",
+                    "url": "https://api.github.com/repos/maintaina-com/Reflection/zipball/c45b1d744d466b687c52cb8cbaf85e88cf265919",
+                    "reference": "c45b1d744d466b687c52cb8cbaf85e88cf265919",
                     "shasum": ""
                 },
                 "require": {
