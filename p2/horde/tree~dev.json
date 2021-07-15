@@ -69,12 +69,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Tree.git",
-                    "reference": "3d0391763a330e6f10e1d4fe38ea8e5883801351"
+                    "reference": "3e2527ef4b2f6233fadfeb3a6ad8ec25340679db"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Tree/zipball/3d0391763a330e6f10e1d4fe38ea8e5883801351",
-                    "reference": "3d0391763a330e6f10e1d4fe38ea8e5883801351",
+                    "url": "https://api.github.com/repos/maintaina-com/Tree/zipball/3e2527ef4b2f6233fadfeb3a6ad8ec25340679db",
+                    "reference": "3e2527ef4b2f6233fadfeb3a6ad8ec25340679db",
                     "shasum": ""
                 },
                 "require": {
