@@ -151,12 +151,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/hermes.git",
-                    "reference": "4a41e7e3ab1a1faacf8c744eaaaa035adef89013"
+                    "reference": "6f572f03a75f555093beca5fa5cea49cde48f45d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/hermes/zipball/4a41e7e3ab1a1faacf8c744eaaaa035adef89013",
-                    "reference": "4a41e7e3ab1a1faacf8c744eaaaa035adef89013",
+                    "url": "https://api.github.com/repos/maintaina-com/hermes/zipball/6f572f03a75f555093beca5fa5cea49cde48f45d",
+                    "reference": "6f572f03a75f555093beca5fa5cea49cde48f45d",
                     "shasum": ""
                 },
                 "require": {
@@ -522,7 +522,7 @@
                 "description": "Time tracking application",
                 "homepage": "https://www.horde.org/apps/hermes",
                 "support": {
-                    "source": "https://github.com/maintaina-com/hermes/tree/FRAMEWORK_6_0"
+                    "source": "https://github.com/maintaina-com/hermes/tree/master"
                 }
             }
         ]
