@@ -149,12 +149,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/whups.git",
-                    "reference": "1b5aa299a6a618fa5b5a3bfc829ac8fbf56c9980"
+                    "reference": "bc0652351afc4164ba30d3db59080517d27625bb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/1b5aa299a6a618fa5b5a3bfc829ac8fbf56c9980",
-                    "reference": "1b5aa299a6a618fa5b5a3bfc829ac8fbf56c9980",
+                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/bc0652351afc4164ba30d3db59080517d27625bb",
+                    "reference": "bc0652351afc4164ba30d3db59080517d27625bb",
                     "shasum": ""
                 },
                 "require": {
