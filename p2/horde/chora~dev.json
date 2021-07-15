@@ -99,12 +99,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/chora.git",
-                    "reference": "7ed315526bcf95c8e440a2ffa28bf065c7bb991b"
+                    "reference": "4b792a5e8787e840924a6d450adf5fb93afa60c7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/chora/zipball/7ed315526bcf95c8e440a2ffa28bf065c7bb991b",
-                    "reference": "7ed315526bcf95c8e440a2ffa28bf065c7bb991b",
+                    "url": "https://api.github.com/repos/maintaina-com/chora/zipball/4b792a5e8787e840924a6d450adf5fb93afa60c7",
+                    "reference": "4b792a5e8787e840924a6d450adf5fb93afa60c7",
                     "shasum": ""
                 },
                 "require": {
@@ -333,7 +333,7 @@
                 "description": "VCS (Version Control System) repository viewer application",
                 "homepage": "https://www.horde.org/apps/chora",
                 "support": {
-                    "source": "https://github.com/maintaina-com/chora/tree/FRAMEWORK_6_0"
+                    "source": "https://github.com/maintaina-com/chora/tree/master"
                 }
             }
         ]
