@@ -68,12 +68,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Autoloader_Cache.git",
-                    "reference": "6b63a4a3f55cf66bf08a272ee4ea3412700532fa"
+                    "reference": "ee710d8cb1f4b51353ae02940a081507b9b8cb80"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Autoloader_Cache/zipball/6b63a4a3f55cf66bf08a272ee4ea3412700532fa",
-                    "reference": "6b63a4a3f55cf66bf08a272ee4ea3412700532fa",
+                    "url": "https://api.github.com/repos/maintaina-com/Autoloader_Cache/zipball/ee710d8cb1f4b51353ae02940a081507b9b8cb80",
+                    "reference": "ee710d8cb1f4b51353ae02940a081507b9b8cb80",
                     "shasum": ""
                 },
                 "require": {
@@ -357,7 +357,7 @@
                 "description": "Caching library for Horde_Autoloader",
                 "homepage": "https://www.horde.org/libraries/Horde_Autoloader_Cache",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Autoloader_Cache/tree/FRAMEWORK_6_0"
+                    "source": "https://github.com/maintaina-com/Autoloader_Cache/tree/master"
                 }
             }
         ]
