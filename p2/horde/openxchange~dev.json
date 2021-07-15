@@ -57,12 +57,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/OpenXchange.git",
-                    "reference": "0cdb834886c16f0ce6ebaf4588c66cfd59d80ad7"
+                    "reference": "ff9aad8515fbf2dda2f3b0f10cbafc10e7964e03"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/OpenXchange/zipball/0cdb834886c16f0ce6ebaf4588c66cfd59d80ad7",
-                    "reference": "0cdb834886c16f0ce6ebaf4588c66cfd59d80ad7",
+                    "url": "https://api.github.com/repos/maintaina-com/OpenXchange/zipball/ff9aad8515fbf2dda2f3b0f10cbafc10e7964e03",
+                    "reference": "ff9aad8515fbf2dda2f3b0f10cbafc10e7964e03",
                     "shasum": ""
                 },
                 "require": {
