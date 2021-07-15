@@ -151,12 +151,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/wicked.git",
-                    "reference": "2aaee4e504fd19efb1382fd4714a3abfa9e5729c"
+                    "reference": "4772051826830de5a102cded670f8d8c0586f610"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/wicked/zipball/2aaee4e504fd19efb1382fd4714a3abfa9e5729c",
-                    "reference": "2aaee4e504fd19efb1382fd4714a3abfa9e5729c",
+                    "url": "https://api.github.com/repos/maintaina-com/wicked/zipball/4772051826830de5a102cded670f8d8c0586f610",
+                    "reference": "4772051826830de5a102cded670f8d8c0586f610",
                     "shasum": ""
                 },
                 "require": {
