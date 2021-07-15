@@ -108,12 +108,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/pastie.git",
-                    "reference": "4a02b18e8ba9e5b5a5faf73401005ad3a2495de9"
+                    "reference": "abb34970d0b1a38b9309c14b8878093533cf7d3d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/pastie/zipball/4a02b18e8ba9e5b5a5faf73401005ad3a2495de9",
-                    "reference": "4a02b18e8ba9e5b5a5faf73401005ad3a2495de9",
+                    "url": "https://api.github.com/repos/maintaina-com/pastie/zipball/abb34970d0b1a38b9309c14b8878093533cf7d3d",
+                    "reference": "abb34970d0b1a38b9309c14b8878093533cf7d3d",
                     "shasum": ""
                 },
                 "require": {
@@ -140,7 +140,6 @@
                     },
                     {
                         "name": "Ben Klang",
-                        "email": null,
                         "role": "lead"
                     },
                     {
