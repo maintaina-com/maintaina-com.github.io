@@ -151,12 +151,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/gollem.git",
-                    "reference": "ce0944f38dd624ec192b7f07aa06c0a39f3988c9"
+                    "reference": "59e530f55afb098a59457a3923cfd5752ecd22d7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/gollem/zipball/ce0944f38dd624ec192b7f07aa06c0a39f3988c9",
-                    "reference": "ce0944f38dd624ec192b7f07aa06c0a39f3988c9",
+                    "url": "https://api.github.com/repos/maintaina-com/gollem/zipball/59e530f55afb098a59457a3923cfd5752ecd22d7",
+                    "reference": "59e530f55afb098a59457a3923cfd5752ecd22d7",
                     "shasum": ""
                 },
                 "require": {
