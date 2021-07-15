@@ -60,12 +60,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Cli_Application.git",
-                    "reference": "377030fa4c732d603c7acf78881da84c30d73808"
+                    "reference": "ebadd787ea217ea1ffd12e3cf13e923f7a001846"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Cli_Application/zipball/377030fa4c732d603c7acf78881da84c30d73808",
-                    "reference": "377030fa4c732d603c7acf78881da84c30d73808",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli_Application/zipball/ebadd787ea217ea1ffd12e3cf13e923f7a001846",
+                    "reference": "ebadd787ea217ea1ffd12e3cf13e923f7a001846",
                     "shasum": ""
                 },
                 "require": {
