@@ -57,12 +57,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/CssMinify.git",
-                    "reference": "2f16ddeb63adda90db4d5e0dd9e20e5bd72ba089"
+                    "reference": "916ae2e19888256d52d83c418a0c0514e5a8c819"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/CssMinify/zipball/2f16ddeb63adda90db4d5e0dd9e20e5bd72ba089",
-                    "reference": "2f16ddeb63adda90db4d5e0dd9e20e5bd72ba089",
+                    "url": "https://api.github.com/repos/maintaina-com/CssMinify/zipball/916ae2e19888256d52d83c418a0c0514e5a8c819",
+                    "reference": "916ae2e19888256d52d83c418a0c0514e5a8c819",
                     "shasum": ""
                 },
                 "require": {
