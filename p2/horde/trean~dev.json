@@ -151,12 +151,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/trean.git",
-                    "reference": "3ff8b0bf8e51f808ad9516c159457f4e9ce1f472"
+                    "reference": "c030ab2c34003afec95ba2cae9353c743b225808"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/trean/zipball/3ff8b0bf8e51f808ad9516c159457f4e9ce1f472",
-                    "reference": "3ff8b0bf8e51f808ad9516c159457f4e9ce1f472",
+                    "url": "https://api.github.com/repos/maintaina-com/trean/zipball/c030ab2c34003afec95ba2cae9353c743b225808",
+                    "reference": "c030ab2c34003afec95ba2cae9353c743b225808",
                     "shasum": ""
                 },
                 "require": {
