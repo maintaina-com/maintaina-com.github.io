@@ -56,12 +56,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Constraint.git",
-                    "reference": "6260f398d92e592f38222980ce1cad0794885dec"
+                    "reference": "7b79acdf9a9f14257ec58953cf7a9bc1aae02716"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Constraint/zipball/6260f398d92e592f38222980ce1cad0794885dec",
-                    "reference": "6260f398d92e592f38222980ce1cad0794885dec",
+                    "url": "https://api.github.com/repos/maintaina-com/Constraint/zipball/7b79acdf9a9f14257ec58953cf7a9bc1aae02716",
+                    "reference": "7b79acdf9a9f14257ec58953cf7a9bc1aae02716",
                     "shasum": ""
                 },
                 "require": {
