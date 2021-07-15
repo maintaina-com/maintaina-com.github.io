@@ -57,12 +57,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Mongo.git",
-                    "reference": "4ce37a569fe8e3438a559954fd7870faaa113058"
+                    "reference": "88952190f67ea10109b9b7f00f1c8c2f41013854"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mongo/zipball/4ce37a569fe8e3438a559954fd7870faaa113058",
-                    "reference": "4ce37a569fe8e3438a559954fd7870faaa113058",
+                    "url": "https://api.github.com/repos/maintaina-com/Mongo/zipball/88952190f67ea10109b9b7f00f1c8c2f41013854",
+                    "reference": "88952190f67ea10109b9b7f00f1c8c2f41013854",
                     "shasum": ""
                 },
                 "require": {
