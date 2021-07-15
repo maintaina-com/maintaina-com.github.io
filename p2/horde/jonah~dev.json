@@ -101,12 +101,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/jonah.git",
-                    "reference": "f9fa3dfdfed74b2f8d898954bd8d0710ec6aea9c"
+                    "reference": "27e1910872f8e9c3955b89cf1352969b94547eb3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/jonah/zipball/f9fa3dfdfed74b2f8d898954bd8d0710ec6aea9c",
-                    "reference": "f9fa3dfdfed74b2f8d898954bd8d0710ec6aea9c",
+                    "url": "https://api.github.com/repos/maintaina-com/jonah/zipball/27e1910872f8e9c3955b89cf1352969b94547eb3",
+                    "reference": "27e1910872f8e9c3955b89cf1352969b94547eb3",
                     "shasum": ""
                 },
                 "require": {
@@ -342,7 +342,7 @@
                 "description": "Newsfeed application",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/jonah/tree/FRAMEWORK_6_0"
+                    "source": "https://github.com/maintaina-com/jonah/tree/master"
                 }
             }
         ]
