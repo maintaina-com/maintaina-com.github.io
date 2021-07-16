@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$3a5ac50d6b2fb06028df6f3fae7cf0c056bcf834.json": {
-            "sha1": "3a5ac50d6b2fb06028df6f3fae7cf0c056bcf834"
+        "include/all$26e747cfbdf4b745006f7f99fe45cf0a349f15e9.json": {
+            "sha1": "26e747cfbdf4b745006f7f99fe45cf0a349f15e9"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -55,6 +55,7 @@
         "horde/horde-installer-plugin",
         "horde/hordectl",
         "horde/http",
+        "horde/http_server",
         "horde/icalendar",
         "horde/idna",
         "horde/image",
