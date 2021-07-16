@@ -76,6 +76,7 @@
         {"name": "horde/hashtable", "url": "https://github.com/maintaina-com/HashTable", "type": "vcs"},
         {"name": "horde/history", "url": "https://github.com/maintaina-com/History", "type": "vcs"},
         {"name": "horde/http", "url": "https://github.com/maintaina-com/Http", "type": "vcs"},
+        {"name": "horde/http_server", "url": "https://github.com/maintaina-com/Http", "type": "vcs"},
         {"name": "horde/icalendar", "url": "https://github.com/maintaina-com/Icalendar", "type": "vcs"},
         {"name": "horde/idna", "url": "https://github.com/maintaina-com/Idna", "type": "vcs"},
         {"name": "horde/image", "url": "https://github.com/maintaina-com/Image", "type": "vcs"},
