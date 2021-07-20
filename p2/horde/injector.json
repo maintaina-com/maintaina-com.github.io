@@ -358,6 +358,55 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Injector/tree/v3.0.0alpha5"
                 }
+            },
+            {
+                "name": "horde/injector",
+                "version": "v3.0.0alpha6",
+                "version_normalized": "3.0.0.0-alpha6",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Injector.git",
+                    "reference": "d970755dbf35fe345c5ea031518fa622016a858c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/d970755dbf35fe345c5ea031518fa622016a858c",
+                    "reference": "d970755dbf35fe345c5ea031518fa622016a858c",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3",
+                    "php": "^7",
+                    "psr/container": "^2"
+                },
+                "suggest": {
+                    "horde/test": "^3"
+                },
+                "time": "2021-07-20T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Injector": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Injector\\": "src/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Dependency injection container library",
+                "homepage": "https://www.horde.org/libraries/Horde_Injector",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Injector/tree/v3.0.0alpha6"
+                }
             }
         ]
     }
