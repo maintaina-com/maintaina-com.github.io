@@ -68,12 +68,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Controller.git",
-                    "reference": "37896c3f86a1bf041289b20472c5566cba26f657"
+                    "reference": "705008d98122444144f7eb786b4e8eeef730f1fb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Controller/zipball/37896c3f86a1bf041289b20472c5566cba26f657",
-                    "reference": "37896c3f86a1bf041289b20472c5566cba26f657",
+                    "url": "https://api.github.com/repos/maintaina-com/Controller/zipball/705008d98122444144f7eb786b4e8eeef730f1fb",
+                    "reference": "705008d98122444144f7eb786b4e8eeef730f1fb",
                     "shasum": ""
                 },
                 "require": {
@@ -87,14 +87,18 @@
                 "suggest": {
                     "ext-mbstring": "*",
                     "ext-zlib": "*",
+                    "horde/http": "* || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2021-07-20T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Controller": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Controller\\": "src/"
                     }
                 },
                 "license": [
