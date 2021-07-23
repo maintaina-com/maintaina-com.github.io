@@ -78,7 +78,8 @@
                 "description": "Developer tool for managing Horde components",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/v1.0.0alpha1"
+                    "source": "https://github.com/maintaina-com/components/tree/v1.0.0alpha1",
+                    "issues": "https://github.com/maintaina-com/components/issues"
                 }
             },
             {
@@ -158,7 +159,8 @@
                 "description": "Developer tool for managing Horde components",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/v1.0.0alpha2"
+                    "source": "https://github.com/maintaina-com/components/tree/v1.0.0alpha2",
+                    "issues": "https://github.com/maintaina-com/components/issues"
                 }
             },
             {
@@ -238,7 +240,8 @@
                 "description": "Developer tool for managing Horde components",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/v1.0.0alpha3"
+                    "source": "https://github.com/maintaina-com/components/tree/v1.0.0alpha3",
+                    "issues": "https://github.com/maintaina-com/components/issues"
                 }
             }
         ]

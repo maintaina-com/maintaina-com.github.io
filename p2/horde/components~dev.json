@@ -54,7 +54,8 @@
                 "description": "A package for dealing with Horde components",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/FRAMEWORK_5_1"
+                    "source": "https://github.com/maintaina-com/components/tree/FRAMEWORK_5_1",
+                    "issues": "https://github.com/maintaina-com/components/issues"
                 }
             },
             {
@@ -119,7 +120,8 @@
                 "description": "Developer tool for managing Horde components",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/FRAMEWORK_5_2"
+                    "source": "https://github.com/maintaina-com/components/tree/FRAMEWORK_5_2",
+                    "issues": "https://github.com/maintaina-com/components/issues"
                 }
             },
             {
@@ -129,12 +131,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/components.git",
-                    "reference": "42de523220e67817f4e9bb47d6a599dfb86e15de"
+                    "reference": "9984ed6f592f86a0d48d4cbf4d73f101880bbbd7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/42de523220e67817f4e9bb47d6a599dfb86e15de",
-                    "reference": "42de523220e67817f4e9bb47d6a599dfb86e15de",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/9984ed6f592f86a0d48d4cbf4d73f101880bbbd7",
+                    "reference": "9984ed6f592f86a0d48d4cbf4d73f101880bbbd7",
                     "shasum": ""
                 },
                 "require": {
@@ -200,7 +202,8 @@
                 "description": "Developer tool for managing Horde components",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/FRAMEWORK_6_0"
+                    "source": "https://github.com/maintaina-com/components/tree/FRAMEWORK_6_0",
+                    "issues": "https://github.com/maintaina-com/components/issues"
                 }
             },
             {
@@ -272,7 +275,8 @@
                 "description": "Developer tool for managing Horde components",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/downstream"
+                    "source": "https://github.com/maintaina-com/components/tree/downstream",
+                    "issues": "https://github.com/maintaina-com/components/issues"
                 }
             },
             {
@@ -344,7 +348,8 @@
                 "description": "Developer tool for managing Horde components",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/horde-upstream"
+                    "source": "https://github.com/maintaina-com/components/tree/horde-upstream",
+                    "issues": "https://github.com/maintaina-com/components/issues"
                 }
             },
             {
@@ -416,7 +421,8 @@
                 "description": "Developer tool for managing Horde components",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/maintaina-2021-02-bck"
+                    "source": "https://github.com/maintaina-com/components/tree/maintaina-2021-02-bck",
+                    "issues": "https://github.com/maintaina-com/components/issues"
                 }
             },
             {
@@ -488,7 +494,8 @@
                 "description": "Developer tool for managing Horde components",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/maintaina-bare"
+                    "source": "https://github.com/maintaina-com/components/tree/maintaina-bare",
+                    "issues": "https://github.com/maintaina-com/components/issues"
                 }
             },
             {
@@ -560,7 +567,8 @@
                 "description": "Developer tool for managing Horde components",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/maintaina-bare-psr4"
+                    "source": "https://github.com/maintaina-com/components/tree/maintaina-bare-psr4",
+                    "issues": "https://github.com/maintaina-com/components/issues"
                 }
             },
             {
@@ -641,7 +649,8 @@
                 "description": "Developer tool for managing Horde components",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/maintaina-composerfixed"
+                    "source": "https://github.com/maintaina-com/components/tree/maintaina-composerfixed",
+                    "issues": "https://github.com/maintaina-com/components/issues"
                 }
             },
             {
@@ -722,7 +731,8 @@
                 "description": "Developer tool for managing Horde components",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/master"
+                    "source": "https://github.com/maintaina-com/components/tree/master",
+                    "issues": "https://github.com/maintaina-com/components/issues"
                 }
             },
             {
@@ -797,7 +807,8 @@
                 "description": "Developer tool for managing Horde components",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/psr4-composerfixed"
+                    "source": "https://github.com/maintaina-com/components/tree/psr4-composerfixed",
+                    "issues": "https://github.com/maintaina-com/components/issues"
                 }
             }
         ]
