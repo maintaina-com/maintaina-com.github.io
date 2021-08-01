@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Core.git",
-                    "reference": "984049928948ee82e12e29178acc32986597f616"
+                    "reference": "abb665c5c71f1e9f56c4773fedf14e390d07e74c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Core/zipball/984049928948ee82e12e29178acc32986597f616",
-                    "reference": "984049928948ee82e12e29178acc32986597f616",
+                    "url": "https://api.github.com/repos/maintaina-com/Core/zipball/abb665c5c71f1e9f56c4773fedf14e390d07e74c",
+                    "reference": "abb665c5c71f1e9f56c4773fedf14e390d07e74c",
                     "shasum": ""
                 },
                 "require": {
@@ -35,6 +35,8 @@
                     "horde/hashtable": "^2 || dev-FRAMEWORK_6_0",
                     "horde/history": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "horde/http": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/http_server": "^1 || dev-FRAMEWORK_6_0",
                     "horde/injector": "^3 || dev-FRAMEWORK_6_0",
                     "horde/javascriptminify": "^2 || dev-FRAMEWORK_6_0",
                     "horde/lock": "^3 || dev-FRAMEWORK_6_0",
@@ -69,7 +71,7 @@
                     "pear/text_captcha": "*",
                     "pear/text_figlet": "*"
                 },
-                "time": "2021-07-14T00:00:00+00:00",
+                "time": "2021-08-01T00:00:00+00:00",
                 "default-branch": true,
                 "type": "horde-library",
                 "autoload": {
@@ -78,6 +80,11 @@
                     ],
                     "psr-4": {
                         "Horde\\Core\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Core\\Test\\": "test/"
                     }
                 },
                 "license": [
