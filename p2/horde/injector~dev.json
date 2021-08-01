@@ -57,12 +57,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Injector.git",
-                    "reference": "5f8b19b9bbbf56cb185e0cec8f427905e6d39d02"
+                    "reference": "44d23885f58255576cafcd05c9f7812fdf3c97cc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/5f8b19b9bbbf56cb185e0cec8f427905e6d39d02",
-                    "reference": "5f8b19b9bbbf56cb185e0cec8f427905e6d39d02",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/44d23885f58255576cafcd05c9f7812fdf3c97cc",
+                    "reference": "44d23885f58255576cafcd05c9f7812fdf3c97cc",
                     "shasum": ""
                 },
                 "require": {
@@ -70,10 +70,13 @@
                     "php": "^7",
                     "psr/container": "^2"
                 },
+                "provide": {
+                    "psr/container-implementation": "2.0.1"
+                },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-07-20T00:00:00+00:00",
+                "time": "2021-08-01T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
@@ -82,6 +85,11 @@
                     },
                     "psr-4": {
                         "Horde\\Injector\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Injector\\Test\\": "test/"
                     }
                 },
                 "license": [
