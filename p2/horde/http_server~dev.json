@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Http_Server.git",
-                    "reference": "be3e102f751f595fb94cf3f23796e18c0cbeb63d"
+                    "reference": "77f413a16861a2f291385bf92d9dd8214ccb3743"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Http_Server/zipball/be3e102f751f595fb94cf3f23796e18c0cbeb63d",
-                    "reference": "be3e102f751f595fb94cf3f23796e18c0cbeb63d",
+                    "url": "https://api.github.com/repos/maintaina-com/Http_Server/zipball/77f413a16861a2f291385bf92d9dd8214ccb3743",
+                    "reference": "77f413a16861a2f291385bf92d9dd8214ccb3743",
                     "shasum": ""
                 },
                 "require": {
@@ -28,12 +28,17 @@
                     "ext-zlib": "*",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-07-16T00:00:00+00:00",
+                "time": "2021-08-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-4": {
                         "Horde\\Http\\Server\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Http\\Server\\Test\\": "test/"
                     }
                 },
                 "license": [
