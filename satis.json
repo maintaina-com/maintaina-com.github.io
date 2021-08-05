@@ -69,7 +69,7 @@
         {"name": "horde/db", "url": "https://github.com/maintaina-com/Db", "type": "vcs"},
         {"name": "horde/editor", "url": "https://github.com/maintaina-com/Editor", "type": "vcs"},
         {"name": "horde/elasticsearch", "url": "https://github.com/maintaina-com/elasticsearch", "type": "vcs"},
-        {"name": "horde/eventlistener", "url": "https://github.com/maintaina-com/EventListener", "type": "vcs"},
+        {"name": "horde/eventdispatcher", "url": "https://github.com/maintaina-com/EventDispatcher", "type": "vcs"},
         {"name": "horde/exception", "url": "https://github.com/maintaina-com/Exception", "type": "vcs"},
         {"name": "horde/feed", "url": "https://github.com/maintaina-com/Feed", "type": "vcs"},
         {"name": "horde/form", "url": "https://github.com/maintaina-com/Form", "type": "vcs"},
