@@ -65,31 +65,28 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Http.git",
-                    "reference": "8fcf706bb80c6d2dcbc2e87e5994385df5e98f1f"
+                    "reference": "2d530638da6813ebbdbd65f58bc79ba71feec764"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Http/zipball/8fcf706bb80c6d2dcbc2e87e5994385df5e98f1f",
-                    "reference": "8fcf706bb80c6d2dcbc2e87e5994385df5e98f1f",
+                    "url": "https://api.github.com/repos/maintaina-com/Http/zipball/2d530638da6813ebbdbd65f58bc79ba71feec764",
+                    "reference": "2d530638da6813ebbdbd65f58bc79ba71feec764",
                     "shasum": ""
                 },
                 "require": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/support": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7",
+                    "php": "^7 || ^8",
                     "psr/http-client": "^1",
                     "psr/http-factory": "^1",
                     "psr/http-message": "^1"
-                },
-                "require-dev": {
-                    "horde/test": "dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
                     "ext-curl": "*",
                     "ext-http": "*",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-07-16T00:00:00+00:00",
+                "time": "2021-08-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
