@@ -67,12 +67,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Exception.git",
-                    "reference": "928677a7ec4f0f99bd5d2b15c3705778f0b30d41"
+                    "reference": "542c7402329f5795ebd85dea12292f01632ffe94"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Exception/zipball/928677a7ec4f0f99bd5d2b15c3705778f0b30d41",
-                    "reference": "928677a7ec4f0f99bd5d2b15c3705778f0b30d41",
+                    "url": "https://api.github.com/repos/maintaina-com/Exception/zipball/542c7402329f5795ebd85dea12292f01632ffe94",
+                    "reference": "542c7402329f5795ebd85dea12292f01632ffe94",
                     "shasum": ""
                 },
                 "require": {
@@ -122,124 +122,6 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Exception",
                 "support": {
                     "source": "https://github.com/maintaina-com/Exception/tree/FRAMEWORK_6_0"
-                }
-            },
-            {
-                "name": "horde/exception",
-                "version": "dev-horde-upstream",
-                "version_normalized": "dev-horde-upstream",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Exception.git",
-                    "reference": "754c7a3e8e37235311329a9676d9894e216a03e6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Exception/zipball/754c7a3e8e37235311329a9676d9894e216a03e6",
-                    "reference": "754c7a3e8e37235311329a9676d9894e216a03e6",
-                    "shasum": ""
-                },
-                "require": {
-                    "pear-pear.horde.org/horde_translation": "^2.2",
-                    "php": "^5.3 || ^7"
-                },
-                "replace": {
-                    "pear-horde/horde_exception": "2.*",
-                    "pear-pear.horde.org/horde_exception": "2.*"
-                },
-                "suggest": {
-                    "pear-pear.horde.org/Horde_Test": "^2.1"
-                },
-                "time": "2017-11-11T00:00:00+00:00",
-                "type": "library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Exception": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "developer"
-                    }
-                ],
-                "description": "Exception handler library",
-                "homepage": "https://www.horde.org/libraries/Horde_Exception",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Exception/tree/horde-upstream"
-                }
-            },
-            {
-                "name": "horde/exception",
-                "version": "dev-maintaina-bare",
-                "version_normalized": "dev-maintaina-bare",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Exception.git",
-                    "reference": "754c7a3e8e37235311329a9676d9894e216a03e6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Exception/zipball/754c7a3e8e37235311329a9676d9894e216a03e6",
-                    "reference": "754c7a3e8e37235311329a9676d9894e216a03e6",
-                    "shasum": ""
-                },
-                "require": {
-                    "pear-pear.horde.org/horde_translation": "^2.2",
-                    "php": "^5.3 || ^7"
-                },
-                "replace": {
-                    "pear-horde/horde_exception": "2.*",
-                    "pear-pear.horde.org/horde_exception": "2.*"
-                },
-                "suggest": {
-                    "pear-pear.horde.org/Horde_Test": "^2.1"
-                },
-                "time": "2017-11-11T00:00:00+00:00",
-                "type": "library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Exception": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "developer"
-                    }
-                ],
-                "description": "Exception handler library",
-                "homepage": "https://www.horde.org/libraries/Horde_Exception",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Exception/tree/horde-upstream"
                 }
             },
             {
@@ -296,62 +178,6 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Exception",
                 "support": {
                     "source": "https://github.com/maintaina-com/Exception/tree/maintaina-composerfixed"
-                }
-            },
-            {
-                "name": "horde/exception",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Exception.git",
-                    "reference": "454c247ac3efe6da777bbf8175b4fa50688155ed"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Exception/zipball/454c247ac3efe6da777bbf8175b4fa50688155ed",
-                    "reference": "454c247ac3efe6da777bbf8175b4fa50688155ed",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/translation": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "horde/test": "^2.1"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Exception": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "developer"
-                    }
-                ],
-                "description": "Exception handler library",
-                "homepage": "https://www.horde.org/libraries/Horde_Exception",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Exception/tree/master"
                 }
             }
         ]
