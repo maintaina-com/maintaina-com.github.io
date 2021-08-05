@@ -56,26 +56,31 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Constraint.git",
-                    "reference": "7b79acdf9a9f14257ec58953cf7a9bc1aae02716"
+                    "reference": "0a2989baf529fbae046b76bed8907bbb026a96fa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Constraint/zipball/7b79acdf9a9f14257ec58953cf7a9bc1aae02716",
-                    "reference": "7b79acdf9a9f14257ec58953cf7a9bc1aae02716",
+                    "url": "https://api.github.com/repos/maintaina-com/Constraint/zipball/0a2989baf529fbae046b76bed8907bbb026a96fa",
+                    "reference": "0a2989baf529fbae046b76bed8907bbb026a96fa",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "^7"
+                    "php": "^7 || ^8"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2021-08-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Constraint": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Constraint\\Test\\": "test/"
                     }
                 },
                 "license": [
