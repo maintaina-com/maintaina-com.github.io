@@ -58,26 +58,31 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Stream_Wrapper.git",
-                    "reference": "74fbc7fa848576856625a366e4435828eb5a34c9"
+                    "reference": "063eb8a53380ffe4a86fe0637a0a3b30fbd24367"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Stream_Wrapper/zipball/74fbc7fa848576856625a366e4435828eb5a34c9",
-                    "reference": "74fbc7fa848576856625a366e4435828eb5a34c9",
+                    "url": "https://api.github.com/repos/maintaina-com/Stream_Wrapper/zipball/063eb8a53380ffe4a86fe0637a0a3b30fbd24367",
+                    "reference": "063eb8a53380ffe4a86fe0637a0a3b30fbd24367",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "^7"
+                    "php": "^7 || ^8"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2021-08-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Stream_Wrapper": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Stream\\Wrapper\\Test\\": "test/"
                     }
                 },
                 "license": [
