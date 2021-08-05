@@ -57,27 +57,32 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Translation.git",
-                    "reference": "74d46dd750637e8b856c221749d6c2d1cb1af388"
+                    "reference": "08046e115b6498234a701358c1ecb87211277894"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Translation/zipball/74d46dd750637e8b856c221749d6c2d1cb1af388",
-                    "reference": "74d46dd750637e8b856c221749d6c2d1cb1af388",
+                    "url": "https://api.github.com/repos/maintaina-com/Translation/zipball/08046e115b6498234a701358c1ecb87211277894",
+                    "reference": "08046e115b6498234a701358c1ecb87211277894",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "^7"
+                    "php": "^7 || ^8"
                 },
                 "suggest": {
                     "ext-gettext": "*",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2021-08-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Translation": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Translation\\Test\\": "test/"
                     }
                 },
                 "license": [
