@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/EventDispatcher.git",
-                    "reference": "f449f19a703a1f22726ca0098824fdd2a3bf5087"
+                    "reference": "c03287a4784fa45345ce9c71baddb04b7f802100"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/EventDispatcher/zipball/f449f19a703a1f22726ca0098824fdd2a3bf5087",
-                    "reference": "f449f19a703a1f22726ca0098824fdd2a3bf5087",
+                    "url": "https://api.github.com/repos/maintaina-com/EventDispatcher/zipball/c03287a4784fa45345ce9c71baddb04b7f802100",
+                    "reference": "c03287a4784fa45345ce9c71baddb04b7f802100",
                     "shasum": ""
                 },
                 "require": {
