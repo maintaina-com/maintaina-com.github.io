@@ -72,12 +72,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Icalendar.git",
-                    "reference": "6a783cfa5860dce8511279151678cff184d8eb04"
+                    "reference": "996c444978c713dabf94d2bc11c4a36c94fa2525"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Icalendar/zipball/6a783cfa5860dce8511279151678cff184d8eb04",
-                    "reference": "6a783cfa5860dce8511279151678cff184d8eb04",
+                    "url": "https://api.github.com/repos/maintaina-com/Icalendar/zipball/996c444978c713dabf94d2bc11c4a36c94fa2525",
+                    "reference": "996c444978c713dabf94d2bc11c4a36c94fa2525",
                     "shasum": ""
                 },
                 "require": {
