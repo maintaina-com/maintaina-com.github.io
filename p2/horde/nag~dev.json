@@ -171,12 +171,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/nag.git",
-                    "reference": "404320f86449276001adebd22739ab190c97cfe5"
+                    "reference": "c15800bc1da3f7f303d80e511aefbf4fe774042a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/404320f86449276001adebd22739ab190c97cfe5",
-                    "reference": "404320f86449276001adebd22739ab190c97cfe5",
+                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/c15800bc1da3f7f303d80e511aefbf4fe774042a",
+                    "reference": "c15800bc1da3f7f303d80e511aefbf4fe774042a",
                     "shasum": ""
                 },
                 "require": {
@@ -523,98 +523,6 @@
                 "homepage": "https://www.horde.org/apps/nag",
                 "support": {
                     "source": "https://github.com/maintaina-com/nag/tree/maintaina-composerfixed"
-                }
-            },
-            {
-                "name": "horde/nag",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/nag.git",
-                    "reference": "b3cb2215964cb09e7762c509f1ea187d7b393372"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/b3cb2215964cb09e7762c509f1ea187d7b393372",
-                    "reference": "b3cb2215964cb09e7762c509f1ea187d7b393372",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-gettext": "*",
-                    "horde/auth": "dev-master",
-                    "horde/content": "dev-master",
-                    "horde/controller": "dev-master",
-                    "horde/core": "dev-master",
-                    "horde/data": "dev-master",
-                    "horde/date": "dev-master",
-                    "horde/date_parser": "dev-master",
-                    "horde/dav": "dev-master",
-                    "horde/exception": "dev-master",
-                    "horde/form": "dev-master",
-                    "horde/group": "dev-master",
-                    "horde/history": "dev-master",
-                    "horde/horde": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/icalendar": "dev-master",
-                    "horde/mail": "dev-master",
-                    "horde/mime": "dev-master",
-                    "horde/perms": "dev-master",
-                    "horde/prefs": "dev-master",
-                    "horde/routes": "dev-master",
-                    "horde/share": "dev-master",
-                    "horde/support": "dev-master",
-                    "horde/text_filter": "dev-master",
-                    "horde/url": "dev-master",
-                    "horde/util": "dev-master",
-                    "horde/view": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "horde/activesync": "^2.4",
-                    "horde/backup": "^1",
-                    "horde/db": "^2",
-                    "horde/openxchange": "^1",
-                    "horde/test": "^2"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "bin": [
-                    "bin/nag-convert-sql-shares-to-sqlng",
-                    "bin/nag-create-missing-add-histories-sql",
-                    "bin/nag-import-vtodos",
-                    "bin/nag-convert-datatree-shares-to-sql",
-                    "bin/nag-import-openxchange"
-                ],
-                "type": "horde-application",
-                "autoload": {
-                    "psr-0": {
-                        "Nag": "lib/"
-                    }
-                },
-                "license": [
-                    "GPL-2.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael J Rubinsky",
-                        "email": "mrubinsk@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Task list application",
-                "homepage": "https://www.horde.org/apps/nag",
-                "support": {
-                    "source": "https://github.com/maintaina-com/nag/tree/master"
                 }
             }
         ]
