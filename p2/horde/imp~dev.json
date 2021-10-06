@@ -203,12 +203,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/imp.git",
-                    "reference": "698de38d311106e6cbb686f0d80a8dadeb61a791"
+                    "reference": "12626164a49d364b0c97e579183e92bba4aeb7c4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/698de38d311106e6cbb686f0d80a8dadeb61a791",
-                    "reference": "698de38d311106e6cbb686f0d80a8dadeb61a791",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/12626164a49d364b0c97e579183e92bba4aeb7c4",
+                    "reference": "12626164a49d364b0c97e579183e92bba4aeb7c4",
                     "shasum": ""
                 },
                 "require": {
@@ -228,7 +228,7 @@
                     "horde/editor": "^3 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
                     "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
                     "horde/image": "^3 || dev-FRAMEWORK_6_0",
                     "horde/imap_client": "^3 || dev-FRAMEWORK_6_0",
@@ -265,18 +265,23 @@
                     "horde/service_gravatar": "^2 || dev-FRAMEWORK_6_0",
                     "pear-phpseclib.sourceforge.net/File_ASN1": "*"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2021-10-06T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
-                    "bin/imp-admin-upgrade",
-                    "bin/imp-bounce-spam",
+                    "bin/imp-query-imap-cache",
                     "bin/imp-mailbox-decode",
-                    "bin/imp-query-imap-cache"
+                    "bin/imp-admin-upgrade",
+                    "bin/imp-bounce-spam"
                 ],
                 "type": "horde-application",
                 "autoload": {
                     "psr-0": {
                         "IMP": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\IMP\\Test\\": "test/"
                     }
                 },
                 "license": [
