@@ -82,12 +82,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Auth.git",
-                    "reference": "8a2132a7c54f7bae37eccb9e8421425c713f6210"
+                    "reference": "221a9b91852b05ca680c50970701ef5ff15258e5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Auth/zipball/8a2132a7c54f7bae37eccb9e8421425c713f6210",
-                    "reference": "8a2132a7c54f7bae37eccb9e8421425c713f6210",
+                    "url": "https://api.github.com/repos/maintaina-com/Auth/zipball/221a9b91852b05ca680c50970701ef5ff15258e5",
+                    "reference": "221a9b91852b05ca680c50970701ef5ff15258e5",
                     "shasum": ""
                 },
                 "require": {
@@ -112,12 +112,17 @@
                     "horde/lock": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2021-10-06T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Auth": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Auth\\Test\\": "test/"
                     }
                 },
                 "license": [
