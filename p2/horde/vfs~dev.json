@@ -73,12 +73,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Vfs.git",
-                    "reference": "cd3dd963c0b8e1cf5cdff23281605ddd148fb746"
+                    "reference": "221692ef98a511c9cb2e7246a1b364f4802a5762"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/cd3dd963c0b8e1cf5cdff23281605ddd148fb746",
-                    "reference": "cd3dd963c0b8e1cf5cdff23281605ddd148fb746",
+                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/221692ef98a511c9cb2e7246a1b364f4802a5762",
+                    "reference": "221692ef98a511c9cb2e7246a1b364f4802a5762",
                     "shasum": ""
                 },
                 "require": {
@@ -380,6 +380,132 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Vfs",
                 "support": {
                     "source": "https://github.com/maintaina-com/Vfs/tree/master"
+                }
+            },
+            {
+                "name": "horde/vfs",
+                "version": "dev-opensuseleap153PHP74-breaks-regex",
+                "version_normalized": "dev-opensuseleap153PHP74-breaks-regex",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
+                    "reference": "5c5cf45ab823cc462d3126d4566c5de1612d5bc8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/5c5cf45ab823cc462d3126d4566c5de1612d5bc8",
+                    "reference": "5c5cf45ab823cc462d3126d4566c5de1612d5bc8",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "ext-ftp": "*",
+                    "ext-ssh2": "*",
+                    "horde/auth": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/kolab_session": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mime": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/perms": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-03-13T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Vfs": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Virtual file system library",
+                "homepage": "https://www.horde.org/libraries/Horde_Vfs",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/opensuseleap153PHP74-breaks-regex"
+                }
+            },
+            {
+                "name": "horde/vfs",
+                "version": "dev-pr-upstream-smb",
+                "version_normalized": "dev-pr-upstream-smb",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Vfs.git",
+                    "reference": "7313d69cc88127f64d5d12b8ba45f7948dcb93cc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/7313d69cc88127f64d5d12b8ba45f7948dcb93cc",
+                    "reference": "7313d69cc88127f64d5d12b8ba45f7948dcb93cc",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_vfs": "2.*",
+                    "pear-pear.horde.org/horde_vfs": "2.*"
+                },
+                "suggest": {
+                    "ext-ftp": "*",
+                    "pear-pear.horde.org/Horde_Auth": "^2",
+                    "pear-pear.horde.org/Horde_Core": "^2",
+                    "pear-pear.horde.org/Horde_Db": "^2.4",
+                    "pear-pear.horde.org/Horde_Kolab_Session": "^2",
+                    "pear-pear.horde.org/Horde_Mime": "^2",
+                    "pear-pear.horde.org/Horde_Mongo": "^1",
+                    "pear-pear.horde.org/Horde_Perms": "^2",
+                    "pear-pear.horde.org/Horde_Test": "^2.1",
+                    "pear-pecl.php.net/ssh2": "^0.12 || ^1"
+                },
+                "time": "2020-03-13T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Vfs": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Virtual file system library",
+                "homepage": "https://www.horde.org/libraries/Horde_Vfs",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Vfs/tree/pr-upstream-smb"
                 }
             }
         ]
