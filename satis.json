@@ -67,6 +67,7 @@
         {"name": "horde/date_parser", "url": "https://github.com/maintaina-com/Date_Parser", "type": "vcs"},
         {"name": "horde/dav", "url": "https://github.com/maintaina-com/Dav", "type": "vcs"},
         {"name": "horde/db", "url": "https://github.com/maintaina-com/Db", "type": "vcs"},
+        {"name": "horde/dns", "url": "https://github.com/maintaina-com/Dns", "type": "vcs"},
         {"name": "horde/editor", "url": "https://github.com/maintaina-com/Editor", "type": "vcs"},
         {"name": "horde/elasticsearch", "url": "https://github.com/maintaina-com/elasticsearch", "type": "vcs"},
         {"name": "horde/eventdispatcher", "url": "https://github.com/maintaina-com/EventDispatcher", "type": "vcs"},
