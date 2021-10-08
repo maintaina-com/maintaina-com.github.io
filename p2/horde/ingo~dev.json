@@ -147,12 +147,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ingo.git",
-                    "reference": "1eb70ec5cd1eeae3350bb9e03c20946a256b4de0"
+                    "reference": "91f1d1c4a4c3e76f4008a0e8be7b0a6725bb26ab"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/1eb70ec5cd1eeae3350bb9e03c20946a256b4de0",
-                    "reference": "1eb70ec5cd1eeae3350bb9e03c20946a256b4de0",
+                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/91f1d1c4a4c3e76f4008a0e8be7b0a6725bb26ab",
+                    "reference": "91f1d1c4a4c3e76f4008a0e8be7b0a6725bb26ab",
                     "shasum": ""
                 },
                 "require": {
@@ -166,20 +166,20 @@
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
                     "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
                     "horde/imap_client": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/managesieve": "^2 || dev-FRAMEWORK_6_0",
                     "horde/mime": "^3 || dev-FRAMEWORK_6_0",
                     "horde/perms": "^3 || dev-FRAMEWORK_6_0",
                     "horde/share": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "horde/view": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/listheaders": "^2 || dev-FRAMEWORK_6_0",
-                    "horde/managesieve": "^2 || dev-FRAMEWORK_6_0",
                     "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
                     "horde/vfs": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-07-04T00:00:00+00:00",
+                "time": "2021-10-08T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
                     "bin/ingo-convert-sql-shares-to-sqlng",
@@ -191,6 +191,11 @@
                 "autoload": {
                     "psr-0": {
                         "Ingo": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Ingo\\Test\\": "test/"
                     }
                 },
                 "license": [
