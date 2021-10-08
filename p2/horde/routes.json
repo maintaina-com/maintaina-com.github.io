@@ -296,6 +296,62 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Routes/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/routes",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Routes.git",
+                    "reference": "08640b425b30990838c35cf8560b9fc59241a54e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Routes/zipball/08640b425b30990838c35cf8560b9fc59241a54e",
+                    "reference": "08640b425b30990838c35cf8560b9fc59241a54e",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3",
+                    "horde/util": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/test": "^3"
+                },
+                "time": "2021-10-08T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Routes": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Routes\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Naberezny",
+                        "email": "mike@maintainable.com",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "URL routing/mapping library",
+                "homepage": "https://www.horde.org/libraries/Horde_Routes",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Routes/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
