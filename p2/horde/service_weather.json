@@ -943,12 +943,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Service_Weather.git",
-                    "reference": "a74aa2a66f1fc2fd663098f44f946f543088070c"
+                    "reference": "b91446313ea9b8cba41603df7b4f7aa93b853c09"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Service_Weather/zipball/a74aa2a66f1fc2fd663098f44f946f543088070c",
-                    "reference": "a74aa2a66f1fc2fd663098f44f946f543088070c",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Weather/zipball/b91446313ea9b8cba41603df7b4f7aa93b853c09",
+                    "reference": "b91446313ea9b8cba41603df7b4f7aa93b853c09",
                     "shasum": ""
                 },
                 "require": {
@@ -962,11 +962,16 @@
                 "suggest": {
                     "horde/test": "^3"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2021-10-08T00:00:00+00:00",
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Service_Weather": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Service\\Weather\\Test\\": "test/"
                     }
                 },
                 "license": [
