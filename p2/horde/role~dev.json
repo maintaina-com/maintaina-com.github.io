@@ -58,12 +58,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Role.git",
-                    "reference": "5bb676e63481b5529a1f3b67eb884b6a4615d514"
+                    "reference": "a46eb2861080d6c5ae10cc2f65e3a2cad76e30bb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Role/zipball/5bb676e63481b5529a1f3b67eb884b6a4615d514",
-                    "reference": "5bb676e63481b5529a1f3b67eb884b6a4615d514",
+                    "url": "https://api.github.com/repos/maintaina-com/Role/zipball/a46eb2861080d6c5ae10cc2f65e3a2cad76e30bb",
+                    "reference": "a46eb2861080d6c5ae10cc2f65e3a2cad76e30bb",
                     "shasum": ""
                 },
                 "require": {

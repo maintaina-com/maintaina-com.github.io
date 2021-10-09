@@ -57,12 +57,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Refactor.git",
-                    "reference": "9f5381e557ebc6547f1eb7c566c3f2f206b5ac53"
+                    "reference": "98c8c5f3ae0904113cb791eacbd4fb0b8e590b0b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Refactor/zipball/9f5381e557ebc6547f1eb7c566c3f2f206b5ac53",
-                    "reference": "9f5381e557ebc6547f1eb7c566c3f2f206b5ac53",
+                    "url": "https://api.github.com/repos/maintaina-com/Refactor/zipball/98c8c5f3ae0904113cb791eacbd4fb0b8e590b0b",
+                    "reference": "98c8c5f3ae0904113cb791eacbd4fb0b8e590b0b",
                     "shasum": ""
                 },
                 "require": {

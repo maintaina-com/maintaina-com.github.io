@@ -1,0 +1,119 @@
+{
+    "packages": {
+        "horde/dns": [
+            {
+                "name": "horde/dns",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Dns.git",
+                    "reference": "eca62f202bbac8930f461c19fc09830f33eda498"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Dns/zipball/eca62f202bbac8930f461c19fc09830f33eda498",
+                    "reference": "eca62f202bbac8930f461c19fc09830f33eda498",
+                    "shasum": ""
+                },
+                "require": {
+                    "aws/aws-sdk-php": "^3.183",
+                    "horde/horde-installer-plugin": "dev-master || dev-FRAMEWORK_6_0 || ^1",
+                    "horde/rdo": "dev-master | dev-FRAMEWORK_6_0 || ^3",
+                    "php": "^5.3 || ^7"
+                },
+                "require-dev": {
+                    "horde/test": "dev-master | dev-FRAMEWORK_6_0 || ^3"
+                },
+                "time": "2019-12-02T00:00:00+00:00",
+                "default-branch": true,
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_DNS": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Dns\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Diana Hille",
+                        "email": "hille@b1-systems.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Horde Domain Name System library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Dns/tree/FRAMEWORK_6_0",
+                    "issues": "https://github.com/maintaina-com/Dns/issues"
+                }
+            },
+            {
+                "name": "horde/dns",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Dns.git",
+                    "reference": "92df6eed81bc1e2e73c9fbae925df3e4df5f7c7d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Dns/zipball/92df6eed81bc1e2e73c9fbae925df3e4df5f7c7d",
+                    "reference": "92df6eed81bc1e2e73c9fbae925df3e4df5f7c7d",
+                    "shasum": ""
+                },
+                "require": {
+                    "aws/aws-sdk-php": "^3.183",
+                    "horde/horde-installer-plugin": "dev-master || dev-FRAMEWORK_6_0 || ^1",
+                    "horde/rdo": "dev-master | dev-FRAMEWORK_6_0 || ^3",
+                    "php": "^5.3 || ^7"
+                },
+                "require-dev": {
+                    "horde/test": "dev-master | dev-FRAMEWORK_6_0 || ^3"
+                },
+                "time": "2019-12-02T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_DNS": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Dns\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Diana Hille",
+                        "email": "hille@b1-systems.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Horde Domain Name System library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Dns/tree/master",
+                    "issues": "https://github.com/maintaina-com/Dns/issues"
+                }
+            }
+        ]
+    }
+}

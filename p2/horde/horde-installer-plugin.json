@@ -190,6 +190,44 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v2.2.0"
                 }
+            },
+            {
+                "name": "horde/horde-installer-plugin",
+                "version": "v2.2.1",
+                "version_normalized": "2.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/horde-installer-plugin.git",
+                    "reference": "442ef6d63ef33153805984484e306850455d6f22"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/horde-installer-plugin/zipball/442ef6d63ef33153805984484e306850455d6f22",
+                    "reference": "442ef6d63ef33153805984484e306850455d6f22",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer-plugin-api": "~2.0"
+                },
+                "require-dev": {
+                    "composer/composer": "~2.0"
+                },
+                "time": "2021-09-17T20:58:30+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "Horde\\Composer\\HordeInstallerPlugin"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Horde\\Composer\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "support": {
+                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v2.2.1"
+                }
             }
         ]
     }
