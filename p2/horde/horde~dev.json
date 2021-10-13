@@ -218,12 +218,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/base.git",
-                    "reference": "f92f22aa0ff6ff88f7014f5aebd26d410fa55518"
+                    "reference": "78d4f6d9c9c054d68a57e249a751a43ba9938569"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/f92f22aa0ff6ff88f7014f5aebd26d410fa55518",
-                    "reference": "f92f22aa0ff6ff88f7014f5aebd26d410fa55518",
+                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/78d4f6d9c9c054d68a57e249a751a43ba9938569",
+                    "reference": "78d4f6d9c9c054d68a57e249a751a43ba9938569",
                     "shasum": ""
                 },
                 "require": {
@@ -264,7 +264,7 @@
                 },
                 "suggest": {
                     "ext-iconv": "*",
-                    "horde/activesync": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/activeSync": "^3 || dev-FRAMEWORK_6_0",
                     "horde/backup": "^2 || dev-FRAMEWORK_6_0",
                     "horde/cli_application": "^2 || dev-FRAMEWORK_6_0",
                     "horde/db": "^3 || dev-FRAMEWORK_6_0",
@@ -281,7 +281,7 @@
                     "pear/file_fstab": "*",
                     "pear/net_dns2": "*"
                 },
-                "time": "2021-07-04T00:00:00+00:00",
+                "time": "2021-10-13T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
                     "bin/horde-backup",
