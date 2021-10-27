@@ -386,6 +386,71 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Controller/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/controller",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Controller.git",
+                    "reference": "f31989c53f448911b626f30d6647139575e0af5a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Controller/zipball/f31989c53f448911b626f30d6647139575e0af5a",
+                    "reference": "f31989c53f448911b626f30d6647139575e0af5a",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3",
+                    "horde/injector": "^3",
+                    "horde/log": "^3",
+                    "horde/support": "^3",
+                    "horde/util": "^3",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "ext-mbstring": "*",
+                    "ext-zlib": "*",
+                    "horde/http": "*",
+                    "horde/test": "^3"
+                },
+                "time": "2021-10-27T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Controller": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Controller\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Controller\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Naberezny",
+                        "email": "mike@naberezny.com",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Controller library",
+                "homepage": "https://www.horde.org/libraries/Horde_Controller",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Controller/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
