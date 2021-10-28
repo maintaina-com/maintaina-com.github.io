@@ -352,6 +352,66 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Routes/tree/v3.0.0alpha4"
                 }
+            },
+            {
+                "name": "horde/routes",
+                "version": "v3.0.0alpha5",
+                "version_normalized": "3.0.0.0-alpha5",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Routes.git",
+                    "reference": "693ff94e0e3d9ff0df60389abbab51e542c67ff1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Routes/zipball/693ff94e0e3d9ff0df60389abbab51e542c67ff1",
+                    "reference": "693ff94e0e3d9ff0df60389abbab51e542c67ff1",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3",
+                    "horde/util": "^3",
+                    "php": "^7.4 || ^8",
+                    "psr/http-message": "^1"
+                },
+                "suggest": {
+                    "horde/test": "^3"
+                },
+                "time": "2021-10-28T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Routes": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Routes\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Routes\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Naberezny",
+                        "email": "mike@maintainable.com",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "URL routing/mapping library",
+                "homepage": "https://www.horde.org/libraries/Horde_Routes",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Routes/tree/v3.0.0alpha5"
+                }
             }
         ]
     }

@@ -63,28 +63,32 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Routes.git",
-                    "reference": "1e85e93e632b48435f3d9d9e12f793de0356c6fe"
+                    "reference": "1c36e9d724c3f148d3f43667aabc6475ab94c75b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Routes/zipball/1e85e93e632b48435f3d9d9e12f793de0356c6fe",
-                    "reference": "1e85e93e632b48435f3d9d9e12f793de0356c6fe",
+                    "url": "https://api.github.com/repos/maintaina-com/Routes/zipball/1c36e9d724c3f148d3f43667aabc6475ab94c75b",
+                    "reference": "1c36e9d724c3f148d3f43667aabc6475ab94c75b",
                     "shasum": ""
                 },
                 "require": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8",
+                    "psr/http-message": "^1"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-10-08T00:00:00+00:00",
+                "time": "2021-10-28T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Routes": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Routes\\": "src/"
                     }
                 },
                 "autoload-dev": {
