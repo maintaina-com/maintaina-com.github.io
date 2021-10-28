@@ -63,12 +63,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Routes.git",
-                    "reference": "1c36e9d724c3f148d3f43667aabc6475ab94c75b"
+                    "reference": "ecd718dae6fa5ef1283f385df80cce1b62a2ab8f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Routes/zipball/1c36e9d724c3f148d3f43667aabc6475ab94c75b",
-                    "reference": "1c36e9d724c3f148d3f43667aabc6475ab94c75b",
+                    "url": "https://api.github.com/repos/maintaina-com/Routes/zipball/ecd718dae6fa5ef1283f385df80cce1b62a2ab8f",
+                    "reference": "ecd718dae6fa5ef1283f385df80cce1b62a2ab8f",
                     "shasum": ""
                 },
                 "require": {
