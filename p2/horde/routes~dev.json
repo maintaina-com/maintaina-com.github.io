@@ -63,23 +63,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Routes.git",
-                    "reference": "5a599a6585900509d2e9b8ca5cb1f0418f0624ee"
+                    "reference": "04d3a9126ed4fed5a63f13731c9f1b044e6302f9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Routes/zipball/5a599a6585900509d2e9b8ca5cb1f0418f0624ee",
-                    "reference": "5a599a6585900509d2e9b8ca5cb1f0418f0624ee",
+                    "url": "https://api.github.com/repos/maintaina-com/Routes/zipball/04d3a9126ed4fed5a63f13731c9f1b044e6302f9",
+                    "reference": "04d3a9126ed4fed5a63f13731c9f1b044e6302f9",
                     "shasum": ""
                 },
                 "require": {
-                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3",
+                    "horde/support": "^3",
+                    "horde/util": "^3",
                     "php": "^7.4 || ^8",
                     "psr/http-message": "^1"
                 },
                 "suggest": {
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                    "horde/test": "^3"
                 },
                 "time": "2021-10-28T00:00:00+00:00",
                 "default-branch": true,
