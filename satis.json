@@ -101,6 +101,7 @@
         {"name": "horde/mime_viewer", "url": "https://github.com/maintaina-com/Mime_Viewer", "type": "vcs"},
         {"name": "horde/nls", "url": "https://github.com/maintaina-com/Nls", "type": "vcs"},
         {"name": "horde/notification", "url": "https://github.com/maintaina-com/Notification", "type": "vcs"},
+        {"name": "horde/otp", "url": "https://github.com/maintaina-com/Otp", "type": "vcs"},
         {"name": "horde/pack", "url": "https://github.com/maintaina-com/Pack", "type": "vcs"},
         {"name": "horde/pear", "url": "https://github.com/maintaina-com/Pear", "type": "vcs"},
         {"name": "horde/perms", "url": "https://github.com/maintaina-com/Perms", "type": "vcs"},
