@@ -1111,6 +1111,79 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Test/tree/v3.0.0alpha5"
                 }
+            },
+            {
+                "name": "horde/test",
+                "version": "v3.0.0alpha6",
+                "version_normalized": "3.0.0.0-alpha6",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Test.git",
+                    "reference": "0055086f95545a3871a8d773390c8bea535fd8bb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Test/zipball/0055086f95545a3871a8d773390c8bea535fd8bb",
+                    "reference": "0055086f95545a3871a8d773390c8bea535fd8bb",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/support": "^3",
+                    "horde/util": "^3",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/argv": "^3",
+                    "horde/cache": "^3",
+                    "horde/cli": "^3",
+                    "horde/core": "^3",
+                    "horde/history": "^3",
+                    "horde/injector": "^3",
+                    "horde/log": "^3",
+                    "horde/mongo": "^2",
+                    "phpunit/phpunit": "^9"
+                },
+                "suggest": {
+                    "ext-dom": "*",
+                    "ext-json": "*",
+                    "horde/cli": "^3",
+                    "horde/log": "^3"
+                },
+                "time": "2021-11-03T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Test": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Test\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Test\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Unit testing library",
+                "homepage": "https://www.horde.org/libraries/Horde_Test",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Test/tree/v3.0.0alpha6"
+                }
             }
         ]
     }
