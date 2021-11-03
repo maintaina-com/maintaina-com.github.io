@@ -66,18 +66,29 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Test.git",
-                    "reference": "05b49a9297e966b3a2b36cee11afea8a94465e6e"
+                    "reference": "ffc642de5f3c90d299ce2e1d7206adc30e08499a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Test/zipball/05b49a9297e966b3a2b36cee11afea8a94465e6e",
-                    "reference": "05b49a9297e966b3a2b36cee11afea8a94465e6e",
+                    "url": "https://api.github.com/repos/maintaina-com/Test/zipball/ffc642de5f3c90d299ce2e1d7206adc30e08499a",
+                    "reference": "ffc642de5f3c90d299ce2e1d7206adc30e08499a",
                     "shasum": ""
                 },
                 "require": {
                     "horde/support": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7 || ^8"
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/argv": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/cache": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/history": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/injector": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
+                    "phpunit/phpunit": "^9"
                 },
                 "suggest": {
                     "ext-dom": "*",
@@ -85,12 +96,20 @@
                     "horde/cli": "^3 || dev-FRAMEWORK_6_0",
                     "horde/log": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-08-05T00:00:00+00:00",
+                "time": "2021-11-03T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Test": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Test\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Test\\Test\\": "test/"
                     }
                 },
                 "license": [
