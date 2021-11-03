@@ -46,12 +46,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/horde-installer-plugin.git",
-                    "reference": "442ef6d63ef33153805984484e306850455d6f22"
+                    "reference": "4458c81f19cfe24528394f34f0c637a0886d0a2b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/horde-installer-plugin/zipball/442ef6d63ef33153805984484e306850455d6f22",
-                    "reference": "442ef6d63ef33153805984484e306850455d6f22",
+                    "url": "https://api.github.com/repos/maintaina-com/horde-installer-plugin/zipball/4458c81f19cfe24528394f34f0c637a0886d0a2b",
+                    "reference": "4458c81f19cfe24528394f34f0c637a0886d0a2b",
                     "shasum": ""
                 },
                 "require": {
@@ -60,7 +60,7 @@
                 "require-dev": {
                     "composer/composer": "~2.0"
                 },
-                "time": "2021-09-17T20:58:30+00:00",
+                "time": "2021-11-03T06:30:28+00:00",
                 "default-branch": true,
                 "type": "composer-plugin",
                 "extra": {
@@ -75,7 +75,45 @@
                     "MIT"
                 ],
                 "support": {
-                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v2.2.1"
+                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/horde-installer-plugin",
+                "version": "dev-feature-cli",
+                "version_normalized": "dev-feature-cli",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/horde-installer-plugin.git",
+                    "reference": "4458c81f19cfe24528394f34f0c637a0886d0a2b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/horde-installer-plugin/zipball/4458c81f19cfe24528394f34f0c637a0886d0a2b",
+                    "reference": "4458c81f19cfe24528394f34f0c637a0886d0a2b",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer-plugin-api": "~2.0"
+                },
+                "require-dev": {
+                    "composer/composer": "~2.0"
+                },
+                "time": "2021-11-03T06:30:28+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "Horde\\Composer\\HordeInstallerPlugin"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Horde\\Composer\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "support": {
+                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/FRAMEWORK_6_0"
                 }
             },
             {
