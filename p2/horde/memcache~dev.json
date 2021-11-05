@@ -59,22 +59,22 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Memcache.git",
-                    "reference": "9a1e4ab8a50fa69abcf4b4389fbd6d4b5a7d7744"
+                    "reference": "e1c45fc46fac869a736a2207ca45eeb83cfc861d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Memcache/zipball/9a1e4ab8a50fa69abcf4b4389fbd6d4b5a7d7744",
-                    "reference": "9a1e4ab8a50fa69abcf4b4389fbd6d4b5a7d7744",
+                    "url": "https://api.github.com/repos/maintaina-com/Memcache/zipball/e1c45fc46fac869a736a2207ca45eeb83cfc861d",
+                    "reference": "e1c45fc46fac869a736a2207ca45eeb83cfc861d",
                     "shasum": ""
                 },
                 "require": {
                     "ext-hash": "*",
-                    "horde/exception": "^3",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7 || ^8"
                 },
                 "require-dev": {
-                    "horde/log": "^3",
-                    "horde/test": "^3"
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
                     "ext-memcache": "^2",

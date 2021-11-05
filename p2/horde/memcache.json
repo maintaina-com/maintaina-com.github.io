@@ -260,6 +260,65 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Memcache/tree/v3.0.0alpha1"
                 }
+            },
+            {
+                "name": "horde/memcache",
+                "version": "v3.0.0alpha2",
+                "version_normalized": "3.0.0.0-alpha2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Memcache.git",
+                    "reference": "ccf721aa0109f781c5692c8af97f5e41a604b77d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Memcache/zipball/ccf721aa0109f781c5692c8af97f5e41a604b77d",
+                    "reference": "ccf721aa0109f781c5692c8af97f5e41a604b77d",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "horde/exception": "^3",
+                    "php": "^7 || ^8"
+                },
+                "require-dev": {
+                    "horde/log": "^3",
+                    "horde/test": "^3"
+                },
+                "suggest": {
+                    "ext-memcache": "^2",
+                    "ext-memcached": "*"
+                },
+                "time": "2021-11-05T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Memcache": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Memcache\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Memcache\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Memcache client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Memcache",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Memcache/tree/v3.0.0alpha2"
+                }
             }
         ]
     }
