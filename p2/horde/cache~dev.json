@@ -72,37 +72,53 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Cache.git",
-                    "reference": "e91075bdfe7c8e7c3b00caaa6e084b0edfd269d7"
+                    "reference": "c8d681d80b00dd3ffdc756cbe42fb5bce5593eb1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Cache/zipball/e91075bdfe7c8e7c3b00caaa6e084b0edfd269d7",
-                    "reference": "e91075bdfe7c8e7c3b00caaa6e084b0edfd269d7",
+                    "url": "https://api.github.com/repos/maintaina-com/Cache/zipball/c8d681d80b00dd3ffdc756cbe42fb5bce5593eb1",
+                    "reference": "c8d681d80b00dd3ffdc756cbe42fb5bce5593eb1",
                     "shasum": ""
                 },
                 "require": {
                     "ext-hash": "*",
-                    "horde/compress_fast": "^2 || dev-FRAMEWORK_6_0",
-                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "horde/compress_fast": "^2",
+                    "horde/exception": "^3",
+                    "horde/util": "^3",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/db": "^3",
+                    "horde/hashtable": "^2",
+                    "horde/log": "^3",
+                    "horde/memcache": "^3",
+                    "horde/mongo": "^2",
+                    "horde/test": "^3"
                 },
                 "suggest": {
-                    "ext-apc": "*",
+                    "ext-apcu": "*",
                     "ext-eaccelerator": "0.9.5",
                     "ext-xcache": "*",
-                    "horde/,emcache": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/hashtable": "^2 || dev-FRAMEWORK_6_0",
-                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0"
+                    "horde/db": "^3",
+                    "horde/hashtable": "^2",
+                    "horde/log": "^3",
+                    "horde/memcache": "^3",
+                    "horde/mongo": "^2"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2021-11-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Cache": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Cache\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Cache\\Test\\": "test/"
                     }
                 },
                 "license": [
