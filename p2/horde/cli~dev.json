@@ -60,12 +60,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Cli.git",
-                    "reference": "57b168dcbeb167fd44867733a976fd4d78aacb02"
+                    "reference": "83f2e771c8e8758540d42b8dd9e2804df2c37efa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Cli/zipball/57b168dcbeb167fd44867733a976fd4d78aacb02",
-                    "reference": "57b168dcbeb167fd44867733a976fd4d78aacb02",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli/zipball/83f2e771c8e8758540d42b8dd9e2804df2c37efa",
+                    "reference": "83f2e771c8e8758540d42b8dd9e2804df2c37efa",
                     "shasum": ""
                 },
                 "require": {
@@ -73,12 +73,20 @@
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2021-11-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Cli": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Cli\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Cli\\Test\\": "test/"
                     }
                 },
                 "license": [
