@@ -60,18 +60,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Cli.git",
-                    "reference": "83f2e771c8e8758540d42b8dd9e2804df2c37efa"
+                    "reference": "f223eb72f6b9d704d072efe3e82fdbcbad6a696c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Cli/zipball/83f2e771c8e8758540d42b8dd9e2804df2c37efa",
-                    "reference": "83f2e771c8e8758540d42b8dd9e2804df2c37efa",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli/zipball/f223eb72f6b9d704d072efe3e82fdbcbad6a696c",
+                    "reference": "f223eb72f6b9d704d072efe3e82fdbcbad6a696c",
                     "shasum": ""
                 },
                 "require": {
                     "horde/support": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "time": "2021-11-05T00:00:00+00:00",
                 "default-branch": true,
