@@ -75,17 +75,21 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Util.git",
-                    "reference": "3f54e4449891f865ce8f496927fecba8e2b7e315"
+                    "reference": "da950f04151642f1cd90184b39de0f69f610cf68"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Util/zipball/3f54e4449891f865ce8f496927fecba8e2b7e315",
-                    "reference": "3f54e4449891f865ce8f496927fecba8e2b7e315",
+                    "url": "https://api.github.com/repos/maintaina-com/Util/zipball/da950f04151642f1cd90184b39de0f69f610cf68",
+                    "reference": "da950f04151642f1cd90184b39de0f69f610cf68",
                     "shasum": ""
                 },
                 "require": {
                     "ext-dom": "*",
-                    "php": "^7 || ^8"
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/imap_client": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
                     "ext-ctype": "*",
@@ -98,13 +102,16 @@
                     "horde/imap_client": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-08-05T00:00:00+00:00",
+                "time": "2021-11-06T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "classmap": [
                         "lib/"
-                    ]
+                    ],
+                    "psr-4": {
+                        "Horde\\Util\\": "src/"
+                    }
                 },
                 "autoload-dev": {
                     "psr-4": {
