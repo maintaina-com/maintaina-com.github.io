@@ -60,30 +60,40 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Compress_Fast.git",
-                    "reference": "e1545260414ec6d61ebfea876379c73834ba1194"
+                    "reference": "7573d09e8e8aca6dd281086fc256de4f6f23caf2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Compress_Fast/zipball/e1545260414ec6d61ebfea876379c73834ba1194",
-                    "reference": "e1545260414ec6d61ebfea876379c73834ba1194",
+                    "url": "https://api.github.com/repos/maintaina-com/Compress_Fast/zipball/7573d09e8e8aca6dd281086fc256de4f6f23caf2",
+                    "reference": "7573d09e8e8aca6dd281086fc256de4f6f23caf2",
                     "shasum": ""
                 },
                 "require": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
                     "ext-horde_lz4": "*",
                     "ext-lzf": "*",
-                    "ext-zlib": "*",
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                    "ext-zlib": "*"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2021-11-06T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Compress_Fast": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Compress\\Fast\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Compress\\Fast\\Test\\": "test/"
                     }
                 },
                 "license": [
