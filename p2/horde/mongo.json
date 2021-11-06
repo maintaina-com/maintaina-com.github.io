@@ -118,6 +118,59 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Mongo/tree/v2.0.0alpha1"
                 }
+            },
+            {
+                "name": "horde/mongo",
+                "version": "v2.0.0alpha2",
+                "version_normalized": "2.0.0.0-alpha2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Mongo.git",
+                    "reference": "62166f6a86ffd84f4acc9be6237992d0ca7df226"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Mongo/zipball/62166f6a86ffd84f4acc9be6237992d0ca7df226",
+                    "reference": "62166f6a86ffd84f4acc9be6237992d0ca7df226",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "alcaeus/mongo-php-adapter": "^1.2",
+                    "horde/test": "^3"
+                },
+                "time": "2021-11-06T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Mongo": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Mongo\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Mongo\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "MongoDB client library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mongo/tree/v2.0.0alpha2"
+                }
             }
         ]
     }

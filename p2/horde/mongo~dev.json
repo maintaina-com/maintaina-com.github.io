@@ -57,23 +57,35 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Mongo.git",
-                    "reference": "88952190f67ea10109b9b7f00f1c8c2f41013854"
+                    "reference": "527e48edf16dbe45f5e495b85f2120d40b30855c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mongo/zipball/88952190f67ea10109b9b7f00f1c8c2f41013854",
-                    "reference": "88952190f67ea10109b9b7f00f1c8c2f41013854",
+                    "url": "https://api.github.com/repos/maintaina-com/Mongo/zipball/527e48edf16dbe45f5e495b85f2120d40b30855c",
+                    "reference": "527e48edf16dbe45f5e495b85f2120d40b30855c",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
-                "time": "2021-07-04T00:00:00+00:00",
+                "require-dev": {
+                    "alcaeus/mongo-php-adapter": "^1.2",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-11-06T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Mongo": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Mongo\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Mongo\\Test\\": "test/"
                     }
                 },
                 "license": [
