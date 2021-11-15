@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$c7579b1e1f8dd80dbc64f5fa64b2e6e7ec8667e4.json": {
-            "sha1": "c7579b1e1f8dd80dbc64f5fa64b2e6e7ec8667e4"
+        "include/all$9285b987224620968c7519a097141006a96f67fb.json": {
+            "sha1": "9285b987224620968c7519a097141006a96f67fb"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -31,6 +31,7 @@
         "horde/content",
         "horde/controller",
         "horde/core",
+        "horde/core_translation",
         "horde/crypt",
         "horde/crypt_blowfish",
         "horde/css_parser",
