@@ -58,6 +58,7 @@
         {"name": "horde/constraint", "url": "https://github.com/maintaina-com/Constraint", "type": "vcs"},
         {"name": "horde/controller", "url": "https://github.com/maintaina-com/Controller", "type": "vcs"},
         {"name": "horde/core", "url": "https://github.com/maintaina-com/Core", "type": "vcs"},
+        {"name": "horde/core_translation", "url": "https://github.com/maintaina-com/Core_Translation", "type": "vcs"},
         {"name": "horde/crypt", "url": "https://github.com/maintaina-com/Crypt", "type": "vcs"},
         {"name": "horde/crypt_blowfish", "url": "https://github.com/maintaina-com/Crypt_Blowfish", "type": "vcs"},
         {"name": "horde/cssminify", "url": "https://github.com/maintaina-com/CssMinify", "type": "vcs"},
