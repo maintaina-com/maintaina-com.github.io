@@ -77,32 +77,37 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Db.git",
-                    "reference": "ad3586bd03bfe1d3726662bb196ac6a4d5102277"
+                    "reference": "1c7c7d72787ed2d154b8448fc5ffcd6d63ab5322"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Db/zipball/ad3586bd03bfe1d3726662bb196ac6a4d5102277",
-                    "reference": "ad3586bd03bfe1d3726662bb196ac6a4d5102277",
+                    "url": "https://api.github.com/repos/maintaina-com/Db/zipball/1c7c7d72787ed2d154b8448fc5ffcd6d63ab5322",
+                    "reference": "1c7c7d72787ed2d154b8448fc5ffcd6d63ab5322",
                     "shasum": ""
                 },
                 "require": {
-                    "horde/date": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "horde/date": "^3",
+                    "horde/exception": "^3",
+                    "horde/support": "^3",
+                    "horde/util": "^3",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/autoloader": "^3",
+                    "horde/cache": "^3",
+                    "horde/log": "^3",
+                    "horde/test": "^3"
                 },
                 "suggest": {
                     "ext-PDO": "*",
                     "ext-mysql": "*",
                     "ext-mysqli": "*",
                     "ext-oci8": "*",
-                    "horde/autoloader": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/cache": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                    "horde/autoloader": "^3",
+                    "horde/cache": "^3",
+                    "horde/log": "^3"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2021-11-19T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
                     "bin/horde-db-migrate-component"
@@ -114,6 +119,11 @@
                     },
                     "psr-4": {
                         "Horde\\Db\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Db\\Test\\": "test/"
                     }
                 },
                 "license": [
