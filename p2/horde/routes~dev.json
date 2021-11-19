@@ -63,12 +63,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Routes.git",
-                    "reference": "90e51de9131a366efaecf24217c6e57103dcbe14"
+                    "reference": "48dac2c1b61aa635d963a9116a24f79bcfc041b8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Routes/zipball/90e51de9131a366efaecf24217c6e57103dcbe14",
-                    "reference": "90e51de9131a366efaecf24217c6e57103dcbe14",
+                    "url": "https://api.github.com/repos/maintaina-com/Routes/zipball/48dac2c1b61aa635d963a9116a24f79bcfc041b8",
+                    "reference": "48dac2c1b61aa635d963a9116a24f79bcfc041b8",
                     "shasum": ""
                 },
                 "require": {
@@ -78,10 +78,16 @@
                     "php": "^7.4 || ^8",
                     "psr/http-message": "^1"
                 },
-                "suggest": {
+                "require-dev": {
+                    "horde/cache": "^3",
+                    "horde/controller": "^3",
                     "horde/test": "^3"
                 },
-                "time": "2021-10-28T00:00:00+00:00",
+                "suggest": {
+                    "horde/cache": "^3",
+                    "horde/controller": "^3"
+                },
+                "time": "2021-11-19T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
