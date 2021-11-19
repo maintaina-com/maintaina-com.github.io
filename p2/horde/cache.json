@@ -621,6 +621,82 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Cache/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/cache",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Cache.git",
+                    "reference": "ae0832cd2aeffef739c9e5b49c13061f5873ceef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Cache/zipball/ae0832cd2aeffef739c9e5b49c13061f5873ceef",
+                    "reference": "ae0832cd2aeffef739c9e5b49c13061f5873ceef",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "horde/compress_fast": "^2",
+                    "horde/exception": "^3",
+                    "horde/util": "^3",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/db": "^3",
+                    "horde/hashtable": "^2",
+                    "horde/log": "^3",
+                    "horde/memcache": "^3",
+                    "horde/mongo": "^2",
+                    "horde/test": "^3"
+                },
+                "suggest": {
+                    "ext-apcu": "*",
+                    "ext-eaccelerator": "0.9.5",
+                    "ext-xcache": "*",
+                    "horde/db": "^3",
+                    "horde/hashtable": "^2",
+                    "horde/log": "^3",
+                    "horde/memcache": "^3",
+                    "horde/mongo": "^2"
+                },
+                "time": "2021-11-19T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Cache": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Cache\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Cache\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Caching library",
+                "homepage": "https://www.horde.org/libraries/Horde_Cache",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cache/tree/v3.0.0alpha4"
+                }
             }
         ]
     }

@@ -72,40 +72,40 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Cache.git",
-                    "reference": "8e58ed666cf22218a97c5bc0eeeffa35716b9db6"
+                    "reference": "9a4893d723d348da6d32a99c6fd0540bd8130123"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Cache/zipball/8e58ed666cf22218a97c5bc0eeeffa35716b9db6",
-                    "reference": "8e58ed666cf22218a97c5bc0eeeffa35716b9db6",
+                    "url": "https://api.github.com/repos/maintaina-com/Cache/zipball/9a4893d723d348da6d32a99c6fd0540bd8130123",
+                    "reference": "9a4893d723d348da6d32a99c6fd0540bd8130123",
                     "shasum": ""
                 },
                 "require": {
                     "ext-hash": "*",
-                    "horde/compress_fast": "^2",
-                    "horde/exception": "^3",
-                    "horde/util": "^3",
+                    "horde/compress_fast": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
                 "require-dev": {
-                    "horde/db": "^3",
-                    "horde/hashtable": "^2",
-                    "horde/log": "^3",
-                    "horde/memcache": "^3",
-                    "horde/mongo": "^2",
-                    "horde/test": "^3"
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/hashtable": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/memcache": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
                     "ext-apcu": "*",
                     "ext-eaccelerator": "0.9.5",
                     "ext-xcache": "*",
-                    "horde/db": "^3",
-                    "horde/hashtable": "^2",
-                    "horde/log": "^3",
-                    "horde/memcache": "^3",
-                    "horde/mongo": "^2"
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/hashtable": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/memcache": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-11-05T00:00:00+00:00",
+                "time": "2021-11-19T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
