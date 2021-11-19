@@ -58,26 +58,33 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Stream_Wrapper.git",
-                    "reference": "063eb8a53380ffe4a86fe0637a0a3b30fbd24367"
+                    "reference": "ed31bbd8ea6385fe8ceab8061b30418b2deaec6f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Stream_Wrapper/zipball/063eb8a53380ffe4a86fe0637a0a3b30fbd24367",
-                    "reference": "063eb8a53380ffe4a86fe0637a0a3b30fbd24367",
+                    "url": "https://api.github.com/repos/maintaina-com/Stream_Wrapper/zipball/ed31bbd8ea6385fe8ceab8061b30418b2deaec6f",
+                    "reference": "ed31bbd8ea6385fe8ceab8061b30418b2deaec6f",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "^7 || ^8"
+                    "php": "^7.4 || ^8"
                 },
-                "suggest": {
+                "require-dev": {
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-08-05T00:00:00+00:00",
+                "suggest": {
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-11-19T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Stream_Wrapper": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Stream\\Wrapper\\": "src/"
                     }
                 },
                 "autoload-dev": {
