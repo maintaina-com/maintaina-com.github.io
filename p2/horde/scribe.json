@@ -125,6 +125,48 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Scribe/tree/v3.0.0alpha1"
                 }
+            },
+            {
+                "name": "horde/scribe",
+                "version": "v3.0.0alpha2",
+                "version_normalized": "3.0.0.0-alpha2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Scribe.git",
+                    "reference": "723d3a3a545a033df88e5a06f2a0ab5388740bcd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Scribe/zipball/723d3a3a545a033df88e5a06f2a0ab5388740bcd",
+                    "reference": "723d3a3a545a033df88e5a06f2a0ab5388740bcd",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/thrift": "*",
+                    "php": "^7 || ^8"
+                },
+                "time": "2021-11-22T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Scribe": "lib/"
+                    }
+                },
+                "license": [
+                    "Apache 2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Scribe client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Scribe",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Scribe/tree/v3.0.0alpha2"
+                }
             }
         ]
     }
