@@ -122,6 +122,47 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Thrift/tree/v3.0.0"
                 }
+            },
+            {
+                "name": "horde/thrift",
+                "version": "v3.0.1",
+                "version_normalized": "3.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Thrift.git",
+                    "reference": "2195e60d247150515daa3fd79212fbcb88a4ea14"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Thrift/zipball/2195e60d247150515daa3fd79212fbcb88a4ea14",
+                    "reference": "2195e60d247150515daa3fd79212fbcb88a4ea14",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7 || ^8"
+                },
+                "time": "2021-11-22T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Thrift": "lib/"
+                    }
+                },
+                "license": [
+                    "Apache 2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Thrift client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Thrift",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Thrift/tree/v3.0.1"
+                }
             }
         ]
     }
