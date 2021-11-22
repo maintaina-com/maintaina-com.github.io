@@ -67,19 +67,26 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Log.git",
-                    "reference": "0e724b373d398dc0165745dcf0f566d7e98f739a"
+                    "reference": "c5f8f8944beb85892d528f9e76273f31c35827c6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Log/zipball/0e724b373d398dc0165745dcf0f566d7e98f739a",
-                    "reference": "0e724b373d398dc0165745dcf0f566d7e98f739a",
+                    "url": "https://api.github.com/repos/maintaina-com/Log/zipball/c5f8f8944beb85892d528f9e76273f31c35827c6",
+                    "reference": "c5f8f8944beb85892d528f9e76273f31c35827c6",
                     "shasum": ""
                 },
                 "require": {
                     "horde/constraint": "^3 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7 || ^8"
+                    "php": "^7.4 || ^8",
+                    "php-extended/polyfill-php80-stringable": "^1",
+                    "psr/log": "^1"
+                },
+                "require-dev": {
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/scribe": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
                     "ext-dom": "*",
@@ -87,12 +94,15 @@
                     "horde/scribe": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-08-05T00:00:00+00:00",
+                "time": "2021-11-21T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Log": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Log\\": "src/"
                     }
                 },
                 "autoload-dev": {
@@ -113,6 +123,11 @@
                         "name": "Chuck Hagenbuch",
                         "email": "chuck@horde.org",
                         "role": "lead"
+                    },
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "maintainer"
                     }
                 ],
                 "description": "Logging library",
