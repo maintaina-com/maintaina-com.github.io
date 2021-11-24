@@ -67,22 +67,24 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Exception.git",
-                    "reference": "eb4e934412d9ea7139bd6a847e3bb4166d3044a3"
+                    "reference": "7dde75aa3fd27eab0620196099243d634e121093"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Exception/zipball/eb4e934412d9ea7139bd6a847e3bb4166d3044a3",
-                    "reference": "eb4e934412d9ea7139bd6a847e3bb4166d3044a3",
+                    "url": "https://api.github.com/repos/maintaina-com/Exception/zipball/7dde75aa3fd27eab0620196099243d634e121093",
+                    "reference": "7dde75aa3fd27eab0620196099243d634e121093",
                     "shasum": ""
                 },
                 "require": {
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7 || ^8"
                 },
-                "suggest": {
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
+                    "pear/console_getopt": "^1.4.4|dev-master",
+                    "pear/pear": "*"
                 },
-                "time": "2021-08-05T00:00:00+00:00",
+                "time": "2021-11-24T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
