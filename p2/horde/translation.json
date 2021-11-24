@@ -300,6 +300,61 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Translation/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/translation",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Translation.git",
+                    "reference": "f28a4cf0add222e40c00874e715ac0fb50e4bf44"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Translation/zipball/f28a4cf0add222e40c00874e715ac0fb50e4bf44",
+                    "reference": "f28a4cf0add222e40c00874e715ac0fb50e4bf44",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/test": "^3"
+                },
+                "suggest": {
+                    "ext-gettext": "*"
+                },
+                "time": "2021-11-24T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Translation": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Translation\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Translation\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Translation library",
+                "homepage": "https://www.horde.org/libraries/Horde_Translation",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Translation/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
