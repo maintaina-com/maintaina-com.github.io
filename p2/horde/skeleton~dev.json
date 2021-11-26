@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/skeleton.git",
-                    "reference": "03be0ed3d0b8a33d8cbb41db6a7439aa25441435"
+                    "reference": "76de7598603c6e2b98c4f353c2dfadae0a2e75e0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/skeleton/zipball/03be0ed3d0b8a33d8cbb41db6a7439aa25441435",
-                    "reference": "03be0ed3d0b8a33d8cbb41db6a7439aa25441435",
+                    "url": "https://api.github.com/repos/maintaina-com/skeleton/zipball/76de7598603c6e2b98c4f353c2dfadae0a2e75e0",
+                    "reference": "76de7598603c6e2b98c4f353c2dfadae0a2e75e0",
                     "shasum": ""
                 },
                 "require": {
