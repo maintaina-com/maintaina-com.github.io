@@ -67,34 +67,34 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Log.git",
-                    "reference": "71e713db8b02d6a9227786a3971c042b91b48690"
+                    "reference": "8e0f1caee7b2afbcbaf883258cc5ad1d866b9d16"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Log/zipball/71e713db8b02d6a9227786a3971c042b91b48690",
-                    "reference": "71e713db8b02d6a9227786a3971c042b91b48690",
+                    "url": "https://api.github.com/repos/maintaina-com/Log/zipball/8e0f1caee7b2afbcbaf883258cc5ad1d866b9d16",
+                    "reference": "8e0f1caee7b2afbcbaf883258cc5ad1d866b9d16",
                     "shasum": ""
                 },
                 "require": {
-                    "horde/constraint": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/constraint": "^3",
+                    "horde/exception": "^3",
+                    "horde/util": "^3",
                     "php": "^7.4 || ^8",
                     "php-extended/polyfill-php80-stringable": "^1",
                     "psr/log": "^1"
                 },
                 "require-dev": {
-                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/scribe": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                    "horde/cli": "^3",
+                    "horde/scribe": "^3",
+                    "horde/test": "^3"
                 },
                 "suggest": {
                     "ext-dom": "*",
-                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/scribe": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                    "horde/cli": "^3",
+                    "horde/scribe": "^3",
+                    "horde/test": "^3"
                 },
-                "time": "2021-11-21T00:00:00+00:00",
+                "time": "2021-11-28T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
