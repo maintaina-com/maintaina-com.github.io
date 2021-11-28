@@ -8,32 +8,32 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/skeleton.git",
-                    "reference": "1bca638019022eaa19fc1a0f974f6ddac6a68a0d"
+                    "reference": "26b6f9e1005fc72f54601befb6005006e2132dd5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/skeleton/zipball/1bca638019022eaa19fc1a0f974f6ddac6a68a0d",
-                    "reference": "1bca638019022eaa19fc1a0f974f6ddac6a68a0d",
+                    "url": "https://api.github.com/repos/maintaina-com/skeleton/zipball/26b6f9e1005fc72f54601befb6005006e2132dd5",
+                    "reference": "26b6f9e1005fc72f54601befb6005006e2132dd5",
                     "shasum": ""
                 },
                 "require": {
-                    "horde/core": "^3",
-                    "horde/db": "^3",
-                    "horde/exception": "^3",
-                    "horde/horde": "^6",
-                    "horde/horde-installer-plugin": "*",
-                    "horde/http_server": "^1",
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde": "^6 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "horde/http_server": "^1 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
                 "require-dev": {
-                    "horde/ldap": "^3",
-                    "horde/test": "^3"
+                    "horde/ldap": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
-                    "horde/ldap": "^3",
-                    "horde/test": "^3"
+                    "horde/ldap": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-11-26T00:00:00+00:00",
+                "time": "2021-11-28T00:00:00+00:00",
                 "default-branch": true,
                 "type": "horde-application",
                 "autoload": {
