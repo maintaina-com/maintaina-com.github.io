@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Core.git",
-                    "reference": "039fc393ad4ca3f4fed528124415a0ba71be260d"
+                    "reference": "ef161952615ebce8ced4f195ae15b86f0c785f65"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Core/zipball/039fc393ad4ca3f4fed528124415a0ba71be260d",
-                    "reference": "039fc393ad4ca3f4fed528124415a0ba71be260d",
+                    "url": "https://api.github.com/repos/maintaina-com/Core/zipball/ef161952615ebce8ced4f195ae15b86f0c785f65",
+                    "reference": "ef161952615ebce8ced4f195ae15b86f0c785f65",
                     "shasum": ""
                 },
                 "require": {
@@ -74,7 +74,7 @@
                     "pear/text_captcha": "*",
                     "pear/text_figlet": "*"
                 },
-                "time": "2021-11-10T00:00:00+00:00",
+                "time": "2021-11-28T00:00:00+00:00",
                 "default-branch": true,
                 "type": "horde-library",
                 "autoload": {
