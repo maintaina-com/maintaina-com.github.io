@@ -7691,6 +7691,125 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Core/tree/v3.0.0alpha7"
                 }
+            },
+            {
+                "name": "horde/core",
+                "version": "v3.0.0alpha8",
+                "version_normalized": "3.0.0.0-alpha8",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Core.git",
+                    "reference": "400ffab0e0b993b520195fec7d22766fabc157cb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Core/zipball/400ffab0e0b993b520195fec7d22766fabc157cb",
+                    "reference": "400ffab0e0b993b520195fec7d22766fabc157cb",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-session": "*",
+                    "horde/alarm": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/auth": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/autoloader": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/browser": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/cache": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/compress": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/compress_fast": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/controller": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/cssminify": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/data": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/date": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/group": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/hashtable": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/history": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "horde/http": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/http_server": "^1 || dev-FRAMEWORK_6_0",
+                    "horde/injector": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/javascriptminify": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/lock": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/logintasks": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mime": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mime_viewer": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/notification": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/pack": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/perms": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/prefs": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/secret": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/serialize": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/sessionhandler": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/share": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/template": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/text_filter": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/token": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/url": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/view": "^3 || dev-FRAMEWORK_6_0",
+                    "pear/pear": "*",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "ext-SimpleXML": "*",
+                    "ext-dom": "*",
+                    "ext-hash": "*",
+                    "ext-sockets": "*",
+                    "pear/text_captcha": "*",
+                    "pear/text_figlet": "*"
+                },
+                "time": "2021-11-29T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "classmap": [
+                        "lib/"
+                    ],
+                    "psr-4": {
+                        "Horde\\Core\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Core\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "developer"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Core Horde Framework library",
+                "homepage": "https://www.horde.org/libraries/Horde_Core",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Core/tree/v3.0.0alpha8"
+                }
             }
         ]
     }
