@@ -105,12 +105,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/turba.git",
-                    "reference": "a09a57c3464c33c02ccf9c822e75c398f4039cdf"
+                    "reference": "f5086bcaaab496fc411c530a1036cc2999ba345c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/a09a57c3464c33c02ccf9c822e75c398f4039cdf",
-                    "reference": "a09a57c3464c33c02ccf9c822e75c398f4039cdf",
+                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/f5086bcaaab496fc411c530a1036cc2999ba345c",
+                    "reference": "f5086bcaaab496fc411c530a1036cc2999ba345c",
                     "shasum": ""
                 },
                 "require": {
@@ -128,7 +128,7 @@
                     "horde/group": "^3 || dev-FRAMEWORK_6_0",
                     "horde/history": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
                     "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mail": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mime": "^3 || dev-FRAMEWORK_6_0",
@@ -154,22 +154,27 @@
                     "horde/ldap": "^3 || dev-FRAMEWORK_6_0",
                     "horde/openxchange": "^2 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2021-11-30T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
-                    "bin/turba-convert-datatree-shares-to-sql",
-                    "bin/turba-convert-sql-shares-to-sqlng",
                     "bin/turba-import-openxchange",
                     "bin/turba-import-squirrelmail-file-abook",
+                    "bin/turba-convert-datatree-shares-to-sql",
+                    "bin/turba-convert-sql-shares-to-sqlng",
                     "bin/turba-import-squirrelmail-sql-abook",
-                    "bin/turba-import-vcards",
                     "bin/turba-public-to-horde-share",
-                    "bin/turba-validate-email"
+                    "bin/turba-validate-email",
+                    "bin/turba-import-vcards"
                 ],
                 "type": "horde-application",
                 "autoload": {
                     "psr-0": {
                         "Turba": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Turba\\Test\\": "test/"
                     }
                 },
                 "license": [
