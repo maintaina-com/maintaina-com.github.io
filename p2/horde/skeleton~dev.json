@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/skeleton.git",
-                    "reference": "26b6f9e1005fc72f54601befb6005006e2132dd5"
+                    "reference": "daeb29fdf49075fc3be48eb801bb34c7c5679451"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/skeleton/zipball/26b6f9e1005fc72f54601befb6005006e2132dd5",
-                    "reference": "26b6f9e1005fc72f54601befb6005006e2132dd5",
+                    "url": "https://api.github.com/repos/maintaina-com/skeleton/zipball/daeb29fdf49075fc3be48eb801bb34c7c5679451",
+                    "reference": "daeb29fdf49075fc3be48eb801bb34c7c5679451",
                     "shasum": ""
                 },
                 "require": {
@@ -33,7 +33,7 @@
                     "horde/ldap": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-11-28T00:00:00+00:00",
+                "time": "2021-12-01T00:00:00+00:00",
                 "default-branch": true,
                 "type": "horde-application",
                 "autoload": {
