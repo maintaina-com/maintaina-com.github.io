@@ -67,12 +67,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Exception.git",
-                    "reference": "47d7c53690ae54d433f0d17c1a7ecb7bd5f62496"
+                    "reference": "e93742f41f03dbb39dd9ec21ff98a8f41db74908"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Exception/zipball/47d7c53690ae54d433f0d17c1a7ecb7bd5f62496",
-                    "reference": "47d7c53690ae54d433f0d17c1a7ecb7bd5f62496",
+                    "url": "https://api.github.com/repos/maintaina-com/Exception/zipball/e93742f41f03dbb39dd9ec21ff98a8f41db74908",
+                    "reference": "e93742f41f03dbb39dd9ec21ff98a8f41db74908",
                     "shasum": ""
                 },
                 "require": {
