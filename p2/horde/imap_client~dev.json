@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Imap_Client.git",
-                    "reference": "814191a395d456758ac1f0a2add7421bdac04a08"
+                    "reference": "dd5ab98d4f4d16ff3d8cd7fbed5d0044458db876"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Imap_Client/zipball/814191a395d456758ac1f0a2add7421bdac04a08",
-                    "reference": "814191a395d456758ac1f0a2add7421bdac04a08",
+                    "url": "https://api.github.com/repos/maintaina-com/Imap_Client/zipball/dd5ab98d4f4d16ff3d8cd7fbed5d0044458db876",
+                    "reference": "dd5ab98d4f4d16ff3d8cd7fbed5d0044458db876",
                     "shasum": ""
                 },
                 "require": {
