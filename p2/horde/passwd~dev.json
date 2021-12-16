@@ -135,12 +135,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/passwd.git",
-                    "reference": "d7910fe353b8260d537cf019abe97de7222e2502"
+                    "reference": "cc9ec952f88c8fd3a624f0916b0c3cb5e71d16ec"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/passwd/zipball/d7910fe353b8260d537cf019abe97de7222e2502",
-                    "reference": "d7910fe353b8260d537cf019abe97de7222e2502",
+                    "url": "https://api.github.com/repos/maintaina-com/passwd/zipball/cc9ec952f88c8fd3a624f0916b0c3cb5e71d16ec",
+                    "reference": "cc9ec952f88c8fd3a624f0916b0c3cb5e71d16ec",
                     "shasum": ""
                 },
                 "require": {
@@ -192,6 +192,80 @@
                 "homepage": "https://www.horde.org/apps/passwd",
                 "support": {
                     "source": "https://github.com/maintaina-com/passwd/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/passwd",
+                "version": "dev-feature-react-ui",
+                "version_normalized": "dev-feature-react-ui",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/passwd.git",
+                    "reference": "bad79cdf681ccc55fb1c6f5114164cbb7dc4490d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/passwd/zipball/bad79cdf681ccc55fb1c6f5114164cbb7dc4490d",
+                    "reference": "bad79cdf681ccc55fb1c6f5114164cbb7dc4490d",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "horde/auth": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/core_translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde": "^6 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "horde/injector": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/view": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "ext-com": "*",
+                    "ext-ldap": "*",
+                    "ext-soap": "*",
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/http": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/ldap": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/vfs": "^3 || dev-FRAMEWORK_6_0",
+                    "pear/crypt_chap": "^2"
+                },
+                "time": "2021-11-15T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Passwd": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Passwd\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Passwd\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Password changing application",
+                "homepage": "https://www.horde.org/apps/passwd",
+                "support": {
+                    "source": "https://github.com/maintaina-com/passwd/tree/feature-react-ui"
                 }
             },
             {
