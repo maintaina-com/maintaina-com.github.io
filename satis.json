@@ -170,6 +170,7 @@
 
 
 
+        {"name": "horde/theme-material", "url": "https://github.com/maintaina-com/theme-material", "type": "vcs"},
         {"name": "horde/theme-hochschule", "url": "https://github.com/maintaina-com/theme-hochschule", "type": "vcs"},
 
 
