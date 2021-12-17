@@ -145,6 +145,7 @@
         "horde/text_flowed",
         "horde/text_textile",
         "horde/theme-hochschule",
+        "horde/theme-material",
         "horde/thrift",
         "horde/timeobjects",
         "horde/timezone",
