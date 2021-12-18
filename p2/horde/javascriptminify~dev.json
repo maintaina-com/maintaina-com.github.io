@@ -56,19 +56,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/JavascriptMinify.git",
-                    "reference": "5263e72651509f5fa0f6897821039ce8907afb5d"
+                    "reference": "d11e1a6781bda0e034490bd4f36b74318e9828b1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/JavascriptMinify/zipball/5263e72651509f5fa0f6897821039ce8907afb5d",
-                    "reference": "5263e72651509f5fa0f6897821039ce8907afb5d",
+                    "url": "https://api.github.com/repos/maintaina-com/JavascriptMinify/zipball/d11e1a6781bda0e034490bd4f36b74318e9828b1",
+                    "reference": "d11e1a6781bda0e034490bd4f36b74318e9828b1",
                     "shasum": ""
                 },
                 "require": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/log": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
                 "default-branch": true,
@@ -79,7 +79,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
