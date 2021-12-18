@@ -71,12 +71,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Crypt.git",
-                    "reference": "cd96a364b918de197f749ec8d8a320a6eca232e1"
+                    "reference": "b3127e121893bf09916bc770244a3bf03d7efd82"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Crypt/zipball/cd96a364b918de197f749ec8d8a320a6eca232e1",
-                    "reference": "cd96a364b918de197f749ec8d8a320a6eca232e1",
+                    "url": "https://api.github.com/repos/maintaina-com/Crypt/zipball/b3127e121893bf09916bc770244a3bf03d7efd82",
+                    "reference": "b3127e121893bf09916bc770244a3bf03d7efd82",
                     "shasum": ""
                 },
                 "require": {
@@ -90,7 +90,7 @@
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/url": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
@@ -104,7 +104,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
