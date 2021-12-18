@@ -73,12 +73,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ActiveSync.git",
-                    "reference": "39e8bba0c124b08a3954dfbcfeb5194627c821df"
+                    "reference": "ac5b30c3c352edf3f53b6f13068f725cbacb0844"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/39e8bba0c124b08a3954dfbcfeb5194627c821df",
-                    "reference": "39e8bba0c124b08a3954dfbcfeb5194627c821df",
+                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/ac5b30c3c352edf3f53b6f13068f725cbacb0844",
+                    "reference": "ac5b30c3c352edf3f53b6f13068f725cbacb0844",
                     "shasum": ""
                 },
                 "require": {
@@ -94,7 +94,7 @@
                     "horde/support": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/db": "^3 || dev-FRAMEWORK_6_0",
@@ -113,7 +113,7 @@
                     }
                 },
                 "license": [
-                    "GPL-2.0"
+                    "GPL-2.0-only"
                 ],
                 "authors": [
                     {
