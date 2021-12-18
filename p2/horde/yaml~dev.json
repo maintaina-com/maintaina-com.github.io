@@ -64,19 +64,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Yaml.git",
-                    "reference": "aa638d827f4b8e1c25c4da2a1f66ca3e5e519190"
+                    "reference": "2636446dd511615b06042ac218ed9ed138cad49c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Yaml/zipball/aa638d827f4b8e1c25c4da2a1f66ca3e5e519190",
-                    "reference": "aa638d827f4b8e1c25c4da2a1f66ca3e5e519190",
+                    "url": "https://api.github.com/repos/maintaina-com/Yaml/zipball/2636446dd511615b06042ac218ed9ed138cad49c",
+                    "reference": "2636446dd511615b06042ac218ed9ed138cad49c",
                     "shasum": ""
                 },
                 "require": {
                     "ext-ctype": "*",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
