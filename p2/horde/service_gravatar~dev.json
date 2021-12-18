@@ -63,18 +63,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Service_Gravatar.git",
-                    "reference": "3e37d5cad4b0a13c99ab464e391286526730f930"
+                    "reference": "cdb4e5bf048dc904da558f0b3fa101e1010d004f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Service_Gravatar/zipball/3e37d5cad4b0a13c99ab464e391286526730f930",
-                    "reference": "3e37d5cad4b0a13c99ab464e391286526730f930",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Gravatar/zipball/cdb4e5bf048dc904da558f0b3fa101e1010d004f",
+                    "reference": "cdb4e5bf048dc904da558f0b3fa101e1010d004f",
                     "shasum": ""
                 },
                 "require": {
                     "horde/http": "^3 || dev-FRAMEWORK_6_0",
                     "horde/url": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
@@ -88,7 +88,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
