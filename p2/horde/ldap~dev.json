@@ -64,19 +64,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Ldap.git",
-                    "reference": "15aa763b6ecdddc0454cf82f855a9e3901d81ddc"
+                    "reference": "562ddd8a10bb4daa966c02008e268690c3384689"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Ldap/zipball/15aa763b6ecdddc0454cf82f855a9e3901d81ddc",
-                    "reference": "15aa763b6ecdddc0454cf82f855a9e3901d81ddc",
+                    "url": "https://api.github.com/repos/maintaina-com/Ldap/zipball/562ddd8a10bb4daa966c02008e268690c3384689",
+                    "reference": "562ddd8a10bb4daa966c02008e268690c3384689",
                     "shasum": ""
                 },
                 "require": {
                     "ext-ldap": "*",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
@@ -90,7 +90,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-3.0"
+                    "LGPL-3.0-only"
                 ],
                 "authors": [
                     {
