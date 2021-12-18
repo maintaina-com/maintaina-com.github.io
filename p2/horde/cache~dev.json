@@ -72,12 +72,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Cache.git",
-                    "reference": "9a4893d723d348da6d32a99c6fd0540bd8130123"
+                    "reference": "57dc84e6148e8d3d56b9a9df6bea117cbabff799"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Cache/zipball/9a4893d723d348da6d32a99c6fd0540bd8130123",
-                    "reference": "9a4893d723d348da6d32a99c6fd0540bd8130123",
+                    "url": "https://api.github.com/repos/maintaina-com/Cache/zipball/57dc84e6148e8d3d56b9a9df6bea117cbabff799",
+                    "reference": "57dc84e6148e8d3d56b9a9df6bea117cbabff799",
                     "shasum": ""
                 },
                 "require": {
@@ -122,7 +122,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
