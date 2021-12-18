@@ -119,12 +119,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/sesha.git",
-                    "reference": "be8b43aa7da62aa651e934a40ea539ecd47ee455"
+                    "reference": "4ea952fa64d286a00298cdd268851a889f6d02bd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/sesha/zipball/be8b43aa7da62aa651e934a40ea539ecd47ee455",
-                    "reference": "be8b43aa7da62aa651e934a40ea539ecd47ee455",
+                    "url": "https://api.github.com/repos/maintaina-com/sesha/zipball/4ea952fa64d286a00298cdd268851a889f6d02bd",
+                    "reference": "4ea952fa64d286a00298cdd268851a889f6d02bd",
                     "shasum": ""
                 },
                 "require": {
@@ -134,11 +134,11 @@
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/form": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
                     "horde/perms": "^3 || dev-FRAMEWORK_6_0",
                     "horde/prefs": "^3 || dev-FRAMEWORK_6_0",
                     "horde/rdo": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "time": "2021-07-04T00:00:00+00:00",
                 "default-branch": true,
@@ -152,7 +152,7 @@
                     }
                 },
                 "license": [
-                    "GPL-2.0"
+                    "GPL-2.0-only"
                 ],
                 "authors": [
                     {
