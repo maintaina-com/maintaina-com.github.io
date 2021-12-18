@@ -80,12 +80,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Rpc.git",
-                    "reference": "2f36f7f591f6edfe4c5ef8b41a095f763f29318e"
+                    "reference": "591318e76a87d47757565bcee11cc9de226d2639"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Rpc/zipball/2f36f7f591f6edfe4c5ef8b41a095f763f29318e",
-                    "reference": "2f36f7f591f6edfe4c5ef8b41a095f763f29318e",
+                    "url": "https://api.github.com/repos/maintaina-com/Rpc/zipball/591318e76a87d47757565bcee11cc9de226d2639",
+                    "reference": "591318e76a87d47757565bcee11cc9de226d2639",
                     "shasum": ""
                 },
                 "require": {
@@ -98,7 +98,7 @@
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "horde/xml_element": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "ext-soap": "*",
@@ -117,7 +117,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
