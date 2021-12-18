@@ -61,19 +61,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Browser.git",
-                    "reference": "536b22ddd72e7a3ba23e2b429e680e4519bef07f"
+                    "reference": "5020d5828fff26a94ee59b9031d15f3b67f67a9e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Browser/zipball/536b22ddd72e7a3ba23e2b429e680e4519bef07f",
-                    "reference": "536b22ddd72e7a3ba23e2b429e680e4519bef07f",
+                    "url": "https://api.github.com/repos/maintaina-com/Browser/zipball/5020d5828fff26a94ee59b9031d15f3b67f67a9e",
+                    "reference": "5020d5828fff26a94ee59b9031d15f3b67f67a9e",
                     "shasum": ""
                 },
                 "require": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
                 "default-branch": true,
@@ -84,7 +84,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
