@@ -66,12 +66,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Pgp.git",
-                    "reference": "ef024673b9b39d27bf72e72c3a34a3b90d36d680"
+                    "reference": "29e86cf653ad158cfda1f487372a6c2d15ea2024"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Pgp/zipball/ef024673b9b39d27bf72e72c3a34a3b90d36d680",
-                    "reference": "ef024673b9b39d27bf72e72c3a34a3b90d36d680",
+                    "url": "https://api.github.com/repos/maintaina-com/Pgp/zipball/29e86cf653ad158cfda1f487372a6c2d15ea2024",
+                    "reference": "29e86cf653ad158cfda1f487372a6c2d15ea2024",
                     "shasum": ""
                 },
                 "require": {
@@ -83,7 +83,7 @@
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/url": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "ext-openssl": "*",
@@ -99,7 +99,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
