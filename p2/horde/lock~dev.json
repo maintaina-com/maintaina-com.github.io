@@ -60,18 +60,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Lock.git",
-                    "reference": "7bbde7629dc6cf6fa7865a91559dbaad577c698e"
+                    "reference": "48adb9be4b8b9aeca10d66e20159af2f55e77a7d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/7bbde7629dc6cf6fa7865a91559dbaad577c698e",
-                    "reference": "7bbde7629dc6cf6fa7865a91559dbaad577c698e",
+                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/48adb9be4b8b9aeca10d66e20159af2f55e77a7d",
+                    "reference": "48adb9be4b8b9aeca10d66e20159af2f55e77a7d",
                     "shasum": ""
                 },
                 "require": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/support": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/db": "^3 || dev-FRAMEWORK_6_0",
@@ -87,7 +87,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
