@@ -59,19 +59,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ManageSieve.git",
-                    "reference": "3d9d291e423053b890cc14b36e571e194459f923"
+                    "reference": "78ae36d369f7555d54d357f7d0d06370cfe9d6f5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ManageSieve/zipball/3d9d291e423053b890cc14b36e571e194459f923",
-                    "reference": "3d9d291e423053b890cc14b36e571e194459f923",
+                    "url": "https://api.github.com/repos/maintaina-com/ManageSieve/zipball/78ae36d369f7555d54d357f7d0d06370cfe9d6f5",
+                    "reference": "78ae36d369f7555d54d357f7d0d06370cfe9d6f5",
                     "shasum": ""
                 },
                 "require": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/socket_client": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "pear/auth_sasl": "^1.1"
