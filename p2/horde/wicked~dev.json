@@ -151,12 +151,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/wicked.git",
-                    "reference": "4772051826830de5a102cded670f8d8c0586f610"
+                    "reference": "4ddde067862ad167d5c35340d47b2232ddf6e211"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/wicked/zipball/4772051826830de5a102cded670f8d8c0586f610",
-                    "reference": "4772051826830de5a102cded670f8d8c0586f610",
+                    "url": "https://api.github.com/repos/maintaina-com/wicked/zipball/4ddde067862ad167d5c35340d47b2232ddf6e211",
+                    "reference": "4ddde067862ad167d5c35340d47b2232ddf6e211",
                     "shasum": ""
                 },
                 "require": {
@@ -168,7 +168,7 @@
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/form": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
                     "horde/http": "^3 || dev-FRAMEWORK_6_0",
                     "horde/lock": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mail": "^3 || dev-FRAMEWORK_6_0",
@@ -182,7 +182,7 @@
                     "horde/url": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "horde/vfs": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/test": "* || dev-FRAMEWORK_6_0",
@@ -202,7 +202,7 @@
                     }
                 },
                 "license": [
-                    "GPL-2.0"
+                    "GPL-2.0-only"
                 ],
                 "authors": [
                     {
