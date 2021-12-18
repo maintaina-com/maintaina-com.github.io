@@ -218,12 +218,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/base.git",
-                    "reference": "364af32c2ecdc220b3e599a95bd53ce97114de37"
+                    "reference": "a667310eb560a9646613c5d099833e0346ab9b44"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/364af32c2ecdc220b3e599a95bd53ce97114de37",
-                    "reference": "364af32c2ecdc220b3e599a95bd53ce97114de37",
+                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/a667310eb560a9646613c5d099833e0346ab9b44",
+                    "reference": "a667310eb560a9646613c5d099833e0346ab9b44",
                     "shasum": ""
                 },
                 "require": {
@@ -240,7 +240,7 @@
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/form": "^3 || dev-FRAMEWORK_6_0",
                     "horde/group": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
                     "horde/http": "^3 || dev-FRAMEWORK_6_0",
                     "horde/image": "^3 || dev-FRAMEWORK_6_0",
                     "horde/logintasks": "^3 || dev-FRAMEWORK_6_0",
@@ -260,7 +260,13 @@
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "horde/vfs": "^3 || dev-FRAMEWORK_6_0",
                     "horde/view": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
+                },
+                "provide": {
+                    "horde/base": "^6 || dev-FRAMEWORK_6_0"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
                     "ext-iconv": "*",
@@ -281,7 +287,7 @@
                     "pear/file_fstab": "*",
                     "pear/net_dns2": "*"
                 },
-                "time": "2021-10-13T00:00:00+00:00",
+                "time": "2021-12-01T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
                     "bin/horde-backup",
@@ -308,7 +314,15 @@
                 "autoload": {
                     "classmap": [
                         "lib/"
-                    ]
+                    ],
+                    "psr-4": {
+                        "Horde\\Horde\\": "/src"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Horde\\Test\\": "test/"
+                    }
                 },
                 "license": [
                     "LGPL-2"
