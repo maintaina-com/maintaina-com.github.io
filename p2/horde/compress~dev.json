@@ -80,12 +80,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Compress.git",
-                    "reference": "6e1993308ef21d400a668d4a49422c95eae0ff37"
+                    "reference": "4344d678840dc8f7d9ad304a09ce45bc953bbc19"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Compress/zipball/6e1993308ef21d400a668d4a49422c95eae0ff37",
-                    "reference": "6e1993308ef21d400a668d4a49422c95eae0ff37",
+                    "url": "https://api.github.com/repos/maintaina-com/Compress/zipball/4344d678840dc8f7d9ad304a09ce45bc953bbc19",
+                    "reference": "4344d678840dc8f7d9ad304a09ce45bc953bbc19",
                     "shasum": ""
                 },
                 "require": {
@@ -93,7 +93,7 @@
                     "horde/mime": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "ext-zlib": "*",
@@ -112,7 +112,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
