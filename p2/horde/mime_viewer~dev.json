@@ -65,12 +65,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Mime_Viewer.git",
-                    "reference": "548784dce73b8b52fe03d86af8cee217efa11ed9"
+                    "reference": "b14e68ea136234030ab2d0f37129136d9307bd37"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mime_Viewer/zipball/548784dce73b8b52fe03d86af8cee217efa11ed9",
-                    "reference": "548784dce73b8b52fe03d86af8cee217efa11ed9",
+                    "url": "https://api.github.com/repos/maintaina-com/Mime_Viewer/zipball/b14e68ea136234030ab2d0f37129136d9307bd37",
+                    "reference": "b14e68ea136234030ab2d0f37129136d9307bd37",
                     "shasum": ""
                 },
                 "require": {
@@ -78,13 +78,13 @@
                     "horde/browser": "^3 || dev-FRAMEWORK_6_0",
                     "horde/compress": "^3 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
                     "horde/mime": "^3 || dev-FRAMEWORK_6_0",
                     "horde/text_filter": "^3 || dev-FRAMEWORK_6_0",
                     "horde/text_flowed": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "pear/net_dns2": "*"
@@ -98,7 +98,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
