@@ -61,16 +61,16 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Autoloader.git",
-                    "reference": "f0639c8e611fc931772d00a6a57b6d8cb3dd699a"
+                    "reference": "a67bf00c93cf48656e9ccdd1891a03ccc0926368"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Autoloader/zipball/f0639c8e611fc931772d00a6a57b6d8cb3dd699a",
-                    "reference": "f0639c8e611fc931772d00a6a57b6d8cb3dd699a",
+                    "url": "https://api.github.com/repos/maintaina-com/Autoloader/zipball/a67bf00c93cf48656e9ccdd1891a03ccc0926368",
+                    "reference": "a67bf00c93cf48656e9ccdd1891a03ccc0926368",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
@@ -84,7 +84,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
