@@ -70,12 +70,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Dav.git",
-                    "reference": "2bf0bac778168e4af7d4f9745b4d41504d77e845"
+                    "reference": "778e8c04daea0333c2fc1f516ce7910633620508"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Dav/zipball/2bf0bac778168e4af7d4f9745b4d41504d77e845",
-                    "reference": "2bf0bac778168e4af7d4f9745b4d41504d77e845",
+                    "url": "https://api.github.com/repos/maintaina-com/Dav/zipball/778e8c04daea0333c2fc1f516ce7910633620508",
+                    "reference": "778e8c04daea0333c2fc1f516ce7910633620508",
                     "shasum": ""
                 },
                 "require": {
@@ -93,7 +93,7 @@
                     "horde/http": "^3 || dev-FRAMEWORK_6_0",
                     "horde/stream": "^2 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7",
+                    "php": "^7.4 || ^8",
                     "sabre/dav": "^4.1"
                 },
                 "suggest": {
