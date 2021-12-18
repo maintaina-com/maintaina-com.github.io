@@ -63,29 +63,29 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Routes.git",
-                    "reference": "479a3ed98c24d4aeba058893fea5d25d4c960087"
+                    "reference": "73873e92c425a473b758f2eb9094b9fbbbc7ed40"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Routes/zipball/479a3ed98c24d4aeba058893fea5d25d4c960087",
-                    "reference": "479a3ed98c24d4aeba058893fea5d25d4c960087",
+                    "url": "https://api.github.com/repos/maintaina-com/Routes/zipball/73873e92c425a473b758f2eb9094b9fbbbc7ed40",
+                    "reference": "73873e92c425a473b758f2eb9094b9fbbbc7ed40",
                     "shasum": ""
                 },
                 "require": {
-                    "horde/exception": "^3",
-                    "horde/support": "^3",
-                    "horde/util": "^3",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8",
                     "psr/http-message": "^1"
                 },
                 "require-dev": {
-                    "horde/cache": "^3",
-                    "horde/controller": "^3",
-                    "horde/test": "^3"
+                    "horde/cache": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/controller": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
-                    "horde/cache": "^3",
-                    "horde/controller": "^3"
+                    "horde/cache": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/controller": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-11-19T00:00:00+00:00",
                 "default-branch": true,
