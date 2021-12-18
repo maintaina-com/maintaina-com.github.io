@@ -58,22 +58,22 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Role.git",
-                    "reference": "a46eb2861080d6c5ae10cc2f65e3a2cad76e30bb"
+                    "reference": "cac03aa32d6ff1bd4c916bc77a8d80d3473a3383"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Role/zipball/a46eb2861080d6c5ae10cc2f65e3a2cad76e30bb",
-                    "reference": "a46eb2861080d6c5ae10cc2f65e3a2cad76e30bb",
+                    "url": "https://api.github.com/repos/maintaina-com/Role/zipball/cac03aa32d6ff1bd4c916bc77a8d80d3473a3383",
+                    "reference": "cac03aa32d6ff1bd4c916bc77a8d80d3473a3383",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
