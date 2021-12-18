@@ -65,18 +65,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Text_Diff.git",
-                    "reference": "5b8b3d50f538d557a8cc8e4822ea372c5d1f00b6"
+                    "reference": "b2251aea6f17f32fd1f3c6a117580cf79de564f7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/5b8b3d50f538d557a8cc8e4822ea372c5d1f00b6",
-                    "reference": "5b8b3d50f538d557a8cc8e4822ea372c5d1f00b6",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/b2251aea6f17f32fd1f3c6a117580cf79de564f7",
+                    "reference": "b2251aea6f17f32fd1f3c6a117580cf79de564f7",
                     "shasum": ""
                 },
                 "require": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "ext-xdiff": "*",
@@ -92,7 +92,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
