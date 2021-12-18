@@ -61,18 +61,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Pack.git",
-                    "reference": "8aa5933ac27f1cd175df2546cada49b30c245c14"
+                    "reference": "0e2806c92719f4af4707b2d3e5b47cbc62c3024b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Pack/zipball/8aa5933ac27f1cd175df2546cada49b30c245c14",
-                    "reference": "8aa5933ac27f1cd175df2546cada49b30c245c14",
+                    "url": "https://api.github.com/repos/maintaina-com/Pack/zipball/0e2806c92719f4af4707b2d3e5b47cbc62c3024b",
+                    "reference": "0e2806c92719f4af4707b2d3e5b47cbc62c3024b",
                     "shasum": ""
                 },
                 "require": {
                     "horde/compress_fast": "^2 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "ext-igbinary": "^1.2",
@@ -89,7 +89,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
