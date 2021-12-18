@@ -68,12 +68,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Form.git",
-                    "reference": "27ade629caa2bf8a98e3eb60d702f41fc162c35c"
+                    "reference": "05bc014ef06aa642412e01e0f70fdb14b377a0a0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Form/zipball/27ade629caa2bf8a98e3eb60d702f41fc162c35c",
-                    "reference": "27ade629caa2bf8a98e3eb60d702f41fc162c35c",
+                    "url": "https://api.github.com/repos/maintaina-com/Form/zipball/05bc014ef06aa642412e01e0f70fdb14b377a0a0",
+                    "reference": "05bc014ef06aa642412e01e0f70fdb14b377a0a0",
                     "shasum": ""
                 },
                 "require": {
@@ -87,7 +87,7 @@
                     "horde/token": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/core": "^3 || dev-FRAMEWORK_6_0"
@@ -101,7 +101,7 @@
                     ]
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
