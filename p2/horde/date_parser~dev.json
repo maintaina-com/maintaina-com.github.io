@@ -64,19 +64,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Date_Parser.git",
-                    "reference": "6e08d5da76095c4032403cfa6214c380189d3ff5"
+                    "reference": "15e5eac0e1ab1ed99aa8c0e6574c1409e313059b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Date_Parser/zipball/6e08d5da76095c4032403cfa6214c380189d3ff5",
-                    "reference": "6e08d5da76095c4032403cfa6214c380189d3ff5",
+                    "url": "https://api.github.com/repos/maintaina-com/Date_Parser/zipball/15e5eac0e1ab1ed99aa8c0e6574c1409e313059b",
+                    "reference": "15e5eac0e1ab1ed99aa8c0e6574c1409e313059b",
                     "shasum": ""
                 },
                 "require": {
                     "horde/date": "^3 || dev-FRAMEWORK_6_0",
                     "horde/support": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
@@ -90,7 +90,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
