@@ -60,18 +60,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/SpellChecker.git",
-                    "reference": "70f203afeeb1169e774b010f5394c1b7a9b53d04"
+                    "reference": "1e2975a6c07b1970c314a85e6069e5ec88016653"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/SpellChecker/zipball/70f203afeeb1169e774b010f5394c1b7a9b53d04",
-                    "reference": "70f203afeeb1169e774b010f5394c1b7a9b53d04",
+                    "url": "https://api.github.com/repos/maintaina-com/SpellChecker/zipball/1e2975a6c07b1970c314a85e6069e5ec88016653",
+                    "reference": "1e2975a6c07b1970c314a85e6069e5ec88016653",
                     "shasum": ""
                 },
                 "require": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
                 "default-branch": true,
@@ -82,7 +82,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
