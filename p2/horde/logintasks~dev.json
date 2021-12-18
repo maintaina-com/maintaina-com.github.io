@@ -58,17 +58,17 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/LoginTasks.git",
-                    "reference": "f3d96f17a070668e2f2861dc6b56c978f6e2326b"
+                    "reference": "52805ba853786a437227bb44555e53cb7cadde81"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/LoginTasks/zipball/f3d96f17a070668e2f2861dc6b56c978f6e2326b",
-                    "reference": "f3d96f17a070668e2f2861dc6b56c978f6e2326b",
+                    "url": "https://api.github.com/repos/maintaina-com/LoginTasks/zipball/52805ba853786a437227bb44555e53cb7cadde81",
+                    "reference": "52805ba853786a437227bb44555e53cb7cadde81",
                     "shasum": ""
                 },
                 "require": {
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/date": "^3 || dev-FRAMEWORK_6_0",
@@ -83,7 +83,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
