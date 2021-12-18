@@ -62,17 +62,17 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Cli_Modular.git",
-                    "reference": "61b551ebbfab6a3cb746a8fc86ca65d785ef4a1c"
+                    "reference": "3ad88b5efd4248c1cd6f49a9d76bbed67947ef46"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Cli_Modular/zipball/61b551ebbfab6a3cb746a8fc86ca65d785ef4a1c",
-                    "reference": "61b551ebbfab6a3cb746a8fc86ca65d785ef4a1c",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli_Modular/zipball/3ad88b5efd4248c1cd6f49a9d76bbed67947ef46",
+                    "reference": "3ad88b5efd4248c1cd6f49a9d76bbed67947ef46",
                     "shasum": ""
                 },
                 "require": {
                     "horde/argv": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
@@ -86,7 +86,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
