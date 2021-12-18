@@ -61,18 +61,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Spam.git",
-                    "reference": "0a9a2532c2174d47d8c0d1fc23a9dac8a1c40c4b"
+                    "reference": "9ea0d36357078e7af1ecc19ac51df8377f9a2fc0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Spam/zipball/0a9a2532c2174d47d8c0d1fc23a9dac8a1c40c4b",
-                    "reference": "0a9a2532c2174d47d8c0d1fc23a9dac8a1c40c4b",
+                    "url": "https://api.github.com/repos/maintaina-com/Spam/zipball/9ea0d36357078e7af1ecc19ac51df8377f9a2fc0",
+                    "reference": "9ea0d36357078e7af1ecc19ac51df8377f9a2fc0",
                     "shasum": ""
                 },
                 "require": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/support": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/log": "^3 || dev-FRAMEWORK_6_0",
