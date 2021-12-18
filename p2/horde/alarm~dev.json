@@ -66,19 +66,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Alarm.git",
-                    "reference": "af639238402a110bcb732d8b1291a59d5aeebf8e"
+                    "reference": "dfd0d3e4c3280aeeec4d6fbba24521369549a022"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Alarm/zipball/af639238402a110bcb732d8b1291a59d5aeebf8e",
-                    "reference": "af639238402a110bcb732d8b1291a59d5aeebf8e",
+                    "url": "https://api.github.com/repos/maintaina-com/Alarm/zipball/dfd0d3e4c3280aeeec4d6fbba24521369549a022",
+                    "reference": "dfd0d3e4c3280aeeec4d6fbba24521369549a022",
                     "shasum": ""
                 },
                 "require": {
                     "horde/date": "^3 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/db": "^3 || dev-FRAMEWORK_6_0",
@@ -99,7 +99,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
