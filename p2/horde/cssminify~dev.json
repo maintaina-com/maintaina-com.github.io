@@ -57,12 +57,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/CssMinify.git",
-                    "reference": "916ae2e19888256d52d83c418a0c0514e5a8c819"
+                    "reference": "525ea6d91dd83837e07171f1c559d52bd714f82d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/CssMinify/zipball/916ae2e19888256d52d83c418a0c0514e5a8c819",
-                    "reference": "916ae2e19888256d52d83c418a0c0514e5a8c819",
+                    "url": "https://api.github.com/repos/maintaina-com/CssMinify/zipball/525ea6d91dd83837e07171f1c559d52bd714f82d",
+                    "reference": "525ea6d91dd83837e07171f1c559d52bd714f82d",
                     "shasum": ""
                 },
                 "require": {
@@ -70,7 +70,7 @@
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/log": "^3 || dev-FRAMEWORK_6_0",
                     "horde/url": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
                 "default-branch": true,
@@ -81,7 +81,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
