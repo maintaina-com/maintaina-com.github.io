@@ -259,12 +259,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ansel.git",
-                    "reference": "b132d2230cff747b6126862d1910d5997d5372a6"
+                    "reference": "b133d1615af2a0cf09beb1e7df03706719b6831e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ansel/zipball/b132d2230cff747b6126862d1910d5997d5372a6",
-                    "reference": "b132d2230cff747b6126862d1910d5997d5372a6",
+                    "url": "https://api.github.com/repos/maintaina-com/ansel/zipball/b133d1615af2a0cf09beb1e7df03706719b6831e",
+                    "reference": "b133d1615af2a0cf09beb1e7df03706719b6831e",
                     "shasum": ""
                 },
                 "require": {
@@ -280,7 +280,7 @@
                     "horde/form": "^3 || dev-FRAMEWORK_6_0",
                     "horde/group": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
                     "horde/image": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mime": "^3 || dev-FRAMEWORK_6_0",
                     "horde/nls": "^3 || dev-FRAMEWORK_6_0",
@@ -294,7 +294,7 @@
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "horde/vfs": "^3 || dev-FRAMEWORK_6_0",
                     "horde/view": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "ext-gd": "*",
@@ -319,7 +319,7 @@
                     }
                 },
                 "license": [
-                    "GPL-2.0"
+                    "GPL-2.0-only"
                 ],
                 "authors": [
                     {
