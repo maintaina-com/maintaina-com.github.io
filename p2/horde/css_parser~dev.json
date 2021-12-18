@@ -56,16 +56,16 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Css_Parser.git",
-                    "reference": "e1e30ba707df6ed25ebb233fda9d2c1bc1f8339a"
+                    "reference": "2555a46628625ac2199245539b6fd03e0eeec8d4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Css_Parser/zipball/e1e30ba707df6ed25ebb233fda9d2c1bc1f8339a",
-                    "reference": "e1e30ba707df6ed25ebb233fda9d2c1bc1f8339a",
+                    "url": "https://api.github.com/repos/maintaina-com/Css_Parser/zipball/2555a46628625ac2199245539b6fd03e0eeec8d4",
+                    "reference": "2555a46628625ac2199245539b6fd03e0eeec8d4",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "ext-mbstring": "*"
@@ -79,7 +79,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
