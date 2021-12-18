@@ -75,18 +75,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Serialize.git",
-                    "reference": "4a6b8f28e24dd9e0d6a99f855f064736e7913d91"
+                    "reference": "dced6217e7622a2cf0776b05c701a0ad3a2be8f6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Serialize/zipball/4a6b8f28e24dd9e0d6a99f855f064736e7913d91",
-                    "reference": "4a6b8f28e24dd9e0d6a99f855f064736e7913d91",
+                    "url": "https://api.github.com/repos/maintaina-com/Serialize/zipball/dced6217e7622a2cf0776b05c701a0ad3a2be8f6",
+                    "reference": "dced6217e7622a2cf0776b05c701a0ad3a2be8f6",
                     "shasum": ""
                 },
                 "require": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "ext-bz2": "*",
@@ -107,7 +107,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
