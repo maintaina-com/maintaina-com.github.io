@@ -62,17 +62,17 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Xml_Wbxml.git",
-                    "reference": "645490b4e5153dfbeaf7b390f5032f8728ab0fce"
+                    "reference": "92d77e83434bbdd7e21e482d13148f3ea804a62d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Xml_Wbxml/zipball/645490b4e5153dfbeaf7b390f5032f8728ab0fce",
-                    "reference": "645490b4e5153dfbeaf7b390f5032f8728ab0fce",
+                    "url": "https://api.github.com/repos/maintaina-com/Xml_Wbxml/zipball/92d77e83434bbdd7e21e482d13148f3ea804a62d",
+                    "reference": "92d77e83434bbdd7e21e482d13148f3ea804a62d",
                     "shasum": ""
                 },
                 "require": {
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
@@ -86,7 +86,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
