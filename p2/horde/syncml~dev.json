@@ -64,12 +64,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/SyncMl.git",
-                    "reference": "74246f4d000df5ae52c36be1d6a484ee702d7024"
+                    "reference": "62d7972038976d52cc19a1b8a3c43a38c09964a6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/SyncMl/zipball/74246f4d000df5ae52c36be1d6a484ee702d7024",
-                    "reference": "74246f4d000df5ae52c36be1d6a484ee702d7024",
+                    "url": "https://api.github.com/repos/maintaina-com/SyncMl/zipball/62d7972038976d52cc19a1b8a3c43a38c09964a6",
+                    "reference": "62d7972038976d52cc19a1b8a3c43a38c09964a6",
                     "shasum": ""
                 },
                 "require": {
@@ -80,7 +80,7 @@
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "horde/xml_wbxml": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/auth": "^3 || dev-FRAMEWORK_6_0",
@@ -95,7 +95,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
