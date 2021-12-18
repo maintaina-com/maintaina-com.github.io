@@ -82,12 +82,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Auth.git",
-                    "reference": "221a9b91852b05ca680c50970701ef5ff15258e5"
+                    "reference": "25b4df806471b71ca6490bf9392fe79879ed5500"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Auth/zipball/221a9b91852b05ca680c50970701ef5ff15258e5",
-                    "reference": "221a9b91852b05ca680c50970701ef5ff15258e5",
+                    "url": "https://api.github.com/repos/maintaina-com/Auth/zipball/25b4df806471b71ca6490bf9392fe79879ed5500",
+                    "reference": "25b4df806471b71ca6490bf9392fe79879ed5500",
                     "shasum": ""
                 },
                 "require": {
@@ -95,7 +95,7 @@
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "ext-ctype": "*",
@@ -126,7 +126,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
