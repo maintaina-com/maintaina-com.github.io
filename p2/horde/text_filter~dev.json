@@ -73,27 +73,27 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Text_Filter.git",
-                    "reference": "b55d26e527dee17115dc367c114cdd738bea3c76"
+                    "reference": "b8a155e48df658469064070f5b0454871cddf98f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Filter/zipball/b55d26e527dee17115dc367c114cdd738bea3c76",
-                    "reference": "b55d26e527dee17115dc367c114cdd738bea3c76",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Filter/zipball/b8a155e48df658469064070f5b0454871cddf98f",
+                    "reference": "b8a155e48df658469064070f5b0454871cddf98f",
                     "shasum": ""
                 },
                 "require": {
-                    "horde/exception": "^3",
-                    "horde/horde-installer-plugin": "*",
-                    "horde/idna": "^2",
-                    "horde/util": "^3",
-                    "php": "^7"
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/idna": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "ext-tidy": "*",
-                    "horde/test": "^3",
-                    "horde/text_filter_jsmin": "^2",
-                    "horde/text_flowed": "^3",
-                    "horde/translation": "^3"
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/text_filter_jsmin": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/text_flowed": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-02-24T00:00:00+00:00",
                 "default-branch": true,
@@ -107,7 +107,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
