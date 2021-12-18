@@ -73,19 +73,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Vfs.git",
-                    "reference": "5474d4041452c547b344a2ffeb06534b81149e71"
+                    "reference": "77fa416f46d1184ade16d2f0f49d09f1f0141377"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/5474d4041452c547b344a2ffeb06534b81149e71",
-                    "reference": "5474d4041452c547b344a2ffeb06534b81149e71",
+                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/77fa416f46d1184ade16d2f0f49d09f1f0141377",
+                    "reference": "77fa416f46d1184ade16d2f0f49d09f1f0141377",
                     "shasum": ""
                 },
                 "require": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "ext-ftp": "*",
@@ -108,7 +108,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
