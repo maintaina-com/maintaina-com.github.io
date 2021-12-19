@@ -127,12 +127,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/content.git",
-                    "reference": "a661c6c27115f48ca7e016f64847b6f298ac3e64"
+                    "reference": "13ef8daeaed3a698da9b78e0d417b5c3a10a391e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/content/zipball/a661c6c27115f48ca7e016f64847b6f298ac3e64",
-                    "reference": "a661c6c27115f48ca7e016f64847b6f298ac3e64",
+                    "url": "https://api.github.com/repos/maintaina-com/content/zipball/13ef8daeaed3a698da9b78e0d417b5c3a10a391e",
+                    "reference": "13ef8daeaed3a698da9b78e0d417b5c3a10a391e",
                     "shasum": ""
                 },
                 "require": {
@@ -142,11 +142,11 @@
                     "horde/date": "^3 || dev-FRAMEWORK_6_0",
                     "horde/db": "^3 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
                     "horde/injector": "^3 || dev-FRAMEWORK_6_0",
                     "horde/rdo": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/argv": "^3 || dev-FRAMEWORK_6_0",
