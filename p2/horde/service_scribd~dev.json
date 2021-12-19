@@ -56,19 +56,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Service_Scribd.git",
-                    "reference": "946ceaf920c6a0d7adb921233c84e637e2252f72"
+                    "reference": "97830c2afdcec8acb6d295ddd58b52f700532c9b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Service_Scribd/zipball/946ceaf920c6a0d7adb921233c84e637e2252f72",
-                    "reference": "946ceaf920c6a0d7adb921233c84e637e2252f72",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Scribd/zipball/97830c2afdcec8acb6d295ddd58b52f700532c9b",
+                    "reference": "97830c2afdcec8acb6d295ddd58b52f700532c9b",
                     "shasum": ""
                 },
                 "require": {
                     "horde/http": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/xml_element": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
                 "default-branch": true,
