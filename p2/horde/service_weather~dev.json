@@ -61,12 +61,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Service_Weather.git",
-                    "reference": "5ba13c71f2a2592b913917ea5a70a2b7f14f3a26"
+                    "reference": "46e3b6cf58059852a7a8b4d61cb1783a0e2846b5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Service_Weather/zipball/5ba13c71f2a2592b913917ea5a70a2b7f14f3a26",
-                    "reference": "5ba13c71f2a2592b913917ea5a70a2b7f14f3a26",
+                    "url": "https://api.github.com/repos/maintaina-com/Service_Weather/zipball/46e3b6cf58059852a7a8b4d61cb1783a0e2846b5",
+                    "reference": "46e3b6cf58059852a7a8b4d61cb1783a0e2846b5",
                     "shasum": ""
                 },
                 "require": {
@@ -75,7 +75,7 @@
                     "horde/http": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/url": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
