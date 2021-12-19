@@ -65,19 +65,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Itip.git",
-                    "reference": "f9e13cbb1f8697b260f4b367c579db51beb8eba7"
+                    "reference": "f81844def36654da0dce2ecae4d795645374b31c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Itip/zipball/f9e13cbb1f8697b260f4b367c579db51beb8eba7",
-                    "reference": "f9e13cbb1f8697b260f4b367c579db51beb8eba7",
+                    "url": "https://api.github.com/repos/maintaina-com/Itip/zipball/f81844def36654da0dce2ecae4d795645374b31c",
+                    "reference": "f81844def36654da0dce2ecae4d795645374b31c",
                     "shasum": ""
                 },
                 "require": {
                     "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mime": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/prefs": "^3 || dev-FRAMEWORK_6_0",
@@ -92,7 +92,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
