@@ -64,28 +64,28 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Smtp.git",
-                    "reference": "198944ff70114882cc1f0fed6c9d826c5d82224a"
+                    "reference": "9ed9168b64bf1fbb961b0823a36eac9a4b780d76"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Smtp/zipball/198944ff70114882cc1f0fed6c9d826c5d82224a",
-                    "reference": "198944ff70114882cc1f0fed6c9d826c5d82224a",
+                    "url": "https://api.github.com/repos/maintaina-com/Smtp/zipball/9ed9168b64bf1fbb961b0823a36eac9a4b780d76",
+                    "reference": "9ed9168b64bf1fbb961b0823a36eac9a4b780d76",
                     "shasum": ""
                 },
                 "require": {
-                    "horde/exception": "^3",
-                    "horde/horde-installer-plugin": "*",
-                    "horde/mail": "^3",
-                    "horde/socket_client": "^3",
-                    "horde/support": "^3",
-                    "horde/translation": "^3",
-                    "horde/util": "^3",
-                    "php": "^7"
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/mail": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/socket_client": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
-                    "horde/imap_client": "^3",
-                    "horde/secret": "^3",
-                    "horde/test": "^3"
+                    "horde/imap_client": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/secret": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2021-02-24T00:00:00+00:00",
                 "default-branch": true,
@@ -96,7 +96,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
