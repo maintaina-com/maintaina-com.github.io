@@ -171,12 +171,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/nag.git",
-                    "reference": "9ac81c397f64de2db3a4e9402345b3faebb2aaa8"
+                    "reference": "c9e9c8d46045b65e3ed196b92633f94328fa9fa7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/9ac81c397f64de2db3a4e9402345b3faebb2aaa8",
-                    "reference": "9ac81c397f64de2db3a4e9402345b3faebb2aaa8",
+                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/c9e9c8d46045b65e3ed196b92633f94328fa9fa7",
+                    "reference": "c9e9c8d46045b65e3ed196b92633f94328fa9fa7",
                     "shasum": ""
                 },
                 "require": {
@@ -194,7 +194,7 @@
                     "horde/group": "^3 || dev-FRAMEWORK_6_0",
                     "horde/history": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
                     "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mail": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mime": "^3 || dev-FRAMEWORK_6_0",
@@ -207,7 +207,7 @@
                     "horde/url": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "horde/view": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/activesync": "^3 || dev-FRAMEWORK_6_0",
@@ -237,7 +237,7 @@
                     }
                 },
                 "license": [
-                    "GPL-2.0"
+                    "GPL-2.0-only"
                 ],
                 "authors": [
                     {
