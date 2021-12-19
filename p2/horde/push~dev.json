@@ -1,0 +1,360 @@
+{
+    "packages": {
+        "horde/push": [
+            {
+                "name": "horde/push",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Push.git",
+                    "reference": "7997c30711013e2b542f4ecad1d7efe383a72903"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Push/zipball/7997c30711013e2b542f4ecad1d7efe383a72903",
+                    "reference": "7997c30711013e2b542f4ecad1d7efe383a72903",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_push": "1.*",
+                    "pear-pear.horde.org/horde_push": "1.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Argv": "^2",
+                    "pear-pear.horde.org/Horde_Cli": "^2",
+                    "pear-pear.horde.org/Horde_Feed": "^2",
+                    "pear-pear.horde.org/Horde_Http": "^2",
+                    "pear-pear.horde.org/Horde_Kolab_Storage": "^2",
+                    "pear-pear.horde.org/Horde_Mail": "^2",
+                    "pear-pear.horde.org/Horde_Mime": "^2",
+                    "pear-pear.horde.org/Horde_Service_Twitter": "^2",
+                    "pear-pear.horde.org/Horde_Test": "^2.1",
+                    "pear-pear.horde.org/Horde_Yaml": "^2"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Push": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "wrobel@pardus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Social network services library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Push/tree/FRAMEWORK_5_2"
+                }
+            },
+            {
+                "name": "horde/push",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Push.git",
+                    "reference": "8633d86144e03e567f57acc048f7c0e2b957e81e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Push/zipball/8633d86144e03e567f57acc048f7c0e2b957e81e",
+                    "reference": "8633d86144e03e567f57acc048f7c0e2b957e81e",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/argv": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/feed": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/http": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/kolab_storage": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mail": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mime": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/service_twitter": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/yaml": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "default-branch": true,
+                "bin": [
+                    "bin/horde-push"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Push": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "wrobel@pardus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Social network services library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Push/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/push",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Push.git",
+                    "reference": "32c3b9fbea68b35e91bb8be02c5e4c573930f2d3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Push/zipball/32c3b9fbea68b35e91bb8be02c5e4c573930f2d3",
+                    "reference": "32c3b9fbea68b35e91bb8be02c5e4c573930f2d3",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_push": "1.*",
+                    "pear-pear.horde.org/horde_push": "1.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Argv": "^2",
+                    "pear-pear.horde.org/Horde_Cli": "^2",
+                    "pear-pear.horde.org/Horde_Feed": "^2",
+                    "pear-pear.horde.org/Horde_Http": "^2",
+                    "pear-pear.horde.org/Horde_Kolab_Storage": "^2",
+                    "pear-pear.horde.org/Horde_Mail": "^2",
+                    "pear-pear.horde.org/Horde_Mime": "^2",
+                    "pear-pear.horde.org/Horde_Service_Twitter": "^2",
+                    "pear-pear.horde.org/Horde_Test": "^2.1",
+                    "pear-pear.horde.org/Horde_Yaml": "^2"
+                },
+                "time": "2020-03-13T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Push": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "wrobel@pardus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Social network services library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Push/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/push",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Push.git",
+                    "reference": "32c3b9fbea68b35e91bb8be02c5e4c573930f2d3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Push/zipball/32c3b9fbea68b35e91bb8be02c5e4c573930f2d3",
+                    "reference": "32c3b9fbea68b35e91bb8be02c5e4c573930f2d3",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_push": "1.*",
+                    "pear-pear.horde.org/horde_push": "1.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Argv": "^2",
+                    "pear-pear.horde.org/Horde_Cli": "^2",
+                    "pear-pear.horde.org/Horde_Feed": "^2",
+                    "pear-pear.horde.org/Horde_Http": "^2",
+                    "pear-pear.horde.org/Horde_Kolab_Storage": "^2",
+                    "pear-pear.horde.org/Horde_Mail": "^2",
+                    "pear-pear.horde.org/Horde_Mime": "^2",
+                    "pear-pear.horde.org/Horde_Service_Twitter": "^2",
+                    "pear-pear.horde.org/Horde_Test": "^2.1",
+                    "pear-pear.horde.org/Horde_Yaml": "^2"
+                },
+                "time": "2020-03-13T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Push": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "wrobel@pardus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Social network services library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Push/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/push",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Push.git",
+                    "reference": "c45720a6c19c84f3d4e400fb02541d861bf9fd23"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Push/zipball/c45720a6c19c84f3d4e400fb02541d861bf9fd23",
+                    "reference": "c45720a6c19c84f3d4e400fb02541d861bf9fd23",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/argv": "^2",
+                    "horde/cli": "^2",
+                    "horde/feed": "^2",
+                    "horde/http": "^2",
+                    "horde/kolab_storage": "^2",
+                    "horde/mail": "^2",
+                    "horde/mime": "^2",
+                    "horde/service_twitter": "^2",
+                    "horde/test": "^2.1",
+                    "horde/yaml": "^2"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "bin": [
+                    "bin/horde-push"
+                ],
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Push": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "wrobel@pardus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Social network services library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Push/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/push",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Push.git",
+                    "reference": "9c11f9b42c1a492b3296b3c586ff5e9f61cdb56e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Push/zipball/9c11f9b42c1a492b3296b3c586ff5e9f61cdb56e",
+                    "reference": "9c11f9b42c1a492b3296b3c586ff5e9f61cdb56e",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/argv": "^2",
+                    "horde/cli": "^2",
+                    "horde/feed": "^2",
+                    "horde/http": "^2",
+                    "horde/kolab_storage": "^2",
+                    "horde/mail": "^2",
+                    "horde/mime": "^2",
+                    "horde/service_twitter": "^2",
+                    "horde/test": "^2.1",
+                    "horde/yaml": "^2"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "bin": [
+                    "bin/horde-push"
+                ],
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Push": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "wrobel@pardus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Social network services library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Push/tree/master"
+                }
+            }
+        ]
+    }
+}

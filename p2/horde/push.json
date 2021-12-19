@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "horde/push": [
+            {
+                "name": "horde/push",
+                "version": "v1.0.0alpha1",
+                "version_normalized": "1.0.0.0-alpha1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Push.git",
+                    "reference": "f1461edee5c5438e3dec952735e0b563241b3d89"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Push/zipball/f1461edee5c5438e3dec952735e0b563241b3d89",
+                    "reference": "f1461edee5c5438e3dec952735e0b563241b3d89",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/translation": "^3",
+                    "horde/util": "^3",
+                    "php": "^7"
+                },
+                "suggest": {
+                    "horde/argv": "^3",
+                    "horde/cli": "^3",
+                    "horde/feed": "^3",
+                    "horde/http": "^3",
+                    "horde/kolab_storage": "^3",
+                    "horde/mail": "^3",
+                    "horde/mime": "^3",
+                    "horde/service_twitter": "^3",
+                    "horde/test": "^3",
+                    "horde/yaml": "^3"
+                },
+                "time": "2021-07-04T00:00:00+00:00",
+                "bin": [
+                    "bin/horde-push"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Push": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "wrobel@pardus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Social network services library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Push/tree/v1.0.0alpha1"
+                }
+            }
+        ]
+    }
+}

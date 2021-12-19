@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$a1260bba8b3af6b7a2eccdec48923996a69bd43a.json": {
-            "sha1": "a1260bba8b3af6b7a2eccdec48923996a69bd43a"
+        "include/all$19e7b4d6bcb82a2c2423cbec35de4d18d930f0e3.json": {
+            "sha1": "19e7b4d6bcb82a2c2423cbec35de4d18d930f0e3"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -102,6 +102,7 @@
         "horde/perms",
         "horde/pgp",
         "horde/prefs",
+        "horde/push",
         "horde/queue",
         "horde/rampage",
         "horde/rdo",
