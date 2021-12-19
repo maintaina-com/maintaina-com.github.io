@@ -131,12 +131,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/components.git",
-                    "reference": "6a4c79c87b6257022cb269a2ab085ad4c1729ad4"
+                    "reference": "91524aef4d7013e7ff7915ece802f28688a5796d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/6a4c79c87b6257022cb269a2ab085ad4c1729ad4",
-                    "reference": "6a4c79c87b6257022cb269a2ab085ad4c1729ad4",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/91524aef4d7013e7ff7915ece802f28688a5796d",
+                    "reference": "91524aef4d7013e7ff7915ece802f28688a5796d",
                     "shasum": ""
                 },
                 "require": {
@@ -144,16 +144,16 @@
                     "horde/autoloader": "* || dev-FRAMEWORK_6_0",
                     "horde/cli": "^3 || dev-FRAMEWORK_6_0",
                     "horde/cli_modular": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
                     "horde/http": "* || dev-FRAMEWORK_6_0",
                     "horde/injector": "* || dev-FRAMEWORK_6_0",
                     "horde/pear": "* || dev-FRAMEWORK_6_0",
-                    "horde/release": "* || dev-FRAMEWORK_6_0",
+                    "horde/release": "^4 || dev-FRAMEWORK_6_0",
                     "horde/role": "* || dev-FRAMEWORK_6_0",
                     "horde/text_diff": "* || dev-FRAMEWORK_6_0",
                     "horde/util": "* || dev-FRAMEWORK_6_0",
                     "horde/yaml": "* || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/test": "3 || dev-FRAMEWORK_6_0",
@@ -180,7 +180,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
