@@ -108,12 +108,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/kronolith.git",
-                    "reference": "edd7004393e6e30e04727efba1fea290a36ade42"
+                    "reference": "8f611000543bc72c55df4b2a084bae0063c0957f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/edd7004393e6e30e04727efba1fea290a36ade42",
-                    "reference": "edd7004393e6e30e04727efba1fea290a36ade42",
+                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/8f611000543bc72c55df4b2a084bae0063c0957f",
+                    "reference": "8f611000543bc72c55df4b2a084bae0063c0957f",
                     "shasum": ""
                 },
                 "require": {
@@ -128,13 +128,13 @@
                     "horde/date": "^3 || dev-FRAMEWORK_6_0",
                     "horde/date_parser": "^3 || dev-FRAMEWORK_6_0",
                     "horde/dav": "^2 || dev-FRAMEWORK_6_0",
-                    "horde/eventdispatcher": "* || dev-FRAMEWORK_6_0",
+                    "horde/eventdispatcher": "^1 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/form": "^3 || dev-FRAMEWORK_6_0",
                     "horde/group": "^3 || dev-FRAMEWORK_6_0",
                     "horde/history": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
                     "horde/http": "^3 || dev-FRAMEWORK_6_0",
                     "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
                     "horde/image": "^3 || dev-FRAMEWORK_6_0",
@@ -153,7 +153,7 @@
                     "horde/url": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "horde/view": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7 || ^8"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "ext-xmlwriter": "*",
@@ -192,7 +192,7 @@
                     }
                 },
                 "license": [
-                    "GPL-2.0"
+                    "GPL-2.0-only"
                 ],
                 "authors": [
                     {
