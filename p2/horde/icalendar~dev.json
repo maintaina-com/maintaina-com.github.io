@@ -72,12 +72,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Icalendar.git",
-                    "reference": "e0e463117b5b4e6d413bd8565437dc52539c2dc5"
+                    "reference": "258da2baea598b65186da7453a8526ca5f994fc9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Icalendar/zipball/e0e463117b5b4e6d413bd8565437dc52539c2dc5",
-                    "reference": "e0e463117b5b4e6d413bd8565437dc52539c2dc5",
+                    "url": "https://api.github.com/repos/maintaina-com/Icalendar/zipball/258da2baea598b65186da7453a8526ca5f994fc9",
+                    "reference": "258da2baea598b65186da7453a8526ca5f994fc9",
                     "shasum": ""
                 },
                 "require": {
@@ -87,7 +87,7 @@
                     "horde/support": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
@@ -101,7 +101,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
