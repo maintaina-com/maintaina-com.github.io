@@ -107,6 +107,7 @@
         {"name": "horde/pear", "url": "https://github.com/maintaina-com/Pear", "type": "vcs"},
         {"name": "horde/perms", "url": "https://github.com/maintaina-com/Perms", "type": "vcs"},
         {"name": "horde/prefs", "url": "https://github.com/maintaina-com/Prefs", "type": "vcs"},
+        {"name": "horde/push", "url": "https://github.com/maintaina-com/Push", "type": "vcs"},
         {"name": "horde/queue", "url": "https://github.com/maintaina-com/Queue", "type": "vcs"},
         {"name": "horde/rdo", "url": "https://github.com/maintaina-com/Rdo", "type": "vcs"},
         {"name": "horde/release", "url": "https://github.com/maintaina-com/Release", "type": "vcs"},
