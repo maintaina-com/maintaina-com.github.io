@@ -60,12 +60,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Mail_Autoconfig.git",
-                    "reference": "7b3285907e133c321565b76176b93b9ff6bba2a0"
+                    "reference": "2f95e9fc9c2ac0aa5fb7ac90dc7aba3703e80518"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mail_Autoconfig/zipball/7b3285907e133c321565b76176b93b9ff6bba2a0",
-                    "reference": "7b3285907e133c321565b76176b93b9ff6bba2a0",
+                    "url": "https://api.github.com/repos/maintaina-com/Mail_Autoconfig/zipball/2f95e9fc9c2ac0aa5fb7ac90dc7aba3703e80518",
+                    "reference": "2f95e9fc9c2ac0aa5fb7ac90dc7aba3703e80518",
                     "shasum": ""
                 },
                 "require": {
@@ -76,7 +76,7 @@
                     "horde/mail": "^3 || dev-FRAMEWORK_6_0",
                     "horde/smtp": "^2 || dev-FRAMEWORK_6_0",
                     "pear/net_dns2": "^1.5",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
                 "default-branch": true,
@@ -87,7 +87,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
