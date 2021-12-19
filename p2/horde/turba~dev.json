@@ -105,12 +105,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/turba.git",
-                    "reference": "f5086bcaaab496fc411c530a1036cc2999ba345c"
+                    "reference": "f21a6ed2a9e58e1ebd70e36ea1cf86a48befd0f0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/f5086bcaaab496fc411c530a1036cc2999ba345c",
-                    "reference": "f5086bcaaab496fc411c530a1036cc2999ba345c",
+                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/f21a6ed2a9e58e1ebd70e36ea1cf86a48befd0f0",
+                    "reference": "f21a6ed2a9e58e1ebd70e36ea1cf86a48befd0f0",
                     "shasum": ""
                 },
                 "require": {
@@ -128,7 +128,7 @@
                     "horde/group": "^3 || dev-FRAMEWORK_6_0",
                     "horde/history": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
                     "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mail": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mime": "^3 || dev-FRAMEWORK_6_0",
@@ -142,7 +142,10 @@
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "horde/vfs": "^3 || dev-FRAMEWORK_6_0",
                     "horde/view": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
                     "horde/activeSync": "^3 || dev-FRAMEWORK_6_0",
