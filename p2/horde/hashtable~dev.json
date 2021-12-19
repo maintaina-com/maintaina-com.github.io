@@ -60,17 +60,17 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/HashTable.git",
-                    "reference": "a5297dff446aa7ddc0380a049e428dee74076e5d"
+                    "reference": "dcc670bf0540a1d2b6905dd812cdde3785961bde"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/HashTable/zipball/a5297dff446aa7ddc0380a049e428dee74076e5d",
-                    "reference": "a5297dff446aa7ddc0380a049e428dee74076e5d",
+                    "url": "https://api.github.com/repos/maintaina-com/HashTable/zipball/dcc670bf0540a1d2b6905dd812cdde3785961bde",
+                    "reference": "dcc670bf0540a1d2b6905dd812cdde3785961bde",
                     "shasum": ""
                 },
                 "require": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/log": "^3 || dev-FRAMEWORK_6_0",
@@ -87,7 +87,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
