@@ -150,12 +150,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/mnemo.git",
-                    "reference": "1189a40d397f269d62932ae351243034117e780e"
+                    "reference": "3c933b0838fa0da946aa75e4011df7ef8c01323e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/1189a40d397f269d62932ae351243034117e780e",
-                    "reference": "1189a40d397f269d62932ae351243034117e780e",
+                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/3c933b0838fa0da946aa75e4011df7ef8c01323e",
+                    "reference": "3c933b0838fa0da946aa75e4011df7ef8c01323e",
                     "shasum": ""
                 },
                 "require": {
@@ -169,7 +169,7 @@
                     "horde/group": "^3 || dev-FRAMEWORK_6_0",
                     "horde/history": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
                     "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
                     "horde/injector": "^3 || dev-FRAMEWORK_6_0",
                     "horde/perms": "^3 || dev-FRAMEWORK_6_0",
@@ -178,7 +178,7 @@
                     "horde/support": "^3 || dev-FRAMEWORK_6_0",
                     "horde/text_filter": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/activesync": "^3 || dev-FRAMEWORK_6_0",
