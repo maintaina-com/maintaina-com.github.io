@@ -70,12 +70,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Argv.git",
-                    "reference": "16472f897954f4362b703e0ba8a5119649a18140"
+                    "reference": "a051d5973260a049c83126947ef27fd40042cd3a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Argv/zipball/16472f897954f4362b703e0ba8a5119649a18140",
-                    "reference": "16472f897954f4362b703e0ba8a5119649a18140",
+                    "url": "https://api.github.com/repos/maintaina-com/Argv/zipball/a051d5973260a049c83126947ef27fd40042cd3a",
+                    "reference": "a051d5973260a049c83126947ef27fd40042cd3a",
                     "shasum": ""
                 },
                 "require": {
@@ -83,7 +83,7 @@
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7 || ^8"
+                    "php": "^7.4 || ^8"
                 },
                 "require-dev": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
