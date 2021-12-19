@@ -68,12 +68,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Token.git",
-                    "reference": "e5d0736578e204e6cae5b3896114eb6a13eeb3fb"
+                    "reference": "9991e8e5df8f45a111a08c83fe38b117b7ddfd66"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Token/zipball/e5d0736578e204e6cae5b3896114eb6a13eeb3fb",
-                    "reference": "e5d0736578e204e6cae5b3896114eb6a13eeb3fb",
+                    "url": "https://api.github.com/repos/maintaina-com/Token/zipball/9991e8e5df8f45a111a08c83fe38b117b7ddfd66",
+                    "reference": "9991e8e5df8f45a111a08c83fe38b117b7ddfd66",
                     "shasum": ""
                 },
                 "require": {
@@ -82,7 +82,7 @@
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/url": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/db": "^3 || dev-FRAMEWORK_6_0",
@@ -98,7 +98,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
