@@ -64,18 +64,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Nls.git",
-                    "reference": "1635f8ed5796f931223c21127575eea486a98dbb"
+                    "reference": "6ae17f1b550bda989b95e3171de144e98a856546"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Nls/zipball/1635f8ed5796f931223c21127575eea486a98dbb",
-                    "reference": "1635f8ed5796f931223c21127575eea486a98dbb",
+                    "url": "https://api.github.com/repos/maintaina-com/Nls/zipball/6ae17f1b550bda989b95e3171de144e98a856546",
+                    "reference": "6ae17f1b550bda989b95e3171de144e98a856546",
                     "shasum": ""
                 },
                 "require": {
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "ext-geoip": "*",
@@ -90,7 +90,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
