@@ -61,20 +61,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Editor.git",
-                    "reference": "688bd8df2513ec684babf6fe1a3be96a9fccd148"
+                    "reference": "b1d737a9d7e99a3f14080445e4b8c9768fef0476"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Editor/zipball/688bd8df2513ec684babf6fe1a3be96a9fccd148",
-                    "reference": "688bd8df2513ec684babf6fe1a3be96a9fccd148",
+                    "url": "https://api.github.com/repos/maintaina-com/Editor/zipball/b1d737a9d7e99a3f14080445e4b8c9768fef0476",
+                    "reference": "b1d737a9d7e99a3f14080445e4b8c9768fef0476",
                     "shasum": ""
                 },
                 "require": {
                     "horde/browser": "^3 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
                     "horde/serialize": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
                 "default-branch": true,
@@ -85,7 +85,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
