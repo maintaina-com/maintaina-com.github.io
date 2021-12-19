@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$678e6f7f91701b582cb256690499120050e40e79.json": {
-            "sha1": "678e6f7f91701b582cb256690499120050e40e79"
+        "include/all$2c476b6c2d10a4ad56614fb995127feb8cc052d5.json": {
+            "sha1": "2c476b6c2d10a4ad56614fb995127feb8cc052d5"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -94,6 +94,7 @@
         "horde/oauth",
         "horde/openxchange",
         "horde/operator",
+        "horde/otp",
         "horde/pack",
         "horde/passwd",
         "horde/pastie",
