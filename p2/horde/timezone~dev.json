@@ -59,19 +59,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Timezone.git",
-                    "reference": "64cd24bf9a2b60fb635be633948c0ee81d419aa5"
+                    "reference": "f5a04d9ee52704d6be34e734fd34c53c7e712ed6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Timezone/zipball/64cd24bf9a2b60fb635be633948c0ee81d419aa5",
-                    "reference": "64cd24bf9a2b60fb635be633948c0ee81d419aa5",
+                    "url": "https://api.github.com/repos/maintaina-com/Timezone/zipball/f5a04d9ee52704d6be34e734fd34c53c7e712ed6",
+                    "reference": "f5a04d9ee52704d6be34e734fd34c53c7e712ed6",
                     "shasum": ""
                 },
                 "require": {
                     "horde/date": "^3 || dev-FRAMEWORK_6_0",
                     "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
                     "horde/vfs": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7.4 || dev-FRAMEWORK_6_0"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
