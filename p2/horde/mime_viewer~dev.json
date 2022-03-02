@@ -65,12 +65,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Mime_Viewer.git",
-                    "reference": "8b6cf061dddaff139395233314edf53173fa7dbc"
+                    "reference": "0538173b10b05c27c7c1fa40e0aa1ce4e4078fd7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mime_Viewer/zipball/8b6cf061dddaff139395233314edf53173fa7dbc",
-                    "reference": "8b6cf061dddaff139395233314edf53173fa7dbc",
+                    "url": "https://api.github.com/repos/maintaina-com/Mime_Viewer/zipball/0538173b10b05c27c7c1fa40e0aa1ce4e4078fd7",
+                    "reference": "0538173b10b05c27c7c1fa40e0aa1ce4e4078fd7",
                     "shasum": ""
                 },
                 "require": {
@@ -78,7 +78,7 @@
                     "horde/browser": "^3 || dev-FRAMEWORK_6_0",
                     "horde/compress": "^3 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
                     "horde/mime": "^3 || dev-FRAMEWORK_6_0",
                     "horde/text_filter": "^3 || dev-FRAMEWORK_6_0",
                     "horde/text_flowed": "^3 || dev-FRAMEWORK_6_0",

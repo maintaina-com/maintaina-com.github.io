@@ -645,6 +645,71 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Mime_Viewer/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/mime_viewer",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Mime_Viewer.git",
+                    "reference": "be510ee053ae972806767744e11655ecd9f614b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Mime_Viewer/zipball/be510ee053ae972806767744e11655ecd9f614b1",
+                    "reference": "be510ee053ae972806767744e11655ecd9f614b1",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-xml": "*",
+                    "horde/browser": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/compress": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
+                    "horde/mime": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/text_filter": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/text_flowed": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "ext-dom": "*",
+                    "ext-libxml": "*",
+                    "ext-xsl": "*",
+                    "pear/net_dns2": "*"
+                },
+                "time": "2022-03-02T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Mime_Viewer": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Mime\\Viewer\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "MIME viewer library",
+                "homepage": "https://www.horde.org/libraries/Horde_Mime_Viewer",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mime_Viewer/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
