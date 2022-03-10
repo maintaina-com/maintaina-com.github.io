@@ -203,12 +203,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/imp.git",
-                    "reference": "fe8f987ce3b63562f77c948675f38a36b991598e"
+                    "reference": "5db3d363b8cdc1b101e8025371ee9ef1c338cfc8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/fe8f987ce3b63562f77c948675f38a36b991598e",
-                    "reference": "fe8f987ce3b63562f77c948675f38a36b991598e",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/5db3d363b8cdc1b101e8025371ee9ef1c338cfc8",
+                    "reference": "5db3d363b8cdc1b101e8025371ee9ef1c338cfc8",
                     "shasum": ""
                 },
                 "require": {
@@ -228,7 +228,7 @@
                     "horde/editor": "^3 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
                     "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
                     "horde/image": "^3 || dev-FRAMEWORK_6_0",
                     "horde/imap_client": "^3 || dev-FRAMEWORK_6_0",
@@ -264,12 +264,12 @@
                     "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
                     "horde/service_gravatar": "^2 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-11-30T00:00:00+00:00",
+                "time": "2022-03-10T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
-                    "bin/imp-query-imap-cache",
                     "bin/imp-mailbox-decode",
                     "bin/imp-admin-upgrade",
+                    "bin/imp-query-imap-cache",
                     "bin/imp-bounce-spam"
                 ],
                 "type": "horde-application",
