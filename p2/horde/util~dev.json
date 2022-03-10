@@ -75,12 +75,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Util.git",
-                    "reference": "59df165cc621215289fc3f1d2d9b0bb1a610a803"
+                    "reference": "0867f8536952dbdb0ac3c066fa7b03045961a244"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Util/zipball/59df165cc621215289fc3f1d2d9b0bb1a610a803",
-                    "reference": "59df165cc621215289fc3f1d2d9b0bb1a610a803",
+                    "url": "https://api.github.com/repos/maintaina-com/Util/zipball/0867f8536952dbdb0ac3c066fa7b03045961a244",
+                    "reference": "0867f8536952dbdb0ac3c066fa7b03045961a244",
                     "shasum": ""
                 },
                 "require": {
@@ -102,7 +102,7 @@
                     "horde/imap_client": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-11-06T00:00:00+00:00",
+                "time": "2022-03-10T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {

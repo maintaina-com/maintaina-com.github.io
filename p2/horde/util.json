@@ -507,6 +507,81 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Util/tree/v3.0.0alpha4"
                 }
+            },
+            {
+                "name": "horde/util",
+                "version": "v3.0.0alpha5",
+                "version_normalized": "3.0.0.0-alpha5",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Util.git",
+                    "reference": "7c53f3cea9679dc0f72db8bcfa7318123163403c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Util/zipball/7c53f3cea9679dc0f72db8bcfa7318123163403c",
+                    "reference": "7c53f3cea9679dc0f72db8bcfa7318123163403c",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/imap_client": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "ext-ctype": "*",
+                    "ext-filter": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-mbstring": "*",
+                    "ext-xml": "*",
+                    "horde/imap_client": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-03-10T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "lib/"
+                    ],
+                    "psr-4": {
+                        "Horde\\Util\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Util\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Utility library",
+                "homepage": "https://www.horde.org/libraries/Horde_Util",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Util/tree/v3.0.0alpha5"
+                }
             }
         ]
     }
