@@ -147,12 +147,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ingo.git",
-                    "reference": "91f1d1c4a4c3e76f4008a0e8be7b0a6725bb26ab"
+                    "reference": "eba7125a38fdb8f422856a1975ae37e175ae4c81"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/91f1d1c4a4c3e76f4008a0e8be7b0a6725bb26ab",
-                    "reference": "91f1d1c4a4c3e76f4008a0e8be7b0a6725bb26ab",
+                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/eba7125a38fdb8f422856a1975ae37e175ae4c81",
+                    "reference": "eba7125a38fdb8f422856a1975ae37e175ae4c81",
                     "shasum": ""
                 },
                 "require": {
@@ -164,7 +164,7 @@
                     "horde/form": "^3 || dev-FRAMEWORK_6_0",
                     "horde/group": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
                     "horde/imap_client": "^3 || dev-FRAMEWORK_6_0",
                     "horde/managesieve": "^2 || dev-FRAMEWORK_6_0",
                     "horde/mime": "^3 || dev-FRAMEWORK_6_0",
