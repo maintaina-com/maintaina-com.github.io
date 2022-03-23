@@ -203,12 +203,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/imp.git",
-                    "reference": "c02768f90bbd331e9e50a3600526453c05bbb0b5"
+                    "reference": "878dc47852d0cbc7a3350ae5a3f88bcb587cfd5e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/c02768f90bbd331e9e50a3600526453c05bbb0b5",
-                    "reference": "c02768f90bbd331e9e50a3600526453c05bbb0b5",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/878dc47852d0cbc7a3350ae5a3f88bcb587cfd5e",
+                    "reference": "878dc47852d0cbc7a3350ae5a3f88bcb587cfd5e",
                     "shasum": ""
                 },
                 "require": {
@@ -264,7 +264,7 @@
                     "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
                     "horde/service_gravatar": "^2 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2022-03-10T00:00:00+00:00",
+                "time": "2022-03-23T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
                     "bin/imp-mailbox-decode",
