@@ -108,12 +108,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/kronolith.git",
-                    "reference": "526a9c2b09e7b7c0bba363d03f5880ffb3f77993"
+                    "reference": "703f1a8634a50de6a65f062c0f89fb173d4edaf9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/526a9c2b09e7b7c0bba363d03f5880ffb3f77993",
-                    "reference": "526a9c2b09e7b7c0bba363d03f5880ffb3f77993",
+                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/703f1a8634a50de6a65f062c0f89fb173d4edaf9",
+                    "reference": "703f1a8634a50de6a65f062c0f89fb173d4edaf9",
                     "shasum": ""
                 },
                 "require": {
@@ -134,7 +134,7 @@
                     "horde/group": "^3 || dev-FRAMEWORK_6_0",
                     "horde/history": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
                     "horde/http": "^3 || dev-FRAMEWORK_6_0",
                     "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
                     "horde/image": "^3 || dev-FRAMEWORK_6_0",
@@ -166,15 +166,15 @@
                     "horde/timeobjects": "^3 || dev-FRAMEWORK_6_0",
                     "pear/date_holidays": "*"
                 },
-                "time": "2021-10-06T00:00:00+00:00",
+                "time": "2022-03-30T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
-                    "bin/kronolith-convert-datatree-shares-to-sql",
-                    "bin/kronolith-import-squirrelmail-calendar",
+                    "bin/kronolith-convert-sql-shares-to-sqlng",
+                    "bin/kronolith-agenda",
                     "bin/kronolith-import-icals",
                     "bin/kronolith-import-openxchange",
-                    "bin/kronolith-agenda",
-                    "bin/kronolith-convert-sql-shares-to-sqlng",
+                    "bin/kronolith-convert-datatree-shares-to-sql",
+                    "bin/kronolith-import-squirrelmail-calendar",
                     "bin/kronolith-convert-to-utc"
                 ],
                 "type": "horde-application",
