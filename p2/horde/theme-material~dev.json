@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/theme-material.git",
-                    "reference": "39adcf5cabe36b7cb235b54df98d49124b2c9330"
+                    "reference": "5edacb601c9678d970d80e881e4e5351657de905"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/theme-material/zipball/39adcf5cabe36b7cb235b54df98d49124b2c9330",
-                    "reference": "39adcf5cabe36b7cb235b54df98d49124b2c9330",
+                    "url": "https://api.github.com/repos/maintaina-com/theme-material/zipball/5edacb601c9678d970d80e881e4e5351657de905",
+                    "reference": "5edacb601c9678d970d80e881e4e5351657de905",
                     "shasum": ""
                 },
                 "require": {
@@ -38,6 +38,45 @@
                 "homepage": "https://www.horde.org/apps/horde",
                 "support": {
                     "source": "https://github.com/maintaina-com/theme-material/tree/FRAMEWORK_6_0",
+                    "issues": "https://github.com/maintaina-com/theme-material/issues"
+                }
+            },
+            {
+                "name": "horde/theme-material",
+                "version": "dev-revert-1-notices",
+                "version_normalized": "dev-revert-1-notices",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/theme-material.git",
+                    "reference": "a209c93b6b66fc68443b8c6e5c21645bd690be96"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/theme-material/zipball/a209c93b6b66fc68443b8c6e5c21645bd690be96",
+                    "reference": "a209c93b6b66fc68443b8c6e5c21645bd690be96",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde": "* || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "php": "^7 || ^8"
+                },
+                "time": "2021-12-17T00:00:00+00:00",
+                "type": "horde-theme",
+                "license": [
+                    "LGPL-2"
+                ],
+                "authors": [
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Horde Material UI Theme",
+                "homepage": "https://www.horde.org/apps/horde",
+                "support": {
+                    "source": "https://github.com/maintaina-com/theme-material/tree/revert-1-notices",
                     "issues": "https://github.com/maintaina-com/theme-material/issues"
                 }
             }
