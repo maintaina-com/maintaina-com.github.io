@@ -58,12 +58,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/LoginTasks.git",
-                    "reference": "f42025d27bc677963799f50318502a21eccb6658"
+                    "reference": "970b27636c86c673eda97c9440962f48fab3084a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/LoginTasks/zipball/f42025d27bc677963799f50318502a21eccb6658",
-                    "reference": "f42025d27bc677963799f50318502a21eccb6658",
+                    "url": "https://api.github.com/repos/maintaina-com/LoginTasks/zipball/970b27636c86c673eda97c9440962f48fab3084a",
+                    "reference": "970b27636c86c673eda97c9440962f48fab3084a",
                     "shasum": ""
                 },
                 "require": {
@@ -74,12 +74,17 @@
                     "horde/date": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-04-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_LoginTasks": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\LoginTasks\\Test\\": "test/"
                     }
                 },
                 "license": [
