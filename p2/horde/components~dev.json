@@ -131,12 +131,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/components.git",
-                    "reference": "254a7331754064e8e7d276514cf1a0fed53b1cce"
+                    "reference": "873340020a73ac709f37e7c74824c3e3feeb3368"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/254a7331754064e8e7d276514cf1a0fed53b1cce",
-                    "reference": "254a7331754064e8e7d276514cf1a0fed53b1cce",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/873340020a73ac709f37e7c74824c3e3feeb3368",
+                    "reference": "873340020a73ac709f37e7c74824c3e3feeb3368",
                     "shasum": ""
                 },
                 "require": {
@@ -144,7 +144,7 @@
                     "horde/autoloader": "* || dev-FRAMEWORK_6_0",
                     "horde/cli": "^3 || dev-FRAMEWORK_6_0",
                     "horde/cli_modular": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
                     "horde/http": "* || dev-FRAMEWORK_6_0",
                     "horde/injector": "* || dev-FRAMEWORK_6_0",
                     "horde/pear": "* || dev-FRAMEWORK_6_0",
@@ -155,8 +155,11 @@
                     "horde/yaml": "* || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
                 "suggest": {
-                    "horde/test": "3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
                     "pear/archive_tar": "^1.4",
                     "phploc/phploc": "^7",
                     "phpmd/phpmd": "^2.9",
@@ -165,7 +168,7 @@
                     "sebastian/phpdcd": "^1",
                     "squizlabs/php_codesniffer": "^3.5"
                 },
-                "time": "2021-07-19T00:00:00+00:00",
+                "time": "2022-04-19T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
                     "bin/horde-components"
@@ -177,6 +180,11 @@
                     },
                     "psr-4": {
                         "Horde\\Components\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Components\\Test\\": "test/"
                     }
                 },
                 "license": [
