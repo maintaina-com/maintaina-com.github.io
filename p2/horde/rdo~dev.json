@@ -59,12 +59,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Rdo.git",
-                    "reference": "96bb65abe3ce4327e0f94ace6942433c1fcec36e"
+                    "reference": "d4a5c4c15033fa79049d35f1e1ede8b663f66286"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/96bb65abe3ce4327e0f94ace6942433c1fcec36e",
-                    "reference": "96bb65abe3ce4327e0f94ace6942433c1fcec36e",
+                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/d4a5c4c15033fa79049d35f1e1ede8b663f66286",
+                    "reference": "d4a5c4c15033fa79049d35f1e1ede8b663f66286",
                     "shasum": ""
                 },
                 "require": {
@@ -73,10 +73,11 @@
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
-                "suggest": {
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                "require-dev": {
+                    "horde/log": "dev-FRAMEWORK_6_0",
+                    "horde/test": "dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-07-04T00:00:00+00:00",
+                "time": "2022-04-20T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
@@ -85,6 +86,11 @@
                     },
                     "psr-4": {
                         "Horde\\Rdo\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Rdo\\Test\\": "test/"
                     }
                 },
                 "license": [
