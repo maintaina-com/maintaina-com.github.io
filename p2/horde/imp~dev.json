@@ -203,12 +203,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/imp.git",
-                    "reference": "afb53443d52b478c6974c4e164017ac2859f6d50"
+                    "reference": "efe127412f7f84267afa09f341b2d477c2f13c3c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/afb53443d52b478c6974c4e164017ac2859f6d50",
-                    "reference": "afb53443d52b478c6974c4e164017ac2859f6d50",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/efe127412f7f84267afa09f341b2d477c2f13c3c",
+                    "reference": "efe127412f7f84267afa09f341b2d477c2f13c3c",
                     "shasum": ""
                 },
                 "require": {
@@ -264,13 +264,13 @@
                     "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
                     "horde/service_gravatar": "^2 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2022-03-23T00:00:00+00:00",
+                "time": "2022-05-11T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
                     "bin/imp-mailbox-decode",
-                    "bin/imp-admin-upgrade",
                     "bin/imp-query-imap-cache",
-                    "bin/imp-bounce-spam"
+                    "bin/imp-bounce-spam",
+                    "bin/imp-admin-upgrade"
                 ],
                 "type": "horde-application",
                 "autoload": {
