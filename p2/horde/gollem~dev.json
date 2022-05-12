@@ -151,12 +151,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/gollem.git",
-                    "reference": "59e530f55afb098a59457a3923cfd5752ecd22d7"
+                    "reference": "7bb306c6e006ba1d169e523448e3849640325f49"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/gollem/zipball/59e530f55afb098a59457a3923cfd5752ecd22d7",
-                    "reference": "59e530f55afb098a59457a3923cfd5752ecd22d7",
+                    "url": "https://api.github.com/repos/maintaina-com/gollem/zipball/7bb306c6e006ba1d169e523448e3849640325f49",
+                    "reference": "7bb306c6e006ba1d169e523448e3849640325f49",
                     "shasum": ""
                 },
                 "require": {
@@ -178,7 +178,7 @@
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "horde/vfs": "^3 || dev-FRAMEWORK_6_0",
                     "horde/view": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/db": "^3 || dev-FRAMEWORK_6_0",
