@@ -105,12 +105,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/turba.git",
-                    "reference": "f21a6ed2a9e58e1ebd70e36ea1cf86a48befd0f0"
+                    "reference": "814b8f6121074275e4c8ab9a15185e6709c30006"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/f21a6ed2a9e58e1ebd70e36ea1cf86a48befd0f0",
-                    "reference": "f21a6ed2a9e58e1ebd70e36ea1cf86a48befd0f0",
+                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/814b8f6121074275e4c8ab9a15185e6709c30006",
+                    "reference": "814b8f6121074275e4c8ab9a15185e6709c30006",
                     "shasum": ""
                 },
                 "require": {
