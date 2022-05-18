@@ -73,12 +73,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ActiveSync.git",
-                    "reference": "b9f8d0a8109865daf1f5faa2d3d4f8b2678d3208"
+                    "reference": "5a36a1dd5ab08b40f41306038de894e8f3790cf4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/b9f8d0a8109865daf1f5faa2d3d4f8b2678d3208",
-                    "reference": "b9f8d0a8109865daf1f5faa2d3d4f8b2678d3208",
+                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/5a36a1dd5ab08b40f41306038de894e8f3790cf4",
+                    "reference": "5a36a1dd5ab08b40f41306038de894e8f3790cf4",
                     "shasum": ""
                 },
                 "require": {
@@ -104,12 +104,17 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0",
                     "horde/text_filter": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-05-18T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_ActiveSync": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\ActiveSync\\Test\\": "test/"
                     }
                 },
                 "license": [

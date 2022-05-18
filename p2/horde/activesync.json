@@ -7188,6 +7188,72 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/ActiveSync/tree/v3.0.0alpha2"
                 }
+            },
+            {
+                "name": "horde/activesync",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/ActiveSync.git",
+                    "reference": "93971ada5925a6b8139cac102f7ef9fa1527c3f9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/ActiveSync/zipball/93971ada5925a6b8139cac102f7ef9fa1527c3f9",
+                    "reference": "93971ada5925a6b8139cac102f7ef9fa1527c3f9",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "horde/compress": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/date": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mapi": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/mime": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/stream": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/imap_client": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mail": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/text_filter": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-05-18T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_ActiveSync": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\ActiveSync\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "ActiveSync server library",
+                "homepage": "https://www.horde.org/libraries/Horde_ActiveSync",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ActiveSync/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
