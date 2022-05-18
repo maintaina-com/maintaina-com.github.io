@@ -3576,6 +3576,118 @@
             },
             {
                 "name": "horde/imp",
+                "version": "v7.0.0alpha11",
+                "version_normalized": "7.0.0.0-alpha11",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/imp.git",
+                    "reference": "239b29e610c802d23d72a1ab655facd10e06a541"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/239b29e610c802d23d72a1ab655facd10e06a541",
+                    "reference": "239b29e610c802d23d72a1ab655facd10e06a541",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "ext-gettext": "*",
+                    "ext-hash": "*",
+                    "ext-json": "*",
+                    "horde/auth": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/browser": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/cache": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/compress": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/crypt": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/crypt_blowfish": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/css_parser": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/date": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/editor": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde": "^6 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
+                    "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/image": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/imap_client": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/itip": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/listheaders": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/logintasks": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mail": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mail_autoconfig": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/mime": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mime_viewer": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/nls": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/notification": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/pack": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/perms": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/spellchecker": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/stream": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/stream_filter": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/stream_wrapper": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/text_filter": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/text_flowed": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/tree": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/url": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/vfs": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/view": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "ext-openssl": "*",
+                    "horde/history": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/http": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/service_gravatar": "^2 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-05-18T00:00:00+00:00",
+                "bin": [
+                    "bin/imp-query-imap-cache",
+                    "bin/imp-admin-upgrade",
+                    "bin/imp-mailbox-decode",
+                    "bin/imp-bounce-spam"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "IMP": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\IMP\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Webmail application",
+                "homepage": "https://www.horde.org/apps/imp",
+                "support": {
+                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha11"
+                }
+            },
+            {
+                "name": "horde/imp",
                 "version": "7.0.0alpha2",
                 "version_normalized": "7.0.0.0-alpha2",
                 "source": {
