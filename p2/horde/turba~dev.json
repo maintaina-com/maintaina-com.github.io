@@ -105,12 +105,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/turba.git",
-                    "reference": "850b64cc665dda1ec9142868e4b3da7d9f345626"
+                    "reference": "43a5a2f3afb29c3412045e840b5e72174ba4bc85"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/850b64cc665dda1ec9142868e4b3da7d9f345626",
-                    "reference": "850b64cc665dda1ec9142868e4b3da7d9f345626",
+                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/43a5a2f3afb29c3412045e840b5e72174ba4bc85",
+                    "reference": "43a5a2f3afb29c3412045e840b5e72174ba4bc85",
                     "shasum": ""
                 },
                 "require": {
@@ -128,7 +128,7 @@
                     "horde/group": "^3 || dev-FRAMEWORK_6_0",
                     "horde/history": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
                     "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mail": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mime": "^3 || dev-FRAMEWORK_6_0",
@@ -157,17 +157,17 @@
                     "horde/ldap": "^3 || dev-FRAMEWORK_6_0",
                     "horde/openxchange": "^2 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-11-30T00:00:00+00:00",
+                "time": "2022-06-07T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
                     "bin/turba-import-openxchange",
-                    "bin/turba-import-squirrelmail-file-abook",
-                    "bin/turba-convert-datatree-shares-to-sql",
                     "bin/turba-convert-sql-shares-to-sqlng",
-                    "bin/turba-import-squirrelmail-sql-abook",
                     "bin/turba-public-to-horde-share",
                     "bin/turba-validate-email",
-                    "bin/turba-import-vcards"
+                    "bin/turba-import-squirrelmail-sql-abook",
+                    "bin/turba-convert-datatree-shares-to-sql",
+                    "bin/turba-import-vcards",
+                    "bin/turba-import-squirrelmail-file-abook"
                 ],
                 "type": "horde-application",
                 "autoload": {
