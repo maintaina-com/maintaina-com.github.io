@@ -8,32 +8,36 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Dns.git",
-                    "reference": "d0ad5d588708071a57785b61d325f6d71dabcb24"
+                    "reference": "1cdcff5d03e97913ef12b78419da9253bd916498"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Dns/zipball/d0ad5d588708071a57785b61d325f6d71dabcb24",
-                    "reference": "d0ad5d588708071a57785b61d325f6d71dabcb24",
+                    "url": "https://api.github.com/repos/maintaina-com/Dns/zipball/1cdcff5d03e97913ef12b78419da9253bd916498",
+                    "reference": "1cdcff5d03e97913ef12b78419da9253bd916498",
                     "shasum": ""
                 },
                 "require": {
-                    "aws/aws-sdk-php": "^3.183",
-                    "horde/horde-installer-plugin": "dev-master || dev-FRAMEWORK_6_0 || ^1",
-                    "horde/rdo": "dev-master | dev-FRAMEWORK_6_0 || ^3",
-                    "php": "^5.3 || ^7"
+                    "aws/aws-sdk-php": "^3",
+                    "horde/rdo": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7 || ^8"
                 },
                 "require-dev": {
-                    "horde/test": "dev-master | dev-FRAMEWORK_6_0 || ^3"
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2019-12-02T00:00:00+00:00",
+                "time": "2022-07-11T00:00:00+00:00",
                 "default-branch": true,
-                "type": "horde-library",
+                "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_DNS": "lib/"
                     },
                     "psr-4": {
                         "Horde\\Dns\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Dns\\Test\\": "test/"
                     }
                 },
                 "license": [
