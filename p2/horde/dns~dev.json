@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Dns.git",
-                    "reference": "1cdcff5d03e97913ef12b78419da9253bd916498"
+                    "reference": "3e90031122eb9806e5a8625dd39ebfbca554211c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Dns/zipball/1cdcff5d03e97913ef12b78419da9253bd916498",
-                    "reference": "1cdcff5d03e97913ef12b78419da9253bd916498",
+                    "url": "https://api.github.com/repos/maintaina-com/Dns/zipball/3e90031122eb9806e5a8625dd39ebfbca554211c",
+                    "reference": "3e90031122eb9806e5a8625dd39ebfbca554211c",
                     "shasum": ""
                 },
                 "require": {
