@@ -147,12 +147,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ingo.git",
-                    "reference": "eba7125a38fdb8f422856a1975ae37e175ae4c81"
+                    "reference": "be5d15f53febb9b1a0c7ff9bdd6258e0c80cdc5c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/eba7125a38fdb8f422856a1975ae37e175ae4c81",
-                    "reference": "eba7125a38fdb8f422856a1975ae37e175ae4c81",
+                    "url": "https://api.github.com/repos/maintaina-com/ingo/zipball/be5d15f53febb9b1a0c7ff9bdd6258e0c80cdc5c",
+                    "reference": "be5d15f53febb9b1a0c7ff9bdd6258e0c80cdc5c",
                     "shasum": ""
                 },
                 "require": {
