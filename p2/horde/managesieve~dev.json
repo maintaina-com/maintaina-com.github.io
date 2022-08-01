@@ -59,12 +59,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/ManageSieve.git",
-                    "reference": "4fd91cb07f66a94103af30947bbcb1a6f5982953"
+                    "reference": "4074e4e4de2b4f79ba43398652c469e8f2f27f14"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/ManageSieve/zipball/4fd91cb07f66a94103af30947bbcb1a6f5982953",
-                    "reference": "4fd91cb07f66a94103af30947bbcb1a6f5982953",
+                    "url": "https://api.github.com/repos/maintaina-com/ManageSieve/zipball/4074e4e4de2b4f79ba43398652c469e8f2f27f14",
+                    "reference": "4074e4e4de2b4f79ba43398652c469e8f2f27f14",
                     "shasum": ""
                 },
                 "require": {
