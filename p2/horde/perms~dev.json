@@ -67,12 +67,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Perms.git",
-                    "reference": "304fc90453a16c1e160076117d374ec5591f44a3"
+                    "reference": "b31e1fdb80314b29e0e4dd4e4d8708658dd71d1d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Perms/zipball/304fc90453a16c1e160076117d374ec5591f44a3",
-                    "reference": "304fc90453a16c1e160076117d374ec5591f44a3",
+                    "url": "https://api.github.com/repos/maintaina-com/Perms/zipball/b31e1fdb80314b29e0e4dd4e4d8708658dd71d1d",
+                    "reference": "b31e1fdb80314b29e0e4dd4e4d8708658dd71d1d",
                     "shasum": ""
                 },
                 "require": {
