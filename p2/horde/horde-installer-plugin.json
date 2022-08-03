@@ -36,7 +36,8 @@
                     "MIT"
                 ],
                 "support": {
-                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v1.1.1"
+                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v1.1.1",
+                    "issues": "https://github.com/maintaina-com/horde-installer-plugin/issues"
                 }
             },
             {
@@ -74,7 +75,8 @@
                     "MIT"
                 ],
                 "support": {
-                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v1.1.1"
+                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v1.1.1",
+                    "issues": "https://github.com/maintaina-com/horde-installer-plugin/issues"
                 }
             },
             {
@@ -112,7 +114,8 @@
                     "MIT"
                 ],
                 "support": {
-                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v1.1.1"
+                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v1.1.1",
+                    "issues": "https://github.com/maintaina-com/horde-installer-plugin/issues"
                 }
             },
             {
@@ -150,7 +153,8 @@
                     "MIT"
                 ],
                 "support": {
-                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v2.1.0"
+                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v2.1.0",
+                    "issues": "https://github.com/maintaina-com/horde-installer-plugin/issues"
                 }
             },
             {
@@ -188,7 +192,8 @@
                     "MIT"
                 ],
                 "support": {
-                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v2.2.0"
+                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v2.2.0",
+                    "issues": "https://github.com/maintaina-com/horde-installer-plugin/issues"
                 }
             },
             {
@@ -226,7 +231,8 @@
                     "MIT"
                 ],
                 "support": {
-                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v2.2.1"
+                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v2.2.1",
+                    "issues": "https://github.com/maintaina-com/horde-installer-plugin/issues"
                 }
             },
             {
@@ -265,7 +271,8 @@
                     "MIT"
                 ],
                 "support": {
-                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v2.3.0"
+                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v2.3.0",
+                    "issues": "https://github.com/maintaina-com/horde-installer-plugin/issues"
                 }
             }
         ]
