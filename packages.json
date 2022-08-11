@@ -71,6 +71,7 @@
         "horde/javascriptminify_jsmin",
         "horde/jonah",
         "horde/kolab_resource",
+        "horde/kolab_storage",
         "horde/kronolith",
         "horde/ldap",
         "horde/lens",
