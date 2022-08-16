@@ -75,12 +75,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Mime.git",
-                    "reference": "ed336680596f0c437b7f794f65737d3c1898881d"
+                    "reference": "a28bd6cfa7a78787b34a4899c701f5bde15a9905"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/ed336680596f0c437b7f794f65737d3c1898881d",
-                    "reference": "ed336680596f0c437b7f794f65737d3c1898881d",
+                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/a28bd6cfa7a78787b34a4899c701f5bde15a9905",
+                    "reference": "a28bd6cfa7a78787b34a4899c701f5bde15a9905",
                     "shasum": ""
                 },
                 "require": {
@@ -90,6 +90,7 @@
                     "horde/stream": "^2 || dev-FRAMEWORK_6_0",
                     "horde/stream_filter": "^3 || dev-FRAMEWORK_6_0",
                     "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/text_filter": "^3 || dev-FRAMEWORK_6_0",
                     "horde/text_flowed": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
@@ -103,12 +104,17 @@
                     "horde/text_filter": "^3 || dev-FRAMEWORK_6_0",
                     "pear/net_dns2": "*"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-08-16T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Mime": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Mime\\Test\\": "test/"
                     }
                 },
                 "license": [
