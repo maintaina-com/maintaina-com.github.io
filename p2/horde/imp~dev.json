@@ -90,7 +90,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/FRAMEWORK_5_1"
+                    "source": "https://github.com/maintaina-com/imp/tree/FRAMEWORK_5_1",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -193,7 +194,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/FRAMEWORK_5_2"
+                    "source": "https://github.com/maintaina-com/imp/tree/FRAMEWORK_5_2",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -203,12 +205,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/imp.git",
-                    "reference": "ce0b55a45d91a81e7a9b1f091f482cdf4a0b8336"
+                    "reference": "b7c2ff9d275cfefd2eb1ef05b0af7a8750c7cae7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/ce0b55a45d91a81e7a9b1f091f482cdf4a0b8336",
-                    "reference": "ce0b55a45d91a81e7a9b1f091f482cdf4a0b8336",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/b7c2ff9d275cfefd2eb1ef05b0af7a8750c7cae7",
+                    "reference": "b7c2ff9d275cfefd2eb1ef05b0af7a8750c7cae7",
                     "shasum": ""
                 },
                 "require": {
@@ -306,7 +308,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/FRAMEWORK_6_0"
+                    "source": "https://github.com/maintaina-com/imp/tree/FRAMEWORK_6_0",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -411,7 +414,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/horde-upstream"
+                    "source": "https://github.com/maintaina-com/imp/tree/horde-upstream",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -516,7 +520,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/horde-upstream"
+                    "source": "https://github.com/maintaina-com/imp/tree/horde-upstream",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -624,7 +629,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/maintaina-composerfixed"
+                    "source": "https://github.com/maintaina-com/imp/tree/maintaina-composerfixed",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -732,7 +738,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/master"
+                    "source": "https://github.com/maintaina-com/imp/tree/master",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             }
         ]

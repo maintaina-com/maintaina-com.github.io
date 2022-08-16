@@ -90,7 +90,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.1.5"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.1.5",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -182,7 +183,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.1.8"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.1.8",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -274,7 +276,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.0"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.0",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -366,7 +369,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.0rc1"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.0rc1",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -457,7 +461,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.0alpha1"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.0alpha1",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -549,7 +554,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.0beta1"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.0beta1",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -641,7 +647,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.0beta2"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.0beta2",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -733,7 +740,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.0beta3"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.0beta3",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -826,7 +834,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.1"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.1",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -920,7 +929,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.10"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.10",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -1014,7 +1024,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.11"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.11",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -1108,7 +1119,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.12"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.12",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -1202,7 +1214,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.13"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.13",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -1296,7 +1309,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.14"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.14",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -1390,7 +1404,8 @@
                 "description": "A web based webmail system",
                 "homepage": "https://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.15"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.15",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -1484,7 +1499,8 @@
                 "description": "A web based webmail system",
                 "homepage": "https://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.16"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.16",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -1578,7 +1594,8 @@
                 "description": "A web based webmail system",
                 "homepage": "https://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.17"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.17",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -1672,7 +1689,8 @@
                 "description": "A web based webmail system",
                 "homepage": "https://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.18"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.18",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -1775,7 +1793,8 @@
                 "description": "A web based webmail system",
                 "homepage": "https://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.19"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.19",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -1868,7 +1887,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.2"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.2",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -1971,7 +1991,8 @@
                 "description": "A web based webmail system",
                 "homepage": "https://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.20"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.20",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -2074,7 +2095,8 @@
                 "description": "A web based webmail system",
                 "homepage": "https://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.21"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.21",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -2177,7 +2199,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.22"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.22",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -2280,7 +2303,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.23"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.23",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -2383,7 +2407,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.24"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.24",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -2486,7 +2511,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.25"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.25",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -2589,7 +2615,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.26"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.26",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -2692,7 +2719,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.27"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.27",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -2785,7 +2813,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.3"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.3",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -2878,7 +2907,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.4"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.4",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -2972,7 +3002,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.5"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.5",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -3066,7 +3097,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.6"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.6",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -3160,7 +3192,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.7"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.7",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -3254,7 +3287,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.8"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.8",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -3348,7 +3382,8 @@
                 "description": "A web based webmail system",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.9"
+                    "source": "https://github.com/maintaina-com/imp/tree/v6.2.9",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -3459,7 +3494,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha1"
+                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha1",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -3571,7 +3607,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha10"
+                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha10",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -3683,7 +3720,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha11"
+                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha11",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -3791,7 +3829,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha2"
+                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha2",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -3899,7 +3938,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha3"
+                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha3",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -4012,7 +4052,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha4"
+                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha4",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -4125,7 +4166,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha5"
+                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha5",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -4238,7 +4280,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha6"
+                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha6",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -4351,7 +4394,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha7"
+                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha7",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -4463,7 +4507,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha8"
+                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha8",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             },
             {
@@ -4575,7 +4620,8 @@
                 "description": "Webmail application",
                 "homepage": "https://www.horde.org/apps/imp",
                 "support": {
-                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha9"
+                    "source": "https://github.com/maintaina-com/imp/tree/v7.0.0alpha9",
+                    "issues": "https://github.com/maintaina-com/imp/issues"
                 }
             }
         ]
