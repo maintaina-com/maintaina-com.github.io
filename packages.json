@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$e5f53134a8ef2b6e7d389d88c6fdd679a7809132.json": {
-            "sha1": "e5f53134a8ef2b6e7d389d88c6fdd679a7809132"
+        "include/all$cbcd6c10793608abde6ab29ff0ad369c6ea44c9c.json": {
+            "sha1": "cbcd6c10793608abde6ab29ff0ad369c6ea44c9c"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -72,6 +72,7 @@
         "horde/jonah",
         "horde/kolab_format",
         "horde/kolab_resource",
+        "horde/kolab_storage",
         "horde/kronolith",
         "horde/ldap",
         "horde/lens",

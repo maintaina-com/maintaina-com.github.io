@@ -1,0 +1,434 @@
+{
+    "packages": {
+        "horde/kolab_storage": [
+            {
+                "name": "horde/kolab_storage",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Storage.git",
+                    "reference": "eef71b79da267a4962b7be198759f7e8c5bf04d5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Storage/zipball/eef71b79da267a4962b7be198759f7e8c5bf04d5",
+                    "reference": "eef71b79da267a4962b7be198759f7e8c5bf04d5",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_cache": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_kolab_format": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_mime": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_support": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_translation": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_util": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-imap": "*",
+                    "pear-pear.horde.org/Horde_History": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Imap_Client": ">=2.14.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Test": ">=2.1.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.php.net/HTTP_Request": "*",
+                    "pear-pear.php.net/Net_IMAP": ">=1.1.0@stable"
+                },
+                "time": "2014-08-29T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A package for handling Kolab data stored on an IMAP server",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Storage/tree/v2.1.1"
+                }
+            },
+            {
+                "name": "horde/kolab_storage",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Storage.git",
+                    "reference": "83e276c5e990f7435bb1fcbde5202a0db544034c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Storage/zipball/83e276c5e990f7435bb1fcbde5202a0db544034c",
+                    "reference": "83e276c5e990f7435bb1fcbde5202a0db544034c",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_cache": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_kolab_format": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_mime": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_support": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_translation": ">=2.2.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_util": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-imap": "*",
+                    "pear-pear.horde.org/Horde_History": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Imap_Client": ">=2.14.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Test": ">=2.1.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.php.net/HTTP_Request": "*",
+                    "pear-pear.php.net/Net_IMAP": ">=1.1.0@stable"
+                },
+                "time": "2015-01-09T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A package for handling Kolab data stored on an IMAP server",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Storage/tree/v2.1.2"
+                }
+            },
+            {
+                "name": "horde/kolab_storage",
+                "version": "2.1.3",
+                "version_normalized": "2.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Storage.git",
+                    "reference": "4276355c53dff257d605e9a83bfa96107db91b7e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Storage/zipball/4276355c53dff257d605e9a83bfa96107db91b7e",
+                    "reference": "4276355c53dff257d605e9a83bfa96107db91b7e",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_cache": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_kolab_format": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_mime": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_support": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_translation": ">=2.2.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_util": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-imap": "*",
+                    "pear-pear.horde.org/Horde_History": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Imap_Client": ">=2.14.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Test": ">=2.1.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.php.net/HTTP_Request": "*",
+                    "pear-pear.php.net/Net_IMAP": ">=1.1.0@stable"
+                },
+                "time": "2015-04-13T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A package for handling Kolab data stored on an IMAP server",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Storage/tree/v2.1.3"
+                }
+            },
+            {
+                "name": "horde/kolab_storage",
+                "version": "2.1.4",
+                "version_normalized": "2.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Storage.git",
+                    "reference": "36038b3ee54cd2b17980e4b9ad3f143488a8abf7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Storage/zipball/36038b3ee54cd2b17980e4b9ad3f143488a8abf7",
+                    "reference": "36038b3ee54cd2b17980e4b9ad3f143488a8abf7",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_cache": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_kolab_format": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_mime": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_support": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_translation": ">=2.2.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_util": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-imap": "*",
+                    "pear-pear.horde.org/Horde_History": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Imap_Client": ">=2.14.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Test": ">=2.1.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.php.net/HTTP_Request": "*",
+                    "pear-pear.php.net/Net_IMAP": ">=1.1.0@stable"
+                },
+                "time": "2015-04-28T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A package for handling Kolab data stored on an IMAP server",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Storage/tree/v2.1.4"
+                }
+            },
+            {
+                "name": "horde/kolab_storage",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Storage.git",
+                    "reference": "597afdbfb5854a07b9e695cff73af261d27e53b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Storage/zipball/597afdbfb5854a07b9e695cff73af261d27e53b1",
+                    "reference": "597afdbfb5854a07b9e695cff73af261d27e53b1",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_cache": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_kolab_format": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_mime": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_support": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_translation": ">=2.2.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_util": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-imap": "*",
+                    "pear-pear.horde.org/Horde_History": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Imap_Client": ">=2.14.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Test": ">=2.1.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.php.net/HTTP_Request": "*",
+                    "pear-pear.php.net/Net_IMAP": ">=1.1.0@stable"
+                },
+                "time": "2016-01-02T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A package for handling Kolab data stored on an IMAP server",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Storage/tree/v2.2.0"
+                }
+            },
+            {
+                "name": "horde/kolab_storage",
+                "version": "2.2.1",
+                "version_normalized": "2.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Storage.git",
+                    "reference": "b7cbb71106c7a349b7fbe32458e230e8bb5ca249"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Storage/zipball/b7cbb71106c7a349b7fbe32458e230e8bb5ca249",
+                    "reference": "b7cbb71106c7a349b7fbe32458e230e8bb5ca249",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_cache": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_kolab_format": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_mime": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_support": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_translation": ">=2.2.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_util": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=8.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-imap": "*",
+                    "pear-pear.horde.org/Horde_History": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Imap_Client": ">=2.14.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Test": ">=2.1.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.php.net/HTTP_Request": "*",
+                    "pear-pear.php.net/Net_IMAP": ">=1.1.0@stable"
+                },
+                "time": "2016-02-01T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A package for handling Kolab data stored on an IMAP server",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Storage/tree/v2.2.1"
+                }
+            },
+            {
+                "name": "horde/kolab_storage",
+                "version": "2.2.2",
+                "version_normalized": "2.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Storage.git",
+                    "reference": "8af3fd16694c50b0cf946487fcc7763cd8750e30"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Storage/zipball/8af3fd16694c50b0cf946487fcc7763cd8750e30",
+                    "reference": "8af3fd16694c50b0cf946487fcc7763cd8750e30",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_cache": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_kolab_format": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_mime": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_support": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_translation": ">=2.2.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_util": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=8.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-imap": "*",
+                    "pear-pear.horde.org/Horde_History": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Imap_Client": ">=2.14.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Test": ">=2.1.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.php.net/HTTP_Request": "*",
+                    "pear-pear.php.net/Net_IMAP": ">=1.1.0@stable"
+                },
+                "time": "2016-04-05T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A package for handling Kolab data stored on an IMAP server",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Storage/tree/v2.2.2"
+                }
+            },
+            {
+                "name": "horde/kolab_storage",
+                "version": "2.2.3",
+                "version_normalized": "2.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Storage.git",
+                    "reference": "894399eb2520fcc2745704fdee38a955fddd299e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Storage/zipball/894399eb2520fcc2745704fdee38a955fddd299e",
+                    "reference": "894399eb2520fcc2745704fdee38a955fddd299e",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_cache": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_kolab_format": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_mime": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_support": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_translation": ">=2.2.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_util": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=8.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-imap": "*",
+                    "pear-pear.horde.org/Horde_History": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Imap_Client": ">=2.14.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Test": ">=2.1.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.php.net/HTTP_Request": "*",
+                    "pear-pear.php.net/Net_IMAP": ">=1.1.0@stable"
+                },
+                "time": "2016-12-16T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A package for handling Kolab data stored on an IMAP server",
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Storage/tree/v2.2.3"
+                }
+            }
+        ]
+    }
+}
