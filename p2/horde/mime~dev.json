@@ -75,12 +75,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Mime.git",
-                    "reference": "163433d8c77dfddab5af3b647d4a257d8bc82f26"
+                    "reference": "6e0807ea426f7c4743e651d2bd4d1180d2f32c8d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/163433d8c77dfddab5af3b647d4a257d8bc82f26",
-                    "reference": "163433d8c77dfddab5af3b647d4a257d8bc82f26",
+                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/6e0807ea426f7c4743e651d2bd4d1180d2f32c8d",
+                    "reference": "6e0807ea426f7c4743e651d2bd4d1180d2f32c8d",
                     "shasum": ""
                 },
                 "require": {
@@ -136,6 +136,73 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Mime",
                 "support": {
                     "source": "https://github.com/maintaina-com/Mime/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/mime",
+                "version": "dev-backport-horde-upstream-serialization",
+                "version_normalized": "dev-backport-horde-upstream-serialization",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Mime.git",
+                    "reference": "e4d4b639b790f288a9778798f74243fc2584d2ec"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Mime/zipball/e4d4b639b790f288a9778798f74243fc2584d2ec",
+                    "reference": "e4d4b639b790f288a9778798f74243fc2584d2ec",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_listheaders": "^1.2",
+                    "pear-pear.horde.org/horde_mail": "^2.5",
+                    "pear-pear.horde.org/horde_stream": "^1.3",
+                    "pear-pear.horde.org/horde_stream_filter": "^2",
+                    "pear-pear.horde.org/horde_support": "^2.1",
+                    "pear-pear.horde.org/horde_text_flowed": "^2",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_mime": "2.*",
+                    "pear-pear.horde.org/horde_mime": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Nls": "^2",
+                    "pear-pear.horde.org/Horde_Test": "^2.1",
+                    "pear-pear.horde.org/Horde_Text_Filter": "^2",
+                    "pear-pear.php.net/Net_DNS2": "*",
+                    "pear-pecl.php.net/idn": "*",
+                    "pear-pecl.php.net/intl": "*"
+                },
+                "time": "2018-01-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Mime": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "MIME library",
+                "homepage": "https://www.horde.org/libraries/Horde_Mime",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mime/tree/backport-horde-upstream-serialization"
                 }
             },
             {
