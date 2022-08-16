@@ -61,12 +61,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Kolab_Format.git",
-                    "reference": "c62a480d52e143bb750d8e0d3dc3cc87386a7cdc"
+                    "reference": "c343696dc4abd09bc54a786127f5d6f7fbd388e7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Format/zipball/c62a480d52e143bb750d8e0d3dc3cc87386a7cdc",
-                    "reference": "c62a480d52e143bb750d8e0d3dc3cc87386a7cdc",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Format/zipball/c343696dc4abd09bc54a786127f5d6f7fbd388e7",
+                    "reference": "c343696dc4abd09bc54a786127f5d6f7fbd388e7",
                     "shasum": ""
                 },
                 "require": {
@@ -76,15 +76,15 @@
                     "php": "^7 || ^8"
                 },
                 "require-dev": {
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
-                    "phpunit/phpunit": "^9"
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
                     "ext-mbstring": "*",
                     "horde/support": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2022-08-15T00:00:00+00:00",
+                "time": "2022-08-16T00:00:00+00:00",
+                "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
@@ -296,7 +296,6 @@
                     "horde/test": "^2.1"
                 },
                 "time": "2020-10-27T00:00:00+00:00",
-                "default-branch": true,
                 "type": "horde-library",
                 "autoload": {
                     "psr-0": {

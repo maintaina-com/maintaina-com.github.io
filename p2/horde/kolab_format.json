@@ -3,6 +3,63 @@
         "horde/kolab_format": [
             {
                 "name": "horde/kolab_format",
+                "version": "v2.0.10",
+                "version_normalized": "2.0.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Format.git",
+                    "reference": "7f9f864026665d33d7c3dfd4555bbb090924386a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Format/zipball/7f9f864026665d33d7c3dfd4555bbb090924386a",
+                    "reference": "7f9f864026665d33d7c3dfd4555bbb090924386a",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7 || ^8"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "ext-mbstring": "*",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-08-16T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Format": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Kolab\\Format\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab data format library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Format",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Format/tree/v2.0.10"
+                }
+            },
+            {
+                "name": "horde/kolab_format",
                 "version": "2.0.5",
                 "version_normalized": "2.0.5.0",
                 "source": {
