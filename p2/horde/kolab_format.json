@@ -1,0 +1,224 @@
+{
+    "packages": {
+        "horde/kolab_format": [
+            {
+                "name": "horde/kolab_format",
+                "version": "2.0.5",
+                "version_normalized": "2.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Format.git",
+                    "reference": "9824a57fd061c1401dff5cb44c652e181f52be9c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Format/zipball/9824a57fd061c1401dff5cb44c652e181f52be9c",
+                    "reference": "9824a57fd061c1401dff5cb44c652e181f52be9c",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0"
+                },
+                "suggest": {
+                    "ext-mbstring": "*",
+                    "pear-pear.horde.org/Horde_Support": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Test": ">=2.1.0@stable,<=3.0.0alpha1@stable"
+                },
+                "time": "2013-09-02T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A package for reading/writing Kolab data formats.",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Format/tree/v2.0.5"
+                }
+            },
+            {
+                "name": "horde/kolab_format",
+                "version": "2.0.6",
+                "version_normalized": "2.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Format.git",
+                    "reference": "bd5b79640c0c77ca03539358c5fb6284d8fd9e71"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Format/zipball/bd5b79640c0c77ca03539358c5fb6284d8fd9e71",
+                    "reference": "bd5b79640c0c77ca03539358c5fb6284d8fd9e71",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-mbstring": "*",
+                    "pear-pear.horde.org/Horde_Support": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Test": ">=2.1.0@stable,<=3.0.0alpha1@stable"
+                },
+                "time": "2015-01-09T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A package for reading/writing Kolab data formats.",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Format/tree/v2.0.6"
+                }
+            },
+            {
+                "name": "horde/kolab_format",
+                "version": "2.0.7",
+                "version_normalized": "2.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Format.git",
+                    "reference": "244c3b41af097c4148aec49cd645f3f64b836195"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Format/zipball/244c3b41af097c4148aec49cd645f3f64b836195",
+                    "reference": "244c3b41af097c4148aec49cd645f3f64b836195",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_util": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-mbstring": "*",
+                    "pear-pear.horde.org/Horde_Support": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Test": ">=2.1.0@stable,<=3.0.0alpha1@stable"
+                },
+                "time": "2015-04-28T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A package for reading/writing Kolab data formats.",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Format/tree/v2.0.7"
+                }
+            },
+            {
+                "name": "horde/kolab_format",
+                "version": "2.0.8",
+                "version_normalized": "2.0.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Format.git",
+                    "reference": "a8e6aed619b2843896d9b2a049da1e4a5861199f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Format/zipball/a8e6aed619b2843896d9b2a049da1e4a5861199f",
+                    "reference": "a8e6aed619b2843896d9b2a049da1e4a5861199f",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_util": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=8.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-mbstring": "*",
+                    "pear-pear.horde.org/Horde_Support": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Test": ">=2.1.0@stable,<=3.0.0alpha1@stable"
+                },
+                "time": "2016-02-01T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A package for reading/writing Kolab data formats.",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Format/tree/v2.0.8"
+                }
+            },
+            {
+                "name": "horde/kolab_format",
+                "version": "2.0.9",
+                "version_normalized": "2.0.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Format.git",
+                    "reference": "e39f7f89d9ff8bd3aebd24b5bff12aeaee204c2b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Format/zipball/e39f7f89d9ff8bd3aebd24b5bff12aeaee204c2b",
+                    "reference": "e39f7f89d9ff8bd3aebd24b5bff12aeaee204c2b",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_util": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=8.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-mbstring": "*",
+                    "pear-pear.horde.org/Horde_Support": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Test": ">=2.1.0@stable,<=3.0.0alpha1@stable"
+                },
+                "time": "2016-07-02T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A package for reading/writing Kolab data formats.",
+                "homepage": "https://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Format/tree/v2.0.9"
+                }
+            }
+        ]
+    }
+}
