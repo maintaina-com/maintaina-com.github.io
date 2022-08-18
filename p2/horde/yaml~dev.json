@@ -64,29 +64,37 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Yaml.git",
-                    "reference": "2636446dd511615b06042ac218ed9ed138cad49c"
+                    "reference": "b650de4eb8cec6e0153cfdf37d061823ae04cf93"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Yaml/zipball/2636446dd511615b06042ac218ed9ed138cad49c",
-                    "reference": "2636446dd511615b06042ac218ed9ed138cad49c",
+                    "url": "https://api.github.com/repos/maintaina-com/Yaml/zipball/b650de4eb8cec6e0153cfdf37d061823ae04cf93",
+                    "reference": "b650de4eb8cec6e0153cfdf37d061823ae04cf93",
                     "shasum": ""
                 },
                 "require": {
                     "ext-ctype": "*",
-                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
-                "suggest": {
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                "require-dev": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
+                    "phpunit/phpunit": "10.0.x-dev"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "suggest": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-08-18T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Yaml": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Yaml\\Test\\": "test/"
                     }
                 },
                 "license": [
@@ -113,6 +121,62 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Yaml",
                 "support": {
                     "source": "https://github.com/maintaina-com/Yaml/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/yaml",
+                "version": "dev-backport-unittest-fix",
+                "version_normalized": "dev-backport-unittest-fix",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Yaml.git",
+                    "reference": "a884c0848e196d40245df23118b58b0e776cd0c1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Yaml/zipball/a884c0848e196d40245df23118b58b0e776cd0c1",
+                    "reference": "a884c0848e196d40245df23118b58b0e776cd0c1",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_yaml": "2.*",
+                    "pear-pear.horde.org/horde_yaml": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2021-10-24T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Yaml": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Mike Naberezny",
+                        "email": "mike@maintainable.com",
+                        "role": "lead"
+                    }
+                ],
+                "description": "YAML parsing and writing library",
+                "homepage": "https://www.horde.org/libraries/Horde_Yaml",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Yaml/tree/backport-unittest-fix"
                 }
             },
             {
