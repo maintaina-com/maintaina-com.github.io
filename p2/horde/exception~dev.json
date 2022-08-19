@@ -67,12 +67,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Exception.git",
-                    "reference": "2b3dd7196a3678928dbc5123c9bfc4a3fe1427e9"
+                    "reference": "63c71f5bdecf810ffcb5a76a6714c87e86242f32"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Exception/zipball/2b3dd7196a3678928dbc5123c9bfc4a3fe1427e9",
-                    "reference": "2b3dd7196a3678928dbc5123c9bfc4a3fe1427e9",
+                    "url": "https://api.github.com/repos/maintaina-com/Exception/zipball/63c71f5bdecf810ffcb5a76a6714c87e86242f32",
+                    "reference": "63c71f5bdecf810ffcb5a76a6714c87e86242f32",
                     "shasum": ""
                 },
                 "require": {
@@ -124,6 +124,65 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Exception",
                 "support": {
                     "source": "https://github.com/maintaina-com/Exception/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/exception",
+                "version": "dev-backport-php8.1-fix",
+                "version_normalized": "dev-backport-php8.1-fix",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Exception.git",
+                    "reference": "15b6109a0263e55c07fb00c390cafda9a66cd459"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Exception/zipball/15b6109a0263e55c07fb00c390cafda9a66cd459",
+                    "reference": "15b6109a0263e55c07fb00c390cafda9a66cd459",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_exception": "2.*",
+                    "pear-pear.horde.org/horde_exception": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Exception": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Exception handler library",
+                "homepage": "https://www.horde.org/libraries/Horde_Exception",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Exception/tree/backport-php8.1-fix"
                 }
             },
             {
