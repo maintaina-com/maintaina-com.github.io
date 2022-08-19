@@ -57,12 +57,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Translation.git",
-                    "reference": "8fe09ab2b2e431cc9ed0bf88b2ef8d8b06c617ae"
+                    "reference": "7c5e7e462a5213e9d5a13bef8ac19e6004651f93"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Translation/zipball/8fe09ab2b2e431cc9ed0bf88b2ef8d8b06c617ae",
-                    "reference": "8fe09ab2b2e431cc9ed0bf88b2ef8d8b06c617ae",
+                    "url": "https://api.github.com/repos/maintaina-com/Translation/zipball/7c5e7e462a5213e9d5a13bef8ac19e6004651f93",
+                    "reference": "7c5e7e462a5213e9d5a13bef8ac19e6004651f93",
                     "shasum": ""
                 },
                 "require": {
@@ -74,7 +74,7 @@
                 "suggest": {
                     "ext-gettext": "*"
                 },
-                "time": "2021-11-24T00:00:00+00:00",
+                "time": "2022-08-19T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
