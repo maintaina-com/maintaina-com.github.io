@@ -1,0 +1,55 @@
+{
+    "packages": {
+        "horde/registry": [
+            {
+                "name": "horde/registry",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Registry.git",
+                    "reference": "3c148dd82461851d58e4f9e298d78147ae3a1106"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Registry/zipball/3c148dd82461851d58e4f9e298d78147ae3a1106",
+                    "reference": "3c148dd82461851d58e4f9e298d78147ae3a1106",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/injector": "^3.0",
+                    "php": "^8.1",
+                    "psr/container": "^2.0",
+                    "psr/simple-cache": "^3"
+                },
+                "require-dev": {
+                    "horde/test": "^3.0",
+                    "phpunit/phpunit": "*",
+                    "rector/rector": "^0.14.0"
+                },
+                "time": "2022-08-21T16:48:14+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Horde\\Registry\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Ralf Lang",
+                        "email": "ralf.lang@ralf-lang.de"
+                    }
+                ],
+                "description": "The Horde Registry",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Registry/tree/FRAMEWORK_6_0",
+                    "issues": "https://github.com/maintaina-com/Registry/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$b98528031c31596ef5336aa2dbbbed1210249caa.json": {
-            "sha1": "b98528031c31596ef5336aa2dbbbed1210249caa"
+        "include/all$a6aa0ba7078080ac29cb41934553ec178f8bb53d.json": {
+            "sha1": "a6aa0ba7078080ac29cb41934553ec178f8bb53d"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -111,6 +111,7 @@
         "horde/rdo",
         "horde/refactor",
         "horde/reflection",
+        "horde/registry",
         "horde/release",
         "horde/role",
         "horde/routes",
