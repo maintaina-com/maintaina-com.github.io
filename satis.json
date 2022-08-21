@@ -159,6 +159,7 @@
         {"name": "horde/service_twitter", "url": "https://github.com/maintaina-com/service_twitter", "type": "vcs"},
         {"name": "horde/scribe", "url": "https://github.com/maintaina-com/scribe", "type": "vcs"},
         {"name": "horde/reflection", "url": "https://github.com/maintaina-com/reflection", "type": "vcs"},
+        {"name": "horde/registry", "url": "https://github.com/maintaina-com/registry", "type": "vcs"},
         {"name": "horde/pgp", "url": "https://github.com/maintaina-com/pgp", "type": "vcs"},
         {"name": "horde/rampage", "url": "https://github.com/maintaina-com/rampage", "type": "vcs"},
         {"name": "horde/oauth", "url": "https://github.com/maintaina-com/oauth", "type": "vcs"},
