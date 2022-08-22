@@ -53,12 +53,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Rampage.git",
-                    "reference": "0fc66b393df019dbe12213267fb2ba2ce95978bc"
+                    "reference": "986800c982580ec547b6d9bcdae123e69bd80d60"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Rampage/zipball/0fc66b393df019dbe12213267fb2ba2ce95978bc",
-                    "reference": "0fc66b393df019dbe12213267fb2ba2ce95978bc",
+                    "url": "https://api.github.com/repos/maintaina-com/Rampage/zipball/986800c982580ec547b6d9bcdae123e69bd80d60",
+                    "reference": "986800c982580ec547b6d9bcdae123e69bd80d60",
                     "shasum": ""
                 },
                 "require": {
@@ -70,6 +70,9 @@
                 "autoload": {
                     "psr-0": {
                         "Horde_Rampage": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Rampage\\": "src/"
                     }
                 },
                 "license": [
