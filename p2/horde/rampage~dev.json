@@ -53,16 +53,16 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Rampage.git",
-                    "reference": "081f5a1839f643fdff7d4b9cbfef14d02b3cf6de"
+                    "reference": "0fc66b393df019dbe12213267fb2ba2ce95978bc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Rampage/zipball/081f5a1839f643fdff7d4b9cbfef14d02b3cf6de",
-                    "reference": "081f5a1839f643fdff7d4b9cbfef14d02b3cf6de",
+                    "url": "https://api.github.com/repos/maintaina-com/Rampage/zipball/0fc66b393df019dbe12213267fb2ba2ce95978bc",
+                    "reference": "0fc66b393df019dbe12213267fb2ba2ce95978bc",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "time": "2021-07-04T00:00:00+00:00",
                 "default-branch": true,
