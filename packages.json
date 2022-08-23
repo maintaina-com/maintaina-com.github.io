@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$ace6a8e583494da878b5593324d6e69875686e0a.json": {
-            "sha1": "ace6a8e583494da878b5593324d6e69875686e0a"
+        "include/all$bb71a3738793c19617fa5b2f128f688d2eb85476.json": {
+            "sha1": "bb71a3738793c19617fa5b2f128f688d2eb85476"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -47,6 +47,7 @@
         "horde/eventdispatcher",
         "horde/exception",
         "horde/feed",
+        "horde/filesystem",
         "horde/form",
         "horde/gollem",
         "horde/group",
