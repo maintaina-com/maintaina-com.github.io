@@ -13,6 +13,7 @@
         {"name": "horde/hordectl", "url": "https://github.com/maintaina-com/hordectl", "type": "vcs"},
         {"name": "horde/ansel", "url": "https://github.com/maintaina-com/ansel", "type": "vcs"},
         {"name": "horde/content", "url": "https://github.com/maintaina-com/content", "type": "vcs"},
+        {"name": "horde/filesystem", "url": "https://github.com/maintaina-com/filesystem", "type": "vcs"},
         {"name": "horde/imp", "url": "https://github.com/maintaina-com/imp", "type": "vcs"},
         {"name": "horde/ingo", "url": "https://github.com/maintaina-com/ingo", "type": "vcs"},
         {"name": "horde/kronolith", "url": "https://github.com/maintaina-com/kronolith", "type": "vcs"},
