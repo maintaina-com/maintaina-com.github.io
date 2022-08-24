@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/hordectl.git",
-                    "reference": "40572aa32b6b0d5a90f9875cd7594f0da7476943"
+                    "reference": "4db193f6f5669ff40da6d978d45305051137683d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/hordectl/zipball/40572aa32b6b0d5a90f9875cd7594f0da7476943",
-                    "reference": "40572aa32b6b0d5a90f9875cd7594f0da7476943",
+                    "url": "https://api.github.com/repos/maintaina-com/hordectl/zipball/4db193f6f5669ff40da6d978d45305051137683d",
+                    "reference": "4db193f6f5669ff40da6d978d45305051137683d",
                     "shasum": ""
                 },
                 "require": {
@@ -103,6 +103,62 @@
                 "homepage": "https://www.horde.org/",
                 "support": {
                     "source": "https://github.com/maintaina-com/hordectl/tree/master",
+                    "issues": "https://github.com/maintaina-com/hordectl/issues"
+                }
+            },
+            {
+                "name": "horde/hordectl",
+                "version": "dev-symphony-experiment",
+                "version_normalized": "dev-symphony-experiment",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/hordectl.git",
+                    "reference": "53f4e9e3c8c5b0a8533055c974ec3cf6443f604d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/hordectl/zipball/53f4e9e3c8c5b0a8533055c974ec3cf6443f604d",
+                    "reference": "53f4e9e3c8c5b0a8533055c974ec3cf6443f604d",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/argv": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/cli_modular": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/injector": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/yaml": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/core": "dev-FRAMEWORK_6_0",
+                    "horde/group": "dev-FRAMEWORK_6_0",
+                    "horde/perms": "dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-03-13T00:00:00+00:00",
+                "bin": [
+                    "bin/hordectl"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Horde\\Hordectl\\": "src/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Scenario deployer library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/hordectl/tree/symphony-experiment",
                     "issues": "https://github.com/maintaina-com/hordectl/issues"
                 }
             }
