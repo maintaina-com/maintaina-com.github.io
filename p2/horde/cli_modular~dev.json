@@ -62,27 +62,38 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Cli_Modular.git",
-                    "reference": "3ad88b5efd4248c1cd6f49a9d76bbed67947ef46"
+                    "reference": "bc10bf7663dfe8bb187c4264b1bdde171e0590cf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Cli_Modular/zipball/3ad88b5efd4248c1cd6f49a9d76bbed67947ef46",
-                    "reference": "3ad88b5efd4248c1cd6f49a9d76bbed67947ef46",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli_Modular/zipball/bc10bf7663dfe8bb187c4264b1bdde171e0590cf",
+                    "reference": "bc10bf7663dfe8bb187c4264b1bdde171e0590cf",
                     "shasum": ""
                 },
                 "require": {
                     "horde/argv": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
+                "require-dev": {
+                    "horde/test": "dev-FRAMEWORK_6_0"
+                },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-08-25T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Cli_Modular": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Cli\\Modular\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Cli\\Modular\\Test\\": "test/"
                     }
                 },
                 "license": [
