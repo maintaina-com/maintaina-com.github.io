@@ -59,12 +59,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/hordectl.git",
-                    "reference": "ec1cc599c20d0a1b9f40b9d2388f8f0f653484a7"
+                    "reference": "c6372a92ec1a7ffbb917068ddb7a6d74caf5b73b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/hordectl/zipball/ec1cc599c20d0a1b9f40b9d2388f8f0f653484a7",
-                    "reference": "ec1cc599c20d0a1b9f40b9d2388f8f0f653484a7",
+                    "url": "https://api.github.com/repos/maintaina-com/hordectl/zipball/c6372a92ec1a7ffbb917068ddb7a6d74caf5b73b",
+                    "reference": "c6372a92ec1a7ffbb917068ddb7a6d74caf5b73b",
                     "shasum": ""
                 },
                 "require": {
@@ -75,6 +75,10 @@
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "horde/yaml": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
+                    "phpunit/phpunit": "^9 || ^10"
                 },
                 "time": "2022-08-25T00:00:00+00:00",
                 "default-branch": true,
