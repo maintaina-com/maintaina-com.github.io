@@ -62,12 +62,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Cli_Modular.git",
-                    "reference": "1d304c8d9a18a8becc1730c6035cc5a0634a0ad6"
+                    "reference": "3872548d5cf8aaa3f73e324e8b037f647787e23d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Cli_Modular/zipball/1d304c8d9a18a8becc1730c6035cc5a0634a0ad6",
-                    "reference": "1d304c8d9a18a8becc1730c6035cc5a0634a0ad6",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli_Modular/zipball/3872548d5cf8aaa3f73e324e8b037f647787e23d",
+                    "reference": "3872548d5cf8aaa3f73e324e8b037f647787e23d",
                     "shasum": ""
                 },
                 "require": {
