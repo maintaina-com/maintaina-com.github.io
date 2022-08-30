@@ -69,24 +69,24 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Vcs.git",
-                    "reference": "4a88b21d9098497883daf3b5b0507e8c8b420aa1"
+                    "reference": "65a5b455a5316682ea4a9bff94b7c65bce54438e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Vcs/zipball/4a88b21d9098497883daf3b5b0507e8c8b420aa1",
-                    "reference": "4a88b21d9098497883daf3b5b0507e8c8b420aa1",
+                    "url": "https://api.github.com/repos/maintaina-com/Vcs/zipball/65a5b455a5316682ea4a9bff94b7c65bce54438e",
+                    "reference": "65a5b455a5316682ea4a9bff94b7c65bce54438e",
                     "shasum": ""
                 },
                 "require": {
-                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3",
                     "php": "^7.4 || ^8"
                 },
                 "require-dev": {
-                    "horde/cache": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                    "horde/cache": "^3",
+                    "horde/test": "^3"
                 },
                 "suggest": {
-                    "horde/cache": "^3 || dev-FRAMEWORK_6_0"
+                    "horde/cache": "^3"
                 },
                 "time": "2022-08-30T00:00:00+00:00",
                 "default-branch": true,
