@@ -69,29 +69,39 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Vcs.git",
-                    "reference": "79ed6c472081a2e2d7e267660716d202bd41a322"
+                    "reference": "4a88b21d9098497883daf3b5b0507e8c8b420aa1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Vcs/zipball/79ed6c472081a2e2d7e267660716d202bd41a322",
-                    "reference": "79ed6c472081a2e2d7e267660716d202bd41a322",
+                    "url": "https://api.github.com/repos/maintaina-com/Vcs/zipball/4a88b21d9098497883daf3b5b0507e8c8b420aa1",
+                    "reference": "4a88b21d9098497883daf3b5b0507e8c8b420aa1",
                     "shasum": ""
                 },
                 "require": {
-                    "ext-pcre": "*",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
-                "suggest": {
+                "require-dev": {
                     "horde/cache": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "suggest": {
+                    "horde/cache": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-08-30T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Vcs": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Vcs\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Vcs\\Test\\": "test/"
                     }
                 },
                 "license": [
