@@ -210,7 +210,185 @@
                 "description": "Developer tool for managing Horde components",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/FRAMEWORK_6_0",
+                    "source": "https://github.com/maintaina-com/components/tree/v1.0.0-alpha5",
+                    "issues": "https://github.com/maintaina-com/components/issues"
+                }
+            },
+            {
+                "name": "horde/components",
+                "version": "dev-FRAMEWORK_6_0.php.7.4",
+                "version_normalized": "dev-FRAMEWORK_6_0.php.7.4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/components.git",
+                    "reference": "b132a1266a9b84f19cd06d21289eddd0c00c412c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/b132a1266a9b84f19cd06d21289eddd0c00c412c",
+                    "reference": "b132a1266a9b84f19cd06d21289eddd0c00c412c",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/argv": "* || dev-FRAMEWORK_6_0",
+                    "horde/autoloader": "* || dev-FRAMEWORK_6_0",
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/cli_modular": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
+                    "horde/http": "* || dev-FRAMEWORK_6_0",
+                    "horde/injector": "* || dev-FRAMEWORK_6_0",
+                    "horde/pear": "* || dev-FRAMEWORK_6_0",
+                    "horde/release": "^4 || dev-FRAMEWORK_6_0",
+                    "horde/role": "* || dev-FRAMEWORK_6_0",
+                    "horde/text_diff": "* || dev-FRAMEWORK_6_0",
+                    "horde/util": "* || dev-FRAMEWORK_6_0",
+                    "horde/yaml": "* || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
+                    "pear/archive_tar": "^1.4",
+                    "phploc/phploc": "^7",
+                    "phpmd/phpmd": "^2.9",
+                    "phpunit/phpunit": "^9",
+                    "sebastian/phpcpd": "^6",
+                    "sebastian/phpdcd": "^1",
+                    "squizlabs/php_codesniffer": "^3.5"
+                },
+                "time": "2022-04-19T00:00:00+00:00",
+                "bin": [
+                    "bin/horde-components"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Components": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Components\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Components\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "contributor"
+                    }
+                ],
+                "description": "Developer tool for managing Horde components",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/components/tree/FRAMEWORK_6_0.php.7.4",
+                    "issues": "https://github.com/maintaina-com/components/issues"
+                }
+            },
+            {
+                "name": "horde/components",
+                "version": "dev-FRAMEWORK_6_0.php.8.1",
+                "version_normalized": "dev-FRAMEWORK_6_0.php.8.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/components.git",
+                    "reference": "fc21c4bf9effcf4286c36941e6e5de93e70d420f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/fc21c4bf9effcf4286c36941e6e5de93e70d420f",
+                    "reference": "fc21c4bf9effcf4286c36941e6e5de93e70d420f",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/argv": "* || dev-FRAMEWORK_6_0",
+                    "horde/autoloader": "* || dev-FRAMEWORK_6_0",
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/cli_modular": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
+                    "horde/http": "* || dev-FRAMEWORK_6_0",
+                    "horde/injector": "* || dev-FRAMEWORK_6_0",
+                    "horde/pear": "* || dev-FRAMEWORK_6_0",
+                    "horde/release": "^4 || dev-FRAMEWORK_6_0",
+                    "horde/role": "* || dev-FRAMEWORK_6_0",
+                    "horde/text_diff": "* || dev-FRAMEWORK_6_0",
+                    "horde/util": "* || dev-FRAMEWORK_6_0",
+                    "horde/yaml": "* || dev-FRAMEWORK_6_0",
+                    "php": "^8.1"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
+                    "pear/archive_tar": "^1.4",
+                    "phploc/phploc": "^7",
+                    "phpmd/phpmd": "^2.9",
+                    "phpunit/phpunit": "^9",
+                    "sebastian/phpcpd": "^6",
+                    "sebastian/phpdcd": "^1",
+                    "squizlabs/php_codesniffer": "^3.5"
+                },
+                "time": "2022-04-19T00:00:00+00:00",
+                "bin": [
+                    "bin/horde-components"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Components": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Components\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Components\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "contributor"
+                    }
+                ],
+                "description": "Developer tool for managing Horde components",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/components/tree/FRAMEWORK_6_0.php.8.1",
                     "issues": "https://github.com/maintaina-com/components/issues"
                 }
             },
