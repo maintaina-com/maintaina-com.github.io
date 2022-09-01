@@ -70,12 +70,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Argv.git",
-                    "reference": "a051d5973260a049c83126947ef27fd40042cd3a"
+                    "reference": "fee5337396bec8fde25e406179fd6f49a02245c0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Argv/zipball/a051d5973260a049c83126947ef27fd40042cd3a",
-                    "reference": "a051d5973260a049c83126947ef27fd40042cd3a",
+                    "url": "https://api.github.com/repos/maintaina-com/Argv/zipball/fee5337396bec8fde25e406179fd6f49a02245c0",
+                    "reference": "fee5337396bec8fde25e406179fd6f49a02245c0",
                     "shasum": ""
                 },
                 "require": {
