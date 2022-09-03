@@ -1,0 +1,57 @@
+{
+    "packages": {
+        "horde/platform": [
+            {
+                "name": "horde/platform",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Platform.git",
+                    "reference": "05b94cefadc96b3d35330936a8a4c839ec89b466"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Platform/zipball/05b94cefadc96b3d35330936a8a4c839ec89b466",
+                    "reference": "05b94cefadc96b3d35330936a8a4c839ec89b466",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^8.1 || ^9",
+                    "psr/log": "^3"
+                },
+                "require-dev": {
+                    "horde/test": "^3",
+                    "phpunit/phpunit": "^9 || ^10"
+                },
+                "time": "2022-09-03T14:20:31+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Horde\\Platform\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Platform\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ralf Lang",
+                        "email": "ralf.lang@ralf-lang.de"
+                    }
+                ],
+                "description": "OO interface to detecting Linux/Windows platform and running external commands.",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Platform/tree/FRAMEWORK_6_0",
+                    "issues": "https://github.com/maintaina-com/Platform/issues"
+                }
+            }
+        ]
+    }
+}
