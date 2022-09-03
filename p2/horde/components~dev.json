@@ -131,12 +131,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/components.git",
-                    "reference": "f78ab6b5f92b18cebfab613cf86b6b2f9848ffb0"
+                    "reference": "645ef925710eb6649fa03e905cf214721c21076c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/f78ab6b5f92b18cebfab613cf86b6b2f9848ffb0",
-                    "reference": "f78ab6b5f92b18cebfab613cf86b6b2f9848ffb0",
+                    "url": "https://api.github.com/repos/maintaina-com/components/zipball/645ef925710eb6649fa03e905cf214721c21076c",
+                    "reference": "645ef925710eb6649fa03e905cf214721c21076c",
                     "shasum": ""
                 },
                 "require": {
@@ -210,7 +210,7 @@
                 "description": "Developer tool for managing Horde components",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/components/tree/v1.0.0-alpha5",
+                    "source": "https://github.com/maintaina-com/components/tree/FRAMEWORK_6_0",
                     "issues": "https://github.com/maintaina-com/components/issues"
                 }
             },
