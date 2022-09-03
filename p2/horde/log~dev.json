@@ -67,12 +67,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Log.git",
-                    "reference": "d496ba8dd1ff05e3bcd8751542f95f13c52cd380"
+                    "reference": "5088d3f85f622ee237367aa3a8d6b47424ca6428"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Log/zipball/d496ba8dd1ff05e3bcd8751542f95f13c52cd380",
-                    "reference": "d496ba8dd1ff05e3bcd8751542f95f13c52cd380",
+                    "url": "https://api.github.com/repos/maintaina-com/Log/zipball/5088d3f85f622ee237367aa3a8d6b47424ca6428",
+                    "reference": "5088d3f85f622ee237367aa3a8d6b47424ca6428",
                     "shasum": ""
                 },
                 "require": {
@@ -81,7 +81,7 @@
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8",
                     "php-extended/polyfill-php80-stringable": "^1",
-                    "psr/log": "^1"
+                    "psr/log": "^1 || ^2 || ^3"
                 },
                 "require-dev": {
                     "horde/cli": "^3 || dev-FRAMEWORK_6_0",
