@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "horde/dummy": [
+            {
+                "name": "horde/dummy",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/dummy.git",
+                    "reference": "b788c455a0adefae18615dbcde7f93e826a39e4d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/dummy/zipball/b788c455a0adefae18615dbcde7f93e826a39e4d",
+                    "reference": "b788c455a0adefae18615dbcde7f93e826a39e4d",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.4 || ^8.1 || ^9"
+                },
+                "time": "2022-09-08T10:55:29+00:00",
+                "default-branch": true,
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ralf Lang",
+                        "email": "ralf.lang@ralf-lang.de"
+                    }
+                ],
+                "description": "Mock package to try out various composer, satis and versioning things",
+                "support": {
+                    "source": "https://github.com/maintaina-com/dummy/tree/main",
+                    "issues": "https://github.com/maintaina-com/dummy/issues"
+                }
+            }
+        ]
+    }
+}

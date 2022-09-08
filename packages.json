@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$18de1444ea8fad5237c18d79bcb2d734f36aa0f1.json": {
-            "sha1": "18de1444ea8fad5237c18d79bcb2d734f36aa0f1"
+        "include/all$a9ac15237c815718b91ead01800f03f7974343fc.json": {
+            "sha1": "a9ac15237c815718b91ead01800f03f7974343fc"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -42,6 +42,7 @@
         "horde/dav",
         "horde/db",
         "horde/dns",
+        "horde/dummy",
         "horde/editor",
         "horde/elasticsearch",
         "horde/eventdispatcher",
