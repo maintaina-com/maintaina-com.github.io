@@ -30,6 +30,7 @@
         {"name": "horde/hermes", "url": "https://github.com/maintaina-com/hermes", "type": "vcs"},
         {"name": "horde/beatnik", "url": "https://github.com/maintaina-com/beatnik", "type": "vcs"},
         {"name": "horde/chora", "url": "https://github.com/maintaina-com/chora", "type": "vcs"},
+        {"name": "horde/dummy", "url": "https://github.com/maintaina-com/dummy", "type": "vcs"},
         {"name": "horde/vilma", "url": "https://github.com/maintaina-com/vilma", "type": "vcs"},
         {"name": "horde/wicked", "url": "https://github.com/maintaina-com/wicked", "type": "vcs"},
         {"name": "horde/refactor", "url": "https://github.com/maintaina-com/refactor", "type": "vcs"},
