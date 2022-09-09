@@ -3,23 +3,23 @@
         "horde/dummy": [
             {
                 "name": "horde/dummy",
-                "version": "v1.0.0.70400",
-                "version_normalized": "1.0.0.70400",
+                "version": "v1.0.0.70400alpha1",
+                "version_normalized": "1.0.0.70400-alpha1",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/dummy.git",
-                    "reference": "821ded2ef45a2a6ba67bf05eeab1e97d1dd2d392"
+                    "reference": "f5dc924aed1f055985d274491d2e9342727d5761"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/dummy/zipball/821ded2ef45a2a6ba67bf05eeab1e97d1dd2d392",
-                    "reference": "821ded2ef45a2a6ba67bf05eeab1e97d1dd2d392",
+                    "url": "https://api.github.com/repos/maintaina-com/dummy/zipball/f5dc924aed1f055985d274491d2e9342727d5761",
+                    "reference": "f5dc924aed1f055985d274491d2e9342727d5761",
                     "shasum": ""
                 },
                 "require": {
                     "php": "^7.4"
                 },
-                "time": "2022-09-08T10:58:46+00:00",
+                "time": "2022-09-08T11:06:22+00:00",
                 "type": "library",
                 "license": [
                     "MIT"
@@ -32,29 +32,29 @@
                 ],
                 "description": "Mock package to try out various composer, satis and versioning things",
                 "support": {
-                    "source": "https://github.com/maintaina-com/dummy/tree/v1.0.0.70400",
+                    "source": "https://github.com/maintaina-com/dummy/tree/v1.0.0.70400alpha1",
                     "issues": "https://github.com/maintaina-com/dummy/issues"
                 }
             },
             {
                 "name": "horde/dummy",
-                "version": "v1.0.0.80100",
-                "version_normalized": "1.0.0.80100",
+                "version": "v1.0.0.80100alpha1",
+                "version_normalized": "1.0.0.80100-alpha1",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/dummy.git",
-                    "reference": "271afd13dd8505bf737dfcd19fc9d92c30c97540"
+                    "reference": "7f2ed3e62877d6ce4ef2fcaaa0d68c5eaec64f0e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/dummy/zipball/271afd13dd8505bf737dfcd19fc9d92c30c97540",
-                    "reference": "271afd13dd8505bf737dfcd19fc9d92c30c97540",
+                    "url": "https://api.github.com/repos/maintaina-com/dummy/zipball/7f2ed3e62877d6ce4ef2fcaaa0d68c5eaec64f0e",
+                    "reference": "7f2ed3e62877d6ce4ef2fcaaa0d68c5eaec64f0e",
                     "shasum": ""
                 },
                 "require": {
                     "php": "^8.1"
                 },
-                "time": "2022-09-08T10:58:46+00:00",
+                "time": "2022-09-08T11:06:22+00:00",
                 "type": "library",
                 "license": [
                     "MIT"
@@ -67,7 +67,7 @@
                 ],
                 "description": "Mock package to try out various composer, satis and versioning things",
                 "support": {
-                    "source": "https://github.com/maintaina-com/dummy/tree/v1.0.0.80100",
+                    "source": "https://github.com/maintaina-com/dummy/tree/v1.0.0.80100alpha1",
                     "issues": "https://github.com/maintaina-com/dummy/issues"
                 }
             }
