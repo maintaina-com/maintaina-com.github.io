@@ -59,12 +59,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/hordectl.git",
-                    "reference": "b2bce7b40178f6acf6ffa5074509b40ef9a57011"
+                    "reference": "7efd62c721bf9f66c13aab7b24a0ef6a7d692f0d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/hordectl/zipball/b2bce7b40178f6acf6ffa5074509b40ef9a57011",
-                    "reference": "b2bce7b40178f6acf6ffa5074509b40ef9a57011",
+                    "url": "https://api.github.com/repos/maintaina-com/hordectl/zipball/7efd62c721bf9f66c13aab7b24a0ef6a7d692f0d",
+                    "reference": "7efd62c721bf9f66c13aab7b24a0ef6a7d692f0d",
                     "shasum": ""
                 },
                 "require": {
