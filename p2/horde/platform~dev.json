@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Platform.git",
-                    "reference": "5c5e83cbad9516c04f2f9a4b95f07e8dfa2e5069"
+                    "reference": "3690537d4f6bd724baadb894b18373d74c03b26e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Platform/zipball/5c5e83cbad9516c04f2f9a4b95f07e8dfa2e5069",
-                    "reference": "5c5e83cbad9516c04f2f9a4b95f07e8dfa2e5069",
+                    "url": "https://api.github.com/repos/maintaina-com/Platform/zipball/3690537d4f6bd724baadb894b18373d74c03b26e",
+                    "reference": "3690537d4f6bd724baadb894b18373d74c03b26e",
                     "shasum": ""
                 },
                 "require": {
@@ -24,7 +24,7 @@
                     "horde/test": "^3",
                     "phpunit/phpunit": "^9 || ^10"
                 },
-                "time": "2022-09-11T08:26:34+00:00",
+                "time": "2022-09-11T09:28:55+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
