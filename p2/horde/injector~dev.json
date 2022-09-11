@@ -57,12 +57,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Injector.git",
-                    "reference": "d125519c029c1647b4ecb18c30ed73047c47978a"
+                    "reference": "e81712055e4d11b8049f12e7a6896516483772bd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/d125519c029c1647b4ecb18c30ed73047c47978a",
-                    "reference": "d125519c029c1647b4ecb18c30ed73047c47978a",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/e81712055e4d11b8049f12e7a6896516483772bd",
+                    "reference": "e81712055e4d11b8049f12e7a6896516483772bd",
                     "shasum": ""
                 },
                 "require": {
@@ -106,6 +106,120 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Injector",
                 "support": {
                     "source": "https://github.com/maintaina-com/Injector/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/injector",
+                "version": "dev-FRAMEWORK_6_0-php7.4",
+                "version_normalized": "dev-FRAMEWORK_6_0-php7.4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Injector.git",
+                    "reference": "0b17c5b1bd50fa650f5b4599a7ba56cb7da7426e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/0b17c5b1bd50fa650f5b4599a7ba56cb7da7426e",
+                    "reference": "0b17c5b1bd50fa650f5b4599a7ba56cb7da7426e",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8",
+                    "psr/container": "^2"
+                },
+                "provide": {
+                    "psr/container-implementation": "2.0.1"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-09-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Injector": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Injector\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Injector\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Dependency injection container library",
+                "homepage": "https://www.horde.org/libraries/Horde_Injector",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Injector/tree/FRAMEWORK_6_0-php7.4"
+                }
+            },
+            {
+                "name": "horde/injector",
+                "version": "dev-FRAMEWORK_6_0-php8.1",
+                "version_normalized": "dev-FRAMEWORK_6_0-php8.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Injector.git",
+                    "reference": "0b17c5b1bd50fa650f5b4599a7ba56cb7da7426e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/0b17c5b1bd50fa650f5b4599a7ba56cb7da7426e",
+                    "reference": "0b17c5b1bd50fa650f5b4599a7ba56cb7da7426e",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8",
+                    "psr/container": "^2"
+                },
+                "provide": {
+                    "psr/container-implementation": "2.0.1"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-09-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Injector": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Injector\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Injector\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Dependency injection container library",
+                "homepage": "https://www.horde.org/libraries/Horde_Injector",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Injector/tree/FRAMEWORK_6_0-php7.4"
                 }
             },
             {
