@@ -57,12 +57,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Injector.git",
-                    "reference": "e81712055e4d11b8049f12e7a6896516483772bd"
+                    "reference": "57b193a5642e5584641b005f3860ce773a29574c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/e81712055e4d11b8049f12e7a6896516483772bd",
-                    "reference": "e81712055e4d11b8049f12e7a6896516483772bd",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/57b193a5642e5584641b005f3860ce773a29574c",
+                    "reference": "57b193a5642e5584641b005f3860ce773a29574c",
                     "shasum": ""
                 },
                 "require": {
@@ -76,7 +76,7 @@
                 "require-dev": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-11-05T00:00:00+00:00",
+                "time": "2022-09-11T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
@@ -115,12 +115,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Injector.git",
-                    "reference": "0b17c5b1bd50fa650f5b4599a7ba56cb7da7426e"
+                    "reference": "968fa42073ba3aeca55d7c19aabcf3619c1ee826"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/0b17c5b1bd50fa650f5b4599a7ba56cb7da7426e",
-                    "reference": "0b17c5b1bd50fa650f5b4599a7ba56cb7da7426e",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/968fa42073ba3aeca55d7c19aabcf3619c1ee826",
+                    "reference": "968fa42073ba3aeca55d7c19aabcf3619c1ee826",
                     "shasum": ""
                 },
                 "require": {
@@ -162,7 +162,7 @@
                 "description": "Dependency injection container library",
                 "homepage": "https://www.horde.org/libraries/Horde_Injector",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Injector/tree/FRAMEWORK_6_0-php7.4"
+                    "source": "https://github.com/maintaina-com/Injector/tree/v3.0.0alpha9"
                 }
             },
             {
@@ -172,12 +172,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Injector.git",
-                    "reference": "0b17c5b1bd50fa650f5b4599a7ba56cb7da7426e"
+                    "reference": "968fa42073ba3aeca55d7c19aabcf3619c1ee826"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/0b17c5b1bd50fa650f5b4599a7ba56cb7da7426e",
-                    "reference": "0b17c5b1bd50fa650f5b4599a7ba56cb7da7426e",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/968fa42073ba3aeca55d7c19aabcf3619c1ee826",
+                    "reference": "968fa42073ba3aeca55d7c19aabcf3619c1ee826",
                     "shasum": ""
                 },
                 "require": {
@@ -219,7 +219,7 @@
                 "description": "Dependency injection container library",
                 "homepage": "https://www.horde.org/libraries/Horde_Injector",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Injector/tree/FRAMEWORK_6_0-php7.4"
+                    "source": "https://github.com/maintaina-com/Injector/tree/v3.0.0alpha9"
                 }
             },
             {
