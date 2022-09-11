@@ -57,12 +57,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Injector.git",
-                    "reference": "57b193a5642e5584641b005f3860ce773a29574c"
+                    "reference": "b20260011802bf762a2056dab38da717bd11c18b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/57b193a5642e5584641b005f3860ce773a29574c",
-                    "reference": "57b193a5642e5584641b005f3860ce773a29574c",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/b20260011802bf762a2056dab38da717bd11c18b",
+                    "reference": "b20260011802bf762a2056dab38da717bd11c18b",
                     "shasum": ""
                 },
                 "require": {
@@ -162,7 +162,7 @@
                 "description": "Dependency injection container library",
                 "homepage": "https://www.horde.org/libraries/Horde_Injector",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Injector/tree/v3.0.0alpha9"
+                    "source": "https://github.com/maintaina-com/Injector/tree/v3.0.0.70400-alpha9"
                 }
             },
             {
@@ -219,7 +219,7 @@
                 "description": "Dependency injection container library",
                 "homepage": "https://www.horde.org/libraries/Horde_Injector",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Injector/tree/v3.0.0alpha9"
+                    "source": "https://github.com/maintaina-com/Injector/tree/v3.0.0.70400-alpha9"
                 }
             },
             {
