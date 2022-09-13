@@ -65,12 +65,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Text_Diff.git",
-                    "reference": "b2251aea6f17f32fd1f3c6a117580cf79de564f7"
+                    "reference": "bd521e74bda1a01f19c6b7b97787affb05ea6528"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/b2251aea6f17f32fd1f3c6a117580cf79de564f7",
-                    "reference": "b2251aea6f17f32fd1f3c6a117580cf79de564f7",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/bd521e74bda1a01f19c6b7b97787affb05ea6528",
+                    "reference": "bd521e74bda1a01f19c6b7b97787affb05ea6528",
                     "shasum": ""
                 },
                 "require": {
@@ -78,17 +78,29 @@
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
+                "require-dev": {
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
+                    "phpunit/phpunit": "^9.5"
+                },
                 "suggest": {
                     "ext-xdiff": "*",
-                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-09-13T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Text_Diff": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Text\\Diff\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Text\\Diff\\Test\\": "test/"
                     }
                 },
                 "license": [
