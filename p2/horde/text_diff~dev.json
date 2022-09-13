@@ -65,12 +65,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Text_Diff.git",
-                    "reference": "bbc5357df2c0a1323cf9834143825fff516a1413"
+                    "reference": "499f48db5937a62a7921b361a53eef9dd04c9e26"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/bbc5357df2c0a1323cf9834143825fff516a1413",
-                    "reference": "bbc5357df2c0a1323cf9834143825fff516a1413",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/499f48db5937a62a7921b361a53eef9dd04c9e26",
+                    "reference": "499f48db5937a62a7921b361a53eef9dd04c9e26",
                     "shasum": ""
                 },
                 "require": {
