@@ -65,12 +65,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Text_Diff.git",
-                    "reference": "c1eb80820e418e0dc0c500129dcea1f66caf9530"
+                    "reference": "c159cdefdccb4b2778f6611995861fb8166c58d4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/c1eb80820e418e0dc0c500129dcea1f66caf9530",
-                    "reference": "c1eb80820e418e0dc0c500129dcea1f66caf9530",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/c159cdefdccb4b2778f6611995861fb8166c58d4",
+                    "reference": "c159cdefdccb4b2778f6611995861fb8166c58d4",
                     "shasum": ""
                 },
                 "require": {
@@ -122,6 +122,71 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Text_Diff",
                 "support": {
                     "source": "https://github.com/maintaina-com/Text_Diff/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/text_diff",
+                "version": "dev-feature-threeway-first-param-engine-supersedes-pr4",
+                "version_normalized": "dev-feature-threeway-first-param-engine-supersedes-pr4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Text_Diff.git",
+                    "reference": "1ee6ca6887995bc3d5c78fc2775195899e01a2dd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/1ee6ca6887995bc3d5c78fc2775195899e01a2dd",
+                    "reference": "1ee6ca6887995bc3d5c78fc2775195899e01a2dd",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
+                    "phpunit/phpunit": "^9.5"
+                },
+                "suggest": {
+                    "ext-xdiff": "*",
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-09-13T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Text_Diff": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Text\\Diff\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Text\\Diff\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Text diff generation and rendering library",
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/feature-threeway-first-param-engine-supersedes-pr4"
                 }
             }
         ]
