@@ -55,7 +55,8 @@
                 "description": "Text diff generation and rendering library",
                 "homepage": "https://www.horde.org/libraries/Horde_Text_Diff",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Text_Diff/tree/FRAMEWORK_5_2"
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/FRAMEWORK_5_2",
+                    "issues": "https://github.com/maintaina-com/Text_Diff/issues"
                 }
             },
             {
@@ -65,12 +66,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Text_Diff.git",
-                    "reference": "c159cdefdccb4b2778f6611995861fb8166c58d4"
+                    "reference": "a7d28018bbbdb97dfc41079f0dc3747834780806"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/c159cdefdccb4b2778f6611995861fb8166c58d4",
-                    "reference": "c159cdefdccb4b2778f6611995861fb8166c58d4",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/a7d28018bbbdb97dfc41079f0dc3747834780806",
+                    "reference": "a7d28018bbbdb97dfc41079f0dc3747834780806",
                     "shasum": ""
                 },
                 "require": {
@@ -121,7 +122,8 @@
                 "description": "Text diff generation and rendering library",
                 "homepage": "https://www.horde.org/libraries/Horde_Text_Diff",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Text_Diff/tree/FRAMEWORK_6_0"
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/FRAMEWORK_6_0",
+                    "issues": "https://github.com/maintaina-com/Text_Diff/issues"
                 }
             },
             {
@@ -186,7 +188,8 @@
                 "description": "Text diff generation and rendering library",
                 "homepage": "https://www.horde.org/libraries/Horde_Text_Diff",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Text_Diff/tree/feature-threeway-first-param-engine-supersedes-pr4"
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/feature-threeway-first-param-engine-supersedes-pr4",
+                    "issues": "https://github.com/maintaina-com/Text_Diff/issues"
                 }
             }
         ]
