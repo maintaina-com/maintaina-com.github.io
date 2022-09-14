@@ -8,27 +8,23 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Text_Diff.git",
-                    "reference": "72b02adb42e3826c051b98859529df09d96f15c5"
+                    "reference": "bf6f8fb4c24ea71b868d30e74eb1a5f45175ff89"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/72b02adb42e3826c051b98859529df09d96f15c5",
-                    "reference": "72b02adb42e3826c051b98859529df09d96f15c5",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/bf6f8fb4c24ea71b868d30e74eb1a5f45175ff89",
+                    "reference": "bf6f8fb4c24ea71b868d30e74eb1a5f45175ff89",
                     "shasum": ""
                 },
                 "require": {
-                    "pear-pear.horde.org/horde_exception": "^2",
-                    "pear-pear.horde.org/horde_util": "^2",
+                    "horde/exception": "^2",
+                    "horde/util": "^2",
                     "php": "^5.3 || ^7"
                 },
-                "replace": {
-                    "pear-horde/horde_text_diff": "2.*",
-                    "pear-pear.horde.org/horde_text_diff": "2.*"
-                },
                 "suggest": {
-                    "pear-pear.horde.org/Horde_Cli": "^2.1",
-                    "pear-pear.horde.org/Horde_Test": "^2.1",
-                    "pear-pecl.php.net/xdiff": "*"
+                    "horde/cli": "^2.1",
+                    "horde/test": "^2.1",
+                    "xdiff": "*"
                 },
                 "time": "2019-09-29T00:00:00+00:00",
                 "type": "library",
@@ -66,12 +62,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Text_Diff.git",
-                    "reference": "a7d28018bbbdb97dfc41079f0dc3747834780806"
+                    "reference": "e17a48ae2008c62f6f94e9b1f59be44f9bb764e9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/a7d28018bbbdb97dfc41079f0dc3747834780806",
-                    "reference": "a7d28018bbbdb97dfc41079f0dc3747834780806",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/e17a48ae2008c62f6f94e9b1f59be44f9bb764e9",
+                    "reference": "e17a48ae2008c62f6f94e9b1f59be44f9bb764e9",
                     "shasum": ""
                 },
                 "require": {
