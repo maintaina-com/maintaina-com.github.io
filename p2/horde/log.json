@@ -644,6 +644,81 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Log/tree/v3.0.0alpha6"
                 }
+            },
+            {
+                "name": "horde/log",
+                "version": "v3.0.0alpha7",
+                "version_normalized": "3.0.0.0-alpha7",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Log.git",
+                    "reference": "120a2bd3d2e525e2bf1f906ee15ab4bae22f0a88"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Log/zipball/120a2bd3d2e525e2bf1f906ee15ab4bae22f0a88",
+                    "reference": "120a2bd3d2e525e2bf1f906ee15ab4bae22f0a88",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/constraint": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8",
+                    "php-extended/polyfill-php80-stringable": "^1",
+                    "psr/log": "^1 || ^2 || ^3"
+                },
+                "require-dev": {
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/scribe": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "ext-dom": "*",
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/scribe": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-09-18T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Log": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Log\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Log\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Naberezny",
+                        "email": "mike@maintainable.com",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "maintainer"
+                    }
+                ],
+                "description": "Logging library",
+                "homepage": "https://www.horde.org/libraries/Horde_Log",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Log/tree/v3.0.0alpha7"
+                }
             }
         ]
     }
