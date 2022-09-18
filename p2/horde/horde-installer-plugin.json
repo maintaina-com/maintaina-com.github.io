@@ -554,6 +554,46 @@
                     "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v2.4.6",
                     "issues": "https://github.com/maintaina-com/horde-installer-plugin/issues"
                 }
+            },
+            {
+                "name": "horde/horde-installer-plugin",
+                "version": "v2.5.0",
+                "version_normalized": "2.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/horde-installer-plugin.git",
+                    "reference": "77db790be1e2d35e5077aa6aa4bd8665d146183a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/horde-installer-plugin/zipball/77db790be1e2d35e5077aa6aa4bd8665d146183a",
+                    "reference": "77db790be1e2d35e5077aa6aa4bd8665d146183a",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer-plugin-api": "~2.0"
+                },
+                "require-dev": {
+                    "composer/composer": "~2.0",
+                    "horde/test": "^3"
+                },
+                "time": "2022-09-10T12:32:14+00:00",
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "Horde\\Composer\\HordeInstallerPlugin"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Horde\\Composer\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "support": {
+                    "source": "https://github.com/maintaina-com/horde-installer-plugin/tree/v2.5.0",
+                    "issues": "https://github.com/maintaina-com/horde-installer-plugin/issues"
+                }
             }
         ]
     }
