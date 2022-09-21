@@ -60,12 +60,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Cli.git",
-                    "reference": "cc6b75c233bea4877caa915830dc8057282a7557"
+                    "reference": "82e1191a7dd81551c2ac75b63d7979e94583c83c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Cli/zipball/cc6b75c233bea4877caa915830dc8057282a7557",
-                    "reference": "cc6b75c233bea4877caa915830dc8057282a7557",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli/zipball/82e1191a7dd81551c2ac75b63d7979e94583c83c",
+                    "reference": "82e1191a7dd81551c2ac75b63d7979e94583c83c",
                     "shasum": ""
                 },
                 "require": {
@@ -93,7 +93,7 @@
                     }
                 },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
