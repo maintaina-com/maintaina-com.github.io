@@ -1,0 +1,175 @@
+{
+    "packages": {
+        "pear/net_dns2": [
+            {
+                "name": "pear/net_dns2",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/dns2.git",
+                    "reference": "9290816a374a7d2f9c8bbdc224787dc41ab717b6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/dns2/zipball/9290816a374a7d2f9c8bbdc224787dc41ab717b6",
+                    "reference": "9290816a374a7d2f9c8bbdc224787dc41ab717b6",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^9"
+                },
+                "time": "2022-10-05T11:11:49+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Net_DNS2": ""
+                    }
+                },
+                "autoload-dev": {
+                    "psr-0": {
+                        "Tests_Net_DNS2": "tests/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Pultz",
+                        "email": "mike@mikepultz.com",
+                        "homepage": "https://mikepultz.com/",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Native PHP DNS Resolver and Updater Library",
+                "homepage": "https://netdns2.com/",
+                "keywords": [
+                    "dns",
+                    "network",
+                    "pear"
+                ],
+                "support": {
+                    "issues": "https://github.com/mikepultz/netdns2/issues",
+                    "source": "https://github.com/mikepultz/netdns2"
+                }
+            },
+            {
+                "name": "pear/net_dns2",
+                "version": "dev-version-1.5.x",
+                "version_normalized": "dev-version-1.5.x",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/dns2.git",
+                    "reference": "1284c4b1f0a0e1fe087b4fec7dff960d0527e273"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/dns2/zipball/1284c4b1f0a0e1fe087b4fec7dff960d0527e273",
+                    "reference": "1284c4b1f0a0e1fe087b4fec7dff960d0527e273",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^9"
+                },
+                "time": "2020-12-07T05:56:39+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Net_DNS2": ""
+                    }
+                },
+                "autoload-dev": {
+                    "psr-0": {
+                        "Tests_Net_DNS2": "tests/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Pultz",
+                        "email": "mike@mikepultz.com",
+                        "homepage": "https://mikepultz.com/",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Native PHP DNS Resolver and Updater Library",
+                "homepage": "https://netdns2.com/",
+                "keywords": [
+                    "dns",
+                    "network",
+                    "pear"
+                ],
+                "support": {
+                    "issues": "https://github.com/mikepultz/netdns2/issues",
+                    "source": "https://github.com/mikepultz/netdns2"
+                }
+            },
+            {
+                "name": "pear/net_dns2",
+                "version": "dev-version-1.6.x",
+                "version_normalized": "dev-version-1.6.x",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/dns2.git",
+                    "reference": "2c6c4236f55ea9608d59b0dc9acb36e82ad73828"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/dns2/zipball/2c6c4236f55ea9608d59b0dc9acb36e82ad73828",
+                    "reference": "2c6c4236f55ea9608d59b0dc9acb36e82ad73828",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^9"
+                },
+                "time": "2020-12-07T19:53:18+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "NetDNS2\\": "src/NetDNS2/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "NetDNS2\\Tests\\": "tests/NetDNS2/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Pultz",
+                        "email": "mike@mikepultz.com",
+                        "homepage": "https://mikepultz.com/",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Native PHP DNS Resolver and Updater Library",
+                "homepage": "https://netdns2.com/",
+                "keywords": [
+                    "dns",
+                    "network",
+                    "pear"
+                ],
+                "support": {
+                    "issues": "https://github.com/mikepultz/netdns2/issues",
+                    "source": "https://github.com/mikepultz/netdns2"
+                }
+            }
+        ]
+    }
+}

@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$854d17a40b895a4dd7c40635f220462199ea44ef.json": {
-            "sha1": "854d17a40b895a4dd7c40635f220462199ea44ef"
+        "include/all$c5f2c6ddf358cd92d1327d6582a158f9d26f795c.json": {
+            "sha1": "c5f2c6ddf358cd92d1327d6582a158f9d26f795c"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -177,6 +177,7 @@
         "pear/console_getopt",
         "pear/crypt_chap",
         "pear/file_fstab",
+        "pear/net_dns2",
         "pear/text_captcha",
         "pear/text_figlet",
         "pear/xml_svg"
