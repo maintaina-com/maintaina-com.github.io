@@ -194,8 +194,8 @@
         {"name": "pear/xml_svg", "url": "https://github.com/ralflang/xml_svg", "type": "vcs"},
         {"name": "pear/file_fstab", "url": "https://github.com/ralflang/file_fstab", "type": "vcs"},
         {"name": "pear/text_figlet", "url": "https://github.com/ralflang/text_figlet", "type": "vcs"},
-        {"name": "pear/text_captcha", "url": "https://github.com/ralflang/text_captcha", "type": "vcs"}
-
+        {"name": "pear/text_captcha", "url": "https://github.com/ralflang/text_captcha", "type": "vcs"},
+        {"name": "pear/net_dns2", "url": "https://github.com/maintaina-com/dns2", "type": "vcs"}
     ]
 }
 
