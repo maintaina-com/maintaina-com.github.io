@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Core.git",
-                    "reference": "213b640fff16ec506e4b7d7068fadae2b9ea2386"
+                    "reference": "adf3f6e263851a5dace3c7d7b1a62059b5192b0a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Core/zipball/213b640fff16ec506e4b7d7068fadae2b9ea2386",
-                    "reference": "213b640fff16ec506e4b7d7068fadae2b9ea2386",
+                    "url": "https://api.github.com/repos/maintaina-com/Core/zipball/adf3f6e263851a5dace3c7d7b1a62059b5192b0a",
+                    "reference": "adf3f6e263851a5dace3c7d7b1a62059b5192b0a",
                     "shasum": ""
                 },
                 "require": {
@@ -118,7 +118,8 @@
                 "description": "Core Horde Framework library",
                 "homepage": "https://www.horde.org/libraries/Horde_Core",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Core/tree/FRAMEWORK_6_0"
+                    "source": "https://github.com/maintaina-com/Core/tree/FRAMEWORK_6_0",
+                    "issues": "https://github.com/maintaina-com/Core/issues"
                 }
             },
             {
@@ -230,7 +231,8 @@
                 "description": "Core Horde Framework library",
                 "homepage": "https://www.horde.org/libraries/Horde_Core",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Core/tree/FRAMEWORK_6_0-unmergeable"
+                    "source": "https://github.com/maintaina-com/Core/tree/FRAMEWORK_6_0-unmergeable",
+                    "issues": "https://github.com/maintaina-com/Core/issues"
                 }
             },
             {
@@ -369,7 +371,8 @@
                 "description": "Core Horde Framework library",
                 "homepage": "https://www.horde.org/libraries/Horde_Core",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Core/tree/feature-composer"
+                    "source": "https://github.com/maintaina-com/Core/tree/feature-composer",
+                    "issues": "https://github.com/maintaina-com/Core/issues"
                 }
             },
             {
@@ -508,7 +511,8 @@
                 "description": "Core Horde Framework library",
                 "homepage": "https://www.horde.org/libraries/Horde_Core",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Core/tree/feature-sabredav4"
+                    "source": "https://github.com/maintaina-com/Core/tree/feature-sabredav4",
+                    "issues": "https://github.com/maintaina-com/Core/issues"
                 }
             }
         ]
