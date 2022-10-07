@@ -66,12 +66,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Date.git",
-                    "reference": "782716da04d54e20c44bd3219dcea1479a3e4704"
+                    "reference": "692e5a43f590c68f778aab787262278d92aa06ab"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Date/zipball/782716da04d54e20c44bd3219dcea1479a3e4704",
-                    "reference": "782716da04d54e20c44bd3219dcea1479a3e4704",
+                    "url": "https://api.github.com/repos/maintaina-com/Date/zipball/692e5a43f590c68f778aab787262278d92aa06ab",
+                    "reference": "692e5a43f590c68f778aab787262278d92aa06ab",
                     "shasum": ""
                 },
                 "require": {
@@ -112,6 +112,64 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Date",
                 "support": {
                     "source": "https://github.com/maintaina-com/Date/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/date",
+                "version": "dev-backport-php81-fix",
+                "version_normalized": "dev-backport-php81-fix",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Date.git",
+                    "reference": "81864a9721e0f702ac083865893cd78ec127f807"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Date/zipball/81864a9721e0f702ac083865893cd78ec127f807",
+                    "reference": "81864a9721e0f702ac083865893cd78ec127f807",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_nls": "^2",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_date": "2.*",
+                    "pear-pear.horde.org/horde_date": "2.*"
+                },
+                "suggest": {
+                    "ext-calendar": "*",
+                    "pear-pear.horde.org/Horde_Icalendar": "^2",
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Date": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Date library",
+                "homepage": "https://www.horde.org/libraries/Horde_Date",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/backport-php81-fix"
                 }
             },
             {
