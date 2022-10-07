@@ -549,6 +549,58 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Mapi/tree/v2.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/mapi",
+                "version": "v2.0.0alpha4",
+                "version_normalized": "2.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Mapi.git",
+                    "reference": "73d617b52730fed506b07c934e8153f1625b0808"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Mapi/zipball/73d617b52730fed506b07c934e8153f1625b0808",
+                    "reference": "73d617b52730fed506b07c934e8153f1625b0808",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-bcmath": "*",
+                    "horde/date": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-10-07T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Mapi": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Mapi\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "MAPI utility library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Mapi/tree/v2.0.0alpha4"
+                }
             }
         ]
     }
