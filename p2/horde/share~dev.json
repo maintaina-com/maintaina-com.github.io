@@ -75,12 +75,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Share.git",
-                    "reference": "9c3db0fa0d1874fc91ff903c0b4a11a4dc30e6ed"
+                    "reference": "c3326d7321f48c3262aecdf2361d9bb770bd9fbe"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Share/zipball/9c3db0fa0d1874fc91ff903c0b4a11a4dc30e6ed",
-                    "reference": "9c3db0fa0d1874fc91ff903c0b4a11a4dc30e6ed",
+                    "url": "https://api.github.com/repos/maintaina-com/Share/zipball/c3326d7321f48c3262aecdf2361d9bb770bd9fbe",
+                    "reference": "c3326d7321f48c3262aecdf2361d9bb770bd9fbe",
                     "shasum": ""
                 },
                 "require": {
@@ -332,44 +332,48 @@
             },
             {
                 "name": "horde/share",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-update-workflows",
+                "version_normalized": "dev-update-workflows",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Share.git",
-                    "reference": "f406aac70fc50c65e3dfddf656f51f37ee434e8a"
+                    "reference": "2da2045b79fdc80058360c89588e84a0db2523db"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Share/zipball/f406aac70fc50c65e3dfddf656f51f37ee434e8a",
-                    "reference": "f406aac70fc50c65e3dfddf656f51f37ee434e8a",
+                    "url": "https://api.github.com/repos/maintaina-com/Share/zipball/2da2045b79fdc80058360c89588e84a0db2523db",
+                    "reference": "2da2045b79fdc80058360c89588e84a0db2523db",
                     "shasum": ""
                 },
                 "require": {
-                    "horde/db": "dev-master",
-                    "horde/exception": "dev-master",
-                    "horde/group": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/perms": "dev-master",
-                    "horde/support": "dev-master",
-                    "horde/translation": "dev-master",
-                    "horde/url": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/group": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/perms": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/url": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
                 },
-                "suggest": {
-                    "horde/kolab_storage": "^2",
-                    "horde/test": "^2.1"
+                "require-dev": {
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/kolab_storage": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
+                "time": "2022-08-11T00:00:00+00:00",
+                "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Share": "lib/"
                     }
                 },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Share\\Test\\": "test/"
+                    }
+                },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
@@ -391,7 +395,7 @@
                 "description": "Resource sharing library",
                 "homepage": "https://www.horde.org/libraries/Horde_Share",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Share/tree/master"
+                    "source": "https://github.com/maintaina-com/Share/tree/update-workflows"
                 }
             }
         ]
