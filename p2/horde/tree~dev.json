@@ -69,12 +69,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Tree.git",
-                    "reference": "706611b0c9b9ca0b412867b1cc482d13c137d399"
+                    "reference": "b15b10fce2eb8bf93d3dd0a4b765333717595b51"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Tree/zipball/706611b0c9b9ca0b412867b1cc482d13c137d399",
-                    "reference": "706611b0c9b9ca0b412867b1cc482d13c137d399",
+                    "url": "https://api.github.com/repos/maintaina-com/Tree/zipball/b15b10fce2eb8bf93d3dd0a4b765333717595b51",
+                    "reference": "b15b10fce2eb8bf93d3dd0a4b765333717595b51",
                     "shasum": ""
                 },
                 "require": {
@@ -86,7 +86,7 @@
                 "suggest": {
                     "ext-gettext": "*"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-10-07T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {

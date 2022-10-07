@@ -237,6 +237,63 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Tree/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/tree",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Tree.git",
+                    "reference": "d2902e3b0c3ecb45d72424092451c9f59623470e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Tree/zipball/d2902e3b0c3ecb45d72424092451c9f59623470e",
+                    "reference": "d2902e3b0c3ecb45d72424092451c9f59623470e",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/url": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "ext-gettext": "*"
+                },
+                "time": "2022-10-07T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Tree": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Tree rendering library",
+                "homepage": "https://www.horde.org/libraries/Horde_Tree",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Tree/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
