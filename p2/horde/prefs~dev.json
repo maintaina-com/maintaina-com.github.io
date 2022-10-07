@@ -80,12 +80,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Prefs.git",
-                    "reference": "c4fbd0b59bf44d6c5e1bf294fa8c0ad16672ebe3"
+                    "reference": "218be2b34763ab117a9ceacab014bb7c0b9412cd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Prefs/zipball/c4fbd0b59bf44d6c5e1bf294fa8c0ad16672ebe3",
-                    "reference": "c4fbd0b59bf44d6c5e1bf294fa8c0ad16672ebe3",
+                    "url": "https://api.github.com/repos/maintaina-com/Prefs/zipball/218be2b34763ab117a9ceacab014bb7c0b9412cd",
+                    "reference": "218be2b34763ab117a9ceacab014bb7c0b9412cd",
                     "shasum": ""
                 },
                 "require": {
