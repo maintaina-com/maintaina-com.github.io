@@ -171,12 +171,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/nag.git",
-                    "reference": "15cbf947360d8172296b4da6ef1e126207bfdaa8"
+                    "reference": "c6a2fc7589846c041e5f894c1cc24cfe950f3111"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/15cbf947360d8172296b4da6ef1e126207bfdaa8",
-                    "reference": "15cbf947360d8172296b4da6ef1e126207bfdaa8",
+                    "url": "https://api.github.com/repos/maintaina-com/nag/zipball/c6a2fc7589846c041e5f894c1cc24cfe950f3111",
+                    "reference": "c6a2fc7589846c041e5f894c1cc24cfe950f3111",
                     "shasum": ""
                 },
                 "require": {
@@ -194,7 +194,7 @@
                     "horde/group": "^3 || dev-FRAMEWORK_6_0",
                     "horde/history": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
                     "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mail": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mime": "^3 || dev-FRAMEWORK_6_0",
@@ -216,14 +216,14 @@
                     "horde/openxchange": "^2 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-10-06T00:00:00+00:00",
+                "time": "2022-10-08T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
-                    "bin/nag-create-missing-add-histories-sql",
                     "bin/nag-convert-datatree-shares-to-sql",
                     "bin/nag-convert-sql-shares-to-sqlng",
-                    "bin/nag-import-vtodos",
-                    "bin/nag-import-openxchange"
+                    "bin/nag-create-missing-add-histories-sql",
+                    "bin/nag-import-openxchange",
+                    "bin/nag-import-vtodos"
                 ],
                 "type": "horde-application",
                 "autoload": {
