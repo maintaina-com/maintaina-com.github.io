@@ -66,12 +66,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Date.git",
-                    "reference": "692e5a43f590c68f778aab787262278d92aa06ab"
+                    "reference": "eef4c182e6fc54f4b66158634dba13e3d1713eac"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Date/zipball/692e5a43f590c68f778aab787262278d92aa06ab",
-                    "reference": "692e5a43f590c68f778aab787262278d92aa06ab",
+                    "url": "https://api.github.com/repos/maintaina-com/Date/zipball/eef4c182e6fc54f4b66158634dba13e3d1713eac",
+                    "reference": "eef4c182e6fc54f4b66158634dba13e3d1713eac",
                     "shasum": ""
                 },
                 "require": {
@@ -85,12 +85,17 @@
                     "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-10-08T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Date": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Date\\Test\\": "test/"
                     }
                 },
                 "license": [

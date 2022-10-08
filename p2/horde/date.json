@@ -822,6 +822,65 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Date/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/date",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Date.git",
+                    "reference": "3d099c4f28726d92017fe01eb02ea028214f123c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Date/zipball/3d099c4f28726d92017fe01eb02ea028214f123c",
+                    "reference": "3d099c4f28726d92017fe01eb02ea028214f123c",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/nls": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "ext-calendar": "*",
+                    "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-10-08T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Date": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Date\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Date library",
+                "homepage": "https://www.horde.org/libraries/Horde_Date",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Date/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
