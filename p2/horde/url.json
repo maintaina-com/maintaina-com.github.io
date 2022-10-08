@@ -389,6 +389,61 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Url/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/url",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Url.git",
+                    "reference": "747758f6419b8e5112bcb031711512ec2889d21d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Url/zipball/747758f6419b8e5112bcb031711512ec2889d21d",
+                    "reference": "747758f6419b8e5112bcb031711512ec2889d21d",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-10-08T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Url": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Url\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "URL library",
+                "homepage": "https://www.horde.org/libraries/Horde_Url",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Url/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
