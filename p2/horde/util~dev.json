@@ -75,12 +75,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Util.git",
-                    "reference": "3e077bdd0c9558d95e55fa7074407cc357f2725f"
+                    "reference": "5952544a7a07be52f92e7cf9bf5648e9225c7cec"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Util/zipball/3e077bdd0c9558d95e55fa7074407cc357f2725f",
-                    "reference": "3e077bdd0c9558d95e55fa7074407cc357f2725f",
+                    "url": "https://api.github.com/repos/maintaina-com/Util/zipball/5952544a7a07be52f92e7cf9bf5648e9225c7cec",
+                    "reference": "5952544a7a07be52f92e7cf9bf5648e9225c7cec",
                     "shasum": ""
                 },
                 "require": {
@@ -142,6 +142,81 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Util",
                 "support": {
                     "source": "https://github.com/maintaina-com/Util/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/util",
+                "version": "dev-collapse",
+                "version_normalized": "dev-collapse",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Util.git",
+                    "reference": "c5cb997ccf32c4ee762ca53c3eac16b2d245cc59"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Util/zipball/c5cb997ccf32c4ee762ca53c3eac16b2d245cc59",
+                    "reference": "c5cb997ccf32c4ee762ca53c3eac16b2d245cc59",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/imap_client": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "ext-ctype": "*",
+                    "ext-filter": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-mbstring": "*",
+                    "ext-xml": "*",
+                    "horde/imap_client": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-10-05T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "lib/"
+                    ],
+                    "psr-4": {
+                        "Horde\\Util\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Util\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Utility library",
+                "homepage": "https://www.horde.org/libraries/Horde_Util",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Util/tree/collapse"
                 }
             }
         ]
