@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Core.git",
-                    "reference": "41bb42f0a236edda2e3900d7bfcde4fcb4712ab7"
+                    "reference": "424ff8a668c82baf22182bffc8d4da4929b91e68"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Core/zipball/41bb42f0a236edda2e3900d7bfcde4fcb4712ab7",
-                    "reference": "41bb42f0a236edda2e3900d7bfcde4fcb4712ab7",
+                    "url": "https://api.github.com/repos/maintaina-com/Core/zipball/424ff8a668c82baf22182bffc8d4da4929b91e68",
+                    "reference": "424ff8a668c82baf22182bffc8d4da4929b91e68",
                     "shasum": ""
                 },
                 "require": {
@@ -64,7 +64,11 @@
                     "php": "^7.4 || ^8"
                 },
                 "require-dev": {
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                    "horde/prefs": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/routes": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/tree": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/vfs": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
                     "ext-SimpleXML": "*",
@@ -74,7 +78,7 @@
                     "pear/text_captcha": "*",
                     "pear/text_figlet": "*"
                 },
-                "time": "2022-03-14T00:00:00+00:00",
+                "time": "2022-10-08T00:00:00+00:00",
                 "default-branch": true,
                 "type": "horde-library",
                 "autoload": {
