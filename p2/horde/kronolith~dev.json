@@ -108,12 +108,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/kronolith.git",
-                    "reference": "790b44c8aa2ab307b1ae5d56d635c089f4c2a4d5"
+                    "reference": "0bbb74c7cfe4747419b120bfd6b71d4765dc08d0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/790b44c8aa2ab307b1ae5d56d635c089f4c2a4d5",
-                    "reference": "790b44c8aa2ab307b1ae5d56d635c089f4c2a4d5",
+                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/0bbb74c7cfe4747419b120bfd6b71d4765dc08d0",
+                    "reference": "0bbb74c7cfe4747419b120bfd6b71d4765dc08d0",
                     "shasum": ""
                 },
                 "require": {
@@ -138,6 +138,7 @@
                     "horde/http": "^3 || dev-FRAMEWORK_6_0",
                     "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
                     "horde/image": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/itip": "^3 || dev-FRAMEWORK_6_0",
                     "horde/lock": "^3 || dev-FRAMEWORK_6_0",
                     "horde/logintasks": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mail": "^3 || dev-FRAMEWORK_6_0",
@@ -155,8 +156,7 @@
                     "horde/view": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
-                "suggest": {
-                    "ext-xmlwriter": "*",
+                "require-dev": {
                     "horde/activesync": "^3 || dev-FRAMEWORK_6_0",
                     "horde/backup": "^2 || dev-FRAMEWORK_6_0",
                     "horde/db": "^3 || dev-FRAMEWORK_6_0",
@@ -166,16 +166,26 @@
                     "horde/timeobjects": "^3 || dev-FRAMEWORK_6_0",
                     "pear/date_holidays": "*"
                 },
-                "time": "2022-03-30T00:00:00+00:00",
+                "suggest": {
+                    "ext-xmlwriter": "*",
+                    "horde/activesync": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/backup": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/nag": "^5 || dev-FRAMEWORK_6_0",
+                    "horde/openxchange": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/timeobjects": "^3 || dev-FRAMEWORK_6_0",
+                    "pear/date_holidays": "*"
+                },
+                "time": "2022-10-08T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
-                    "bin/kronolith-convert-sql-shares-to-sqlng",
                     "bin/kronolith-agenda",
+                    "bin/kronolith-convert-datatree-shares-to-sql",
+                    "bin/kronolith-convert-sql-shares-to-sqlng",
+                    "bin/kronolith-convert-to-utc",
                     "bin/kronolith-import-icals",
                     "bin/kronolith-import-openxchange",
-                    "bin/kronolith-convert-datatree-shares-to-sql",
-                    "bin/kronolith-import-squirrelmail-calendar",
-                    "bin/kronolith-convert-to-utc"
+                    "bin/kronolith-import-squirrelmail-calendar"
                 ],
                 "type": "horde-application",
                 "autoload": {
