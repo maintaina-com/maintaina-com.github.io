@@ -67,12 +67,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/View.git",
-                    "reference": "4d3c163420e94c62211bef96341cdcda3f695c5d"
+                    "reference": "860ffd735ffbef4e5fa46784736c8fd9a8d7e18f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/View/zipball/4d3c163420e94c62211bef96341cdcda3f695c5d",
-                    "reference": "4d3c163420e94c62211bef96341cdcda3f695c5d",
+                    "url": "https://api.github.com/repos/maintaina-com/View/zipball/860ffd735ffbef4e5fa46784736c8fd9a8d7e18f",
+                    "reference": "860ffd735ffbef4e5fa46784736c8fd9a8d7e18f",
                     "shasum": ""
                 },
                 "require": {
@@ -81,18 +81,26 @@
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
+                "require-dev": {
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
                 "suggest": {
                     "ext-json": "*",
                     "horde/controller": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/routes": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                    "horde/routes": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-10-08T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_View": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\View\\Test\\": "test/"
                     }
                 },
                 "license": [

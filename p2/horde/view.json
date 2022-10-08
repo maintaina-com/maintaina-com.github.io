@@ -265,6 +265,69 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/View/tree/v3.0.0alpha2"
                 }
+            },
+            {
+                "name": "horde/view",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/View.git",
+                    "reference": "0726b2d7b18075e8d92a4e87459fd3052cc2d2b6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/View/zipball/0726b2d7b18075e8d92a4e87459fd3052cc2d2b6",
+                    "reference": "0726b2d7b18075e8d92a4e87459fd3052cc2d2b6",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "ext-json": "*",
+                    "horde/controller": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/routes": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-10-08T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_View": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\View\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Mike Naberezny",
+                        "email": "mike@maintainable.com",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "View pattern library",
+                "homepage": "https://www.horde.org/libraries/Horde_View",
+                "support": {
+                    "source": "https://github.com/maintaina-com/View/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
