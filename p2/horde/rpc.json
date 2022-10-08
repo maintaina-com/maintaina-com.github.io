@@ -542,6 +542,79 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Rpc/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/rpc",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Rpc.git",
+                    "reference": "1108db23325ca3a9eb763ac239e8d700c0354df1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Rpc/zipball/1108db23325ca3a9eb763ac239e8d700c0354df1",
+                    "reference": "1108db23325ca3a9eb763ac239e8d700c0354df1",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/dav": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/perms": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/serialize": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/xml_element": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "ext-soap": "*",
+                    "ext-xmlrpc": "*",
+                    "horde/activesync": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/http": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/lock": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/syncml": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-10-08T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Rpc": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Rpc\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "developer"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "RPC library",
+                "homepage": "https://www.horde.org/libraries/Horde_Rpc",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rpc/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
