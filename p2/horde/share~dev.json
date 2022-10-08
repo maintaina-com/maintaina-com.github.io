@@ -75,12 +75,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Share.git",
-                    "reference": "c3326d7321f48c3262aecdf2361d9bb770bd9fbe"
+                    "reference": "c4ecfa326bc0795d6455e9b4e52e75d11991cabf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Share/zipball/c3326d7321f48c3262aecdf2361d9bb770bd9fbe",
-                    "reference": "c3326d7321f48c3262aecdf2361d9bb770bd9fbe",
+                    "url": "https://api.github.com/repos/maintaina-com/Share/zipball/c4ecfa326bc0795d6455e9b4e52e75d11991cabf",
+                    "reference": "c4ecfa326bc0795d6455e9b4e52e75d11991cabf",
                     "shasum": ""
                 },
                 "require": {
@@ -98,12 +98,17 @@
                     "horde/kolab_storage": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-10-08T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Share": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Share\\Test\\": "test/"
                     }
                 },
                 "license": [
