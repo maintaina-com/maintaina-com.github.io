@@ -77,12 +77,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Db.git",
-                    "reference": "34bc8f576a4fbb4be2fa2fad8c38519408098f72"
+                    "reference": "58a35f6c57bab91d102bdc6bfdd6710ac0e3f674"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Db/zipball/34bc8f576a4fbb4be2fa2fad8c38519408098f72",
-                    "reference": "34bc8f576a4fbb4be2fa2fad8c38519408098f72",
+                    "url": "https://api.github.com/repos/maintaina-com/Db/zipball/58a35f6c57bab91d102bdc6bfdd6710ac0e3f674",
+                    "reference": "58a35f6c57bab91d102bdc6bfdd6710ac0e3f674",
                     "shasum": ""
                 },
                 "require": {
@@ -107,7 +107,7 @@
                     "horde/cache": "^3 || dev-FRAMEWORK_6_0",
                     "horde/log": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-11-19T00:00:00+00:00",
+                "time": "2022-10-08T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
                     "bin/horde-db-migrate-component"

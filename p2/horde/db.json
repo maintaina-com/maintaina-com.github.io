@@ -1238,6 +1238,87 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Db/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/db",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Db.git",
+                    "reference": "f0049149ef712b5d749dcd14c40357e7bfbbe6f1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Db/zipball/f0049149ef712b5d749dcd14c40357e7bfbbe6f1",
+                    "reference": "f0049149ef712b5d749dcd14c40357e7bfbbe6f1",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/date": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/autoloader": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/cache": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "ext-PDO": "*",
+                    "ext-mysql": "*",
+                    "ext-mysqli": "*",
+                    "ext-oci8": "*",
+                    "horde/autoloader": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/cache": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-10-08T00:00:00+00:00",
+                "bin": [
+                    "bin/horde-db-migrate-component"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Db": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Db\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Db\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Mike Naberezny",
+                        "email": "mike@naberezny.com",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Database abstraction library",
+                "homepage": "https://www.horde.org/libraries/Horde_Db",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Db/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
