@@ -205,12 +205,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/imp.git",
-                    "reference": "e561339730f4699ebf8dae8e1dd5ba77b4a19d0d"
+                    "reference": "0adbb724a0425d201da8f6b2fd6728cb4360299f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/e561339730f4699ebf8dae8e1dd5ba77b4a19d0d",
-                    "reference": "e561339730f4699ebf8dae8e1dd5ba77b4a19d0d",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/0adbb724a0425d201da8f6b2fd6728cb4360299f",
+                    "reference": "0adbb724a0425d201da8f6b2fd6728cb4360299f",
                     "shasum": ""
                 },
                 "require": {
@@ -259,6 +259,12 @@
                     "horde/view": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
+                "require-dev": {
+                    "horde/kronolith": "^5 || dev-FRAMEWORK_6_0",
+                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/nag": "^5 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
                 "suggest": {
                     "ext-openssl": "*",
                     "horde/history": "^3 || dev-FRAMEWORK_6_0",
@@ -266,13 +272,15 @@
                     "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
                     "horde/service_gravatar": "^2 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2022-05-18T00:00:00+00:00",
+                "time": "2022-10-08T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
-                    "bin/imp-query-imap-cache",
                     "bin/imp-admin-upgrade",
+                    "bin/imp-bounce-spam",
                     "bin/imp-mailbox-decode",
-                    "bin/imp-bounce-spam"
+                    "bin/imp-query-imap-cache",
+                    "bin/imp-test-imap",
+                    "bin/imp-test-smtp"
                 ],
                 "type": "horde-application",
                 "autoload": {
