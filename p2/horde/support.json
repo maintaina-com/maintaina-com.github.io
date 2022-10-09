@@ -159,6 +159,128 @@
             },
             {
                 "name": "horde/support",
+                "version": "2.2.1",
+                "version_normalized": "2.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Support.git",
+                    "reference": "5cdc9b2edb0d424b8bdb19cf4a47118554dd9ba6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Support/zipball/5cdc9b2edb0d424b8bdb19cf4a47118554dd9ba6",
+                    "reference": "5cdc9b2edb0d424b8bdb19cf4a47118554dd9ba6",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_stream_wrapper": "^2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_support": "2.*",
+                    "pear-pear.horde.org/horde_support": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2021-12-18T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Support": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Supporting library",
+                "homepage": "https://www.horde.org/libraries/Horde_Support",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Support/tree/v2.2.1"
+                }
+            },
+            {
+                "name": "horde/support",
+                "version": "2.2.2",
+                "version_normalized": "2.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Support.git",
+                    "reference": "0914b2b3058ef006de39f87ea01da30b5d57acde"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Support/zipball/0914b2b3058ef006de39f87ea01da30b5d57acde",
+                    "reference": "0914b2b3058ef006de39f87ea01da30b5d57acde",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_stream_wrapper": "^2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_support": "2.*",
+                    "pear-pear.horde.org/horde_support": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2022-06-18T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Support": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Supporting library",
+                "homepage": "https://www.horde.org/libraries/Horde_Support",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Support/tree/v2.2.2"
+                }
+            },
+            {
+                "name": "horde/support",
                 "version": "3.0.0alpha1",
                 "version_normalized": "3.0.0.0-alpha1",
                 "source": {
@@ -399,6 +521,142 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Support",
                 "support": {
                     "source": "https://github.com/maintaina-com/Support/tree/v3.0.0alpha4"
+                }
+            },
+            {
+                "name": "horde/support",
+                "version": "v3.0.0alpha5",
+                "version_normalized": "3.0.0.0-alpha5",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Support.git",
+                    "reference": "283d601e7cb56212b82405884b2e4d8a9f6b3e0d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Support/zipball/283d601e7cb56212b82405884b2e4d8a9f6b3e0d",
+                    "reference": "283d601e7cb56212b82405884b2e4d8a9f6b3e0d",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/stream_wrapper": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-10-09T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Support": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Support\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Support\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Supporting library",
+                "homepage": "https://www.horde.org/libraries/Horde_Support",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Support/tree/v3.0.0alpha5"
+                }
+            },
+            {
+                "name": "horde/support",
+                "version": "v3.0.0.1alpha4",
+                "version_normalized": "3.0.0.1-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Support.git",
+                    "reference": "5c314076103ae102039f53dd8cd6fd6bc2e07d78"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Support/zipball/5c314076103ae102039f53dd8cd6fd6bc2e07d78",
+                    "reference": "5c314076103ae102039f53dd8cd6fd6bc2e07d78",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/stream_wrapper": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-11-05T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Support": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Support\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Support\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Supporting library",
+                "homepage": "https://www.horde.org/libraries/Horde_Support",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Support/tree/v3.0.0.1alpha4"
                 }
             }
         ]
