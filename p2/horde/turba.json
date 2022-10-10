@@ -2174,6 +2174,126 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/turba/tree/v5.0.0alpha5"
                 }
+            },
+            {
+                "name": "horde/turba",
+                "version": "v5.0.0alpha6",
+                "version_normalized": "5.0.0.0-alpha6",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/turba.git",
+                    "reference": "ae4d361805b88b0b5796665f3d068f3e748a2959"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/turba/zipball/ae4d361805b88b0b5796665f3d068f3e748a2959",
+                    "reference": "ae4d361805b88b0b5796665f3d068f3e748a2959",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "ext-hash": "*",
+                    "ext-json": "*",
+                    "horde/auth": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/content": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/data": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/date": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/dav": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/form": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/group": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/history": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde": "^6 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
+                    "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mail": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mime": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/nls": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/perms": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/prefs": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/serialize": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/share": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/url": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/vfs": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/view": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/activesync": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/backup": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/imsp": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/kolab_format": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/kolab_storage": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/ldap": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/openxchange": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "horde/activeSync": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/backup": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/imsp": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/kolab_format": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/kolab_storage": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/ldap": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/openxchange": "^2 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-10-08T00:00:00+00:00",
+                "bin": [
+                    "bin/turba-convert-datatree-shares-to-sql",
+                    "bin/turba-convert-sql-shares-to-sqlng",
+                    "bin/turba-import-openxchange",
+                    "bin/turba-import-squirrelmail-file-abook",
+                    "bin/turba-import-squirrelmail-sql-abook",
+                    "bin/turba-import-vcards",
+                    "bin/turba-public-to-horde-share",
+                    "bin/turba-validate-email"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Turba": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Turba\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "ASL"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "developer"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Address book application",
+                "homepage": "https://www.horde.org/apps/turba",
+                "support": {
+                    "source": "https://github.com/maintaina-com/turba/tree/v5.0.0alpha6"
+                }
             }
         ]
     }
