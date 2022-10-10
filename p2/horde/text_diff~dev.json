@@ -62,12 +62,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Text_Diff.git",
-                    "reference": "6f5798afbeda0519b857693afe8ff2789f16e422"
+                    "reference": "f7cfbc26a664f40dcda5c94b97cba45db25b0cb6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/6f5798afbeda0519b857693afe8ff2789f16e422",
-                    "reference": "6f5798afbeda0519b857693afe8ff2789f16e422",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/f7cfbc26a664f40dcda5c94b97cba45db25b0cb6",
+                    "reference": "f7cfbc26a664f40dcda5c94b97cba45db25b0cb6",
                     "shasum": ""
                 },
                 "require": {
@@ -77,14 +77,13 @@
                 },
                 "require-dev": {
                     "horde/cli": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
-                    "phpunit/phpunit": "^9.5"
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
                     "ext-xdiff": "*",
                     "horde/cli": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2022-09-13T00:00:00+00:00",
+                "time": "2022-10-10T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {

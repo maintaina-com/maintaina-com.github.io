@@ -418,6 +418,71 @@
                     "source": "https://github.com/maintaina-com/Text_Diff/tree/v3.0.0alpha3",
                     "issues": "https://github.com/maintaina-com/Text_Diff/issues"
                 }
+            },
+            {
+                "name": "horde/text_diff",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Text_Diff.git",
+                    "reference": "33a950c3f04bfd1ff6ddc74cdc2cd47f229488b9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Diff/zipball/33a950c3f04bfd1ff6ddc74cdc2cd47f229488b9",
+                    "reference": "33a950c3f04bfd1ff6ddc74cdc2cd47f229488b9",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "ext-xdiff": "*",
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-10-10T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Text_Diff": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Text\\Diff\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Text\\Diff\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Text diff generation and rendering library",
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Diff",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Diff/tree/v3.0.0alpha4",
+                    "issues": "https://github.com/maintaina-com/Text_Diff/issues"
+                }
             }
         ]
     }
