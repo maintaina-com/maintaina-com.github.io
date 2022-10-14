@@ -101,20 +101,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/jonah.git",
-                    "reference": "27e1910872f8e9c3955b89cf1352969b94547eb3"
+                    "reference": "bad7c3943bb5d82ae341e3a5bce47c016c9f37d7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/jonah/zipball/27e1910872f8e9c3955b89cf1352969b94547eb3",
-                    "reference": "27e1910872f8e9c3955b89cf1352969b94547eb3",
+                    "url": "https://api.github.com/repos/maintaina-com/jonah/zipball/bad7c3943bb5d82ae341e3a5bce47c016c9f37d7",
+                    "reference": "bad7c3943bb5d82ae341e3a5bce47c016c9f37d7",
                     "shasum": ""
                 },
                 "require": {
-                    "horde/core": "^3",
-                    "horde/db": "^3",
-                    "horde/horde": "^6",
-                    "horde/horde-installer-plugin": "*",
-                    "php": "^7"
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde": "^6 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
                 },
                 "time": "2021-03-21T00:00:00+00:00",
                 "default-branch": true,

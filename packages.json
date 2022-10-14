@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$150c17f8666a701cfd26f8cf7b0a01dcc7d785b6.json": {
-            "sha1": "150c17f8666a701cfd26f8cf7b0a01dcc7d785b6"
+        "include/all$5fb42ad8544feed1f1edbbe289f2aa8e3cec1a78.json": {
+            "sha1": "5fb42ad8544feed1f1edbbe289f2aa8e3cec1a78"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -57,6 +57,7 @@
         "horde/history",
         "horde/horde",
         "horde/horde-gittools",
+        "horde/horde-imap-client",
         "horde/horde-installer-plugin",
         "horde/hordectl",
         "horde/http",
@@ -64,6 +65,7 @@
         "horde/icalendar",
         "horde/idna",
         "horde/image",
+        "horde/imap-client",
         "horde/imap_client",
         "horde/imp",
         "horde/ingo",
@@ -72,8 +74,14 @@
         "horde/javascriptminify",
         "horde/javascriptminify_jsmin",
         "horde/jonah",
+        "horde/kolab_cli",
+        "horde/kolab_config",
+        "horde/kolab_filter",
         "horde/kolab_format",
+        "horde/kolab_freebusy",
         "horde/kolab_resource",
+        "horde/kolab_server",
+        "horde/kolab_session",
         "horde/kolab_storage",
         "horde/kronolith",
         "horde/ldap",

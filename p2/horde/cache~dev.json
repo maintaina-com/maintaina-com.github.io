@@ -144,6 +144,70 @@
             },
             {
                 "name": "horde/cache",
+                "version": "dev-backport-unserialize-upstream",
+                "version_normalized": "dev-backport-unserialize-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Cache.git",
+                    "reference": "dd112af53d49ab50816db3c3521abec933495ead"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Cache/zipball/dd112af53d49ab50816db3c3521abec933495ead",
+                    "reference": "dd112af53d49ab50816db3c3521abec933495ead",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "pear-pear.horde.org/horde_compress_fast": "^1",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_cache": "2.*",
+                    "pear-pear.horde.org/horde_cache": "2.*"
+                },
+                "suggest": {
+                    "ext-eaccelerator": "0.9.5",
+                    "ext-xcache": "*",
+                    "pear-pear.horde.org/Horde_Db": "^2.1",
+                    "pear-pear.horde.org/Horde_HashTable": "^1",
+                    "pear-pear.horde.org/Horde_Log": "^2",
+                    "pear-pear.horde.org/Horde_Memcache": "^2",
+                    "pear-pear.horde.org/Horde_Mongo": "^1",
+                    "pear-pecl.php.net/APC": "^3.1.1"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Cache": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Caching library",
+                "homepage": "https://www.horde.org/libraries/Horde_Cache",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Cache/tree/backport-unserialize-upstream"
+                }
+            },
+            {
+                "name": "horde/cache",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

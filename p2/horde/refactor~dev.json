@@ -57,20 +57,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Refactor.git",
-                    "reference": "98c8c5f3ae0904113cb791eacbd4fb0b8e590b0b"
+                    "reference": "80ddd72f010e53aaed6be6eaa3ab5122c05aebb2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Refactor/zipball/98c8c5f3ae0904113cb791eacbd4fb0b8e590b0b",
-                    "reference": "98c8c5f3ae0904113cb791eacbd4fb0b8e590b0b",
+                    "url": "https://api.github.com/repos/maintaina-com/Refactor/zipball/80ddd72f010e53aaed6be6eaa3ab5122c05aebb2",
+                    "reference": "80ddd72f010e53aaed6be6eaa3ab5122c05aebb2",
                     "shasum": ""
                 },
                 "require": {
-                    "pear-horde/cli": "^3",
-                    "pear-horde/exception": "^3",
-                    "pear-horde/text_diff": "^3",
-                    "pear-horde/translation": "^3",
-                    "php": "^7"
+                    "horde/cli": "^3",
+                    "horde/exception": "^3",
+                    "horde/text_diff": "^3",
+                    "horde/translation": "^3",
+                    "php": "^7.4 || ^8"
                 },
                 "time": "2021-07-04T00:00:00+00:00",
                 "default-branch": true,

@@ -4088,6 +4088,131 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/kronolith/tree/v5.0.0alpha5"
                 }
+            },
+            {
+                "name": "horde/kronolith",
+                "version": "v5.0.0alpha6",
+                "version_normalized": "5.0.0.0-alpha6",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/kronolith.git",
+                    "reference": "2af4e7f1917138ee2e5de19e882ca77591361720"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/2af4e7f1917138ee2e5de19e882ca77591361720",
+                    "reference": "2af4e7f1917138ee2e5de19e882ca77591361720",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "horde/auth": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/autoloader": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/content": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/data": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/date": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/date_parser": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/dav": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/eventdispatcher": "^1 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/form": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/group": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/history": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde": "^6 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
+                    "horde/http": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/image": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/itip": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/lock": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/logintasks": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mail": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mime": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/nls": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/notification": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/perms": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/serialize": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/share": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/text_filter": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/timezone": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/url": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/view": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/activesync": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/backup": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/nag": "^5 || dev-FRAMEWORK_6_0",
+                    "horde/openxchange": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/timeobjects": "^3 || dev-FRAMEWORK_6_0",
+                    "pear/date_holidays": "*"
+                },
+                "suggest": {
+                    "ext-xmlwriter": "*",
+                    "horde/activesync": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/backup": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/nag": "^5 || dev-FRAMEWORK_6_0",
+                    "horde/openxchange": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/timeobjects": "^3 || dev-FRAMEWORK_6_0",
+                    "pear/date_holidays": "*"
+                },
+                "time": "2022-10-08T00:00:00+00:00",
+                "bin": [
+                    "bin/kronolith-agenda",
+                    "bin/kronolith-convert-datatree-shares-to-sql",
+                    "bin/kronolith-convert-sql-shares-to-sqlng",
+                    "bin/kronolith-convert-to-utc",
+                    "bin/kronolith-import-icals",
+                    "bin/kronolith-import-openxchange",
+                    "bin/kronolith-import-squirrelmail-calendar"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Kronolith": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Kronolith\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Kronolith\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "GPL-2.0-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Calendar and scheduling application",
+                "homepage": "https://www.horde.org/apps/kronolith",
+                "support": {
+                    "source": "https://github.com/maintaina-com/kronolith/tree/v5.0.0alpha6"
+                }
             }
         ]
     }

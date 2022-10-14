@@ -1,0 +1,286 @@
+{
+    "packages": {
+        "horde/kolab_config": [
+            {
+                "name": "horde/kolab_config",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Config.git",
+                    "reference": "fe457c7c9cc06615ab501a44d8d983f0f74f3567"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Config/zipball/fe457c7c9cc06615ab501a44d8d983f0f74f3567",
+                    "reference": "fe457c7c9cc06615ab501a44d8d983f0f74f3567",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_kolab_config": "1.*",
+                    "pear-pear.horde.org/horde_kolab_config": "1.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.4"
+                },
+                "time": "2017-11-15T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Config": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab server configuration library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Config/tree/FRAMEWORK_5_2"
+                }
+            },
+            {
+                "name": "horde/kolab_config",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Config.git",
+                    "reference": "4028c20fd21c60130dee2d572a84e822abf64cc1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Config/zipball/4028c20fd21c60130dee2d572a84e822abf64cc1",
+                    "reference": "4028c20fd21c60130dee2d572a84e822abf64cc1",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/test": "^3"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Config": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab server configuration library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Config/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/kolab_config",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Config.git",
+                    "reference": "e46a0839bb9b978d83e0aea1a01f30cecff5aa2a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Config/zipball/e46a0839bb9b978d83e0aea1a01f30cecff5aa2a",
+                    "reference": "e46a0839bb9b978d83e0aea1a01f30cecff5aa2a",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_kolab_config": "1.*",
+                    "pear-pear.horde.org/horde_kolab_config": "1.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.4"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Config": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab server configuration library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Config/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/kolab_config",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Config.git",
+                    "reference": "e46a0839bb9b978d83e0aea1a01f30cecff5aa2a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Config/zipball/e46a0839bb9b978d83e0aea1a01f30cecff5aa2a",
+                    "reference": "e46a0839bb9b978d83e0aea1a01f30cecff5aa2a",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_kolab_config": "1.*",
+                    "pear-pear.horde.org/horde_kolab_config": "1.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Test": "^2.4"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Config": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab server configuration library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Config/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/kolab_config",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Config.git",
+                    "reference": "e0c3d8fdafbee22c65023bbcb6189c082a64ef09"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Config/zipball/e0c3d8fdafbee22c65023bbcb6189c082a64ef09",
+                    "reference": "e0c3d8fdafbee22c65023bbcb6189c082a64ef09",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/test": "^2.4"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Config": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab server configuration library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Config/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/kolab_config",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Config.git",
+                    "reference": "5642271ec22ea7ddaf0eb0434b5bc715010307ee"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Config/zipball/5642271ec22ea7ddaf0eb0434b5bc715010307ee",
+                    "reference": "5642271ec22ea7ddaf0eb0434b5bc715010307ee",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/test": "^2.4"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "default-branch": true,
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Config": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab server configuration library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Config/tree/master"
+                }
+            }
+        ]
+    }
+}

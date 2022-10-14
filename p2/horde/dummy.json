@@ -70,6 +70,76 @@
                     "source": "https://github.com/maintaina-com/dummy/tree/v1.0.0.80100alpha1",
                     "issues": "https://github.com/maintaina-com/dummy/issues"
                 }
+            },
+            {
+                "name": "horde/dummy",
+                "version": "v2.0.0.70400",
+                "version_normalized": "2.0.0.70400",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/dummy.git",
+                    "reference": "678d315274e5d1158b4ef1517df9f428b9803d71"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/dummy/zipball/678d315274e5d1158b4ef1517df9f428b9803d71",
+                    "reference": "678d315274e5d1158b4ef1517df9f428b9803d71",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.4 || ^8.1 || ^9"
+                },
+                "time": "2022-09-08T10:47:49+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ralf Lang",
+                        "email": "ralf.lang@ralf-lang.de"
+                    }
+                ],
+                "description": "Mock package to try out various composer, satis and versioning things",
+                "support": {
+                    "source": "https://github.com/maintaina-com/dummy/tree/v2.0.0.80100",
+                    "issues": "https://github.com/maintaina-com/dummy/issues"
+                }
+            },
+            {
+                "name": "horde/dummy",
+                "version": "v2.0.0.80100",
+                "version_normalized": "2.0.0.80100",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/dummy.git",
+                    "reference": "678d315274e5d1158b4ef1517df9f428b9803d71"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/dummy/zipball/678d315274e5d1158b4ef1517df9f428b9803d71",
+                    "reference": "678d315274e5d1158b4ef1517df9f428b9803d71",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.4 || ^8.1 || ^9"
+                },
+                "time": "2022-09-08T10:47:49+00:00",
+                "type": "library",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ralf Lang",
+                        "email": "ralf.lang@ralf-lang.de"
+                    }
+                ],
+                "description": "Mock package to try out various composer, satis and versioning things",
+                "support": {
+                    "source": "https://github.com/maintaina-com/dummy/tree/v2.0.0.80100",
+                    "issues": "https://github.com/maintaina-com/dummy/issues"
+                }
             }
         ]
     }

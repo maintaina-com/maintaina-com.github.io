@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/ralflang/Console_Getopt.git",
-                    "reference": "acc75a6a147b07685a44d188dda47cdbab2ab3c8"
+                    "reference": "f0098a82893216f4fa879bef1a962c0b11a6353f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/ralflang/Console_Getopt/zipball/acc75a6a147b07685a44d188dda47cdbab2ab3c8",
-                    "reference": "acc75a6a147b07685a44d188dda47cdbab2ab3c8",
+                    "url": "https://api.github.com/repos/ralflang/Console_Getopt/zipball/f0098a82893216f4fa879bef1a962c0b11a6353f",
+                    "reference": "f0098a82893216f4fa879bef1a962c0b11a6353f",
                     "shasum": ""
                 },
-                "require": {
+                "require-dev": {
                     "phpunit/phpunit": "<=8"
                 },
-                "time": "2020-04-20T00:30:34+00:00",
+                "time": "2021-08-11T00:08:37+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {

@@ -1,0 +1,355 @@
+{
+    "packages": {
+        "horde/kolab_cli": [
+            {
+                "name": "horde/kolab_cli",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Cli.git",
+                    "reference": "541c455708ea99e4163fcb957145f8c26bc12666"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Cli/zipball/541c455708ea99e4163fcb957145f8c26bc12666",
+                    "reference": "541c455708ea99e4163fcb957145f8c26bc12666",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_autoloader": "^2",
+                    "pear-pear.horde.org/horde_cli": "^2",
+                    "pear-pear.horde.org/horde_cli_modular": "^2",
+                    "pear-pear.horde.org/horde_imap_client": "^2",
+                    "pear-pear.horde.org/horde_kolab_storage": "^2",
+                    "pear-pear.horde.org/horde_log": "^2",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_kolab_cli": "1.*",
+                    "pear-pear.horde.org/horde_kolab_cli": "1.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Support": "^2",
+                    "pear-pear.horde.org/Horde_Test": "^2.1",
+                    "pear-pear.horde.org/Horde_Yaml": "^2"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Cli": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab storage command line interface library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Cli",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Cli/tree/FRAMEWORK_5_2"
+                }
+            },
+            {
+                "name": "horde/kolab_cli",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Cli.git",
+                    "reference": "d54cbc603550fb0d7a6e577a747405ffe32ddf8b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Cli/zipball/d54cbc603550fb0d7a6e577a747405ffe32ddf8b",
+                    "reference": "d54cbc603550fb0d7a6e577a747405ffe32ddf8b",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/autoloader": "dev-FRAMEWORK_6_0 || ^3",
+                    "horde/cli": "dev-FRAMEWORK_6_0 || ^3",
+                    "horde/cli_modular": "dev-FRAMEWORK_6_0 || ^3",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/imap_client": "dev-FRAMEWORK_6_0 || ^3",
+                    "horde/kolab_storage": "dev-FRAMEWORK_6_0 || ^3",
+                    "horde/log": "dev-FRAMEWORK_6_0 || ^3",
+                    "horde/translation": "dev-FRAMEWORK_6_0 || ^3",
+                    "horde/util": "dev-FRAMEWORK_6_0 || ^3",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/yaml": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "bin": [
+                    "bin/horde-kolab-cli"
+                ],
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Cli": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab storage command line interface library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Cli",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Cli/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/kolab_cli",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Cli.git",
+                    "reference": "ebdf646cdd4e25c447fa7d499e1914ee8f801e3c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Cli/zipball/ebdf646cdd4e25c447fa7d499e1914ee8f801e3c",
+                    "reference": "ebdf646cdd4e25c447fa7d499e1914ee8f801e3c",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_autoloader": "^2",
+                    "pear-pear.horde.org/horde_cli": "^2",
+                    "pear-pear.horde.org/horde_cli_modular": "^2",
+                    "pear-pear.horde.org/horde_imap_client": "^2",
+                    "pear-pear.horde.org/horde_kolab_storage": "^2",
+                    "pear-pear.horde.org/horde_log": "^2",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_kolab_cli": "1.*",
+                    "pear-pear.horde.org/horde_kolab_cli": "1.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Support": "^2",
+                    "pear-pear.horde.org/Horde_Test": "^2.1",
+                    "pear-pear.horde.org/Horde_Yaml": "^2"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Cli": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab storage command line interface library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Cli",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Cli/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/kolab_cli",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Cli.git",
+                    "reference": "ebdf646cdd4e25c447fa7d499e1914ee8f801e3c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Cli/zipball/ebdf646cdd4e25c447fa7d499e1914ee8f801e3c",
+                    "reference": "ebdf646cdd4e25c447fa7d499e1914ee8f801e3c",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_autoloader": "^2",
+                    "pear-pear.horde.org/horde_cli": "^2",
+                    "pear-pear.horde.org/horde_cli_modular": "^2",
+                    "pear-pear.horde.org/horde_imap_client": "^2",
+                    "pear-pear.horde.org/horde_kolab_storage": "^2",
+                    "pear-pear.horde.org/horde_log": "^2",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_kolab_cli": "1.*",
+                    "pear-pear.horde.org/horde_kolab_cli": "1.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Support": "^2",
+                    "pear-pear.horde.org/Horde_Test": "^2.1",
+                    "pear-pear.horde.org/Horde_Yaml": "^2"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Cli": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab storage command line interface library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Cli",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Cli/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/kolab_cli",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Cli.git",
+                    "reference": "e31ebf0c9420f1fe7ab42d35845398a115ff831f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Cli/zipball/e31ebf0c9420f1fe7ab42d35845398a115ff831f",
+                    "reference": "e31ebf0c9420f1fe7ab42d35845398a115ff831f",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/autoloader": "dev-master",
+                    "horde/cli": "dev-master",
+                    "horde/cli_modular": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/imap_client": "dev-master",
+                    "horde/kolab_storage": "dev-master",
+                    "horde/log": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/support": "^2",
+                    "horde/test": "^2.1",
+                    "horde/yaml": "^2"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "bin": [
+                    "bin/horde-kolab-cli"
+                ],
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Cli": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab storage command line interface library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Cli",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Cli/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/kolab_cli",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Cli.git",
+                    "reference": "660792bd2acc095b78a84f392eb4b57af5f7dd63"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Cli/zipball/660792bd2acc095b78a84f392eb4b57af5f7dd63",
+                    "reference": "660792bd2acc095b78a84f392eb4b57af5f7dd63",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/autoloader": "dev-master",
+                    "horde/cli": "dev-master",
+                    "horde/cli_modular": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/imap_client": "dev-master",
+                    "horde/kolab_storage": "dev-master",
+                    "horde/log": "dev-master",
+                    "horde/translation": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/support": "^2",
+                    "horde/test": "^2.1",
+                    "horde/yaml": "^2"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "default-branch": true,
+                "bin": [
+                    "bin/horde-kolab-cli"
+                ],
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Cli": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab storage command line interface library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Cli",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Cli/tree/master"
+                }
+            }
+        ]
+    }
+}

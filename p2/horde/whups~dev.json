@@ -149,12 +149,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/whups.git",
-                    "reference": "bc0652351afc4164ba30d3db59080517d27625bb"
+                    "reference": "702883744a0acbac5fd1c2f19878ceb21fac415d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/bc0652351afc4164ba30d3db59080517d27625bb",
-                    "reference": "bc0652351afc4164ba30d3db59080517d27625bb",
+                    "url": "https://api.github.com/repos/maintaina-com/whups/zipball/702883744a0acbac5fd1c2f19878ceb21fac415d",
+                    "reference": "702883744a0acbac5fd1c2f19878ceb21fac415d",
                     "shasum": ""
                 },
                 "require": {
@@ -170,7 +170,7 @@
                     "horde/form": "^3 || dev-FRAMEWORK_6_0",
                     "horde/group": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
                     "horde/mail": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mime": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mime_viewer": "^3 || dev-FRAMEWORK_6_0",
@@ -184,7 +184,7 @@
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "horde/vfs": "^3 || dev-FRAMEWORK_6_0",
                     "horde/view": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "time": "2021-03-13T00:00:00+00:00",
                 "default-branch": true,

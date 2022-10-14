@@ -54,7 +54,8 @@
                 "description": "LDAP client library",
                 "homepage": "https://www.horde.org/libraries/Horde_Ldap",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Ldap/tree/FRAMEWORK_5_2"
+                    "source": "https://github.com/maintaina-com/Ldap/tree/FRAMEWORK_5_2",
+                    "issues": "https://github.com/maintaina-com/Ldap/issues"
                 }
             },
             {
@@ -64,12 +65,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Ldap.git",
-                    "reference": "3cb30cefdd356ef79fde6dfda6b56ba1f107ffa0"
+                    "reference": "cfe5287a132d81856377008bb98a757fa227d311"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Ldap/zipball/3cb30cefdd356ef79fde6dfda6b56ba1f107ffa0",
-                    "reference": "3cb30cefdd356ef79fde6dfda6b56ba1f107ffa0",
+                    "url": "https://api.github.com/repos/maintaina-com/Ldap/zipball/cfe5287a132d81856377008bb98a757fa227d311",
+                    "reference": "cfe5287a132d81856377008bb98a757fa227d311",
                     "shasum": ""
                 },
                 "require": {
@@ -107,7 +108,8 @@
                 "description": "LDAP client library",
                 "homepage": "https://www.horde.org/libraries/Horde_Ldap",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Ldap/tree/FRAMEWORK_6_0"
+                    "source": "https://github.com/maintaina-com/Ldap/tree/FRAMEWORK_6_0",
+                    "issues": "https://github.com/maintaina-com/Ldap/issues"
                 }
             },
             {
@@ -163,7 +165,8 @@
                 "description": "LDAP client library",
                 "homepage": "https://www.horde.org/libraries/Horde_Ldap",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Ldap/tree/horde-upstream"
+                    "source": "https://github.com/maintaina-com/Ldap/tree/horde-upstream",
+                    "issues": "https://github.com/maintaina-com/Ldap/issues"
                 }
             },
             {
@@ -219,7 +222,8 @@
                 "description": "LDAP client library",
                 "homepage": "https://www.horde.org/libraries/Horde_Ldap",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Ldap/tree/horde-upstream"
+                    "source": "https://github.com/maintaina-com/Ldap/tree/horde-upstream",
+                    "issues": "https://github.com/maintaina-com/Ldap/issues"
                 }
             },
             {
@@ -272,7 +276,8 @@
                 "description": "LDAP client library",
                 "homepage": "https://www.horde.org/libraries/Horde_Ldap",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Ldap/tree/maintaina-composerfixed"
+                    "source": "https://github.com/maintaina-com/Ldap/tree/maintaina-composerfixed",
+                    "issues": "https://github.com/maintaina-com/Ldap/issues"
                 }
             },
             {
@@ -325,7 +330,8 @@
                 "description": "LDAP client library",
                 "homepage": "https://www.horde.org/libraries/Horde_Ldap",
                 "support": {
-                    "source": "https://github.com/maintaina-com/Ldap/tree/master"
+                    "source": "https://github.com/maintaina-com/Ldap/tree/master",
+                    "issues": "https://github.com/maintaina-com/Ldap/issues"
                 }
             }
         ]

@@ -50,6 +50,74 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/skeleton/tree/v1.0.0alpha1"
                 }
+            },
+            {
+                "name": "horde/skeleton",
+                "version": "v1.0.0alpha2",
+                "version_normalized": "1.0.0.0-alpha2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/skeleton.git",
+                    "reference": "ce8e7a82eff3dbf22a2ae027ae89f55cce2acc92"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/skeleton/zipball/ce8e7a82eff3dbf22a2ae027ae89f55cce2acc92",
+                    "reference": "ce8e7a82eff3dbf22a2ae027ae89f55cce2acc92",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde": "^6 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || *",
+                    "horde/http_server": "^1 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/ldap": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "horde/ldap": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-12-01T00:00:00+00:00",
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Skeleton": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Skeleton\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Skeleton\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "TODO"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Skeleton for new Horde applications",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/skeleton/tree/v1.0.0alpha2"
+                }
             }
         ]
     }

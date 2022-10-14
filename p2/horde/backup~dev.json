@@ -60,12 +60,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Backup.git",
-                    "reference": "2d62c9eaa8106063bfc5b9529e4c9cc4f8bb0167"
+                    "reference": "32c592f478b19b86d2c11825aa011261b95d068b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Backup/zipball/2d62c9eaa8106063bfc5b9529e4c9cc4f8bb0167",
-                    "reference": "2d62c9eaa8106063bfc5b9529e4c9cc4f8bb0167",
+                    "url": "https://api.github.com/repos/maintaina-com/Backup/zipball/32c592f478b19b86d2c11825aa011261b95d068b",
+                    "reference": "32c592f478b19b86d2c11825aa011261b95d068b",
                     "shasum": ""
                 },
                 "require": {
@@ -73,7 +73,7 @@
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/pack": "^2 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"

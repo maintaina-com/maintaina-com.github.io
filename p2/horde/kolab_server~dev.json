@@ -1,0 +1,328 @@
+{
+    "packages": {
+        "horde/kolab_server": [
+            {
+                "name": "horde/kolab_server",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Server.git",
+                    "reference": "f246c4e8eb59ae626785049046427ed12ade14bf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Server/zipball/f246c4e8eb59ae626785049046427ed12ade14bf",
+                    "reference": "f246c4e8eb59ae626785049046427ed12ade14bf",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "pear-pear.horde.org/horde_auth": "^2",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_kolab_server": "2.*",
+                    "pear-pear.horde.org/horde_kolab_server": "2.*"
+                },
+                "suggest": {
+                    "ext-ldap": "*",
+                    "pear-pear.horde.org/Horde_Date": "^2",
+                    "pear-pear.horde.org/Horde_Ldap": "^2",
+                    "pear-pear.horde.org/Horde_Test": "^2.4"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Server": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab user database library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Server",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Server/tree/FRAMEWORK_5_2"
+                }
+            },
+            {
+                "name": "horde/kolab_server",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Server.git",
+                    "reference": "24800cbbbf4ec762aac4de6e058b9d50e937cf75"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Server/zipball/24800cbbbf4ec762aac4de6e058b9d50e937cf75",
+                    "reference": "24800cbbbf4ec762aac4de6e058b9d50e937cf75",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "horde/auth": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "ext-ldap": "*",
+                    "horde/date": "^3",
+                    "horde/ldap": "^3",
+                    "horde/test": "^3"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Server": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab user database library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Server",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Server/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/kolab_server",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Server.git",
+                    "reference": "73413ae3801862fff6d4da8997ad2f983a02590a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Server/zipball/73413ae3801862fff6d4da8997ad2f983a02590a",
+                    "reference": "73413ae3801862fff6d4da8997ad2f983a02590a",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "pear-pear.horde.org/horde_auth": "^2",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_kolab_server": "2.*",
+                    "pear-pear.horde.org/horde_kolab_server": "2.*"
+                },
+                "suggest": {
+                    "ext-ldap": "*",
+                    "pear-pear.horde.org/Horde_Date": "^2",
+                    "pear-pear.horde.org/Horde_Ldap": "^2",
+                    "pear-pear.horde.org/Horde_Test": "^2.4"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Server": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab user database library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Server",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Server/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/kolab_server",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Server.git",
+                    "reference": "73413ae3801862fff6d4da8997ad2f983a02590a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Server/zipball/73413ae3801862fff6d4da8997ad2f983a02590a",
+                    "reference": "73413ae3801862fff6d4da8997ad2f983a02590a",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "pear-pear.horde.org/horde_auth": "^2",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_kolab_server": "2.*",
+                    "pear-pear.horde.org/horde_kolab_server": "2.*"
+                },
+                "suggest": {
+                    "ext-ldap": "*",
+                    "pear-pear.horde.org/Horde_Date": "^2",
+                    "pear-pear.horde.org/Horde_Ldap": "^2",
+                    "pear-pear.horde.org/Horde_Test": "^2.4"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Server": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab user database library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Server",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Server/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/kolab_server",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Server.git",
+                    "reference": "fcae03066ca98f68a59420bab520693f94d63bf5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Server/zipball/fcae03066ca98f68a59420bab520693f94d63bf5",
+                    "reference": "fcae03066ca98f68a59420bab520693f94d63bf5",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "horde/auth": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "ext-ldap": "*",
+                    "horde/date": "^2",
+                    "horde/ldap": "^2",
+                    "horde/test": "^2.4"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Server": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab user database library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Server",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Server/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/kolab_server",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Server.git",
+                    "reference": "354f1f9b026b1cf1c5d49487e7995daeceaa2612"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Server/zipball/354f1f9b026b1cf1c5d49487e7995daeceaa2612",
+                    "reference": "354f1f9b026b1cf1c5d49487e7995daeceaa2612",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "horde/auth": "dev-master",
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "horde/util": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "ext-ldap": "*",
+                    "horde/date": "^2",
+                    "horde/ldap": "^2",
+                    "horde/test": "^2.4"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "default-branch": true,
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Server": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab user database library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Server",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Server/tree/master"
+                }
+            }
+        ]
+    }
+}

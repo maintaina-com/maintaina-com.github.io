@@ -1,0 +1,143 @@
+{
+    "packages": {
+        "horde/kolab_server": [
+            {
+                "name": "horde/kolab_server",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Server.git",
+                    "reference": "f129f7e769401f3a13b12c243f595cafcf4fc650"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Server/zipball/f129f7e769401f3a13b12c243f595cafcf4fc650",
+                    "reference": "f129f7e769401f3a13b12c243f595cafcf4fc650",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "pear-pear.horde.org/horde_auth": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-ldap": "*",
+                    "pear-pear.horde.org/Horde_Date": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Ldap": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Test": ">=2.4.0@stable,<=3.0.0alpha1@stable"
+                },
+                "time": "2015-01-07T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A package for manipulating the Kolab user database",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Server/tree/v2.0.3"
+                }
+            },
+            {
+                "name": "horde/kolab_server",
+                "version": "2.0.4",
+                "version_normalized": "2.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Server.git",
+                    "reference": "b6b421a9625fc2a7e02962eed3b864df18029cfe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Server/zipball/b6b421a9625fc2a7e02962eed3b864df18029cfe",
+                    "reference": "b6b421a9625fc2a7e02962eed3b864df18029cfe",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "pear-pear.horde.org/horde_auth": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_util": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=6.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-ldap": "*",
+                    "pear-pear.horde.org/Horde_Date": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Ldap": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Test": ">=2.4.0@stable,<=3.0.0alpha1@stable"
+                },
+                "time": "2015-04-28T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A package for manipulating the Kolab user database",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Server/tree/v2.0.4"
+                }
+            },
+            {
+                "name": "horde/kolab_server",
+                "version": "2.0.5",
+                "version_normalized": "2.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Server.git",
+                    "reference": "2b1e81456837e661fd4c3b7ef6505057a69ed49c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Server/zipball/2b1e81456837e661fd4c3b7ef6505057a69ed49c",
+                    "reference": "2b1e81456837e661fd4c3b7ef6505057a69ed49c",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-hash": "*",
+                    "pear-pear.horde.org/horde_auth": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_exception": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/horde_util": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "php": ">=5.3.0,<=8.0.0alpha1"
+                },
+                "suggest": {
+                    "ext-ldap": "*",
+                    "pear-pear.horde.org/Horde_Date": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Ldap": ">=2.0.0@stable,<=3.0.0alpha1@stable",
+                    "pear-pear.horde.org/Horde_Test": ">=2.4.0@stable,<=3.0.0alpha1@stable"
+                },
+                "time": "2016-02-01T00:00:00+00:00",
+                "type": "library",
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "A package for manipulating the Kolab user database",
+                "homepage": "http://pear.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Server/tree/v2.0.5"
+                }
+            }
+        ]
+    }
+}

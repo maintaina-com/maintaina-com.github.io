@@ -142,6 +142,71 @@
             },
             {
                 "name": "horde/kolab_storage",
+                "version": "dev-backport-upstream-php81",
+                "version_normalized": "dev-backport-upstream-php81",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Storage.git",
+                    "reference": "085731c51673ed2217182573b7c7ea55530c9705"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Storage/zipball/085731c51673ed2217182573b7c7ea55530c9705",
+                    "reference": "085731c51673ed2217182573b7c7ea55530c9705",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_cache": "^2",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "pear-pear.horde.org/horde_kolab_format": "^2",
+                    "pear-pear.horde.org/horde_mime": "^2",
+                    "pear-pear.horde.org/horde_support": "^2",
+                    "pear-pear.horde.org/horde_translation": "^2.2",
+                    "pear-pear.horde.org/horde_util": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_kolab_storage": "2.*",
+                    "pear-pear.horde.org/horde_kolab_storage": "2.*"
+                },
+                "suggest": {
+                    "ext-imap": "*",
+                    "pear-pear.horde.org/Horde_History": "^2",
+                    "pear-pear.horde.org/Horde_Imap_Client": "^2.14",
+                    "pear-pear.horde.org/Horde_Test": "^2.1",
+                    "pear-pear.php.net/HTTP_Request": "*",
+                    "pear-pear.php.net/Net_IMAP": "^1.1"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Storage": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab data storage library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Storage",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Storage/tree/backport-upstream-php81"
+                }
+            },
+            {
+                "name": "horde/kolab_storage",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

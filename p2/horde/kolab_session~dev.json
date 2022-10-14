@@ -1,0 +1,310 @@
+{
+    "packages": {
+        "horde/kolab_session": [
+            {
+                "name": "horde/kolab_session",
+                "version": "dev-FRAMEWORK_5_2",
+                "version_normalized": "dev-FRAMEWORK_5_2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Session.git",
+                    "reference": "73b2f23bbeeb0ec2b8273f7343171546ff8e44e9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Session/zipball/73b2f23bbeeb0ec2b8273f7343171546ff8e44e9",
+                    "reference": "73b2f23bbeeb0ec2b8273f7343171546ff8e44e9",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_kolab_session": "2.*",
+                    "pear-pear.horde.org/horde_kolab_session": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Imap_Client": "^2",
+                    "pear-pear.horde.org/Horde_Kolab_Server": "^2",
+                    "pear-pear.horde.org/Horde_Log": "^2",
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2017-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Session": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab session management library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Session",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Session/tree/FRAMEWORK_5_2"
+                }
+            },
+            {
+                "name": "horde/kolab_session",
+                "version": "dev-FRAMEWORK_6_0",
+                "version_normalized": "dev-FRAMEWORK_6_0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Session.git",
+                    "reference": "563807f9e051e8ac37b5e47c9239dfed7d42b274"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Session/zipball/563807f9e051e8ac37b5e47c9239dfed7d42b274",
+                    "reference": "563807f9e051e8ac37b5e47c9239dfed7d42b274",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/imap_client": "^3",
+                    "horde/kolab_server": "^3",
+                    "horde/log": "^3",
+                    "horde/test": "^3"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Session": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab session management library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Session",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Session/tree/FRAMEWORK_6_0"
+                }
+            },
+            {
+                "name": "horde/kolab_session",
+                "version": "dev-horde-upstream",
+                "version_normalized": "dev-horde-upstream",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Session.git",
+                    "reference": "38d5c318e4602d2a21117a51f5a35fc0bf3edcd4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Session/zipball/38d5c318e4602d2a21117a51f5a35fc0bf3edcd4",
+                    "reference": "38d5c318e4602d2a21117a51f5a35fc0bf3edcd4",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_kolab_session": "2.*",
+                    "pear-pear.horde.org/horde_kolab_session": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Imap_Client": "^2",
+                    "pear-pear.horde.org/Horde_Kolab_Server": "^2",
+                    "pear-pear.horde.org/Horde_Log": "^2",
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Session": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab session management library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Session",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Session/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/kolab_session",
+                "version": "dev-maintaina-bare",
+                "version_normalized": "dev-maintaina-bare",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Session.git",
+                    "reference": "38d5c318e4602d2a21117a51f5a35fc0bf3edcd4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Session/zipball/38d5c318e4602d2a21117a51f5a35fc0bf3edcd4",
+                    "reference": "38d5c318e4602d2a21117a51f5a35fc0bf3edcd4",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_kolab_session": "2.*",
+                    "pear-pear.horde.org/horde_kolab_session": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_Imap_Client": "^2",
+                    "pear-pear.horde.org/Horde_Kolab_Server": "^2",
+                    "pear-pear.horde.org/Horde_Log": "^2",
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Session": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab session management library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Session",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Session/tree/horde-upstream"
+                }
+            },
+            {
+                "name": "horde/kolab_session",
+                "version": "dev-maintaina-composerfixed",
+                "version_normalized": "dev-maintaina-composerfixed",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Session.git",
+                    "reference": "240dc5ce20a3d82bed66e7f90641d07659e17a35"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Session/zipball/240dc5ce20a3d82bed66e7f90641d07659e17a35",
+                    "reference": "240dc5ce20a3d82bed66e7f90641d07659e17a35",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/imap_client": "^2",
+                    "horde/kolab_server": "^2",
+                    "horde/log": "^2",
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Session": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab session management library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Session",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Session/tree/maintaina-composerfixed"
+                }
+            },
+            {
+                "name": "horde/kolab_session",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Kolab_Session.git",
+                    "reference": "df32b9f298e59691ee025c35d49bdd7c44a37a16"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Kolab_Session/zipball/df32b9f298e59691ee025c35d49bdd7c44a37a16",
+                    "reference": "df32b9f298e59691ee025c35d49bdd7c44a37a16",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "dev-master",
+                    "horde/horde-installer-plugin": "dev-master",
+                    "php": "^5.3 || ^7"
+                },
+                "suggest": {
+                    "horde/imap_client": "^2",
+                    "horde/kolab_server": "^2",
+                    "horde/log": "^2",
+                    "horde/test": "^2.1"
+                },
+                "time": "2020-10-27T00:00:00+00:00",
+                "default-branch": true,
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Kolab_Session": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Gunnar Wrobel",
+                        "email": "p@rdus.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Kolab session management library",
+                "homepage": "https://www.horde.org/libraries/Horde_Kolab_Session",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Kolab_Session/tree/master"
+                }
+            }
+        ]
+    }
+}

@@ -104,6 +104,58 @@
             },
             {
                 "name": "horde/history",
+                "version": "dev-backport-php81-compat",
+                "version_normalized": "dev-backport-php81-compat",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/History.git",
+                    "reference": "33817598c95e9106a248f50aa4cf7b1c58f0c15f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/History/zipball/33817598c95e9106a248f50aa4cf7b1c58f0c15f",
+                    "reference": "33817598c95e9106a248f50aa4cf7b1c58f0c15f",
+                    "shasum": ""
+                },
+                "require": {
+                    "pear-pear.horde.org/horde_db": "^2",
+                    "pear-pear.horde.org/horde_exception": "^2",
+                    "php": "^5.3 || ^7"
+                },
+                "replace": {
+                    "pear-horde/horde_history": "2.*",
+                    "pear-pear.horde.org/horde_history": "2.*"
+                },
+                "suggest": {
+                    "pear-pear.horde.org/Horde_HashTable": "^1",
+                    "pear-pear.horde.org/Horde_Mongo": "^1",
+                    "pear-pear.horde.org/Horde_Test": "^2.1"
+                },
+                "time": "2017-11-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_History": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "History tracking library",
+                "homepage": "https://www.horde.org/libraries/Horde_History",
+                "support": {
+                    "source": "https://github.com/maintaina-com/History/tree/backport-php81-compat"
+                }
+            },
+            {
+                "name": "horde/history",
                 "version": "dev-horde-upstream",
                 "version_normalized": "dev-horde-upstream",
                 "source": {

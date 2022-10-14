@@ -56,16 +56,16 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Text_Textile.git",
-                    "reference": "4d75639eb3c59126578a182edc5128bdfa9358b3"
+                    "reference": "b45b3d8b4beaa4d7d1a146cd8e11dae0e408370e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Textile/zipball/4d75639eb3c59126578a182edc5128bdfa9358b3",
-                    "reference": "4d75639eb3c59126578a182edc5128bdfa9358b3",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Textile/zipball/b45b3d8b4beaa4d7d1a146cd8e11dae0e408370e",
+                    "reference": "b45b3d8b4beaa4d7d1a146cd8e11dae0e408370e",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "^7"
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"

@@ -67,7 +67,7 @@
                 "description": "Skeleton for new Horde applications",
                 "homepage": "https://www.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/skeleton/tree/FRAMEWORK_6_0"
+                    "source": "https://github.com/maintaina-com/skeleton/tree/v1.0.0alpha2"
                 }
             },
             {

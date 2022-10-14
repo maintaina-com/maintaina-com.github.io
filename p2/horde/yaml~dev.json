@@ -64,12 +64,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Yaml.git",
-                    "reference": "7066e396d069ea8f09c7078c9929c7a9f09c49f6"
+                    "reference": "148f74d762c1867d729eadba5b90d8618f510aa1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Yaml/zipball/7066e396d069ea8f09c7078c9929c7a9f09c49f6",
-                    "reference": "7066e396d069ea8f09c7078c9929c7a9f09c49f6",
+                    "url": "https://api.github.com/repos/maintaina-com/Yaml/zipball/148f74d762c1867d729eadba5b90d8618f510aa1",
+                    "reference": "148f74d762c1867d729eadba5b90d8618f510aa1",
                     "shasum": ""
                 },
                 "require": {
@@ -78,10 +78,12 @@
                 },
                 "require-dev": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
-                    "horde/exception": "^3 || dev-FRAMEWORK_6_0"
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "time": "2022-08-18T00:00:00+00:00",
                 "default-branch": true,

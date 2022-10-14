@@ -412,6 +412,58 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/ManageSieve/tree/v2.0.0alpha4"
                 }
+            },
+            {
+                "name": "horde/managesieve",
+                "version": "v2.0.0alpha5",
+                "version_normalized": "2.0.0.0-alpha5",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/ManageSieve.git",
+                    "reference": "7aba252119321e54eebcc991534bf8e4c5727479"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/ManageSieve/zipball/7aba252119321e54eebcc991534bf8e4c5727479",
+                    "reference": "7aba252119321e54eebcc991534bf8e4c5727479",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/socket_client": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "pear/auth_sasl": "^1.1"
+                },
+                "time": "2022-08-01T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Horde\\ManageSieve\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\ManageSieve\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "ManageSieve client library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/ManageSieve/tree/v2.0.0alpha5"
+                }
             }
         ]
     }
