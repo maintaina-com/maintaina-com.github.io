@@ -80,12 +80,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Rpc.git",
-                    "reference": "c5af4c8234df96646f30fc8a669bd6277389401a"
+                    "reference": "6af0de792794bd65bc8c6189122b3e2133f9317d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Rpc/zipball/c5af4c8234df96646f30fc8a669bd6277389401a",
-                    "reference": "c5af4c8234df96646f30fc8a669bd6277389401a",
+                    "url": "https://api.github.com/repos/maintaina-com/Rpc/zipball/6af0de792794bd65bc8c6189122b3e2133f9317d",
+                    "reference": "6af0de792794bd65bc8c6189122b3e2133f9317d",
                     "shasum": ""
                 },
                 "require": {
