@@ -80,12 +80,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Rpc.git",
-                    "reference": "1b7fbe1c6a542e713d405ea28bb29135fe9fca28"
+                    "reference": "c5af4c8234df96646f30fc8a669bd6277389401a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Rpc/zipball/1b7fbe1c6a542e713d405ea28bb29135fe9fca28",
-                    "reference": "1b7fbe1c6a542e713d405ea28bb29135fe9fca28",
+                    "url": "https://api.github.com/repos/maintaina-com/Rpc/zipball/c5af4c8234df96646f30fc8a669bd6277389401a",
+                    "reference": "c5af4c8234df96646f30fc8a669bd6277389401a",
                     "shasum": ""
                 },
                 "require": {
@@ -100,6 +100,10 @@
                     "horde/xml_element": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
+                "require-dev": {
+                    "horde/activesync": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
                 "suggest": {
                     "ext-soap": "*",
                     "ext-xmlrpc": "*",
@@ -108,7 +112,7 @@
                     "horde/lock": "^3 || dev-FRAMEWORK_6_0",
                     "horde/syncml": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2022-10-08T00:00:00+00:00",
+                "time": "2022-10-19T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
