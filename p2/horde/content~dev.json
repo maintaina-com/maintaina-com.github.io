@@ -127,12 +127,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/content.git",
-                    "reference": "13ef8daeaed3a698da9b78e0d417b5c3a10a391e"
+                    "reference": "3c9c150ec8e0c1ea49346abf689e9539da0aa188"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/content/zipball/13ef8daeaed3a698da9b78e0d417b5c3a10a391e",
-                    "reference": "13ef8daeaed3a698da9b78e0d417b5c3a10a391e",
+                    "url": "https://api.github.com/repos/maintaina-com/content/zipball/3c9c150ec8e0c1ea49346abf689e9539da0aa188",
+                    "reference": "3c9c150ec8e0c1ea49346abf689e9539da0aa188",
                     "shasum": ""
                 },
                 "require": {
@@ -142,7 +142,7 @@
                     "horde/date": "^3 || dev-FRAMEWORK_6_0",
                     "horde/db": "^3 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
                     "horde/injector": "^3 || dev-FRAMEWORK_6_0",
                     "horde/rdo": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
@@ -153,7 +153,7 @@
                     "horde/controller": "^3 || dev-FRAMEWORK_6_0",
                     "horde/elasticsearch": "^2 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-03T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
                     "bin/content-object-add",
@@ -167,6 +167,11 @@
                 "autoload": {
                     "psr-0": {
                         "Content": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Content\\Test\\": "test/"
                     }
                 },
                 "license": [
