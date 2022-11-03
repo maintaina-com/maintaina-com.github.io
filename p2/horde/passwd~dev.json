@@ -135,12 +135,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/passwd.git",
-                    "reference": "76ebc430f5ca0c5a12646c060368ab48bf917dce"
+                    "reference": "bbb746dea0e5d1b7af27fec726eebb5500c3f2e2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/passwd/zipball/76ebc430f5ca0c5a12646c060368ab48bf917dce",
-                    "reference": "76ebc430f5ca0c5a12646c060368ab48bf917dce",
+                    "url": "https://api.github.com/repos/maintaina-com/passwd/zipball/bbb746dea0e5d1b7af27fec726eebb5500c3f2e2",
+                    "reference": "bbb746dea0e5d1b7af27fec726eebb5500c3f2e2",
                     "shasum": ""
                 },
                 "require": {
@@ -149,7 +149,7 @@
                     "horde/core": "^3 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
                     "horde/injector": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "horde/view": "^3 || dev-FRAMEWORK_6_0",
@@ -165,12 +165,17 @@
                     "horde/vfs": "^3 || dev-FRAMEWORK_6_0",
                     "pear/crypt_chap": "^2"
                 },
-                "time": "2021-03-15T00:00:00+00:00",
+                "time": "2022-11-03T00:00:00+00:00",
                 "default-branch": true,
                 "type": "horde-application",
                 "autoload": {
                     "psr-0": {
                         "Passwd": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Passwd\\Test\\": "test/"
                     }
                 },
                 "license": [
