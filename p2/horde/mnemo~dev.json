@@ -150,12 +150,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/mnemo.git",
-                    "reference": "3c933b0838fa0da946aa75e4011df7ef8c01323e"
+                    "reference": "ac1ed3e2099f6cc1863210a5ff29fc6e6c275a9a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/3c933b0838fa0da946aa75e4011df7ef8c01323e",
-                    "reference": "3c933b0838fa0da946aa75e4011df7ef8c01323e",
+                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/ac1ed3e2099f6cc1863210a5ff29fc6e6c275a9a",
+                    "reference": "ac1ed3e2099f6cc1863210a5ff29fc6e6c275a9a",
                     "shasum": ""
                 },
                 "require": {
@@ -169,7 +169,7 @@
                     "horde/group": "^3 || dev-FRAMEWORK_6_0",
                     "horde/history": "^3 || dev-FRAMEWORK_6_0",
                     "horde/horde": "^6 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
                     "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
                     "horde/injector": "^3 || dev-FRAMEWORK_6_0",
                     "horde/perms": "^3 || dev-FRAMEWORK_6_0",
@@ -189,7 +189,7 @@
                     "horde/pdf": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-03T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
                     "bin/mnemo-convert-datatree-shares-to-sql",
@@ -201,6 +201,11 @@
                 "autoload": {
                     "psr-0": {
                         "Mnemo": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Mnemo\\Test\\": "test/"
                     }
                 },
                 "license": [

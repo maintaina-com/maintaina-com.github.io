@@ -1524,6 +1524,91 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/mnemo/tree/v5.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/mnemo",
+                "version": "v5.0.0alpha4",
+                "version_normalized": "5.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/mnemo.git",
+                    "reference": "6842aa006857da6174a934b5c687e8505328b63b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/mnemo/zipball/6842aa006857da6174a934b5c687e8505328b63b",
+                    "reference": "6842aa006857da6174a934b5c687e8505328b63b",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gettext": "*",
+                    "horde/auth": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/content": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/data": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/form": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/group": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/history": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde": "^6 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
+                    "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/injector": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/perms": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/prefs": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/share": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/text_filter": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/activesync": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/backup": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/crypt": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/pdf": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-11-03T00:00:00+00:00",
+                "bin": [
+                    "bin/mnemo-convert-datatree-shares-to-sql",
+                    "bin/mnemo-convert-sql-shares-to-sqlng",
+                    "bin/mnemo-convert-to-utf8",
+                    "bin/mnemo-import-text-note"
+                ],
+                "type": "horde-application",
+                "autoload": {
+                    "psr-0": {
+                        "Mnemo": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Mnemo\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "ASL"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Notes application",
+                "homepage": "https://www.horde.org/apps/mnemo",
+                "support": {
+                    "source": "https://github.com/maintaina-com/mnemo/tree/v5.0.0alpha4"
+                }
             }
         ]
     }
