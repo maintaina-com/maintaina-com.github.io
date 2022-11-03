@@ -119,12 +119,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/timeobjects.git",
-                    "reference": "b5eb14d06d7f5dff5bb0d7d2a613d73aaa53d1c1"
+                    "reference": "7fd2adada63259ae895cff13a7e0d775f7b74146"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/timeobjects/zipball/b5eb14d06d7f5dff5bb0d7d2a613d73aaa53d1c1",
-                    "reference": "b5eb14d06d7f5dff5bb0d7d2a613d73aaa53d1c1",
+                    "url": "https://api.github.com/repos/maintaina-com/timeobjects/zipball/7fd2adada63259ae895cff13a7e0d775f7b74146",
+                    "reference": "7fd2adada63259ae895cff13a7e0d775f7b74146",
                     "shasum": ""
                 },
                 "require": {
@@ -132,7 +132,7 @@
                     "horde/core": "^3 || dev-FRAMEWORK_6_0",
                     "horde/date": "^3 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
                     "horde/url": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
@@ -141,7 +141,7 @@
                     "horde/service_facebook": "^3 || dev-FRAMEWORK_6_0",
                     "horde/service_weather": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-03T00:00:00+00:00",
                 "default-branch": true,
                 "type": "horde-application",
                 "autoload": {
