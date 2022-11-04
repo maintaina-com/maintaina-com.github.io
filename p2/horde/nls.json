@@ -443,6 +443,58 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Nls/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/nls",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Nls.git",
+                    "reference": "fa469bcb8d2eb535abfdfcf66ef3b6287d52a514"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Nls/zipball/fa469bcb8d2eb535abfdfcf66ef3b6287d52a514",
+                    "reference": "fa469bcb8d2eb535abfdfcf66ef3b6287d52a514",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "ext-geoip": "*",
+                    "pear/net_dns2": "*"
+                },
+                "time": "2022-11-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Nls": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Native language support library",
+                "homepage": "https://www.horde.org/libraries/Horde_Nls",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Nls/tree/v3.0.0alpha4"
+                }
             }
         ]
     }

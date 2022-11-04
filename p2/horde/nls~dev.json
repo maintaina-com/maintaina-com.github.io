@@ -64,12 +64,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Nls.git",
-                    "reference": "6ae17f1b550bda989b95e3171de144e98a856546"
+                    "reference": "9ec4e15f713389e84a38fd8288c687d4c7395f7f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Nls/zipball/6ae17f1b550bda989b95e3171de144e98a856546",
-                    "reference": "6ae17f1b550bda989b95e3171de144e98a856546",
+                    "url": "https://api.github.com/repos/maintaina-com/Nls/zipball/9ec4e15f713389e84a38fd8288c687d4c7395f7f",
+                    "reference": "9ec4e15f713389e84a38fd8288c687d4c7395f7f",
                     "shasum": ""
                 },
                 "require": {
@@ -81,7 +81,7 @@
                     "ext-geoip": "*",
                     "pear/net_dns2": "*"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
