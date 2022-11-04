@@ -61,12 +61,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Browser.git",
-                    "reference": "5020d5828fff26a94ee59b9031d15f3b67f67a9e"
+                    "reference": "daddee289cfa905fb8e1a873b26b616da77efeca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Browser/zipball/5020d5828fff26a94ee59b9031d15f3b67f67a9e",
-                    "reference": "5020d5828fff26a94ee59b9031d15f3b67f67a9e",
+                    "url": "https://api.github.com/repos/maintaina-com/Browser/zipball/daddee289cfa905fb8e1a873b26b616da77efeca",
+                    "reference": "daddee289cfa905fb8e1a873b26b616da77efeca",
                     "shasum": ""
                 },
                 "require": {
@@ -75,7 +75,7 @@
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
