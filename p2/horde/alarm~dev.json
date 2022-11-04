@@ -66,12 +66,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Alarm.git",
-                    "reference": "040fc5ef41501b3394ba5bd3e8455593b81f5caf"
+                    "reference": "ed3fa1e94cc9338b4111e90713cd7d78cad09162"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Alarm/zipball/040fc5ef41501b3394ba5bd3e8455593b81f5caf",
-                    "reference": "040fc5ef41501b3394ba5bd3e8455593b81f5caf",
+                    "url": "https://api.github.com/repos/maintaina-com/Alarm/zipball/ed3fa1e94cc9338b4111e90713cd7d78cad09162",
+                    "reference": "ed3fa1e94cc9338b4111e90713cd7d78cad09162",
                     "shasum": ""
                 },
                 "require": {
@@ -81,6 +81,7 @@
                     "php": "^7.4 || ^8"
                 },
                 "require-dev": {
+                    "horde/cli": "^3 || dev-FRAMEWORK_6_0",
                     "horde/db": "^3 || dev-FRAMEWORK_6_0",
                     "horde/log": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mail": "^3 || dev-FRAMEWORK_6_0",
@@ -88,6 +89,7 @@
                     "horde/notification": "^3 || dev-FRAMEWORK_6_0",
                     "horde/perms": "^3 || dev-FRAMEWORK_6_0",
                     "horde/prefs": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/serialize": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
