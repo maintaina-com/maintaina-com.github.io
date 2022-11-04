@@ -60,12 +60,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/History.git",
-                    "reference": "c9255d8821d2b2ef99a324bd48b3a556a9ef67f1"
+                    "reference": "82242a4d3935b4b6b47d54bf0d40e78281378d5b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/History/zipball/c9255d8821d2b2ef99a324bd48b3a556a9ef67f1",
-                    "reference": "c9255d8821d2b2ef99a324bd48b3a556a9ef67f1",
+                    "url": "https://api.github.com/repos/maintaina-com/History/zipball/82242a4d3935b4b6b47d54bf0d40e78281378d5b",
+                    "reference": "82242a4d3935b4b6b47d54bf0d40e78281378d5b",
                     "shasum": ""
                 },
                 "require": {
@@ -78,12 +78,17 @@
                     "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_History": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\History\\Test\\": "test/"
                     }
                 },
                 "license": [

@@ -407,6 +407,59 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/History/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/history",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/History.git",
+                    "reference": "86943939673f17cd06287be69b2d12767610e98b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/History/zipball/86943939673f17cd06287be69b2d12767610e98b",
+                    "reference": "86943939673f17cd06287be69b2d12767610e98b",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/hashtable": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-11-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_History": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\History\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "History tracking library",
+                "homepage": "https://www.horde.org/libraries/Horde_History",
+                "support": {
+                    "source": "https://github.com/maintaina-com/History/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
