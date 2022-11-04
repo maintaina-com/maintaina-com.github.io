@@ -527,35 +527,46 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/SessionHandler.git",
-                    "reference": "48b06eae903ad0925bacb69105c9df4c7b3ba217"
+                    "reference": "fefa7c355c78fa92a53e818d7a32cc64bfe8c7aa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/SessionHandler/zipball/48b06eae903ad0925bacb69105c9df4c7b3ba217",
-                    "reference": "48b06eae903ad0925bacb69105c9df4c7b3ba217",
+                    "url": "https://api.github.com/repos/maintaina-com/SessionHandler/zipball/fefa7c355c78fa92a53e818d7a32cc64bfe8c7aa",
+                    "reference": "fefa7c355c78fa92a53e818d7a32cc64bfe8c7aa",
                     "shasum": ""
                 },
                 "require": {
-                    "horde/exception": "^3",
-                    "horde/support": "^3",
-                    "php": "^7"
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/hashtable": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
-                    "horde/db": "^3",
-                    "horde/hashtable": "^2",
-                    "horde/log": "^3",
-                    "horde/mongo": "^2",
-                    "horde/test": "^3"
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/hashtable": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_SessionHandler": "lib/"
                     }
                 },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\SessionHandler\\Test\\": "test/"
+                    }
+                },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
