@@ -73,23 +73,30 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Text_Filter.git",
-                    "reference": "e37910cde56ca117d31b616ec8b6b4f2e7c453c4"
+                    "reference": "04526b2ab5b79504ba4ff7ad882c5021d011707f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Text_Filter/zipball/e37910cde56ca117d31b616ec8b6b4f2e7c453c4",
-                    "reference": "e37910cde56ca117d31b616ec8b6b4f2e7c453c4",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Filter/zipball/04526b2ab5b79504ba4ff7ad882c5021d011707f",
+                    "reference": "04526b2ab5b79504ba4ff7ad882c5021d011707f",
                     "shasum": ""
                 },
                 "require": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
                     "horde/idna": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/secret": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/text_filter_jsmin": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/text_flowed": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0"
+                },
                 "suggest": {
                     "ext-tidy": "*",
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
                     "horde/text_filter_jsmin": "^2 || dev-FRAMEWORK_6_0",
                     "horde/text_flowed": "^3 || dev-FRAMEWORK_6_0",
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0"
