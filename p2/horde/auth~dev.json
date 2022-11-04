@@ -82,12 +82,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Auth.git",
-                    "reference": "25b4df806471b71ca6490bf9392fe79879ed5500"
+                    "reference": "5e11809fac3e9bb28fc22b09b694a9f3728d5d02"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Auth/zipball/25b4df806471b71ca6490bf9392fe79879ed5500",
-                    "reference": "25b4df806471b71ca6490bf9392fe79879ed5500",
+                    "url": "https://api.github.com/repos/maintaina-com/Auth/zipball/5e11809fac3e9bb28fc22b09b694a9f3728d5d02",
+                    "reference": "5e11809fac3e9bb28fc22b09b694a9f3728d5d02",
                     "shasum": ""
                 },
                 "require": {
@@ -112,7 +112,7 @@
                     "horde/lock": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-10-06T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
