@@ -62,25 +62,22 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Cli_Modular.git",
-                    "reference": "3872548d5cf8aaa3f73e324e8b037f647787e23d"
+                    "reference": "070afdca4b850a69149510ed004a4a6286d9d500"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Cli_Modular/zipball/3872548d5cf8aaa3f73e324e8b037f647787e23d",
-                    "reference": "3872548d5cf8aaa3f73e324e8b037f647787e23d",
+                    "url": "https://api.github.com/repos/maintaina-com/Cli_Modular/zipball/070afdca4b850a69149510ed004a4a6286d9d500",
+                    "reference": "070afdca4b850a69149510ed004a4a6286d9d500",
                     "shasum": ""
                 },
                 "require": {
                     "horde/argv": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
-                "require-dev": {
-                    "horde/test": "dev-FRAMEWORK_6_0"
-                },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2022-08-25T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
