@@ -70,12 +70,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Dav.git",
-                    "reference": "778e8c04daea0333c2fc1f516ce7910633620508"
+                    "reference": "261c14cbd90ee18fb2a97f5292fb94fef11b20ad"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Dav/zipball/778e8c04daea0333c2fc1f516ce7910633620508",
-                    "reference": "778e8c04daea0333c2fc1f516ce7910633620508",
+                    "url": "https://api.github.com/repos/maintaina-com/Dav/zipball/261c14cbd90ee18fb2a97f5292fb94fef11b20ad",
+                    "reference": "261c14cbd90ee18fb2a97f5292fb94fef11b20ad",
                     "shasum": ""
                 },
                 "require": {
@@ -99,7 +99,7 @@
                 "suggest": {
                     "ext-curl": "*"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {

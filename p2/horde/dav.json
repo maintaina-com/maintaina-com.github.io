@@ -671,6 +671,65 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Dav/tree/v2.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/dav",
+                "version": "v2.0.0alpha4",
+                "version_normalized": "2.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Dav.git",
+                    "reference": "3d5fa3fc97c2440ccee0d84af22f5336caee74aa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Dav/zipball/3d5fa3fc97c2440ccee0d84af22f5336caee74aa",
+                    "reference": "3d5fa3fc97c2440ccee0d84af22f5336caee74aa",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "ext-date": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-libxml": "*",
+                    "ext-mbstring": "*",
+                    "ext-pcre": "*",
+                    "ext-simplexml": "*",
+                    "ext-spl": "*",
+                    "horde/auth": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/http": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/stream": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8",
+                    "sabre/dav": "^4.1"
+                },
+                "suggest": {
+                    "ext-curl": "*"
+                },
+                "time": "2022-11-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Dav": "lib/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "WebDAV, CalDAV, and CardDAV library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Dav/tree/v2.0.0alpha4"
+                }
             }
         ]
     }
