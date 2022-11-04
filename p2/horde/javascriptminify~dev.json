@@ -56,12 +56,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/JavascriptMinify.git",
-                    "reference": "d11e1a6781bda0e034490bd4f36b74318e9828b1"
+                    "reference": "b1d99cdf672fd9ac7f1e06778daa12a8518f9fcd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/JavascriptMinify/zipball/d11e1a6781bda0e034490bd4f36b74318e9828b1",
-                    "reference": "d11e1a6781bda0e034490bd4f36b74318e9828b1",
+                    "url": "https://api.github.com/repos/maintaina-com/JavascriptMinify/zipball/b1d99cdf672fd9ac7f1e06778daa12a8518f9fcd",
+                    "reference": "b1d99cdf672fd9ac7f1e06778daa12a8518f9fcd",
                     "shasum": ""
                 },
                 "require": {
@@ -70,12 +70,17 @@
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_JavascriptMinify": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\JavascriptMinify\\Test\\": "test/"
                     }
                 },
                 "license": [
