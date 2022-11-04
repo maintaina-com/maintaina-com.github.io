@@ -60,12 +60,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Lock.git",
-                    "reference": "48adb9be4b8b9aeca10d66e20159af2f55e77a7d"
+                    "reference": "b521e09aa8464160a7ec79c44260df1681acb18a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/48adb9be4b8b9aeca10d66e20159af2f55e77a7d",
-                    "reference": "48adb9be4b8b9aeca10d66e20159af2f55e77a7d",
+                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/b521e09aa8464160a7ec79c44260df1681acb18a",
+                    "reference": "b521e09aa8464160a7ec79c44260df1681acb18a",
                     "shasum": ""
                 },
                 "require": {
@@ -78,12 +78,17 @@
                     "horde/log": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mongo": "^2 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Lock": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Lock\\Test\\": "test/"
                     }
                 },
                 "license": [

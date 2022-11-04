@@ -321,6 +321,59 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Lock/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/lock",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Lock.git",
+                    "reference": "37132c490fff0132c9172e0b9e8c43daff66c973"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Lock/zipball/37132c490fff0132c9172e0b9e8c43daff66c973",
+                    "reference": "37132c490fff0132c9172e0b9e8c43daff66c973",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-11-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Lock": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Lock\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Ben Klang",
+                        "email": "ben@alkaloid.net",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Resource locking library",
+                "homepage": "https://www.horde.org/libraries/Horde_Lock",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Lock/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
