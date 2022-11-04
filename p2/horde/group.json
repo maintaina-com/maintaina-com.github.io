@@ -414,6 +414,66 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Group/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/group",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Group.git",
+                    "reference": "151bf1e9fb5a6dd248024cb088905202f5c9b8d3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Group/zipball/151bf1e9fb5a6dd248024cb088905202f5c9b8d3",
+                    "reference": "151bf1e9fb5a6dd248024cb088905202f5c9b8d3",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/cache": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/ldap": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-11-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Group": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Group\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "User groups library",
+                "homepage": "https://www.horde.org/libraries/Horde_Group",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Group/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
