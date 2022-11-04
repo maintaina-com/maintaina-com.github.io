@@ -80,12 +80,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Compress.git",
-                    "reference": "4344d678840dc8f7d9ad304a09ce45bc953bbc19"
+                    "reference": "3f40a95936fd2a643fdb102a37dbf6532f9a6ed4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Compress/zipball/4344d678840dc8f7d9ad304a09ce45bc953bbc19",
-                    "reference": "4344d678840dc8f7d9ad304a09ce45bc953bbc19",
+                    "url": "https://api.github.com/repos/maintaina-com/Compress/zipball/3f40a95936fd2a643fdb102a37dbf6532f9a6ed4",
+                    "reference": "3f40a95936fd2a643fdb102a37dbf6532f9a6ed4",
                     "shasum": ""
                 },
                 "require": {
@@ -95,20 +95,31 @@
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
-                "suggest": {
-                    "ext-zlib": "*",
+                "require-dev": {
                     "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mail": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mapi": "^2 || dev-FRAMEWORK_6_0",
                     "horde/stream_filter": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "suggest": {
+                    "ext-zlib": "*",
+                    "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mail": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mapi": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/stream_filter": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Compress": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Compress\\Test\\": "test/"
                     }
                 },
                 "license": [
@@ -353,75 +364,6 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Compress",
                 "support": {
                     "source": "https://github.com/maintaina-com/Compress/tree/maintaina-composerfixed"
-                }
-            },
-            {
-                "name": "horde/compress",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/Compress.git",
-                    "reference": "b8c4e741d799cc2bc4101742e6c7c3cb3998c372"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Compress/zipball/b8c4e741d799cc2bc4101742e6c7c3cb3998c372",
-                    "reference": "b8c4e741d799cc2bc4101742e6c7c3cb3998c372",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/mime": "dev-master",
-                    "horde/translation": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "suggest": {
-                    "ext-zlib": "*",
-                    "horde/icalendar": "^2",
-                    "horde/mail": "^2.5",
-                    "horde/mapi": "^1",
-                    "horde/stream_filter": "^2",
-                    "horde/test": "^2.1"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_Compress": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Jan Schneider",
-                        "email": "jan@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael J Rubinsky",
-                        "email": "mrubinsk@horde.org",
-                        "role": "developer"
-                    },
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Compression library",
-                "homepage": "https://www.horde.org/libraries/Horde_Compress",
-                "support": {
-                    "source": "https://github.com/maintaina-com/Compress/tree/master"
                 }
             }
         ]
