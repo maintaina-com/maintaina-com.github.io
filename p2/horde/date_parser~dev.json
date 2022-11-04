@@ -64,12 +64,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Date_Parser.git",
-                    "reference": "15e5eac0e1ab1ed99aa8c0e6574c1409e313059b"
+                    "reference": "fc16ed722e80738ef45c1fcc0d2a04754c1941a3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Date_Parser/zipball/15e5eac0e1ab1ed99aa8c0e6574c1409e313059b",
-                    "reference": "15e5eac0e1ab1ed99aa8c0e6574c1409e313059b",
+                    "url": "https://api.github.com/repos/maintaina-com/Date_Parser/zipball/fc16ed722e80738ef45c1fcc0d2a04754c1941a3",
+                    "reference": "fc16ed722e80738ef45c1fcc0d2a04754c1941a3",
                     "shasum": ""
                 },
                 "require": {
@@ -81,12 +81,17 @@
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Date_Parser": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Date\\Parser\\Test\\": "test/"
                     }
                 },
                 "license": [
