@@ -68,12 +68,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Data.git",
-                    "reference": "feb7b8e49a86ca8c89ec7b281db9ceaab4f78940"
+                    "reference": "09fabf5b9068af6845b957bc7dff8ea99d1606bf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Data/zipball/feb7b8e49a86ca8c89ec7b281db9ceaab4f78940",
-                    "reference": "feb7b8e49a86ca8c89ec7b281db9ceaab4f78940",
+                    "url": "https://api.github.com/repos/maintaina-com/Data/zipball/09fabf5b9068af6845b957bc7dff8ea99d1606bf",
+                    "reference": "09fabf5b9068af6845b957bc7dff8ea99d1606bf",
                     "shasum": ""
                 },
                 "require": {
@@ -89,12 +89,17 @@
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Data": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Data\\Test\\": "test/"
                     }
                 },
                 "license": [
