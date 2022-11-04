@@ -73,12 +73,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Vfs.git",
-                    "reference": "e0aaaa6afa04606f3ba8c0325e3382ddf1d52a49"
+                    "reference": "5a8836bed7f71bb53649a513523ecb478fad8d75"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/e0aaaa6afa04606f3ba8c0325e3382ddf1d52a49",
-                    "reference": "e0aaaa6afa04606f3ba8c0325e3382ddf1d52a49",
+                    "url": "https://api.github.com/repos/maintaina-com/Vfs/zipball/5a8836bed7f71bb53649a513523ecb478fad8d75",
+                    "reference": "5a8836bed7f71bb53649a513523ecb478fad8d75",
                     "shasum": ""
                 },
                 "require": {
@@ -86,15 +86,6 @@
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
-                },
-                "require-dev": {
-                    "horde/auth": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/mime": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
-                    "horde/perms": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
                     "ext-ftp": "*",
@@ -108,7 +99,7 @@
                     "horde/perms": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
