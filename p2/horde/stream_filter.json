@@ -240,6 +240,60 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Stream_Filter/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/stream_filter",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Stream_Filter.git",
+                    "reference": "1d6ce92e011423b16927d197ef85359d35518240"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Stream_Filter/zipball/1d6ce92e011423b16927d197ef85359d35518240",
+                    "reference": "1d6ce92e011423b16927d197ef85359d35518240",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-11-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Stream_Filter": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Stream\\Filter\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "PHP stream filters library",
+                "homepage": "https://www.horde.org/libraries/Horde_Stream_Filter",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stream_Filter/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
