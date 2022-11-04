@@ -72,12 +72,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Icalendar.git",
-                    "reference": "258da2baea598b65186da7453a8526ca5f994fc9"
+                    "reference": "39da49372f100773d311b5bb86dbddf0c448ea7a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Icalendar/zipball/258da2baea598b65186da7453a8526ca5f994fc9",
-                    "reference": "258da2baea598b65186da7453a8526ca5f994fc9",
+                    "url": "https://api.github.com/repos/maintaina-com/Icalendar/zipball/39da49372f100773d311b5bb86dbddf0c448ea7a",
+                    "reference": "39da49372f100773d311b5bb86dbddf0c448ea7a",
                     "shasum": ""
                 },
                 "require": {
@@ -92,12 +92,20 @@
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Icalendar": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Icalendar\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Icalendar\\Test\\": "test/"
                     }
                 },
                 "license": [
