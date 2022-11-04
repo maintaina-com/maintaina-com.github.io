@@ -68,12 +68,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Token.git",
-                    "reference": "9991e8e5df8f45a111a08c83fe38b117b7ddfd66"
+                    "reference": "27bbb0ff6729f480ef91f031aca860038f6563ae"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Token/zipball/9991e8e5df8f45a111a08c83fe38b117b7ddfd66",
-                    "reference": "9991e8e5df8f45a111a08c83fe38b117b7ddfd66",
+                    "url": "https://api.github.com/repos/maintaina-com/Token/zipball/27bbb0ff6729f480ef91f031aca860038f6563ae",
+                    "reference": "27bbb0ff6729f480ef91f031aca860038f6563ae",
                     "shasum": ""
                 },
                 "require": {
@@ -89,12 +89,17 @@
                     "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Token": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Token\\Test\\": "test/"
                     }
                 },
                 "license": [
