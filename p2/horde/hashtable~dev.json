@@ -60,12 +60,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/HashTable.git",
-                    "reference": "dcc670bf0540a1d2b6905dd812cdde3785961bde"
+                    "reference": "97a603c29689ddd95aa0ee1fd53b1c388f28935c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/HashTable/zipball/dcc670bf0540a1d2b6905dd812cdde3785961bde",
-                    "reference": "dcc670bf0540a1d2b6905dd812cdde3785961bde",
+                    "url": "https://api.github.com/repos/maintaina-com/HashTable/zipball/97a603c29689ddd95aa0ee1fd53b1c388f28935c",
+                    "reference": "97a603c29689ddd95aa0ee1fd53b1c388f28935c",
                     "shasum": ""
                 },
                 "require": {
@@ -78,12 +78,17 @@
                     "horde/vfs": "^3 || dev-FRAMEWORK_6_0",
                     "predis/predis": "^1.1"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_HashTable": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\HashTable\\Test\\": "test/"
                     }
                 },
                 "license": [

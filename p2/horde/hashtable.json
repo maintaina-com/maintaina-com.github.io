@@ -533,6 +533,59 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/HashTable/tree/v2.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/hashtable",
+                "version": "v2.0.0alpha4",
+                "version_normalized": "2.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/HashTable.git",
+                    "reference": "13f4e1ed9d09daf1f31fc92c76432f021649cfce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/HashTable/zipball/13f4e1ed9d09daf1f31fc92c76432f021649cfce",
+                    "reference": "13f4e1ed9d09daf1f31fc92c76432f021649cfce",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/memcache": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/vfs": "^3 || dev-FRAMEWORK_6_0",
+                    "predis/predis": "^1.1"
+                },
+                "time": "2022-11-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_HashTable": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\HashTable\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Hash table client library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/HashTable/tree/v2.0.0alpha4"
+                }
             }
         ]
     }
