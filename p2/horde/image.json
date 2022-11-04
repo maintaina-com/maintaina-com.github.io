@@ -1496,6 +1496,70 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Image/tree/v3.0.0alpha4"
                 }
+            },
+            {
+                "name": "horde/image",
+                "version": "v3.0.0alpha5",
+                "version_normalized": "3.0.0.0-alpha5",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Image.git",
+                    "reference": "143e62bf214c97d4365bd7f5db70d405b3941a47"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Image/zipball/143e62bf214c97d4365bd7f5db70d405b3941a47",
+                    "reference": "143e62bf214c97d4365bd7f5db70d405b3941a47",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/stream": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "ext-gd": "*",
+                    "ext-imagick": "*",
+                    "ext-json": "*",
+                    "ext-zlib": "*",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0",
+                    "pear/xml_svg": "*"
+                },
+                "time": "2022-11-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Image": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Image\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael J Rubinsky",
+                        "email": "mrubinsk@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Image library",
+                "homepage": "https://www.horde.org/libraries/Horde_Image",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Image/tree/v3.0.0alpha5"
+                }
             }
         ]
     }

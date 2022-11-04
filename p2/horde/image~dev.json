@@ -71,12 +71,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Image.git",
-                    "reference": "c6bf559438ca69399f09f987600e27d985be6cf2"
+                    "reference": "9e82588d35a3eb6b5668659ed77be0811e88ca29"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Image/zipball/c6bf559438ca69399f09f987600e27d985be6cf2",
-                    "reference": "c6bf559438ca69399f09f987600e27d985be6cf2",
+                    "url": "https://api.github.com/repos/maintaina-com/Image/zipball/9e82588d35a3eb6b5668659ed77be0811e88ca29",
+                    "reference": "9e82588d35a3eb6b5668659ed77be0811e88ca29",
                     "shasum": ""
                 },
                 "require": {
@@ -95,12 +95,17 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0",
                     "pear/xml_svg": "*"
                 },
-                "time": "2021-03-15T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Image": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Image\\Test\\": "test/"
                     }
                 },
                 "license": [
