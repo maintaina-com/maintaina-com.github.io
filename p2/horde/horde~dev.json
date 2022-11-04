@@ -220,12 +220,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/base.git",
-                    "reference": "c9b850c36bb6207a55d82092fa05ebd0d67bf046"
+                    "reference": "d19bbd4532bd2e8c86562982f52cec75814d7415"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/c9b850c36bb6207a55d82092fa05ebd0d67bf046",
-                    "reference": "c9b850c36bb6207a55d82092fa05ebd0d67bf046",
+                    "url": "https://api.github.com/repos/maintaina-com/base/zipball/d19bbd4532bd2e8c86562982f52cec75814d7415",
+                    "reference": "d19bbd4532bd2e8c86562982f52cec75814d7415",
                     "shasum": ""
                 },
                 "require": {
@@ -264,21 +264,6 @@
                     "horde/view": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
-                "conflict": {
-                    "horde/ansel": "<= 3.9",
-                    "horde/base": "<= 5.9",
-                    "horde/content": "<= 2.9",
-                    "horde/gollem": "<= 3.9",
-                    "horde/horde": "<= 5.9",
-                    "horde/imp": "<= 6.9",
-                    "horde/ingo": "<= 3.9",
-                    "horde/kronolith": "<= 4.9",
-                    "horde/mnemo": "<= 4.9",
-                    "horde/passwd": "<= 5.9",
-                    "horde/turba": "<= 4.9",
-                    "horde/whups": "<= 3.9",
-                    "horde/wicked": "<= 2.9"
-                },
                 "provide": {
                     "horde/base": "^6"
                 },
@@ -304,7 +289,7 @@
                     "pear/file_fstab": "*",
                     "pear/net_dns2": "*"
                 },
-                "time": "2022-09-18T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
                     "bin/horde-active-sessions",
