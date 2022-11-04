@@ -269,6 +269,56 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Text_Flowed/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/text_flowed",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Text_Flowed.git",
+                    "reference": "3cd69c8e8d92f7b087994da96ee6a784e51cdb53"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Text_Flowed/zipball/3cd69c8e8d92f7b087994da96ee6a784e51cdb53",
+                    "reference": "3cd69c8e8d92f7b087994da96ee6a784e51cdb53",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-11-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Text_Flowed": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Text\\Flowed\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Flowed text library",
+                "homepage": "https://www.horde.org/libraries/Horde_Text_Flowed",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Text_Flowed/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
