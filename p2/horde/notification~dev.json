@@ -61,12 +61,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Notification.git",
-                    "reference": "ddc683ebc1df55af533fd10fb70deae27c7fdce5"
+                    "reference": "bdae8b051bae6108c0afac42cb1826747754f5be"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Notification/zipball/ddc683ebc1df55af533fd10fb70deae27c7fdce5",
-                    "reference": "ddc683ebc1df55af533fd10fb70deae27c7fdce5",
+                    "url": "https://api.github.com/repos/maintaina-com/Notification/zipball/bdae8b051bae6108c0afac42cb1826747754f5be",
+                    "reference": "bdae8b051bae6108c0afac42cb1826747754f5be",
                     "shasum": ""
                 },
                 "require": {
@@ -80,12 +80,17 @@
                     "horde/nls": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Notification": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Notification\\Test\\": "test/"
                     }
                 },
                 "license": [
