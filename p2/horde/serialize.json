@@ -310,6 +310,74 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Serialize/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/serialize",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Serialize.git",
+                    "reference": "cead5f86a1986f67619426930e8e029070e8594e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Serialize/zipball/cead5f86a1986f67619426930e8e029070e8594e",
+                    "reference": "cead5f86a1986f67619426930e8e029070e8594e",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "ext-bz2": "*",
+                    "ext-json": "*",
+                    "ext-lzf": "*",
+                    "ext-wddx": "*",
+                    "ext-zlib": "*",
+                    "horde/imap_client": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mime": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-11-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Serialize": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Serialize\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Data serialization library",
+                "homepage": "https://www.horde.org/libraries/Horde_Serialize",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Serialize/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
