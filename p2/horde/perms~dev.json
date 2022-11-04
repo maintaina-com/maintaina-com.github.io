@@ -67,12 +67,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Perms.git",
-                    "reference": "65410a4b4678d5a8be4c96516a0ba9e003d85819"
+                    "reference": "0cef0a2cf6b13e2c909dd79900469c5e01e4fb06"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Perms/zipball/65410a4b4678d5a8be4c96516a0ba9e003d85819",
-                    "reference": "65410a4b4678d5a8be4c96516a0ba9e003d85819",
+                    "url": "https://api.github.com/repos/maintaina-com/Perms/zipball/0cef0a2cf6b13e2c909dd79900469c5e01e4fb06",
+                    "reference": "0cef0a2cf6b13e2c909dd79900469c5e01e4fb06",
                     "shasum": ""
                 },
                 "require": {
@@ -87,12 +87,17 @@
                     "horde/test": "^3 || dev-FRAMEWORK_6_0",
                     "horde/tree": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Perms": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Perms\\Test\\": "test/"
                     }
                 },
                 "license": [
