@@ -70,12 +70,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Argv.git",
-                    "reference": "fee5337396bec8fde25e406179fd6f49a02245c0"
+                    "reference": "ada41af31bb8e43300506e6488746806e040d1c1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Argv/zipball/fee5337396bec8fde25e406179fd6f49a02245c0",
-                    "reference": "fee5337396bec8fde25e406179fd6f49a02245c0",
+                    "url": "https://api.github.com/repos/maintaina-com/Argv/zipball/ada41af31bb8e43300506e6488746806e040d1c1",
+                    "reference": "ada41af31bb8e43300506e6488746806e040d1c1",
                     "shasum": ""
                 },
                 "require": {
@@ -91,12 +91,20 @@
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-04-06T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Argv": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Argv\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Argv\\Test\\": "test/"
                     }
                 },
                 "license": [
