@@ -68,19 +68,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Form.git",
-                    "reference": "1f2eb0db362b97cba9da6623e276527b9ffc2027"
+                    "reference": "4cb67073427f5fa6867e5449ed9f4d4b2263d8be"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Form/zipball/1f2eb0db362b97cba9da6623e276527b9ffc2027",
-                    "reference": "1f2eb0db362b97cba9da6623e276527b9ffc2027",
+                    "url": "https://api.github.com/repos/maintaina-com/Form/zipball/4cb67073427f5fa6867e5449ed9f4d4b2263d8be",
+                    "reference": "4cb67073427f5fa6867e5449ed9f4d4b2263d8be",
                     "shasum": ""
                 },
                 "require": {
                     "ext-json": "*",
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
                     "horde/date": "^3 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mail": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mime": "^3 || dev-FRAMEWORK_6_0",
                     "horde/nls": "^3 || dev-FRAMEWORK_6_0",
@@ -89,16 +89,18 @@
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
-                "suggest": {
-                    "horde/core": "^3 || dev-FRAMEWORK_6_0"
-                },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "classmap": [
                         "lib/"
                     ]
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Form\\Test\\": "test/"
+                    }
                 },
                 "license": [
                     "LGPL-2.1-only"

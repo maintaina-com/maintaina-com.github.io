@@ -860,6 +860,67 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Form/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/form",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Form.git",
+                    "reference": "f080d7267fb351e4756b5fb66a9770a7df3d1b2f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Form/zipball/f080d7267fb351e4756b5fb66a9770a7df3d1b2f",
+                    "reference": "f080d7267fb351e4756b5fb66a9770a7df3d1b2f",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "horde/core": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/date": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mail": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mime": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/nls": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/token": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "time": "2022-11-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "classmap": [
+                        "lib/"
+                    ]
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Form\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Form library",
+                "homepage": "https://www.horde.org/libraries/Horde_Form",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Form/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
