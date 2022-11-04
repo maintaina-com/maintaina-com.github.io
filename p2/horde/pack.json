@@ -460,6 +460,60 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Pack/tree/v2.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/pack",
+                "version": "v2.0.0alpha4",
+                "version_normalized": "2.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Pack.git",
+                    "reference": "7ba35514818ccebe6b04b59814718fed19cd6d6f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Pack/zipball/7ba35514818ccebe6b04b59814718fed19cd6d6f",
+                    "reference": "7ba35514818ccebe6b04b59814718fed19cd6d6f",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/compress_fast": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "ext-igbinary": "^1.2",
+                    "ext-json": "*",
+                    "ext-msgpack": "*",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-11-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Pack": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Pack\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Data packing library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Pack/tree/v2.0.0alpha4"
+                }
             }
         ]
     }
