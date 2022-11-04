@@ -61,12 +61,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Template.git",
-                    "reference": "2ba8ee14d854af6588a728a5a29976c86389a8fd"
+                    "reference": "b16139071ce51b844ba2cb339dafee9f87371f27"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Template/zipball/2ba8ee14d854af6588a728a5a29976c86389a8fd",
-                    "reference": "2ba8ee14d854af6588a728a5a29976c86389a8fd",
+                    "url": "https://api.github.com/repos/maintaina-com/Template/zipball/b16139071ce51b844ba2cb339dafee9f87371f27",
+                    "reference": "b16139071ce51b844ba2cb339dafee9f87371f27",
                     "shasum": ""
                 },
                 "require": {
@@ -75,12 +75,17 @@
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-04T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Template": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Template\\Test\\": "test/"
                     }
                 },
                 "license": [

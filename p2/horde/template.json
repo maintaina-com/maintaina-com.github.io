@@ -240,6 +240,60 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Template/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/template",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Template.git",
+                    "reference": "814f6c8f36850678a3787dd03b9a29b659324105"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Template/zipball/814f6c8f36850678a3787dd03b9a29b659324105",
+                    "reference": "814f6c8f36850678a3787dd03b9a29b659324105",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-11-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Template": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Template\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Template library (deprecated)",
+                "homepage": "https://www.horde.org/libraries/Horde_Template",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Template/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
