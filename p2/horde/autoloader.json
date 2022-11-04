@@ -240,6 +240,60 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Autoloader/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/autoloader",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Autoloader.git",
+                    "reference": "df96138f7072acc4d602cd8560491ef447a57a70"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Autoloader/zipball/df96138f7072acc4d602cd8560491ef447a57a70",
+                    "reference": "df96138f7072acc4d602cd8560491ef447a57a70",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-11-04T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Autoloader": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Autoloader\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Autoloader library",
+                "homepage": "https://www.horde.org/libraries/Horde_Autoloader",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Autoloader/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
