@@ -57,12 +57,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Socket_Client.git",
-                    "reference": "b8fb237498ae7a5330b29b621ce78aa574083e37"
+                    "reference": "bb2f11b15e899c0c96ff2cca6d1d0146d10863c8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Socket_Client/zipball/b8fb237498ae7a5330b29b621ce78aa574083e37",
-                    "reference": "b8fb237498ae7a5330b29b621ce78aa574083e37",
+                    "url": "https://api.github.com/repos/maintaina-com/Socket_Client/zipball/bb2f11b15e899c0c96ff2cca6d1d0146d10863c8",
+                    "reference": "bb2f11b15e899c0c96ff2cca6d1d0146d10863c8",
                     "shasum": ""
                 },
                 "require": {
@@ -72,7 +72,7 @@
                 "suggest": {
                     "ext-openssl": "*"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
