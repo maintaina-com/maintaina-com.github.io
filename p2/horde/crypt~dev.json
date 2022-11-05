@@ -71,12 +71,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Crypt.git",
-                    "reference": "b3127e121893bf09916bc770244a3bf03d7efd82"
+                    "reference": "3db7dd691f6a9dac1a38cdebff323f1a978c5756"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Crypt/zipball/b3127e121893bf09916bc770244a3bf03d7efd82",
-                    "reference": "b3127e121893bf09916bc770244a3bf03d7efd82",
+                    "url": "https://api.github.com/repos/maintaina-com/Crypt/zipball/3db7dd691f6a9dac1a38cdebff323f1a978c5756",
+                    "reference": "3db7dd691f6a9dac1a38cdebff323f1a978c5756",
                     "shasum": ""
                 },
                 "require": {
@@ -95,12 +95,17 @@
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Crypt": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Crypt\\Test\\": "test/"
                     }
                 },
                 "license": [
