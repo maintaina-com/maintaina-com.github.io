@@ -59,12 +59,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Timezone.git",
-                    "reference": "f5a04d9ee52704d6be34e734fd34c53c7e712ed6"
+                    "reference": "d623589555e9d31950c5512b56b0b0cda4880c79"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Timezone/zipball/f5a04d9ee52704d6be34e734fd34c53c7e712ed6",
-                    "reference": "f5a04d9ee52704d6be34e734fd34c53c7e712ed6",
+                    "url": "https://api.github.com/repos/maintaina-com/Timezone/zipball/d623589555e9d31950c5512b56b0b0cda4880c79",
+                    "reference": "d623589555e9d31950c5512b56b0b0cda4880c79",
                     "shasum": ""
                 },
                 "require": {
