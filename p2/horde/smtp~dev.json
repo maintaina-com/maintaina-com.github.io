@@ -64,17 +64,16 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Smtp.git",
-                    "reference": "9ed9168b64bf1fbb961b0823a36eac9a4b780d76"
+                    "reference": "07dba64e73f5f4ddd6924fbedc42f20682643a98"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Smtp/zipball/9ed9168b64bf1fbb961b0823a36eac9a4b780d76",
-                    "reference": "9ed9168b64bf1fbb961b0823a36eac9a4b780d76",
+                    "url": "https://api.github.com/repos/maintaina-com/Smtp/zipball/07dba64e73f5f4ddd6924fbedc42f20682643a98",
+                    "reference": "07dba64e73f5f4ddd6924fbedc42f20682643a98",
                     "shasum": ""
                 },
                 "require": {
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
                     "horde/mail": "^3 || dev-FRAMEWORK_6_0",
                     "horde/socket_client": "^3 || dev-FRAMEWORK_6_0",
                     "horde/support": "^3 || dev-FRAMEWORK_6_0",
@@ -87,12 +86,17 @@
                     "horde/secret": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-02-24T00:00:00+00:00",
+                "time": "2022-11-05T00:00:00+00:00",
                 "default-branch": true,
-                "type": "horde-library",
+                "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Smtp": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Smtp\\Test\\": "test/"
                     }
                 },
                 "license": [

@@ -909,37 +909,42 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Smtp.git",
-                    "reference": "cedaf67b69f52150d3209ea37231616c794c364f"
+                    "reference": "e7e14a08d65cdf810053c21dec78f4a4f7d7150a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Smtp/zipball/cedaf67b69f52150d3209ea37231616c794c364f",
-                    "reference": "cedaf67b69f52150d3209ea37231616c794c364f",
+                    "url": "https://api.github.com/repos/maintaina-com/Smtp/zipball/e7e14a08d65cdf810053c21dec78f4a4f7d7150a",
+                    "reference": "e7e14a08d65cdf810053c21dec78f4a4f7d7150a",
                     "shasum": ""
                 },
                 "require": {
-                    "horde/exception": "^3",
-                    "horde/mail": "^3",
-                    "horde/socket_client": "^3",
-                    "horde/support": "^3",
-                    "horde/translation": "^3",
-                    "horde/util": "^3",
-                    "php": "^7"
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mail": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/socket_client": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/translation": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
                 },
                 "suggest": {
-                    "horde/imap_client": "^3",
-                    "horde/secret": "^3",
-                    "horde/test": "^3"
+                    "horde/imap_client": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/secret": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-05T00:00:00+00:00",
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Smtp": "lib/"
                     }
                 },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Smtp\\Test\\": "test/"
+                    }
+                },
                 "license": [
-                    "LGPL-2.1"
+                    "LGPL-2.1-only"
                 ],
                 "authors": [
                     {
