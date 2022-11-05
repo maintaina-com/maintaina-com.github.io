@@ -59,12 +59,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Timezone.git",
-                    "reference": "d623589555e9d31950c5512b56b0b0cda4880c79"
+                    "reference": "d91bd2d8b78641542a0fa03f671e3ae830f104d2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Timezone/zipball/d623589555e9d31950c5512b56b0b0cda4880c79",
-                    "reference": "d623589555e9d31950c5512b56b0b0cda4880c79",
+                    "url": "https://api.github.com/repos/maintaina-com/Timezone/zipball/d91bd2d8b78641542a0fa03f671e3ae830f104d2",
+                    "reference": "d91bd2d8b78641542a0fa03f671e3ae830f104d2",
                     "shasum": ""
                 },
                 "require": {
@@ -73,15 +73,23 @@
                     "horde/vfs": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Timezone": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Timezone\\Test\\": "test/"
                     }
                 },
                 "license": [

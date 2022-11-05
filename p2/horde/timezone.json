@@ -440,6 +440,61 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Timezone/tree/v2.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/timezone",
+                "version": "v2.0.0alpha4",
+                "version_normalized": "2.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Timezone.git",
+                    "reference": "e99d6c52d8374d237782d12fc1ff0473fc21b5c5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Timezone/zipball/e99d6c52d8374d237782d12fc1ff0473fc21b5c5",
+                    "reference": "e99d6c52d8374d237782d12fc1ff0473fc21b5c5",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/date": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/icalendar": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/vfs": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-11-05T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Timezone": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Timezone\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Timezone library",
+                "homepage": "https://www.horde.org/libraries/Horde_Timezone",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Timezone/tree/v2.0.0alpha4"
+                }
             }
         ]
     }
