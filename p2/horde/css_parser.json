@@ -488,6 +488,55 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Css_Parser/tree/v2.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/css_parser",
+                "version": "v2.0.0alpha4",
+                "version_normalized": "2.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Css_Parser.git",
+                    "reference": "fc04d58d3edd496cd4e720dca0f589bc0c75c08e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Css_Parser/zipball/fc04d58d3edd496cd4e720dca0f589bc0c75c08e",
+                    "reference": "fc04d58d3edd496cd4e720dca0f589bc0c75c08e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "ext-mbstring": "*"
+                },
+                "time": "2022-11-05T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Css_Parser": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Css\\Parser\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "CSS parser library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Css_Parser/tree/v2.0.0alpha4"
+                }
             }
         ]
     }
