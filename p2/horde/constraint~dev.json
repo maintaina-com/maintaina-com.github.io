@@ -56,12 +56,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Constraint.git",
-                    "reference": "ee5419c407ea0d634e8f563b9dfdc8d8abef55a3"
+                    "reference": "89916fed869c8f716ed83b6a30a7bb737f96f536"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Constraint/zipball/ee5419c407ea0d634e8f563b9dfdc8d8abef55a3",
-                    "reference": "ee5419c407ea0d634e8f563b9dfdc8d8abef55a3",
+                    "url": "https://api.github.com/repos/maintaina-com/Constraint/zipball/89916fed869c8f716ed83b6a30a7bb737f96f536",
+                    "reference": "89916fed869c8f716ed83b6a30a7bb737f96f536",
                     "shasum": ""
                 },
                 "require": {
@@ -70,7 +70,7 @@
                 "require-dev": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2022-09-03T00:00:00+00:00",
+                "time": "2022-11-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {

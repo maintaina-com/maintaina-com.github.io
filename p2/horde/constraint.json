@@ -215,6 +215,58 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Constraint/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/constraint",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Constraint.git",
+                    "reference": "2ce40abe187f77c0e17e6d3f4fa83f2a1a2da830"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Constraint/zipball/2ce40abe187f77c0e17e6d3f4fa83f2a1a2da830",
+                    "reference": "2ce40abe187f77c0e17e6d3f4fa83f2a1a2da830",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.4 || ^8 || ^9"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-11-05T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Constraint": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Constraint\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Constraint\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Constraint library",
+                "homepage": "https://www.horde.org/libraries/Horde_Constraint",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Constraint/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
