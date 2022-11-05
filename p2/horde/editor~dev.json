@@ -61,22 +61,22 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Editor.git",
-                    "reference": "b1d737a9d7e99a3f14080445e4b8c9768fef0476"
+                    "reference": "b7bbfd8336ef83a03b59fb22fa3979451ae505e7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Editor/zipball/b1d737a9d7e99a3f14080445e4b8c9768fef0476",
-                    "reference": "b1d737a9d7e99a3f14080445e4b8c9768fef0476",
+                    "url": "https://api.github.com/repos/maintaina-com/Editor/zipball/b7bbfd8336ef83a03b59fb22fa3979451ae505e7",
+                    "reference": "b7bbfd8336ef83a03b59fb22fa3979451ae505e7",
                     "shasum": ""
                 },
                 "require": {
                     "horde/browser": "^3 || dev-FRAMEWORK_6_0",
                     "horde/exception": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/horde-installer-plugin": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
                     "horde/serialize": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "horde-library",
                 "autoload": {

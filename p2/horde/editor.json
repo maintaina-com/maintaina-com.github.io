@@ -250,6 +250,56 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Editor/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/editor",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Editor.git",
+                    "reference": "8c454b3d78aa35d559c2733abab176e216066b9e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Editor/zipball/8c454b3d78aa35d559c2733abab176e216066b9e",
+                    "reference": "8c454b3d78aa35d559c2733abab176e216066b9e",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/browser": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/horde-installer-plugin": "dev-FRAMEWORK_6_0 || ^2",
+                    "horde/serialize": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "time": "2022-11-05T00:00:00+00:00",
+                "type": "horde-library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Editor": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "WYSIWYG editor library",
+                "homepage": "https://www.horde.org/libraries/Horde_Editor",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Editor/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
