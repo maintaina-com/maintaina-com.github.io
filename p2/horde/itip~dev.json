@@ -65,12 +65,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Itip.git",
-                    "reference": "f81844def36654da0dce2ecae4d795645374b31c"
+                    "reference": "6a7065a8d9fef107f1a14b44ec04f8e7f9d20f26"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Itip/zipball/f81844def36654da0dce2ecae4d795645374b31c",
-                    "reference": "f81844def36654da0dce2ecae4d795645374b31c",
+                    "url": "https://api.github.com/repos/maintaina-com/Itip/zipball/6a7065a8d9fef107f1a14b44ec04f8e7f9d20f26",
+                    "reference": "6a7065a8d9fef107f1a14b44ec04f8e7f9d20f26",
                     "shasum": ""
                 },
                 "require": {
@@ -83,12 +83,17 @@
                     "horde/prefs": "^3 || dev-FRAMEWORK_6_0",
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Itip": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Itip\\Test\\": "test/"
                     }
                 },
                 "license": [
