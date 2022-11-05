@@ -59,12 +59,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Xml_Element.git",
-                    "reference": "1c9ad23c686e0e9e15fc5f2384dbc17ded870935"
+                    "reference": "5ce1bfd5b5c512c101024ae43fde5cc167bbfd23"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Xml_Element/zipball/1c9ad23c686e0e9e15fc5f2384dbc17ded870935",
-                    "reference": "1c9ad23c686e0e9e15fc5f2384dbc17ded870935",
+                    "url": "https://api.github.com/repos/maintaina-com/Xml_Element/zipball/5ce1bfd5b5c512c101024ae43fde5cc167bbfd23",
+                    "reference": "5ce1bfd5b5c512c101024ae43fde5cc167bbfd23",
                     "shasum": ""
                 },
                 "require": {
@@ -76,12 +76,17 @@
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Xml_Element": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Xml\\Element\\Test\\": "test/"
                     }
                 },
                 "license": [

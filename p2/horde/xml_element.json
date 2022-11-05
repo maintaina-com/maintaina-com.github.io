@@ -271,6 +271,58 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Xml_Element/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/xml_element",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Xml_Element.git",
+                    "reference": "a9927ac5eecba821edbcfe664ee72237d109f80a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Xml_Element/zipball/a9927ac5eecba821edbcfe664ee72237d109f80a",
+                    "reference": "a9927ac5eecba821edbcfe664ee72237d109f80a",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-11-05T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Xml_Element": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Xml\\Element\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "XML element library",
+                "homepage": "https://www.horde.org/libraries/Horde_Xml_Element",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Xml_Element/tree/v3.0.0alpha4"
+                }
             }
         ]
     }
