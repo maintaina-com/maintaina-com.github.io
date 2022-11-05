@@ -60,12 +60,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/SpellChecker.git",
-                    "reference": "1e2975a6c07b1970c314a85e6069e5ec88016653"
+                    "reference": "222a8058d37c7584ece39ecf9f95d4d7247730ac"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/SpellChecker/zipball/1e2975a6c07b1970c314a85e6069e5ec88016653",
-                    "reference": "1e2975a6c07b1970c314a85e6069e5ec88016653",
+                    "url": "https://api.github.com/repos/maintaina-com/SpellChecker/zipball/222a8058d37c7584ece39ecf9f95d4d7247730ac",
+                    "reference": "222a8058d37c7584ece39ecf9f95d4d7247730ac",
                     "shasum": ""
                 },
                 "require": {
@@ -73,12 +73,17 @@
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_SpellChecker": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\SpellChecker\\Test\\": "test/"
                     }
                 },
                 "license": [
@@ -100,208 +105,6 @@
                 "homepage": "https://www.horde.org/libraries/Horde_SpellChecker",
                 "support": {
                     "source": "https://github.com/maintaina-com/SpellChecker/tree/FRAMEWORK_6_0"
-                }
-            },
-            {
-                "name": "horde/spellchecker",
-                "version": "dev-horde-upstream",
-                "version_normalized": "dev-horde-upstream",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/SpellChecker.git",
-                    "reference": "79407ebc312f587ca2909150878307314f1c50df"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/SpellChecker/zipball/79407ebc312f587ca2909150878307314f1c50df",
-                    "reference": "79407ebc312f587ca2909150878307314f1c50df",
-                    "shasum": ""
-                },
-                "require": {
-                    "pear-pear.horde.org/horde_exception": "^2",
-                    "pear-pear.horde.org/horde_util": "^2",
-                    "php": "^5.3 || ^7"
-                },
-                "replace": {
-                    "pear-horde/horde_spellchecker": "2.*",
-                    "pear-pear.horde.org/horde_spellchecker": "2.*"
-                },
-                "time": "2017-11-11T00:00:00+00:00",
-                "type": "library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_SpellChecker": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Spellchecking library",
-                "homepage": "https://www.horde.org/libraries/Horde_SpellChecker",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SpellChecker/tree/horde-upstream"
-                }
-            },
-            {
-                "name": "horde/spellchecker",
-                "version": "dev-maintaina-bare",
-                "version_normalized": "dev-maintaina-bare",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/SpellChecker.git",
-                    "reference": "79407ebc312f587ca2909150878307314f1c50df"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/SpellChecker/zipball/79407ebc312f587ca2909150878307314f1c50df",
-                    "reference": "79407ebc312f587ca2909150878307314f1c50df",
-                    "shasum": ""
-                },
-                "require": {
-                    "pear-pear.horde.org/horde_exception": "^2",
-                    "pear-pear.horde.org/horde_util": "^2",
-                    "php": "^5.3 || ^7"
-                },
-                "replace": {
-                    "pear-horde/horde_spellchecker": "2.*",
-                    "pear-pear.horde.org/horde_spellchecker": "2.*"
-                },
-                "time": "2017-11-11T00:00:00+00:00",
-                "type": "library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_SpellChecker": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Spellchecking library",
-                "homepage": "https://www.horde.org/libraries/Horde_SpellChecker",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SpellChecker/tree/horde-upstream"
-                }
-            },
-            {
-                "name": "horde/spellchecker",
-                "version": "dev-maintaina-composerfixed",
-                "version_normalized": "dev-maintaina-composerfixed",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/SpellChecker.git",
-                    "reference": "573b43e5a98fe9a52ed2fe6b24432d1aa716bb32"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/SpellChecker/zipball/573b43e5a98fe9a52ed2fe6b24432d1aa716bb32",
-                    "reference": "573b43e5a98fe9a52ed2fe6b24432d1aa716bb32",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_SpellChecker": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Spellchecking library",
-                "homepage": "https://www.horde.org/libraries/Horde_SpellChecker",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SpellChecker/tree/maintaina-composerfixed"
-                }
-            },
-            {
-                "name": "horde/spellchecker",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/maintaina-com/SpellChecker.git",
-                    "reference": "ab47397087023849e659c00c9588d8e9db95a441"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/SpellChecker/zipball/ab47397087023849e659c00c9588d8e9db95a441",
-                    "reference": "ab47397087023849e659c00c9588d8e9db95a441",
-                    "shasum": ""
-                },
-                "require": {
-                    "horde/exception": "dev-master",
-                    "horde/horde-installer-plugin": "dev-master",
-                    "horde/util": "dev-master",
-                    "php": "^5.3 || ^7"
-                },
-                "time": "2020-10-27T00:00:00+00:00",
-                "type": "horde-library",
-                "autoload": {
-                    "psr-0": {
-                        "Horde_SpellChecker": "lib/"
-                    }
-                },
-                "license": [
-                    "LGPL-2.1"
-                ],
-                "authors": [
-                    {
-                        "name": "Chuck Hagenbuch",
-                        "email": "chuck@horde.org",
-                        "role": "lead"
-                    },
-                    {
-                        "name": "Michael Slusarz",
-                        "email": "slusarz@horde.org",
-                        "role": "lead"
-                    }
-                ],
-                "description": "Spellchecking library",
-                "homepage": "https://www.horde.org/libraries/Horde_SpellChecker",
-                "support": {
-                    "source": "https://github.com/maintaina-com/SpellChecker/tree/master"
                 }
             }
         ]
