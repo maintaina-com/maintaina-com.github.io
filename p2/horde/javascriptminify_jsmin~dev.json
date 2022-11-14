@@ -54,24 +54,29 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/JavascriptMinify_Jsmin.git",
-                    "reference": "e71e67a588188747f9113be7762f34d727e39dc2"
+                    "reference": "29eb73ffc3e30c1819331c12dbf012d46ead0b95"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/JavascriptMinify_Jsmin/zipball/e71e67a588188747f9113be7762f34d727e39dc2",
-                    "reference": "e71e67a588188747f9113be7762f34d727e39dc2",
+                    "url": "https://api.github.com/repos/maintaina-com/JavascriptMinify_Jsmin/zipball/29eb73ffc3e30c1819331c12dbf012d46ead0b95",
+                    "reference": "29eb73ffc3e30c1819331c12dbf012d46ead0b95",
                     "shasum": ""
                 },
                 "require": {
-                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/javascriptminify": "^2 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-14T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_JavascriptMinify_Jsmin": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\JavascriptMinify\\Jsmin\\Test\\": "test/"
                     }
                 },
                 "license": [
