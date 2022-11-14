@@ -65,12 +65,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Ldap.git",
-                    "reference": "cfe5287a132d81856377008bb98a757fa227d311"
+                    "reference": "167243b338ac7b8c5505ca15aa2fdb95e52108f7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Ldap/zipball/cfe5287a132d81856377008bb98a757fa227d311",
-                    "reference": "cfe5287a132d81856377008bb98a757fa227d311",
+                    "url": "https://api.github.com/repos/maintaina-com/Ldap/zipball/167243b338ac7b8c5505ca15aa2fdb95e52108f7",
+                    "reference": "167243b338ac7b8c5505ca15aa2fdb95e52108f7",
                     "shasum": ""
                 },
                 "require": {
@@ -82,12 +82,17 @@
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-14T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Ldap": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Ldap\\Test\\": "test/"
                     }
                 },
                 "license": [

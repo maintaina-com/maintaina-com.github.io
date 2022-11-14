@@ -710,6 +710,64 @@
                     "source": "https://github.com/maintaina-com/Ldap/tree/v3.0.0alpha3",
                     "issues": "https://github.com/maintaina-com/Ldap/issues"
                 }
+            },
+            {
+                "name": "horde/ldap",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Ldap.git",
+                    "reference": "a2774316e0facbe8bac7851fc9018f83c1fced56"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Ldap/zipball/a2774316e0facbe8bac7851fc9018f83c1fced56",
+                    "reference": "a2774316e0facbe8bac7851fc9018f83c1fced56",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-ldap": "*",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-11-14T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Ldap": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Ldap\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-3.0-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Ben Klang",
+                        "email": "ben@alkaloid.net",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "LDAP client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Ldap",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Ldap/tree/v3.0.0alpha4",
+                    "issues": "https://github.com/maintaina-com/Ldap/issues"
+                }
             }
         ]
     }
