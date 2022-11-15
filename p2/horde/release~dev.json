@@ -63,12 +63,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Release.git",
-                    "reference": "f19472c813d6f472da5ccd2f825e140708b3ed56"
+                    "reference": "b55434d7702a87b8adc7f46cd2a48b685df13673"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Release/zipball/f19472c813d6f472da5ccd2f825e140708b3ed56",
-                    "reference": "f19472c813d6f472da5ccd2f825e140708b3ed56",
+                    "url": "https://api.github.com/repos/maintaina-com/Release/zipball/b55434d7702a87b8adc7f46cd2a48b685df13673",
+                    "reference": "b55434d7702a87b8adc7f46cd2a48b685df13673",
                     "shasum": ""
                 },
                 "require": {
@@ -84,12 +84,17 @@
                 "suggest": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2021-03-13T00:00:00+00:00",
+                "time": "2022-11-15T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-0": {
                         "Horde_Release": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Release\\Test\\": "test/"
                     }
                 },
                 "license": [

@@ -397,6 +397,62 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Release/tree/v4.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/release",
+                "version": "v4.0.0alpha4",
+                "version_normalized": "4.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Release.git",
+                    "reference": "b1f45460b8266c264eb52706ccaa1c9f11e87d8c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Release/zipball/b1f45460b8266c264eb52706ccaa1c9f11e87d8c",
+                    "reference": "b1f45460b8266c264eb52706ccaa1c9f11e87d8c",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/http": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mail": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mime": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/rpc": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/serialize": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "suggest": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-11-15T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Release": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Release\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Component release library",
+                "homepage": "https://www.horde.org/libraries/Horde_Release",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Release/tree/v4.0.0alpha4"
+                }
             }
         ]
     }
