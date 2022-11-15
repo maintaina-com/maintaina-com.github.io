@@ -322,6 +322,47 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/Queue/tree/v2.0.0alpha4"
                 }
+            },
+            {
+                "name": "horde/queue",
+                "version": "v2.0.0alpha5",
+                "version_normalized": "2.0.0.0-alpha5",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Queue.git",
+                    "reference": "331dbcf9470f0a6f6098673f2d9e739a80466fce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Queue/zipball/331dbcf9470f0a6f6098673f2d9e739a80466fce",
+                    "reference": "331dbcf9470f0a6f6098673f2d9e739a80466fce",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7 || ^8"
+                },
+                "time": "2022-11-15T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Queue": "lib/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Message and data queuing client library",
+                "homepage": "https://www.horde.org/libraries/Horde_Queue",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Queue/tree/v2.0.0alpha5"
+                }
             }
         ]
     }
