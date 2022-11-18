@@ -57,12 +57,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Injector.git",
-                    "reference": "893f6e2e3cee2a7090d9a86db5e45758563443ea"
+                    "reference": "bde0da2fcebcb754ff5d6a4a4a5f8527d614dcbc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/893f6e2e3cee2a7090d9a86db5e45758563443ea",
-                    "reference": "893f6e2e3cee2a7090d9a86db5e45758563443ea",
+                    "url": "https://api.github.com/repos/maintaina-com/Injector/zipball/bde0da2fcebcb754ff5d6a4a4a5f8527d614dcbc",
+                    "reference": "bde0da2fcebcb754ff5d6a4a4a5f8527d614dcbc",
                     "shasum": ""
                 },
                 "require": {
