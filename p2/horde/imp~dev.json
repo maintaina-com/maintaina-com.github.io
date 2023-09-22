@@ -205,12 +205,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/imp.git",
-                    "reference": "3c6b7080605294945f4054567db89909fd310d78"
+                    "reference": "63381113f9f8a0c9be4ce730bcee88958c4cd53d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/3c6b7080605294945f4054567db89909fd310d78",
-                    "reference": "3c6b7080605294945f4054567db89909fd310d78",
+                    "url": "https://api.github.com/repos/maintaina-com/imp/zipball/63381113f9f8a0c9be4ce730bcee88958c4cd53d",
+                    "reference": "63381113f9f8a0c9be4ce730bcee88958c4cd53d",
                     "shasum": ""
                 },
                 "require": {
@@ -272,7 +272,7 @@
                     "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
                     "horde/service_gravatar": "^2 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2022-10-08T00:00:00+00:00",
+                "time": "2023-09-22T00:00:00+00:00",
                 "default-branch": true,
                 "bin": [
                     "bin/imp-admin-upgrade",
