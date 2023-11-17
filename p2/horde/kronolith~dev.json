@@ -98,7 +98,8 @@
                 "description": "Calendar and scheduling application",
                 "homepage": "https://www.horde.org/apps/kronolith",
                 "support": {
-                    "source": "https://github.com/maintaina-com/kronolith/tree/FRAMEWORK_5_2"
+                    "source": "https://github.com/maintaina-com/kronolith/tree/FRAMEWORK_5_2",
+                    "issues": "https://github.com/maintaina-com/kronolith/issues"
                 }
             },
             {
@@ -108,12 +109,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/kronolith.git",
-                    "reference": "0bbb74c7cfe4747419b120bfd6b71d4765dc08d0"
+                    "reference": "f41cde985fe6e8fa619c42f552ba4d71ff6b3f11"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/0bbb74c7cfe4747419b120bfd6b71d4765dc08d0",
-                    "reference": "0bbb74c7cfe4747419b120bfd6b71d4765dc08d0",
+                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/f41cde985fe6e8fa619c42f552ba4d71ff6b3f11",
+                    "reference": "f41cde985fe6e8fa619c42f552ba4d71ff6b3f11",
                     "shasum": ""
                 },
                 "require": {
@@ -224,7 +225,8 @@
                 "description": "Calendar and scheduling application",
                 "homepage": "https://www.horde.org/apps/kronolith",
                 "support": {
-                    "source": "https://github.com/maintaina-com/kronolith/tree/FRAMEWORK_6_0"
+                    "source": "https://github.com/maintaina-com/kronolith/tree/FRAMEWORK_6_0",
+                    "issues": "https://github.com/maintaina-com/kronolith/issues"
                 }
             },
             {
@@ -325,7 +327,8 @@
                 "description": "Calendar and scheduling application",
                 "homepage": "https://www.horde.org/apps/kronolith",
                 "support": {
-                    "source": "https://github.com/maintaina-com/kronolith/tree/add-itip-dependency"
+                    "source": "https://github.com/maintaina-com/kronolith/tree/add-itip-dependency",
+                    "issues": "https://github.com/maintaina-com/kronolith/issues"
                 }
             },
             {
@@ -416,7 +419,8 @@
                 "description": "A web based calendar",
                 "homepage": "http://pear.horde.org",
                 "support": {
-                    "source": "https://github.com/maintaina-com/kronolith/tree/kronolith-mobile"
+                    "source": "https://github.com/maintaina-com/kronolith/tree/kronolith-mobile",
+                    "issues": "https://github.com/maintaina-com/kronolith/issues"
                 }
             },
             {
@@ -517,7 +521,8 @@
                 "description": "Calendar and scheduling application",
                 "homepage": "https://www.horde.org/apps/kronolith",
                 "support": {
-                    "source": "https://github.com/maintaina-com/kronolith/tree/maintaina-bare"
+                    "source": "https://github.com/maintaina-com/kronolith/tree/maintaina-bare",
+                    "issues": "https://github.com/maintaina-com/kronolith/issues"
                 }
             },
             {
@@ -623,7 +628,8 @@
                 "description": "Calendar and scheduling application",
                 "homepage": "https://www.horde.org/apps/kronolith",
                 "support": {
-                    "source": "https://github.com/maintaina-com/kronolith/tree/maintaina-composerfixed"
+                    "source": "https://github.com/maintaina-com/kronolith/tree/maintaina-composerfixed",
+                    "issues": "https://github.com/maintaina-com/kronolith/issues"
                 }
             },
             {
@@ -724,7 +730,8 @@
                 "description": "Calendar and scheduling application",
                 "homepage": "https://www.horde.org/apps/kronolith",
                 "support": {
-                    "source": "https://github.com/maintaina-com/kronolith/tree/patch-user-attendees"
+                    "source": "https://github.com/maintaina-com/kronolith/tree/patch-user-attendees",
+                    "issues": "https://github.com/maintaina-com/kronolith/issues"
                 }
             }
         ]
