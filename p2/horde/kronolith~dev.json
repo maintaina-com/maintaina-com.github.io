@@ -109,12 +109,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/kronolith.git",
-                    "reference": "97b022d0b29f134e6eb1c7a6689f339fa6dcf110"
+                    "reference": "9a977a2c28ff2203221a39505c9d79e3a2070b63"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/97b022d0b29f134e6eb1c7a6689f339fa6dcf110",
-                    "reference": "97b022d0b29f134e6eb1c7a6689f339fa6dcf110",
+                    "url": "https://api.github.com/repos/maintaina-com/kronolith/zipball/9a977a2c28ff2203221a39505c9d79e3a2070b63",
+                    "reference": "9a977a2c28ff2203221a39505c9d79e3a2070b63",
                     "shasum": ""
                 },
                 "require": {
