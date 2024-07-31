@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Http_Server.git",
-                    "reference": "09930c674f7bee08a043cf22ec67e068ed6c6998"
+                    "reference": "c15431aa1cdcab5efa08525d056f3cd54540fe0a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Http_Server/zipball/09930c674f7bee08a043cf22ec67e068ed6c6998",
-                    "reference": "09930c674f7bee08a043cf22ec67e068ed6c6998",
+                    "url": "https://api.github.com/repos/maintaina-com/Http_Server/zipball/c15431aa1cdcab5efa08525d056f3cd54540fe0a",
+                    "reference": "c15431aa1cdcab5efa08525d056f3cd54540fe0a",
                     "shasum": ""
                 },
                 "require": {
@@ -30,7 +30,7 @@
                     "ext-mbstring": "*",
                     "ext-zlib": "*"
                 },
-                "time": "2021-10-12T00:00:00+00:00",
+                "time": "2024-07-31T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {

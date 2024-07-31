@@ -58,6 +58,64 @@
                     "source": "https://github.com/maintaina-com/Http_Server/tree/v1.0.0alpha1",
                     "issues": "https://github.com/maintaina-com/Http_Server/issues"
                 }
+            },
+            {
+                "name": "horde/http_server",
+                "version": "v1.0.0alpha2",
+                "version_normalized": "1.0.0.0-alpha2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Http_Server.git",
+                    "reference": "38eb3d5c6800421c0ad13c3ab6f602d0be7732a9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Http_Server/zipball/38eb3d5c6800421c0ad13c3ab6f602d0be7732a9",
+                    "reference": "38eb3d5c6800421c0ad13c3ab6f602d0be7732a9",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/http": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7 || ^8",
+                    "psr/http-server-handler": "^1",
+                    "psr/http-server-middleware": "^1"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "ext-mbstring": "*",
+                    "ext-zlib": "*"
+                },
+                "time": "2024-07-31T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Horde\\Http\\Server\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Http\\Server\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "HTTP Request Handling Library adhering to PSR-15 standard. This evolved out of horde/controller.",
+                "homepage": "https://www.horde.org/libraries/Horde_Controller",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Http_Server/tree/v1.0.0alpha2",
+                    "issues": "https://github.com/maintaina-com/Http_Server/issues"
+                }
             }
         ]
     }
