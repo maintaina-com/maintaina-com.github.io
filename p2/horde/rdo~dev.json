@@ -60,12 +60,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Rdo.git",
-                    "reference": "6bdcf95e26c24f35cb05cc2d53e6fc10abed2833"
+                    "reference": "6811ac84b3beaeb5ea4e4ebee58367a12a322d91"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/6bdcf95e26c24f35cb05cc2d53e6fc10abed2833",
-                    "reference": "6bdcf95e26c24f35cb05cc2d53e6fc10abed2833",
+                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/6811ac84b3beaeb5ea4e4ebee58367a12a322d91",
+                    "reference": "6811ac84b3beaeb5ea4e4ebee58367a12a322d91",
                     "shasum": ""
                 },
                 "require": {
@@ -77,7 +77,7 @@
                 "require-dev": {
                     "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2022-11-04T00:00:00+00:00",
+                "time": "2024-08-05T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {

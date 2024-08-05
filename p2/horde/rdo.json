@@ -433,6 +433,62 @@
                     "source": "https://github.com/maintaina-com/Rdo/tree/v3.0.0alpha5",
                     "issues": "https://github.com/maintaina-com/Rdo/issues"
                 }
+            },
+            {
+                "name": "horde/rdo",
+                "version": "v3.0.0alpha6",
+                "version_normalized": "3.0.0.0-alpha6",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Rdo.git",
+                    "reference": "47ef7ff09c494be6913616e195c7b681e28e9f2c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Rdo/zipball/47ef7ff09c494be6913616e195c7b681e28e9f2c",
+                    "reference": "47ef7ff09c494be6913616e195c7b681e28e9f2c",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/util": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2024-08-05T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Rdo": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Rdo\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Rdo\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "ORM (object relational-mapping) library",
+                "homepage": "https://www.horde.org/libraries/Horde_Rdo",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Rdo/tree/v3.0.0alpha6",
+                    "issues": "https://github.com/maintaina-com/Rdo/issues"
+                }
             }
         ]
     }
