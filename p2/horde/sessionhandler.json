@@ -590,6 +590,77 @@
                 "support": {
                     "source": "https://github.com/maintaina-com/SessionHandler/tree/v3.0.0alpha3"
                 }
+            },
+            {
+                "name": "horde/sessionhandler",
+                "version": "v3.0.0alpha4",
+                "version_normalized": "3.0.0.0-alpha4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/SessionHandler.git",
+                    "reference": "5a65e409cae1944c9bd6f29e8cb0fb59e0b54243"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/SessionHandler/zipball/5a65e409cae1944c9bd6f29e8cb0fb59e0b54243",
+                    "reference": "5a65e409cae1944c9bd6f29e8cb0fb59e0b54243",
+                    "shasum": ""
+                },
+                "require": {
+                    "horde/exception": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/support": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/hashtable": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "horde/db": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/hashtable": "^2 || dev-FRAMEWORK_6_0",
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/mongo": "^2 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2024-08-23T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_SessionHandler": "lib/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\SessionHandler\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1-only"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Schneider",
+                        "email": "jan@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Session handler library",
+                "homepage": "https://www.horde.org/libraries/Horde_SessionHandler",
+                "support": {
+                    "source": "https://github.com/maintaina-com/SessionHandler/tree/v3.0.0alpha4"
+                }
             }
         ]
     }

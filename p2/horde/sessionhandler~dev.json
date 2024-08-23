@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/SessionHandler.git",
-                    "reference": "72d015d11756a9993b90efcc76f789ecc0ff2589"
+                    "reference": "6329105988b6770f898f680561562bc9d4aa3f1f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/SessionHandler/zipball/72d015d11756a9993b90efcc76f789ecc0ff2589",
-                    "reference": "72d015d11756a9993b90efcc76f789ecc0ff2589",
+                    "url": "https://api.github.com/repos/maintaina-com/SessionHandler/zipball/6329105988b6770f898f680561562bc9d4aa3f1f",
+                    "reference": "6329105988b6770f898f680561562bc9d4aa3f1f",
                     "shasum": ""
                 },
                 "require": {
@@ -34,7 +34,7 @@
                     "horde/log": "^3 || dev-FRAMEWORK_6_0",
                     "horde/mongo": "^2 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2022-11-04T00:00:00+00:00",
+                "time": "2024-08-23T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
