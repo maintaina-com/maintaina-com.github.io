@@ -58,12 +58,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Stream_Wrapper.git",
-                    "reference": "c595cef0d787d2a41196941b87bc83a7dc4d1740"
+                    "reference": "c19076a9a01354ecb9856213b1107fa266209109"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Stream_Wrapper/zipball/c595cef0d787d2a41196941b87bc83a7dc4d1740",
-                    "reference": "c595cef0d787d2a41196941b87bc83a7dc4d1740",
+                    "url": "https://api.github.com/repos/maintaina-com/Stream_Wrapper/zipball/c19076a9a01354ecb9856213b1107fa266209109",
+                    "reference": "c19076a9a01354ecb9856213b1107fa266209109",
                     "shasum": ""
                 },
                 "require": {
@@ -305,6 +305,67 @@
                 "homepage": "https://www.horde.org/libraries/Horde_Stream_Wrapper",
                 "support": {
                     "source": "https://github.com/maintaina-com/Stream_Wrapper/tree/master"
+                }
+            },
+            {
+                "name": "horde/stream_wrapper",
+                "version": "dev-update-workflows",
+                "version_normalized": "dev-update-workflows",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Stream_Wrapper.git",
+                    "reference": "994fc99b492e5471fb7b5f6ca135938269ab5b89"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Stream_Wrapper/zipball/994fc99b492e5471fb7b5f6ca135938269ab5b89",
+                    "reference": "994fc99b492e5471fb7b5f6ca135938269ab5b89",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0",
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "suggest": {
+                    "horde/log": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2021-11-19T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_Stream_Wrapper": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Stream\\Wrapper\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Stream\\Wrapper\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Chuck Hagenbuch",
+                        "email": "chuck@horde.org",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Michael Slusarz",
+                        "email": "slusarz@horde.org",
+                        "role": "lead"
+                    }
+                ],
+                "description": "PHP stream wrappers library",
+                "homepage": "https://www.horde.org/libraries/Horde_Stream_Wrapper",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Stream_Wrapper/tree/update-workflows"
                 }
             }
         ]
