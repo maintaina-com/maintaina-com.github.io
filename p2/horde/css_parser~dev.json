@@ -56,12 +56,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Css_Parser.git",
-                    "reference": "a4cfe2b721de6de792d906c0ae4e369271da6d6a"
+                    "reference": "c284e95131e42e867c74e0e4b86f6d9438192fb5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Css_Parser/zipball/a4cfe2b721de6de792d906c0ae4e369271da6d6a",
-                    "reference": "a4cfe2b721de6de792d906c0ae4e369271da6d6a",
+                    "url": "https://api.github.com/repos/maintaina-com/Css_Parser/zipball/c284e95131e42e867c74e0e4b86f6d9438192fb5",
+                    "reference": "c284e95131e42e867c74e0e4b86f6d9438192fb5",
                     "shasum": ""
                 },
                 "require": {
@@ -74,13 +74,13 @@
                 "suggest": {
                     "ext-mbstring": "*"
                 },
-                "time": "2022-11-05T00:00:00+00:00",
+                "time": "2025-01-16T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
-                    "psr-0": {
-                        "Horde_Css_Parser": "lib/"
-                    }
+                    "classmap": [
+                        "lib/"
+                    ]
                 },
                 "autoload-dev": {
                     "psr-4": {
