@@ -56,16 +56,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Css_Parser.git",
-                    "reference": "03a29a2884e4c64b69065d7f8f41bf15adfe55da"
+                    "reference": "a4cfe2b721de6de792d906c0ae4e369271da6d6a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Css_Parser/zipball/03a29a2884e4c64b69065d7f8f41bf15adfe55da",
-                    "reference": "03a29a2884e4c64b69065d7f8f41bf15adfe55da",
+                    "url": "https://api.github.com/repos/maintaina-com/Css_Parser/zipball/a4cfe2b721de6de792d906c0ae4e369271da6d6a",
+                    "reference": "a4cfe2b721de6de792d906c0ae4e369271da6d6a",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "^7.4 || ^8"
+                    "php": "^7.4 || ^8",
+                    "sabberworm/php-css-parser": ">=7.0.4 <8.0.0"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
                     "ext-mbstring": "*"
