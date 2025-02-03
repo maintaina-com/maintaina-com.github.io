@@ -82,12 +82,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Auth.git",
-                    "reference": "5e11809fac3e9bb28fc22b09b694a9f3728d5d02"
+                    "reference": "d4d536932ac319918613dc8f32eb721654cd0779"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Auth/zipball/5e11809fac3e9bb28fc22b09b694a9f3728d5d02",
-                    "reference": "5e11809fac3e9bb28fc22b09b694a9f3728d5d02",
+                    "url": "https://api.github.com/repos/maintaina-com/Auth/zipball/d4d536932ac319918613dc8f32eb721654cd0779",
+                    "reference": "d4d536932ac319918613dc8f32eb721654cd0779",
                     "shasum": ""
                 },
                 "require": {
@@ -96,6 +96,9 @@
                     "horde/translation": "^3 || dev-FRAMEWORK_6_0",
                     "horde/util": "^3 || dev-FRAMEWORK_6_0",
                     "php": "^7.4 || ^8"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
                 },
                 "suggest": {
                     "ext-ctype": "*",
@@ -109,10 +112,9 @@
                     "horde/imsp": "^3 || dev-FRAMEWORK_6_0",
                     "horde/kolab_session": "^3 || dev-FRAMEWORK_6_0",
                     "horde/ldap": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/lock": "^3 || dev-FRAMEWORK_6_0",
-                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                    "horde/lock": "^3 || dev-FRAMEWORK_6_0"
                 },
-                "time": "2022-11-04T00:00:00+00:00",
+                "time": "2025-02-03T00:00:00+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
