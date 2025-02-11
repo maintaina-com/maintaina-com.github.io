@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/maintaina-com/Dns.git",
-                    "reference": "082548ed9516b9476380adffcbe4a9d5eb0dbdca"
+                    "reference": "f3977770239798e7edde1727a112e56fc153d1aa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/maintaina-com/Dns/zipball/082548ed9516b9476380adffcbe4a9d5eb0dbdca",
-                    "reference": "082548ed9516b9476380adffcbe4a9d5eb0dbdca",
+                    "url": "https://api.github.com/repos/maintaina-com/Dns/zipball/f3977770239798e7edde1727a112e56fc153d1aa",
+                    "reference": "f3977770239798e7edde1727a112e56fc153d1aa",
                     "shasum": ""
                 },
                 "require": {
@@ -59,6 +59,66 @@
                 "homepage": "https://www.horde.org",
                 "support": {
                     "source": "https://github.com/maintaina-com/Dns/tree/FRAMEWORK_6_0",
+                    "issues": "https://github.com/maintaina-com/Dns/issues"
+                }
+            },
+            {
+                "name": "horde/dns",
+                "version": "dev-add-methods-for-multiple-records",
+                "version_normalized": "dev-add-methods-for-multiple-records",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maintaina-com/Dns.git",
+                    "reference": "59bb13f55a599482fb27feab6181894f6c345abe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maintaina-com/Dns/zipball/59bb13f55a599482fb27feab6181894f6c345abe",
+                    "reference": "59bb13f55a599482fb27feab6181894f6c345abe",
+                    "shasum": ""
+                },
+                "require": {
+                    "aws/aws-sdk-php": "^3",
+                    "horde/rdo": "^3 || dev-FRAMEWORK_6_0",
+                    "php": "^7 || ^8"
+                },
+                "require-dev": {
+                    "horde/test": "^3 || dev-FRAMEWORK_6_0"
+                },
+                "time": "2022-07-11T00:00:00+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Horde_DNS": "lib/"
+                    },
+                    "psr-4": {
+                        "Horde\\Dns\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Horde\\Dns\\Test\\": "test/"
+                    }
+                },
+                "license": [
+                    "LGPL-2.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Ralf Lang",
+                        "email": "lang@b1-systems.de",
+                        "role": "lead"
+                    },
+                    {
+                        "name": "Diana Hille",
+                        "email": "hille@b1-systems.de",
+                        "role": "lead"
+                    }
+                ],
+                "description": "Horde Domain Name System library",
+                "homepage": "https://www.horde.org",
+                "support": {
+                    "source": "https://github.com/maintaina-com/Dns/tree/add-methods-for-multiple-records",
                     "issues": "https://github.com/maintaina-com/Dns/issues"
                 }
             },
